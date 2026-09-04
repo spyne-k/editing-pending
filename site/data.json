@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T20:42:41.283Z",
+  "fetchedAt": "2026-09-04T20:51:16.754Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      97
+      103
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      9
+      "Yoder Family of Companies",
+      12
     ],
     [
       "AX Auto INC",
@@ -36,24 +36,20 @@
       6
     ],
     [
-      "Graff Auto Campus",
-      5
+      "Bergstrom Automotive",
+      6
     ],
     [
-      "Toronto Honda",
-      4
+      "Bud Clary Chevrolet, INC",
+      6
     ],
     [
       "Gettel Automotive Group",
       4
     ],
     [
-      "Bergstrom Automotive",
+      "Toronto Honda",
       4
-    ],
-    [
-      "Bob King",
-      3
     ],
     [
       "Apex Automotive Group",
@@ -61,6 +57,10 @@
     ],
     [
       "Alpha One Automotive",
+      3
+    ],
+    [
+      "Bob King",
       3
     ],
     [
@@ -72,7 +72,15 @@
       3
     ],
     [
-      "Car Central",
+      "Performance Auto Group",
+      2
+    ],
+    [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
       2
     ],
     [
@@ -84,19 +92,11 @@
       2
     ],
     [
-      "SAS SELLIT",
+      "Pritchard Companies",
       2
     ],
     [
-      "Greenway Automotive Group",
-      2
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
+      "Car Central",
       2
     ],
     [
@@ -104,15 +104,11 @@
       2
     ],
     [
-      "Pritchard Companies",
+      "Preston Motor Automotive Group",
       2
     ],
     [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Ramsey Motor Company",
+      "Smartlot Solutions",
       1
     ],
     [
@@ -120,7 +116,7 @@
       1
     ],
     [
-      "Smartlot Solutions",
+      "Moses Auto Group",
       1
     ],
     [
@@ -132,15 +128,15 @@
       1
     ],
     [
+      "Ramsey Motor Company",
+      1
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
       "Speedway Car Sales",
-      1
-    ],
-    [
-      "Georgia Auto World",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -148,15 +144,23 @@
       1
     ],
     [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
       "Kayser Chevrolet",
       1
     ],
     [
-      "Moses Auto Group",
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
       1
     ],
     [
-      "Flexcar",
+      "Georgia Auto World",
       1
     ]
   ]
