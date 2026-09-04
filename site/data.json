@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T23:37:36.353Z",
+  "fetchedAt": "2026-09-04T23:46:16.180Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      154
+      153
+    ],
+    [
+      "DealerVision.com",
+      17
     ],
     [
       "Teton solutions Group",
       17
-    ],
-    [
-      "DealerVision.com",
-      15
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -36,7 +36,7 @@
       8
     ],
     [
-      "Twin Pine Ford",
+      "Gettel Automotive Group",
       6
     ],
     [
@@ -44,11 +44,11 @@
       6
     ],
     [
-      "Davidson Auto Group",
+      "Twin Pine Ford",
       6
     ],
     [
-      "Gettel Automotive Group",
+      "Davidson Auto Group",
       6
     ],
     [
@@ -60,11 +60,11 @@
       5
     ],
     [
-      "Flexcar",
+      "Yemm Auto",
       4
     ],
     [
-      "Yemm Auto",
+      "Flexcar",
       4
     ],
     [
@@ -72,15 +72,7 @@
       3
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
-      3
-    ],
-    [
       "Moses Auto Group",
-      3
-    ],
-    [
-      "Blasius Buick GMC",
       3
     ],
     [
@@ -88,15 +80,7 @@
       3
     ],
     [
-      "Apex Automotive Group",
-      3
-    ],
-    [
       "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "Alpha One Automotive",
       3
     ],
     [
@@ -104,8 +88,12 @@
       3
     ],
     [
-      "Georgia Auto World",
-      2
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Alpha One Automotive",
+      3
     ],
     [
       "Dick Dyer & Associates",
@@ -116,19 +104,7 @@
       2
     ],
     [
-      "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -136,28 +112,24 @@
       2
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Georgia Auto World",
       2
     ],
     [
-      "Wood Motor Company",
-      1
+      "Yoder Family of Companies",
+      2
     ],
     [
-      "Prestige Auto Sales",
-      1
+      "Preston Motor Automotive Group",
+      2
     ],
     [
-      "Rohrich Automotive Group",
-      1
+      "Performance Auto Group",
+      2
     ],
     [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
+      "Homan Auto Sales Inc",
+      2
     ],
     [
       "Rim Revolution LLC",
@@ -168,7 +140,19 @@
       1
     ],
     [
+      "Smartlot Solutions",
+      1
+    ],
+    [
       "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
@@ -176,7 +160,23 @@
       1
     ],
     [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -185,6 +185,10 @@
     ],
     [
       "Impex Auto Sales",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
