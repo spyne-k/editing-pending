@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T20:30:26.050Z",
+  "fetchedAt": "2026-09-04T20:32:00.892Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,14 @@
   "rows": [
     [
       null,
-      84
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      9
+      86
     ],
     [
       "AX Auto INC",
+      9
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       9
     ],
     [
@@ -32,7 +32,11 @@
       6
     ],
     [
-      "Graff Auto Campus",
+      "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
+      "Toronto Honda",
       4
     ],
     [
@@ -40,7 +44,7 @@
       4
     ],
     [
-      "Toronto Honda",
+      "Graff Auto Campus",
       4
     ],
     [
@@ -48,7 +52,11 @@
       4
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Blasius Buick GMC",
+      3
+    ],
+    [
+      "Runde Chevrolet, Inc.",
       3
     ],
     [
@@ -60,12 +68,8 @@
       3
     ],
     [
-      "Blasius Buick GMC",
-      3
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      3
+      "Pritchard Companies",
+      2
     ],
     [
       "Car Central",
@@ -73,10 +77,6 @@
     ],
     [
       "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Pritchard Companies",
       2
     ],
     [
@@ -116,7 +116,7 @@
       1
     ],
     [
-      "Moses Auto Group",
+      "Georgia Auto World",
       1
     ],
     [
@@ -124,7 +124,7 @@
       1
     ],
     [
-      "Georgia Auto World",
+      "Moses Auto Group",
       1
     ],
     [
@@ -132,11 +132,11 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Lexus of Lehigh Valley",
       1
     ],
     [
-      "Lexus of Lehigh Valley",
+      "Flexcar",
       1
     ],
     [
@@ -144,7 +144,7 @@
       1
     ],
     [
-      "Flexcar",
+      "Ryan Buick GMC Cadillac",
       1
     ]
   ]
