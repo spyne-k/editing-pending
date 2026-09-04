@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T22:03:35.475Z",
+  "fetchedAt": "2026-09-04T22:18:18.696Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,15 @@
   "rows": [
     [
       null,
-      155
+      150
+    ],
+    [
+      "Gettel Automotive Group",
+      19
     ],
     [
       "Amato Hyundai Of Glendale",
       14
-    ],
-    [
-      "Gettel Automotive Group",
-      10
-    ],
-    [
-      "Bergstrom Automotive",
-      10
     ],
     [
       "DealerVision.com",
@@ -42,10 +38,6 @@
     [
       "Teton solutions Group",
       9
-    ],
-    [
-      "AX Auto INC",
-      8
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -76,7 +68,11 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "ZT Automotive",
+      3
+    ],
+    [
+      "Alpha One Automotive",
       3
     ],
     [
@@ -92,35 +88,19 @@
       3
     ],
     [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
       "Blasius Buick GMC",
       3
     ],
     [
-      "Alpha One Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
-      "Performance Auto Group",
-      2
+      "Jim Schmidt Automotive",
+      3
     ],
     [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "Bapchild Motoring World (Kent) Limited",
+      "Pritchard Companies",
       2
     ],
     [
@@ -132,39 +112,35 @@
       2
     ],
     [
-      "Pritchard Companies",
+      "Performance Auto Group",
       2
     ],
     [
-      "ZT Automotive",
-      1
+      "Preston Motor Automotive Group",
+      2
     ],
     [
-      "Rim Revolution LLC",
-      1
+      "Bapchild Motoring World (Kent) Limited",
+      2
     ],
     [
-      "Smartlot Solutions",
-      1
+      "Van Horn Automotive Group",
+      2
     ],
     [
-      "Kayser Chevrolet",
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Ramsey Motor Company",
       1
     ],
     [
       "Wood Motor Company",
-      1
-    ],
-    [
-      "Audi Cape Fear",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Speedway Car Sales",
       1
     ],
     [
@@ -176,7 +152,23 @@
       1
     ],
     [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      "Smartlot Solutions",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "Dick Dyer & Associates",
+      1
+    ],
+    [
+      "Audi Cape Fear",
       1
     ],
     [
@@ -184,7 +176,11 @@
       1
     ],
     [
-      "Ramsey Motor Company",
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      1
+    ],
+    [
+      "Speedway Car Sales",
       1
     ]
   ]
