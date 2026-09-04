@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T21:37:08.619Z",
+  "fetchedAt": "2026-09-04T21:45:16.980Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      127
+      137
     ],
     [
       "Yoder Family of Companies",
@@ -29,7 +29,7 @@
     ],
     [
       "Bergstrom Automotive",
-      8
+      9
     ],
     [
       "Gettel Automotive Group",
@@ -40,11 +40,11 @@
       7
     ],
     [
-      "Davidson Auto Group",
+      "Bud Clary Chevrolet, INC",
       6
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Davidson Auto Group",
       6
     ],
     [
@@ -52,11 +52,19 @@
       5
     ],
     [
+      "AX Auto INC",
+      5
+    ],
+    [
       "Toronto Honda",
       4
     ],
     [
-      "Alpha One Automotive",
+      "Teton solutions Group",
+      4
+    ],
+    [
+      "Flexcar",
       3
     ],
     [
@@ -64,11 +72,11 @@
       3
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
+      "Bob King",
       3
     ],
     [
-      "Blasius Buick GMC",
+      "MP auto Sales LLC DBA Carizona",
       3
     ],
     [
@@ -76,7 +84,7 @@
       3
     ],
     [
-      "Bob King",
+      "Blasius Buick GMC",
       3
     ],
     [
@@ -84,11 +92,11 @@
       3
     ],
     [
-      "DealerVision.com",
-      2
+      "Alpha One Automotive",
+      3
     ],
     [
-      "Kian Motors INC",
+      "Performance Auto Group",
       2
     ],
     [
@@ -96,7 +104,11 @@
       2
     ],
     [
-      "AX Auto INC",
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
       2
     ],
     [
@@ -104,7 +116,7 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Kian Motors INC",
       2
     ],
     [
@@ -116,15 +128,15 @@
       2
     ],
     [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Wood Motor Company",
+      "Rim Revolution LLC",
       1
     ],
     [
-      "Rim Revolution LLC",
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Lexus of Lehigh Valley",
       1
     ],
     [
@@ -132,7 +144,11 @@
       1
     ],
     [
-      "Lexus of Lehigh Valley",
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Audi Cape Fear",
       1
     ],
     [
@@ -144,6 +160,10 @@
       1
     ],
     [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
       "Georgia Auto World",
       1
     ],
@@ -152,27 +172,11 @@
       1
     ],
     [
-      "Audi Cape Fear",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
       "Jerry Spady Chevrolet GMC Corvette Hummer",
       1
     ],
     [
-      "Flexcar",
+      "Wood Motor Company",
       1
     ]
   ]
