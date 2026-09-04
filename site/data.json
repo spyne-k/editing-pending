@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T23:46:16.180Z",
+  "fetchedAt": "2026-09-04T23:54:29.055Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,14 @@
   "rows": [
     [
       null,
-      153
-    ],
-    [
-      "DealerVision.com",
-      17
+      152
     ],
     [
       "Teton solutions Group",
+      17
+    ],
+    [
+      "DealerVision.com",
       17
     ],
     [
@@ -37,10 +37,6 @@
     ],
     [
       "Gettel Automotive Group",
-      6
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
       6
     ],
     [
@@ -60,23 +56,15 @@
       5
     ],
     [
-      "Yemm Auto",
-      4
-    ],
-    [
       "Flexcar",
       4
     ],
     [
+      "Yemm Auto",
+      4
+    ],
+    [
       "Bob King",
-      3
-    ],
-    [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Pritchard Companies",
       3
     ],
     [
@@ -88,7 +76,19 @@
       3
     ],
     [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Toronto Honda",
+      3
+    ],
+    [
       "Apex Automotive Group",
+      3
+    ],
+    [
+      "Pritchard Companies",
       3
     ],
     [
@@ -96,27 +96,11 @@
       3
     ],
     [
-      "Dick Dyer & Associates",
-      2
-    ],
-    [
       "Jenkins Auto Group",
-      2
+      3
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
+      "Performance Auto Group",
       2
     ],
     [
@@ -124,7 +108,23 @@
       2
     ],
     [
-      "Performance Auto Group",
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Dick Dyer & Associates",
+      2
+    ],
+    [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -132,31 +132,11 @@
       2
     ],
     [
-      "Rim Revolution LLC",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Car Central",
+      "Portsmouth Ford Lincoln",
       1
     ],
     [
@@ -164,7 +144,31 @@
       1
     ],
     [
+      "Prestige Auto Sales",
+      1
+    ],
+    [
+      "Smartlot Solutions",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
       "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Blasius South",
+      1
+    ],
+    [
+      "ZT Automotive",
       1
     ],
     [
@@ -176,7 +180,7 @@
       1
     ],
     [
-      "Prestige Auto Sales",
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -184,11 +188,11 @@
       1
     ],
     [
-      "Impex Auto Sales",
+      "Car Central",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Impex Auto Sales",
       1
     ],
     [
