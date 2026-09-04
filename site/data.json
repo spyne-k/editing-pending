@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T21:14:00.113Z",
+  "fetchedAt": "2026-09-04T21:26:13.369Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      114
+      116
     ],
     [
       "Yoder Family of Companies",
-      16
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      10
+      17
     ],
     [
       "Gettel Automotive Group",
@@ -33,6 +29,14 @@
     ],
     [
       "Bergstrom Automotive",
+      7
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      7
+    ],
+    [
+      "Davidson Auto Group",
       6
     ],
     [
@@ -40,31 +44,23 @@
       6
     ],
     [
-      "Davidson Auto Group",
-      6
+      "Alliance Automotive of Westchester LLC dba White P",
+      5
     ],
     [
       "Toronto Honda",
       4
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
       "Moses Auto Group",
       3
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
+      "Bob King",
       3
     ],
     [
       "Blasius Buick GMC",
-      3
-    ],
-    [
-      "Runde Chevrolet, Inc.",
       3
     ],
     [
@@ -76,7 +72,15 @@
       3
     ],
     [
-      "Northside Auto Sales",
+      "Runde Chevrolet, Inc.",
+      3
+    ],
+    [
+      "MP auto Sales LLC DBA Carizona",
+      3
+    ],
+    [
+      "Pritchard Companies",
       2
     ],
     [
@@ -92,23 +96,7 @@
       2
     ],
     [
-      "mclarty auto group (ams)",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Pritchard Companies",
+      "Kian Motors INC",
       2
     ],
     [
@@ -116,23 +104,23 @@
       2
     ],
     [
+      "Homan Auto Sales Inc",
+      2
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
       "DealerVision.com",
       2
     ],
     [
-      "Kian Motors INC",
+      "Jenkins Auto Group",
       2
     ],
     [
       "Georgia Auto World",
-      1
-    ],
-    [
-      "Audi Cape Fear",
-      1
-    ],
-    [
-      "Lexus of Lehigh Valley",
       1
     ],
     [
@@ -144,7 +132,7 @@
       1
     ],
     [
-      "Kayser Chevrolet",
+      "Lexus of Lehigh Valley",
       1
     ],
     [
@@ -152,7 +140,23 @@
       1
     ],
     [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Audi Cape Fear",
+      1
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
       "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Wood Motor Company",
       1
     ],
     [
@@ -172,7 +176,7 @@
       1
     ],
     [
-      "Flexcar",
+      "Lambert Buick GMC Inc",
       1
     ]
   ]
