@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Editing Pending Images</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.9/dist/chart.umd.min.js"></script>
+  <style>
+    :root { --bg:#f5f7fb; --card:#fff; --text:#172033; --muted:#667085; --line:#e5e7eb; --accent:#4f46e5; }
+    *{box-sizing:border-box} body{margin:0;background:var(--bg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial;color:var(--text)}
+    .wrap{max-width:1500px;margin:auto;padding:28px}.top{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;margin-bottom:22px}.title{font-size:28px;font-weight:750}.sub{color:var(--muted);margin-top:6px}.actions{display:flex;gap:10px;align-items:center}.badge{background:#eef2ff;color:#3730a3;border-radius:999px;padding:8px 12px;font-size:12px;font-weight:700}.btn{border:1px solid var(--line);background:#fff;padding:9px 13px;border-radius:9px;cursor:pointer}.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-bottom:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}.label{font-size:12px;color:var(--muted);font-weight:650;text-transform:uppercase;letter-spacing:.05em}.value{font-size:30px;font-weight:750;margin-top:8px}.grid{display:grid;grid-template-columns:1.1fr 1.9fr;gap:18px;margin-bottom:18px}.chartbox{height:330px}.toolbar{display:flex;gap:10px;margin-bottom:12px}.search{flex:1;padding:10px 12px;border:1px solid var(--line);border-radius:9px}.tablewrap{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:auto}.table{width:100%;border-collapse:collapse;font-size:13px}.table th,.table td{padding:11px 12px;border-bottom:1px solid #f0f1f3;text-align:left;white-space:nowrap}.table th{position:sticky;top:0;background:#fafafa;font-weight:700}.empty{padding:40px;text-align:center;color:var(--muted)}@media(max-width:900px){.cards{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}.top{flex-direction:column}}@media(max-width:550px){.wrap{padding:14px}.cards{grid-template-columns:1fr}.title{font-size:22px}}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div><div class="title">Editing Pending Images</div><div class="sub">Metabase Question #6501 · refreshed automatically</div></div>
+    <div class="actions"><span id="status" class="badge">Loading…</span><button class="btn" onclick="loadData()">Refresh view</button></div>
+  </div>
+  <div class="cards">
+    <div class="card"><div class="label">Total Rows</div><div class="value" id="total">—</div></div>
+    <div class="card"><div class="label">Columns</div><div class="value" id="columns">—</div></div>
+    <div class="card"><div class="label">Latest Refresh</div><div class="value" style="font-size:20px" id="refresh">—</div></div>
+    <div class="card"><div class="label">Numeric Fields</div><div class="value" id="numeric">—</div></div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Numeric Summary</div><div class="chartbox"><canvas id="chart"></canvas></div></div>
+    <div class="card"><div class="label">Data Preview</div><div class="toolbar"><input id="search" class="search" placeholder="Search all columns…" oninput="renderTable()"></div><div class="tablewrap"><table class="table"><thead id="thead"></thead><tbody id="tbody"></tbody></table><div id="empty" class="empty" style="display:none">No matching rows</div></div></div>
+  </div>
+</div>
+<script>
+let payload={columns:[],rows:[]}, chart;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+async function loadData(){
+  const status=document.getElementById('status'); status.textContent='Loading…';
+  try{ const r=await fetch('data.json?ts='+Date.now(),{cache:'no-store'}); if(!r.ok) throw Error('data.json unavailable'); payload=await r.json(); render(); status.textContent='Live data'; }
+  catch(e){ status.textContent='Data unavailable'; console.error(e); }
+}
+function render(){
+ const {columns,rows}=payload; document.getElementById('total').textContent=rows.length.toLocaleString(); document.getElementById('columns').textContent=columns.length;
+ document.getElementById('refresh').textContent=payload.fetchedAt?new Date(payload.fetchedAt).toLocaleString():'—';
+ const numeric=columns.filter((c,i)=>rows.some(r=>typeof r[i]==='number'&&Number.isFinite(r[i]))); document.getElementById('numeric').textContent=numeric.length; renderChart(numeric,rows); renderTable();
+}
+function renderChart(numeric,rows){
+ const labels=numeric.slice(0,8).map(c=>c.displayName); const vals=numeric.slice(0,8).map(c=>{let n=0; rows.forEach(r=>{let v=Number(r[columns.indexOf(c)]);if(Number.isFinite(v))n+=v});return n});
+ if(chart)chart.destroy(); chart=new Chart(document.getElementById('chart'),{type:'bar',data:{labels,datasets:[{label:'Sum',data:vals}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{beginAtZero:true}}}});
+}
+function renderTable(){
+ const q=(document.getElementById('search').value||'').toLowerCase(); const cols=payload.columns, rows=payload.rows.filter(r=>!q||r.some(v=>String(v??'').toLowerCase().includes(q))).slice(0,500);
+ document.getElementById('thead').innerHTML='<tr>'+cols.map(c=>'<th>'+esc(c.displayName)+'</th>').join('')+'</tr>';
+ document.getElementById('tbody').innerHTML=rows.map(r=>'<tr>'+cols.map((_,i)=>'<td>'+esc(r[i])+'</td>').join('')+'</tr>').join(''); document.getElementById('empty').style.display=rows.length?'none':'block';
+}
+loadData(); setInterval(loadData,60000);
+</script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+  "name": "metabase-github-dashboard",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/fetch-metabase.mjs"
+  }
+}
