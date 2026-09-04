@@ -25,8 +25,6 @@
       padding: 28px 24px 40px;
     }
 
-    /* HEADER */
-
     .header {
       display: flex;
       justify-content: space-between;
@@ -47,26 +45,21 @@
       font-size: 14px;
     }
 
-    /* RIGHT SIDE */
-
     .header-actions {
       display: flex;
       align-items: center;
       gap: 10px;
     }
 
-    /* REFRESH BUTTON */
-
     .refresh-btn {
       border: 1px solid #d8dde3;
       background: #ffffff;
       color: #45515c;
-      padding: 8px 13px;
+      padding: 8px 14px;
       border-radius: 7px;
       cursor: pointer;
       font-size: 13px;
       font-weight: 600;
-      transition: background 0.15s ease;
     }
 
     .refresh-btn:hover {
@@ -78,20 +71,14 @@
       cursor: wait;
     }
 
-    /* STATUS */
-
     .status {
       display: flex;
       align-items: center;
       gap: 7px;
-
       padding: 7px 11px;
-
       border-radius: 16px;
-
       background: #e8f5e9;
       color: #2e7d32;
-
       font-size: 13px;
       white-space: nowrap;
     }
@@ -108,22 +95,16 @@
       background: currentColor;
     }
 
-    /* CARD */
-
     .card {
       background: #ffffff;
       border: 1px solid #e2e6ea;
       border-radius: 10px;
       overflow: hidden;
-
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
     }
 
-    /* TABLE SCROLL AREA */
-
     .table-wrap {
       height: 720px;
-
       overflow-y: auto;
       overflow-x: auto;
     }
@@ -131,63 +112,28 @@
     table {
       width: 100%;
       min-width: 560px;
-
       border-collapse: collapse;
     }
-
-    /* HEADER */
 
     thead th {
       position: sticky;
       top: 0;
-
-      z-index: 5;
-
+      z-index: 10;
       background: #ffffff;
-
       color: #6f7c88;
-
       font-size: 13px;
       font-weight: 600;
-
       text-align: left;
-
       padding: 11px 14px;
-
       border-bottom: 1px solid #dfe4e8;
     }
 
-    /* TOTAL ROW */
-
-    .total-row td {
-      position: sticky;
-
-      top: 42px;
-
-      z-index: 4;
-
-      background: #f5f7fa;
-
-      font-weight: 700;
-
-      color: #34414b;
-
-      border-bottom: 1px solid #d8dde3;
-    }
-
-    /* BODY */
-
     tbody td {
       padding: 12px 14px;
-
       height: 44px;
-
       border-bottom: 1px solid #edf0f2;
-
       font-size: 14px;
-
       color: #45515c;
-
       vertical-align: middle;
     }
 
@@ -195,71 +141,58 @@
       background: #fafbfc;
     }
 
-    /* COLUMNS */
+    .total-row td {
+      position: sticky;
+      top: 42px;
+      z-index: 9;
+      background: #f5f7fa;
+      font-weight: 700;
+      color: #34414b;
+      border-bottom: 1px solid #d8dde3;
+    }
 
     .number {
       width: 60px;
-
       text-align: right;
-
       color: #9aa4ad;
     }
 
     .name {
       font-weight: 600;
-
       color: #52606d;
     }
 
     .total {
       width: 160px;
-
       text-align: right;
-
       font-weight: 600;
-
       color: #4f5d68;
     }
 
     .total-row .number,
+    .total-row .name,
     .total-row .total {
       font-weight: 700;
-
       color: #34414b;
     }
 
-    /* EMPTY */
-
     .empty {
       padding: 40px !important;
-
       text-align: center;
-
       color: #8b969f;
     }
 
-    /* FOOTER */
-
     .footer {
       padding: 11px 16px;
-
       border-top: 1px solid #e6e9ed;
-
       color: #8a949d;
-
       font-size: 12px;
-
       display: flex;
-
       justify-content: space-between;
-
       gap: 12px;
     }
 
-    /* MOBILE */
-
     @media (max-width: 700px) {
-
       .page {
         padding: 18px 12px 28px;
       }
@@ -277,31 +210,22 @@
         height: 720px;
       }
     }
-
   </style>
 </head>
-
 
 <body>
 
   <main class="page">
 
-    <!-- HEADER -->
-
     <header class="header">
 
       <div>
-
-        <h1>
-          Editing Pending Images
-        </h1>
+        <h1>Editing Pending Images</h1>
 
         <p class="subtitle">
-          Metabase Question #6501 · refreshed automatically
+          Metabase Question #6501
         </p>
-
       </div>
-
 
       <div class="header-actions">
 
@@ -313,26 +237,15 @@
           ↻ Refresh Data
         </button>
 
-
-        <div
-          id="status"
-          class="status"
-        >
-
+        <div id="status" class="status">
           <span class="dot"></span>
-
-          <span>
-            Loading…
-          </span>
-
+          <span>Loading…</span>
         </div>
 
       </div>
 
     </header>
 
-
-    <!-- TABLE -->
 
     <section class="card">
 
@@ -341,37 +254,19 @@
         <table>
 
           <thead>
-
             <tr>
-
-              <th class="number">
-                #
-              </th>
-
-              <th>
-                name
-              </th>
-
-              <th class="total">
-                total_images
-              </th>
-
+              <th class="number">#</th>
+              <th>name</th>
+              <th class="total">total_images</th>
             </tr>
-
           </thead>
-
 
           <tbody id="tbody">
 
             <tr>
-
-              <td
-                colspan="3"
-                class="empty"
-              >
+              <td colspan="3" class="empty">
                 Loading data…
               </td>
-
             </tr>
 
           </tbody>
@@ -380,8 +275,6 @@
 
       </div>
 
-
-      <!-- FOOTER -->
 
       <div class="footer">
 
@@ -408,10 +301,6 @@
     };
 
 
-    /*
-     * Escape HTML
-     */
-
     const esc = value =>
       String(value ?? "")
         .replace(/[&<>"']/g, c => ({
@@ -423,18 +312,13 @@
         }[c]));
 
 
-    /*
-     * Update status
-     */
-
     function setStatus(text, error = false) {
 
       const status =
         document.getElementById("status");
 
       status.className =
-        "status" +
-        (error ? " error" : "");
+        "status" + (error ? " error" : "");
 
       status.innerHTML =
         '<span class="dot"></span>' +
@@ -444,10 +328,6 @@
     }
 
 
-    /*
-     * Render table
-     */
-
     function render() {
 
       const rows =
@@ -455,28 +335,23 @@
           ? payload.rows
           : [];
 
-
       const columns =
         payload.columns || [];
 
 
-      /*
-       * Find columns returned by Metabase
-       */
-
       const nameIndex =
         columns.findIndex(
           c =>
-            String(c.name || "")
-              .toLowerCase() === "name"
+            String(c.name || "").toLowerCase()
+            === "name"
         );
 
 
       const totalIndex =
         columns.findIndex(
           c =>
-            String(c.name || "")
-              .toLowerCase() === "total_images"
+            String(c.name || "").toLowerCase()
+            === "total_images"
         );
 
 
@@ -492,10 +367,6 @@
           : 1;
 
 
-      /*
-       * Convert data
-       */
-
       const data =
         rows
           .map(row => ({
@@ -509,10 +380,6 @@
           );
 
 
-      /*
-       * Calculate grand total
-       */
-
       const grandTotal =
         data.reduce(
           (sum, row) =>
@@ -521,105 +388,74 @@
         );
 
 
-      /*
-       * Table body
-       */
-
       const tbody =
         document.getElementById("tbody");
 
 
-      /*
-       * Frozen Total row
-       */
-
-      const totalRow = `
-        <tr class="total-row">
-
-          <td class="number">
-            Total
-          </td>
-
-          <td class="name">
-            Total
-          </td>
-
-          <td class="total">
-            ${grandTotal.toLocaleString()}
-          </td>
-
-        </tr>
-      `;
-
-
-      /*
-       * Dealer rows
-       */
-
-      const dealerRows =
-        data.map(
-          (row, index) => `
-            <tr>
-
-              <td class="number">
-                ${index + 1}
-              </td>
-
-              <td class="name">
-                ${esc(row.name) || "—"}
-              </td>
-
-              <td class="total">
-                ${row.total.toLocaleString()}
-              </td>
-
-            </tr>
-          `
-        ).join("");
-
-
-      /*
-       * Render
-       */
-
       if (!data.length) {
 
-        tbody.innerHTML =
-          `
+        tbody.innerHTML = `
           <tr>
-
-            <td
-              colspan="3"
-              class="empty"
-            >
+            <td colspan="3" class="empty">
               No records found
+            </td>
+          </tr>
+        `;
+
+      } else {
+
+        const totalRow = `
+          <tr class="total-row">
+
+            <td class="number">
+              Total
+            </td>
+
+            <td class="name">
+              Total
+            </td>
+
+            <td class="total">
+              ${grandTotal.toLocaleString()}
             </td>
 
           </tr>
-          `;
+        `;
 
-      } else {
+
+        const dealerRows =
+          data.map(
+            (row, index) => `
+              <tr>
+
+                <td class="number">
+                  ${index + 1}
+                </td>
+
+                <td class="name">
+                  ${esc(row.name) || "—"}
+                </td>
+
+                <td class="total">
+                  ${row.total.toLocaleString()}
+                </td>
+
+              </tr>
+            `
+          ).join("");
+
 
         tbody.innerHTML =
           totalRow +
           dealerRows;
-
       }
 
-
-      /*
-       * Footer count
-       */
 
       document.getElementById(
         "rowCount"
       ).textContent =
         `Showing 1–${Math.min(20, data.length)} of ${data.length} rows · scroll for more`;
 
-
-      /*
-       * Last refresh
-       */
 
       document.getElementById(
         "refresh"
@@ -634,10 +470,6 @@
         );
     }
 
-
-    /*
-     * Load data.json
-     */
 
     async function loadData() {
 
@@ -656,12 +488,10 @@
 
 
         if (!response.ok) {
-
           throw new Error(
             "HTTP " +
             response.status
           );
-
         }
 
 
@@ -672,9 +502,7 @@
         render();
 
 
-        setStatus(
-          "Live data"
-        );
+        setStatus("Live data");
 
 
       } catch (error) {
@@ -696,11 +524,7 @@
 
 
     /*
-     * Refresh button
-     *
-     * This safely reloads the latest
-     * data.json without exposing
-     * Metabase credentials.
+     * Refresh ONLY when button is clicked.
      */
 
     document
@@ -739,21 +563,11 @@
 
 
     /*
-     * Initial load
+     * Initial page load.
+     * No automatic refresh.
      */
 
     loadData();
-
-
-    /*
-     * Automatic refresh
-     * every 5 minutes
-     */
-
-    setInterval(
-      loadData,
-      5 * 60 * 1000
-    );
 
   </script>
 
