@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T21:13:16.961Z",
+  "fetchedAt": "2026-09-04T21:14:00.113Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      113
+      114
     ],
     [
       "Yoder Family of Companies",
@@ -56,6 +56,10 @@
       3
     ],
     [
+      "MP auto Sales LLC DBA Carizona",
+      3
+    ],
+    [
       "Blasius Buick GMC",
       3
     ],
@@ -88,19 +92,15 @@
       2
     ],
     [
-      "Car Central",
-      2
-    ],
-    [
       "mclarty auto group (ams)",
       2
     ],
     [
-      "Jenkins Auto Group",
+      "Car Central",
       2
     ],
     [
-      "DealerVision.com",
+      "Jenkins Auto Group",
       2
     ],
     [
@@ -116,7 +116,7 @@
       2
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
+      "DealerVision.com",
       2
     ],
     [
@@ -124,15 +124,19 @@
       2
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Georgia Auto World",
       1
     ],
     [
-      "Rim Revolution LLC",
+      "Audi Cape Fear",
       1
     ],
     [
       "Lexus of Lehigh Valley",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -144,15 +148,11 @@
       1
     ],
     [
-      "Audi Cape Fear",
-      1
-    ],
-    [
       "Smartlot Solutions",
       1
     ],
     [
-      "Ramsey Motor Company",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -160,11 +160,11 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Ramsey Motor Company",
       1
     ],
     [
-      "Georgia Auto World",
+      "Speedway Car Sales",
       1
     ],
     [
