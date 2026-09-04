@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T20:51:16.754Z",
+  "fetchedAt": "2026-09-04T20:59:53.105Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      103
+      98
     ],
     [
       "Yoder Family of Companies",
-      12
-    ],
-    [
-      "AX Auto INC",
-      9
+      13
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -45,7 +41,7 @@
     ],
     [
       "Gettel Automotive Group",
-      4
+      5
     ],
     [
       "Toronto Honda",
@@ -57,6 +53,10 @@
     ],
     [
       "Alpha One Automotive",
+      3
+    ],
+    [
+      "Moses Auto Group",
       3
     ],
     [
@@ -116,11 +116,7 @@
       1
     ],
     [
-      "Moses Auto Group",
-      1
-    ],
-    [
-      "mclarty auto group (ams)",
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -128,7 +124,7 @@
       1
     ],
     [
-      "Ramsey Motor Company",
+      "mclarty auto group (ams)",
       1
     ],
     [
@@ -136,11 +132,11 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Ramsey Motor Company",
       1
     ],
     [
-      "Audi Cape Fear",
+      "Speedway Car Sales",
       1
     ],
     [
@@ -148,11 +144,11 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Audi Cape Fear",
       1
     ],
     [
-      "Kayser Chevrolet",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
