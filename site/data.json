@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T23:28:30.694Z",
+  "fetchedAt": "2026-09-04T23:37:36.353Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,18 @@
   "rows": [
     [
       null,
-      151
+      154
     ],
     [
       "Teton solutions Group",
       17
     ],
     [
-      "Amato Hyundai Of Glendale",
-      14
+      "DealerVision.com",
+      15
     ],
     [
-      "DealerVision.com",
+      "Amato Hyundai Of Glendale",
       14
     ],
     [
@@ -44,11 +44,11 @@
       6
     ],
     [
-      "Gettel Automotive Group",
+      "Davidson Auto Group",
       6
     ],
     [
-      "Davidson Auto Group",
+      "Gettel Automotive Group",
       6
     ],
     [
@@ -60,23 +60,15 @@
       5
     ],
     [
-      "Yemm Auto",
-      4
-    ],
-    [
       "Flexcar",
       4
     ],
     [
-      "Speedway Car Sales",
-      3
+      "Yemm Auto",
+      4
     ],
     [
       "Bob King",
-      3
-    ],
-    [
-      "Moses Auto Group",
       3
     ],
     [
@@ -84,11 +76,11 @@
       3
     ],
     [
-      "Blasius Buick GMC",
+      "Moses Auto Group",
       3
     ],
     [
-      "Apex Automotive Group",
+      "Blasius Buick GMC",
       3
     ],
     [
@@ -96,11 +88,19 @@
       3
     ],
     [
-      "Alpha One Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
       "Jim Schmidt Automotive",
+      3
+    ],
+    [
+      "Alpha One Automotive",
+      3
+    ],
+    [
+      "Speedway Car Sales",
       3
     ],
     [
@@ -112,11 +112,11 @@
       2
     ],
     [
-      "Homan Auto Sales Inc",
+      "Jenkins Auto Group",
       2
     ],
     [
-      "Jenkins Auto Group",
+      "Homan Auto Sales Inc",
       2
     ],
     [
@@ -148,19 +148,19 @@
       1
     ],
     [
-      "Smartlot Solutions",
-      1
-    ],
-    [
       "Rohrich Automotive Group",
       1
     ],
     [
-      "Rim Revolution LLC",
+      "Smartlot Solutions",
       1
     ],
     [
       "North Park Lincoln",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -169,6 +169,14 @@
     ],
     [
       "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Car Central",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ],
     [
