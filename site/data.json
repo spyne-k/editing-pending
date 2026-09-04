@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T21:45:16.980Z",
+  "fetchedAt": "2026-09-04T21:53:51.190Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,27 @@
   "rows": [
     [
       null,
-      137
+      130
     ],
     [
-      "Yoder Family of Companies",
-      21
+      "Bergstrom Automotive",
+      10
     ],
     [
       "Car Central",
       9
     ],
     [
-      "Bergstrom Automotive",
+      "Teton solutions Group",
       9
     ],
     [
       "Gettel Automotive Group",
       8
+    ],
+    [
+      "AX Auto INC",
+      7
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -52,15 +56,11 @@
       5
     ],
     [
-      "AX Auto INC",
-      5
-    ],
-    [
-      "Toronto Honda",
+      "Yemm Auto",
       4
     ],
     [
-      "Teton solutions Group",
+      "Toronto Honda",
       4
     ],
     [
@@ -68,15 +68,19 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "Alpha One Automotive",
       3
     ],
     [
-      "Bob King",
+      "DealerVision.com",
       3
     ],
     [
       "MP auto Sales LLC DBA Carizona",
+      3
+    ],
+    [
+      "Bob King",
       3
     ],
     [
@@ -88,11 +92,11 @@
       3
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Jim Schmidt Automotive",
       3
     ],
     [
-      "Alpha One Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
@@ -101,10 +105,6 @@
     ],
     [
       "Jenkins Auto Group",
-      2
-    ],
-    [
-      "DealerVision.com",
       2
     ],
     [
@@ -128,19 +128,11 @@
       2
     ],
     [
-      "Rim Revolution LLC",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      1
-    ],
-    [
       "Smartlot Solutions",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -148,11 +140,15 @@
       1
     ],
     [
-      "Audi Cape Fear",
+      "Lexus of Lehigh Valley",
       1
     ],
     [
-      "Ramsey Motor Company",
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Wood Motor Company",
       1
     ],
     [
@@ -160,11 +156,15 @@
       1
     ],
     [
-      "Greenway Automotive Group",
+      "Georgia Auto World",
       1
     ],
     [
-      "Georgia Auto World",
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ],
     [
@@ -172,11 +172,15 @@
       1
     ],
     [
+      "Audi Cape Fear",
+      1
+    ],
+    [
       "Jerry Spady Chevrolet GMC Corvette Hummer",
       1
     ],
     [
-      "Wood Motor Company",
+      "Ramsey Motor Company",
       1
     ]
   ]
