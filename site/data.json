@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T22:48:23.383Z",
+  "fetchedAt": "2026-09-04T22:56:31.270Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      148
+      154
+    ],
+    [
+      "Teton solutions Group",
+      17
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -25,15 +29,15 @@
     ],
     [
       "DealerVision.com",
-      14
+      13
     ],
     [
-      "Car Central",
-      9
+      "Graff Auto Campus",
+      6
     ],
     [
-      "Teton solutions Group",
-      9
+      "Bud Clary Chevrolet, INC",
+      6
     ],
     [
       "Davidson Auto Group",
@@ -48,7 +52,7 @@
       6
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Gettel Automotive Group",
       6
     ],
     [
@@ -68,11 +72,23 @@
       4
     ],
     [
+      "Speedway Car Sales",
+      3
+    ],
+    [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
+      "Apex Automotive Group",
+      3
+    ],
+    [
       "Bob King",
       3
     ],
     [
-      "Moses Auto Group",
+      "Russ Darrow Group, Inc.",
       3
     ],
     [
@@ -84,7 +100,7 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "Moses Auto Group",
       3
     ],
     [
@@ -92,27 +108,11 @@
       3
     ],
     [
-      "Graff Auto Campus",
-      3
-    ],
-    [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
       "Pritchard Companies",
       3
     ],
     [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "Speedway Car Sales",
-      3
-    ],
-    [
-      "Georgia Auto World",
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -120,19 +120,11 @@
       2
     ],
     [
-      "Dick Dyer & Associates",
-      2
-    ],
-    [
       "Performance Auto Group",
       2
     ],
     [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Bapchild Motoring World (Kent) Limited",
+      "Georgia Auto World",
       2
     ],
     [
@@ -140,8 +132,24 @@
       2
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Dick Dyer & Associates",
       2
+    ],
+    [
+      "Preston Motor Automotive Group",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Bapchild Motoring World (Kent) Limited",
+      2
+    ],
+    [
+      "Kayser Chevrolet",
+      1
     ],
     [
       "Wood Motor Company",
@@ -152,15 +160,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
+      "North Park Lincoln",
       1
     ],
     [
@@ -168,27 +168,19 @@
       1
     ],
     [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Audi Cape Fear",
-      1
-    ],
-    [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "Yoder Family of Companies",
-      1
-    ],
-    [
       "Impex Auto Sales",
       1
     ],
     [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
       "Jerry Spady Chevrolet GMC Corvette Hummer",
+      1
+    ],
+    [
+      "Smartlot Solutions",
       1
     ]
   ]
