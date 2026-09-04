@@ -6,9 +6,7 @@
   <title>Editing Pending Images</title>
 
   <style>
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
@@ -20,7 +18,7 @@
 
     .page {
       max-width: 1200px;
-      margin: auto;
+      margin: 0 auto;
       padding: 28px 24px 40px;
     }
 
@@ -69,11 +67,11 @@
     }
 
     .card {
-      background: #ffffff;
+      background: #fff;
       border: 1px solid #e2e6ea;
       border-radius: 10px;
       overflow: hidden;
-      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+      box-shadow: 0 1px 2px rgba(0,0,0,.03);
     }
 
     .table-wrap {
@@ -92,7 +90,7 @@
       position: sticky;
       top: 0;
       z-index: 2;
-      background: #ffffff;
+      background: #fff;
       color: #6f7c88;
       font-size: 13px;
       font-weight: 600;
@@ -165,7 +163,6 @@
 </head>
 
 <body>
-
   <main class="page">
 
     <header class="header">
@@ -185,9 +182,7 @@
     <section class="card">
 
       <div class="table-wrap">
-
         <table>
-
           <thead>
             <tr>
               <th class="number">#</th>
@@ -198,52 +193,36 @@
 
           <tbody id="tbody">
             <tr>
-              <td colspan="3" class="empty">
-                Loading data…
-              </td>
+              <td colspan="3" class="empty">Loading data…</td>
             </tr>
           </tbody>
-
         </table>
-
       </div>
 
       <div class="footer">
-        <span>
-          20 rows visible · scroll for more
-        </span>
-
-        <span id="refresh">
-          Last refresh: —
-        </span>
+        <span id="rowCount">Loading…</span>
+        <span id="refresh">Last refresh: —</span>
       </div>
 
     </section>
-
   </main>
 
-
   <script>
-
     let payload = {
       columns: [],
       rows: []
     };
 
-
     const esc = value =>
-      String(value ?? "")
-        .replace(/[&<>"']/g, c => ({
-          "&": "&amp;",
-          "<": "&lt;",
-          ">": "&gt;",
-          '"': "&quot;",
-          "'": "&#039;"
-        }[c]));
-
+      String(value ?? "").replace(/[&<>"']/g, c => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#039;"
+      }[c]));
 
     function setStatus(text, error = false) {
-
       const status = document.getElementById("status");
 
       status.className =
@@ -251,198 +230,85 @@
 
       status.innerHTML =
         '<span class="dot"></span>' +
-        '<span>' +
-        esc(text) +
-        '</span>';
+        '<span>' + esc(text) + '</span>';
     }
-
 
     function render() {
+      const rows = Array.isArray(payload.rows)
+        ? payload.rows
+        : [];
 
-      const rows =
-        Array.isArray(payload.rows)
-          ? payload.rows
-          : [];
+      const columns = payload.columns || [];
 
-      const columns =
-        payload.columns || [];
+      const nameIndex = columns.findIndex(
+        c => String(c.name || "").toLowerCase() === "name"
+      );
 
+      const totalIndex = columns.findIndex(
+        c => String(c.name || "").toLowerCase() === "total_images"
+      );
 
-      const nameIndex =
-        columns.findIndex(
-          c =>
-            String(c.name || "").toLowerCase()
-            === "name"
-        );
+      const nameColumn = nameIndex >= 0 ? nameIndex : 0;
+      const totalColumn = totalIndex >= 0 ? totalIndex : 1;
 
+      const data = rows
+        .map(row => ({
+          name: row[nameColumn],
+          total: Number(row[totalColumn]) || 0
+        }))
+        .sort((a, b) => b.total - a.total);
 
-      const totalIndex =
-        columns.findIndex(
-          c =>
-            String(c.name || "").toLowerCase()
-            === "total_images"
-        );
-
-
-      const nameColumn =
-        nameIndex >= 0
-          ? nameIndex
-          : 0;
-
-
-      const totalColumn =
-        totalIndex >= 0
-          ? totalIndex
-          : 1;
-
-
-      /*
-       * Sort by total_images
-       * Highest first
-       */
-
-      const data =
-        rows
-          .map(row => ({
-            name: row[nameColumn],
-            total: Number(row[totalColumn]) || 0
-          }))
-          .sort(
-            (a, b) =>
-              b.total - a.total
-          );
-
-
-      const tbody =
-        document.getElementById("tbody");
-
+      const tbody = document.getElementById("tbody");
 
       if (!data.length) {
-
         tbody.innerHTML =
-          `
-          <tr>
-            <td colspan="3" class="empty">
-              No records found
-            </td>
-          </tr>
-          `;
-
+          '<tr><td colspan="3" class="empty">No records found</td></tr>';
       } else {
-
-        tbody.innerHTML =
-          data
-            .map((row, index) => {
-
-              return `
-                <tr>
-
-                  <td class="number">
-                    ${index + 1}
-                  </td>
-
-                  <td class="name">
-                    ${esc(row.name) || "—"}
-                  </td>
-
-                  <td class="total">
-                    ${row.total.toLocaleString()}
-                  </td>
-
-                </tr>
-              `;
-
-            })
-            .join("");
+        tbody.innerHTML = data.map((row, index) => `
+          <tr>
+            <td class="number">${index + 1}</td>
+            <td class="name">${esc(row.name) || "—"}</td>
+            <td class="total">${row.total.toLocaleString()}</td>
+          </tr>
+        `).join("");
       }
 
+      document.getElementById("rowCount").textContent =
+        `Showing 1–${Math.min(20, data.length)} of ${data.length} rows · scroll for more`;
 
-      const refreshTime =
-        payload.fetchedAt
-          ? new Date(
-              payload.fetchedAt
-            ).toLocaleString()
-          : "—";
-
-
-      document.getElementById(
-        "refresh"
-      ).textContent =
+      document.getElementById("refresh").textContent =
         "Last refresh: " +
-        refreshTime;
+        (payload.fetchedAt
+          ? new Date(payload.fetchedAt).toLocaleString()
+          : "—");
     }
-
 
     async function loadData() {
-
       try {
-
-        const response =
-          await fetch(
-            "data.json",
-            {
-              cache: "no-store"
-            }
-          );
-
+        const response = await fetch(
+          "data.json",
+          { cache: "no-store" }
+        );
 
         if (!response.ok) {
-
-          throw new Error(
-            "HTTP " +
-            response.status
-          );
-
+          throw new Error("HTTP " + response.status);
         }
 
-
-        payload =
-          await response.json();
-
+        payload = await response.json();
 
         render();
-
-
-        setStatus(
-          "Live data"
-        );
-
+        setStatus("Live data");
 
       } catch (error) {
-
-        console.error(
-          "Dashboard data load failed:",
-          error
-        );
-
-
-        setStatus(
-          "Data unavailable",
-          true
-        );
-
+        console.error("Dashboard data load failed:", error);
+        setStatus("Data unavailable", true);
       }
-
     }
-
-
-    /*
-     * Initial load
-     */
 
     loadData();
 
-
-    /*
-     * Refresh every 5 minutes
-     */
-
-    setInterval(
-      loadData,
-      5 * 60 * 1000
-    );
-
+    // Refresh every 5 minutes.
+    setInterval(loadData, 5 * 60 * 1000);
   </script>
-
 </body>
 </html>
