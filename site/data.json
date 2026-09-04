@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T21:53:51.190Z",
+  "fetchedAt": "2026-09-04T22:03:35.475Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,10 +17,22 @@
   "rows": [
     [
       null,
-      130
+      155
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      14
+    ],
+    [
+      "Gettel Automotive Group",
+      10
     ],
     [
       "Bergstrom Automotive",
+      10
+    ],
+    [
+      "DealerVision.com",
       10
     ],
     [
@@ -32,12 +44,8 @@
       9
     ],
     [
-      "Gettel Automotive Group",
-      8
-    ],
-    [
       "AX Auto INC",
-      7
+      8
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -68,15 +76,7 @@
       3
     ],
     [
-      "Alpha One Automotive",
-      3
-    ],
-    [
-      "DealerVision.com",
-      3
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
+      "Apex Automotive Group",
       3
     ],
     [
@@ -84,11 +84,11 @@
       3
     ],
     [
-      "Moses Auto Group",
+      "MP auto Sales LLC DBA Carizona",
       3
     ],
     [
-      "Blasius Buick GMC",
+      "Moses Auto Group",
       3
     ],
     [
@@ -96,7 +96,11 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "Blasius Buick GMC",
+      3
+    ],
+    [
+      "Alpha One Automotive",
       3
     ],
     [
@@ -105,6 +109,10 @@
     ],
     [
       "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -128,7 +136,7 @@
       2
     ],
     [
-      "Smartlot Solutions",
+      "ZT Automotive",
       1
     ],
     [
@@ -136,19 +144,23 @@
       1
     ],
     [
+      "Smartlot Solutions",
+      1
+    ],
+    [
       "Kayser Chevrolet",
       1
     ],
     [
-      "Lexus of Lehigh Valley",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
       "Wood Motor Company",
+      1
+    ],
+    [
+      "Audi Cape Fear",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ],
     [
@@ -160,23 +172,15 @@
       1
     ],
     [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
       "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Audi Cape Fear",
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
       1
     ],
     [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      "Rohrich Automotive Group",
       1
     ],
     [
