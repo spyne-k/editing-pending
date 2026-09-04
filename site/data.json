@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T22:18:18.696Z",
+  "fetchedAt": "2026-09-04T22:29:06.158Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      150
-    ],
-    [
-      "Gettel Automotive Group",
-      19
+      134
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -40,10 +36,6 @@
       9
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      7
-    ],
-    [
       "Bud Clary Chevrolet, INC",
       6
     ],
@@ -54,6 +46,10 @@
     [
       "Alliance Automotive of Westchester LLC dba White P",
       5
+    ],
+    [
+      "Van Horn Automotive Group",
+      4
     ],
     [
       "Yemm Auto",
@@ -68,19 +64,7 @@
       3
     ],
     [
-      "ZT Automotive",
-      3
-    ],
-    [
-      "Alpha One Automotive",
-      3
-    ],
-    [
       "Bob King",
-      3
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
       3
     ],
     [
@@ -88,11 +72,15 @@
       3
     ],
     [
-      "Blasius Buick GMC",
+      "MP auto Sales LLC DBA Carizona",
       3
     ],
     [
-      "Apex Automotive Group",
+      "ZT Automotive",
+      3
+    ],
+    [
+      "Blasius Buick GMC",
       3
     ],
     [
@@ -100,11 +88,27 @@
       3
     ],
     [
-      "Pritchard Companies",
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Alpha One Automotive",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
+      3
+    ],
+    [
+      "Bob Johnson Automotive Group",
       2
     ],
     [
-      "Kian Motors INC",
+      "Dick Dyer & Associates",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
       2
     ],
     [
@@ -112,7 +116,15 @@
       2
     ],
     [
+      "Pritchard Companies",
+      2
+    ],
+    [
       "Performance Auto Group",
+      2
+    ],
+    [
+      "Kian Motors INC",
       2
     ],
     [
@@ -124,16 +136,16 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Olson Chevrolet",
       2
     ],
     [
-      "Jenkins Auto Group",
-      2
+      "Georgia Auto World",
+      1
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
+      "Speedway Car Sales",
+      1
     ],
     [
       "Ramsey Motor Company",
@@ -144,11 +156,7 @@
       1
     ],
     [
-      "Georgia Auto World",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -156,7 +164,7 @@
       1
     ],
     [
-      "Kayser Chevrolet",
+      "North Park Lincoln",
       1
     ],
     [
@@ -164,15 +172,15 @@
       1
     ],
     [
-      "Dick Dyer & Associates",
-      1
-    ],
-    [
       "Audi Cape Fear",
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Impex Auto Sales",
       1
     ],
     [
@@ -180,7 +188,7 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Ryan Buick GMC Cadillac",
       1
     ]
   ]
