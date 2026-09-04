@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T22:56:31.270Z",
+  "fetchedAt": "2026-09-04T23:08:17.284Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -29,11 +29,11 @@
     ],
     [
       "DealerVision.com",
-      13
+      14
     ],
     [
       "Graff Auto Campus",
-      6
+      7
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -104,16 +104,12 @@
       3
     ],
     [
-      "Alpha One Automotive",
-      3
-    ],
-    [
       "Pritchard Companies",
       3
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
+      "Alpha One Automotive",
+      3
     ],
     [
       "Homan Auto Sales Inc",
@@ -144,7 +140,7 @@
       2
     ],
     [
-      "Bapchild Motoring World (Kent) Limited",
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -156,7 +152,7 @@
       1
     ],
     [
-      "Ramsey Motor Company",
+      "Smartlot Solutions",
       1
     ],
     [
@@ -180,7 +176,7 @@
       1
     ],
     [
-      "Smartlot Solutions",
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
