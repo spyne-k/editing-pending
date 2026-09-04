@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T22:29:06.158Z",
+  "fetchedAt": "2026-09-04T22:39:38.446Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      134
+      139
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -25,7 +25,7 @@
     ],
     [
       "DealerVision.com",
-      10
+      14
     ],
     [
       "Car Central",
@@ -44,6 +44,10 @@
       6
     ],
     [
+      "Toronto Honda",
+      5
+    ],
+    [
       "Alliance Automotive of Westchester LLC dba White P",
       5
     ],
@@ -56,11 +60,11 @@
       4
     ],
     [
-      "Toronto Honda",
+      "Twin Pine Ford",
       4
     ],
     [
-      "Flexcar",
+      "Speedway Car Sales",
       3
     ],
     [
@@ -76,15 +80,7 @@
       3
     ],
     [
-      "ZT Automotive",
-      3
-    ],
-    [
       "Blasius Buick GMC",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -96,7 +92,15 @@
       3
     ],
     [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
       "Gettel Automotive Group",
+      3
+    ],
+    [
+      "Flexcar",
       3
     ],
     [
@@ -108,11 +112,11 @@
       2
     ],
     [
-      "Jenkins Auto Group",
+      "Homan Auto Sales Inc",
       2
     ],
     [
-      "Homan Auto Sales Inc",
+      "Jenkins Auto Group",
       2
     ],
     [
@@ -121,10 +125,6 @@
     ],
     [
       "Performance Auto Group",
-      2
-    ],
-    [
-      "Kian Motors INC",
       2
     ],
     [
@@ -140,14 +140,6 @@
       2
     ],
     [
-      "Georgia Auto World",
-      1
-    ],
-    [
-      "Speedway Car Sales",
-      1
-    ],
-    [
       "Ramsey Motor Company",
       1
     ],
@@ -156,19 +148,19 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
       "Smartlot Solutions",
       1
     ],
     [
-      "North Park Lincoln",
+      "Rohrich Automotive Group",
       1
     ],
     [
       "Rim Revolution LLC",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
@@ -188,7 +180,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Georgia Auto World",
       1
     ]
   ]
