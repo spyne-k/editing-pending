@@ -1,0 +1,33 @@
+name: Refresh Metabase Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Metabase question
+        env:
+          METABASE_URL: https://metabase.spyne.ai
+          METABASE_QUESTION_ID: '6501'
+          METABASE_USERNAME: ${{ secrets.METABASE_USERNAME }}
+          METABASE_PASSWORD: ${{ secrets.METABASE_PASSWORD }}
+          METABASE_API_KEY: ${{ secrets.METABASE_API_KEY }}
+        run: node scripts/fetch-metabase.mjs
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data.json
+          git diff --cached --quiet || git commit -m "chore: refresh Metabase data"
+          git push
