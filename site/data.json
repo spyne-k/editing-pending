@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T21:26:13.369Z",
+  "fetchedAt": "2026-09-04T21:37:08.619Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,23 @@
   "rows": [
     [
       null,
-      116
+      127
     ],
     [
       "Yoder Family of Companies",
-      17
+      21
+    ],
+    [
+      "Car Central",
+      9
+    ],
+    [
+      "Bergstrom Automotive",
+      8
     ],
     [
       "Gettel Automotive Group",
       8
-    ],
-    [
-      "Bergstrom Automotive",
-      7
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -52,6 +56,22 @@
       4
     ],
     [
+      "Alpha One Automotive",
+      3
+    ],
+    [
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "MP auto Sales LLC DBA Carizona",
+      3
+    ],
+    [
+      "Blasius Buick GMC",
+      3
+    ],
+    [
       "Moses Auto Group",
       3
     ],
@@ -60,24 +80,36 @@
       3
     ],
     [
-      "Blasius Buick GMC",
-      3
-    ],
-    [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Alpha One Automotive",
-      3
-    ],
-    [
       "Runde Chevrolet, Inc.",
       3
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
-      3
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Kian Motors INC",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "AX Auto INC",
+      2
+    ],
+    [
+      "Bapchild Motoring World (Kent) Limited",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Homan Auto Sales Inc",
+      2
     ],
     [
       "Pritchard Companies",
@@ -88,39 +120,7 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "Bapchild Motoring World (Kent) Limited",
-      2
-    ],
-    [
-      "Kian Motors INC",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Georgia Auto World",
+      "Wood Motor Company",
       1
     ],
     [
@@ -128,39 +128,11 @@
       1
     ],
     [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      1
-    ],
-    [
       "Smartlot Solutions",
       1
     ],
     [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "Audi Cape Fear",
-      1
-    ],
-    [
-      "Flexcar",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
+      "Lexus of Lehigh Valley",
       1
     ],
     [
@@ -172,11 +144,35 @@
       1
     ],
     [
+      "Georgia Auto World",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Audi Cape Fear",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
       "Jerry Spady Chevrolet GMC Corvette Hummer",
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "Flexcar",
       1
     ]
   ]
