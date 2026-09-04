@@ -2,11 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <title>Editing Pending Images</title>
 
   <style>
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
 
     body {
       margin: 0;
@@ -22,12 +25,14 @@
       padding: 28px 24px 40px;
     }
 
+    /* HEADER */
+
     .header {
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
       gap: 20px;
-      margin-bottom: 22px;
+      margin-bottom: 20px;
     }
 
     h1 {
@@ -42,14 +47,51 @@
       font-size: 14px;
     }
 
+    /* RIGHT SIDE */
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    /* REFRESH BUTTON */
+
+    .refresh-btn {
+      border: 1px solid #d8dde3;
+      background: #ffffff;
+      color: #45515c;
+      padding: 8px 13px;
+      border-radius: 7px;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 600;
+      transition: background 0.15s ease;
+    }
+
+    .refresh-btn:hover {
+      background: #f1f3f5;
+    }
+
+    .refresh-btn:disabled {
+      opacity: 0.6;
+      cursor: wait;
+    }
+
+    /* STATUS */
+
     .status {
       display: flex;
       align-items: center;
       gap: 7px;
+
       padding: 7px 11px;
+
       border-radius: 16px;
+
       background: #e8f5e9;
       color: #2e7d32;
+
       font-size: 13px;
       white-space: nowrap;
     }
@@ -66,16 +108,22 @@
       background: currentColor;
     }
 
+    /* CARD */
+
     .card {
-      background: #fff;
+      background: #ffffff;
       border: 1px solid #e2e6ea;
       border-radius: 10px;
       overflow: hidden;
-      box-shadow: 0 1px 2px rgba(0,0,0,.03);
+
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
     }
+
+    /* TABLE SCROLL AREA */
 
     .table-wrap {
       height: 720px;
+
       overflow-y: auto;
       overflow-x: auto;
     }
@@ -83,70 +131,135 @@
     table {
       width: 100%;
       min-width: 560px;
+
       border-collapse: collapse;
     }
+
+    /* HEADER */
 
     thead th {
       position: sticky;
       top: 0;
-      z-index: 2;
-      background: #fff;
+
+      z-index: 5;
+
+      background: #ffffff;
+
       color: #6f7c88;
+
       font-size: 13px;
       font-weight: 600;
+
       text-align: left;
+
       padding: 11px 14px;
+
       border-bottom: 1px solid #dfe4e8;
     }
 
+    /* TOTAL ROW */
+
+    .total-row td {
+      position: sticky;
+
+      top: 42px;
+
+      z-index: 4;
+
+      background: #f5f7fa;
+
+      font-weight: 700;
+
+      color: #34414b;
+
+      border-bottom: 1px solid #d8dde3;
+    }
+
+    /* BODY */
+
     tbody td {
       padding: 12px 14px;
+
       height: 44px;
+
       border-bottom: 1px solid #edf0f2;
+
       font-size: 14px;
+
       color: #45515c;
+
       vertical-align: middle;
     }
 
-    tbody tr:hover {
+    tbody tr:not(.total-row):hover {
       background: #fafbfc;
     }
 
+    /* COLUMNS */
+
     .number {
       width: 60px;
+
       text-align: right;
+
       color: #9aa4ad;
     }
 
     .name {
       font-weight: 600;
+
       color: #52606d;
     }
 
     .total {
       width: 160px;
+
       text-align: right;
+
       font-weight: 600;
+
       color: #4f5d68;
     }
 
+    .total-row .number,
+    .total-row .total {
+      font-weight: 700;
+
+      color: #34414b;
+    }
+
+    /* EMPTY */
+
     .empty {
       padding: 40px !important;
+
       text-align: center;
+
       color: #8b969f;
     }
 
+    /* FOOTER */
+
     .footer {
       padding: 11px 16px;
+
       border-top: 1px solid #e6e9ed;
+
       color: #8a949d;
+
       font-size: 12px;
+
       display: flex;
+
       justify-content: space-between;
+
       gap: 12px;
     }
 
+    /* MOBILE */
+
     @media (max-width: 700px) {
+
       .page {
         padding: 18px 12px 28px;
       }
@@ -155,160 +268,494 @@
         flex-direction: column;
       }
 
+      .header-actions {
+        width: 100%;
+        justify-content: space-between;
+      }
+
       .table-wrap {
         height: 720px;
       }
     }
+
   </style>
 </head>
 
+
 <body>
+
   <main class="page">
 
+    <!-- HEADER -->
+
     <header class="header">
+
       <div>
-        <h1>Editing Pending Images</h1>
+
+        <h1>
+          Editing Pending Images
+        </h1>
+
         <p class="subtitle">
           Metabase Question #6501 · refreshed automatically
         </p>
+
       </div>
 
-      <div id="status" class="status">
-        <span class="dot"></span>
-        <span>Loading…</span>
+
+      <div class="header-actions">
+
+        <button
+          id="refreshBtn"
+          class="refresh-btn"
+          type="button"
+        >
+          ↻ Refresh Data
+        </button>
+
+
+        <div
+          id="status"
+          class="status"
+        >
+
+          <span class="dot"></span>
+
+          <span>
+            Loading…
+          </span>
+
+        </div>
+
       </div>
+
     </header>
+
+
+    <!-- TABLE -->
 
     <section class="card">
 
       <div class="table-wrap">
+
         <table>
+
           <thead>
+
             <tr>
-              <th class="number">#</th>
-              <th>name</th>
-              <th class="total">total_images</th>
+
+              <th class="number">
+                #
+              </th>
+
+              <th>
+                name
+              </th>
+
+              <th class="total">
+                total_images
+              </th>
+
             </tr>
+
           </thead>
 
+
           <tbody id="tbody">
+
             <tr>
-              <td colspan="3" class="empty">Loading data…</td>
+
+              <td
+                colspan="3"
+                class="empty"
+              >
+                Loading data…
+              </td>
+
             </tr>
+
           </tbody>
+
         </table>
+
       </div>
 
+
+      <!-- FOOTER -->
+
       <div class="footer">
-        <span id="rowCount">Loading…</span>
-        <span id="refresh">Last refresh: —</span>
+
+        <span id="rowCount">
+          Loading…
+        </span>
+
+        <span id="refresh">
+          Last refresh: —
+        </span>
+
       </div>
 
     </section>
+
   </main>
 
+
   <script>
+
     let payload = {
       columns: [],
       rows: []
     };
 
+
+    /*
+     * Escape HTML
+     */
+
     const esc = value =>
-      String(value ?? "").replace(/[&<>"']/g, c => ({
-        "&": "&amp;",
-        "<": "&lt;",
-        ">": "&gt;",
-        '"': "&quot;",
-        "'": "&#039;"
-      }[c]));
+      String(value ?? "")
+        .replace(/[&<>"']/g, c => ({
+          "&": "&amp;",
+          "<": "&lt;",
+          ">": "&gt;",
+          '"': "&quot;",
+          "'": "&#039;"
+        }[c]));
+
+
+    /*
+     * Update status
+     */
 
     function setStatus(text, error = false) {
-      const status = document.getElementById("status");
+
+      const status =
+        document.getElementById("status");
 
       status.className =
-        "status" + (error ? " error" : "");
+        "status" +
+        (error ? " error" : "");
 
       status.innerHTML =
         '<span class="dot"></span>' +
-        '<span>' + esc(text) + '</span>';
+        '<span>' +
+        esc(text) +
+        '</span>';
     }
+
+
+    /*
+     * Render table
+     */
 
     function render() {
-      const rows = Array.isArray(payload.rows)
-        ? payload.rows
-        : [];
 
-      const columns = payload.columns || [];
+      const rows =
+        Array.isArray(payload.rows)
+          ? payload.rows
+          : [];
 
-      const nameIndex = columns.findIndex(
-        c => String(c.name || "").toLowerCase() === "name"
-      );
 
-      const totalIndex = columns.findIndex(
-        c => String(c.name || "").toLowerCase() === "total_images"
-      );
+      const columns =
+        payload.columns || [];
 
-      const nameColumn = nameIndex >= 0 ? nameIndex : 0;
-      const totalColumn = totalIndex >= 0 ? totalIndex : 1;
 
-      const data = rows
-        .map(row => ({
-          name: row[nameColumn],
-          total: Number(row[totalColumn]) || 0
-        }))
-        .sort((a, b) => b.total - a.total);
+      /*
+       * Find columns returned by Metabase
+       */
 
-      const tbody = document.getElementById("tbody");
-
-      if (!data.length) {
-        tbody.innerHTML =
-          '<tr><td colspan="3" class="empty">No records found</td></tr>';
-      } else {
-        tbody.innerHTML = data.map((row, index) => `
-          <tr>
-            <td class="number">${index + 1}</td>
-            <td class="name">${esc(row.name) || "—"}</td>
-            <td class="total">${row.total.toLocaleString()}</td>
-          </tr>
-        `).join("");
-      }
-
-      document.getElementById("rowCount").textContent =
-        `Showing 1–${Math.min(20, data.length)} of ${data.length} rows · scroll for more`;
-
-      document.getElementById("refresh").textContent =
-        "Last refresh: " +
-        (payload.fetchedAt
-          ? new Date(payload.fetchedAt).toLocaleString()
-          : "—");
-    }
-
-    async function loadData() {
-      try {
-        const response = await fetch(
-          "data.json",
-          { cache: "no-store" }
+      const nameIndex =
+        columns.findIndex(
+          c =>
+            String(c.name || "")
+              .toLowerCase() === "name"
         );
 
+
+      const totalIndex =
+        columns.findIndex(
+          c =>
+            String(c.name || "")
+              .toLowerCase() === "total_images"
+        );
+
+
+      const nameColumn =
+        nameIndex >= 0
+          ? nameIndex
+          : 0;
+
+
+      const totalColumn =
+        totalIndex >= 0
+          ? totalIndex
+          : 1;
+
+
+      /*
+       * Convert data
+       */
+
+      const data =
+        rows
+          .map(row => ({
+            name: row[nameColumn],
+            total:
+              Number(row[totalColumn]) || 0
+          }))
+          .sort(
+            (a, b) =>
+              b.total - a.total
+          );
+
+
+      /*
+       * Calculate grand total
+       */
+
+      const grandTotal =
+        data.reduce(
+          (sum, row) =>
+            sum + row.total,
+          0
+        );
+
+
+      /*
+       * Table body
+       */
+
+      const tbody =
+        document.getElementById("tbody");
+
+
+      /*
+       * Frozen Total row
+       */
+
+      const totalRow = `
+        <tr class="total-row">
+
+          <td class="number">
+            Total
+          </td>
+
+          <td class="name">
+            Total
+          </td>
+
+          <td class="total">
+            ${grandTotal.toLocaleString()}
+          </td>
+
+        </tr>
+      `;
+
+
+      /*
+       * Dealer rows
+       */
+
+      const dealerRows =
+        data.map(
+          (row, index) => `
+            <tr>
+
+              <td class="number">
+                ${index + 1}
+              </td>
+
+              <td class="name">
+                ${esc(row.name) || "—"}
+              </td>
+
+              <td class="total">
+                ${row.total.toLocaleString()}
+              </td>
+
+            </tr>
+          `
+        ).join("");
+
+
+      /*
+       * Render
+       */
+
+      if (!data.length) {
+
+        tbody.innerHTML =
+          `
+          <tr>
+
+            <td
+              colspan="3"
+              class="empty"
+            >
+              No records found
+            </td>
+
+          </tr>
+          `;
+
+      } else {
+
+        tbody.innerHTML =
+          totalRow +
+          dealerRows;
+
+      }
+
+
+      /*
+       * Footer count
+       */
+
+      document.getElementById(
+        "rowCount"
+      ).textContent =
+        `Showing 1–${Math.min(20, data.length)} of ${data.length} rows · scroll for more`;
+
+
+      /*
+       * Last refresh
+       */
+
+      document.getElementById(
+        "refresh"
+      ).textContent =
+        "Last refresh: " +
+        (
+          payload.fetchedAt
+            ? new Date(
+                payload.fetchedAt
+              ).toLocaleString()
+            : "—"
+        );
+    }
+
+
+    /*
+     * Load data.json
+     */
+
+    async function loadData() {
+
+      try {
+
+        setStatus("Loading…");
+
+
+        const response =
+          await fetch(
+            "data.json",
+            {
+              cache: "no-store"
+            }
+          );
+
+
         if (!response.ok) {
-          throw new Error("HTTP " + response.status);
+
+          throw new Error(
+            "HTTP " +
+            response.status
+          );
+
         }
 
-        payload = await response.json();
+
+        payload =
+          await response.json();
+
 
         render();
-        setStatus("Live data");
+
+
+        setStatus(
+          "Live data"
+        );
+
 
       } catch (error) {
-        console.error("Dashboard data load failed:", error);
-        setStatus("Data unavailable", true);
+
+        console.error(
+          "Dashboard data load failed:",
+          error
+        );
+
+
+        setStatus(
+          "Data unavailable",
+          true
+        );
+
       }
+
     }
+
+
+    /*
+     * Refresh button
+     *
+     * This safely reloads the latest
+     * data.json without exposing
+     * Metabase credentials.
+     */
+
+    document
+      .getElementById("refreshBtn")
+      .addEventListener(
+        "click",
+        async () => {
+
+          const button =
+            document.getElementById(
+              "refreshBtn"
+            );
+
+
+          button.disabled = true;
+
+          button.textContent =
+            "↻ Refreshing…";
+
+
+          try {
+
+            await loadData();
+
+          } finally {
+
+            button.disabled = false;
+
+            button.textContent =
+              "↻ Refresh Data";
+
+          }
+
+        }
+      );
+
+
+    /*
+     * Initial load
+     */
 
     loadData();
 
-    // Refresh every 5 minutes.
-    setInterval(loadData, 5 * 60 * 1000);
+
+    /*
+     * Automatic refresh
+     * every 5 minutes
+     */
+
+    setInterval(
+      loadData,
+      5 * 60 * 1000
+    );
+
   </script>
+
 </body>
 </html>
