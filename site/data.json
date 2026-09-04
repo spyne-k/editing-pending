@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T22:39:38.446Z",
+  "fetchedAt": "2026-09-04T22:48:23.383Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      139
+      148
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -36,16 +36,20 @@
       9
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      6
-    ],
-    [
       "Davidson Auto Group",
       6
     ],
     [
+      "Twin Pine Ford",
+      6
+    ],
+    [
       "Toronto Honda",
-      5
+      6
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      6
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -60,12 +64,8 @@
       4
     ],
     [
-      "Twin Pine Ford",
+      "Flexcar",
       4
-    ],
-    [
-      "Speedway Car Sales",
-      3
     ],
     [
       "Bob King",
@@ -92,7 +92,7 @@
       3
     ],
     [
-      "Jim Schmidt Automotive",
+      "Graff Auto Campus",
       3
     ],
     [
@@ -100,15 +100,19 @@
       3
     ],
     [
-      "Flexcar",
+      "Pritchard Companies",
       3
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
+      "Jim Schmidt Automotive",
+      3
     ],
     [
-      "Dick Dyer & Associates",
+      "Speedway Car Sales",
+      3
+    ],
+    [
+      "Georgia Auto World",
       2
     ],
     [
@@ -116,11 +120,7 @@
       2
     ],
     [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Pritchard Companies",
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -140,11 +140,19 @@
       2
     ],
     [
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
       "Ramsey Motor Company",
       1
     ],
     [
-      "Wood Motor Company",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -172,15 +180,15 @@
       1
     ],
     [
+      "Yoder Family of Companies",
+      1
+    ],
+    [
       "Impex Auto Sales",
       1
     ],
     [
       "Jerry Spady Chevrolet GMC Corvette Hummer",
-      1
-    ],
-    [
-      "Georgia Auto World",
       1
     ]
   ]
