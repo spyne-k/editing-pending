@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T20:05:05.925Z",
+  "fetchedAt": "2026-09-04T20:19:35.635Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,7 @@
   "rows": [
     [
       null,
-      111
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      16
-    ],
-    [
-      "Charlie Clark Hyundai",
-      14
+      79
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -33,14 +25,14 @@
     ],
     [
       "AX Auto INC",
-      7
+      8
     ],
     [
       "Davidson Auto Group",
       6
     ],
     [
-      "Bergstrom Automotive",
+      "Toronto Honda",
       4
     ],
     [
@@ -52,15 +44,11 @@
       4
     ],
     [
-      "Toronto Honda",
+      "Bergstrom Automotive",
       4
     ],
     [
-      "Wood Motor Company",
-      3
-    ],
-    [
-      "Blasius Buick GMC",
+      "Bob King",
       3
     ],
     [
@@ -68,35 +56,19 @@
       3
     ],
     [
+      "Blasius Buick GMC",
+      3
+    ],
+    [
       "Runde Chevrolet, Inc.",
       3
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
-      "Pritchard Companies",
-      2
     ],
     [
       "Car Central",
       2
     ],
     [
-      "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Teton solutions Group",
-      2
-    ],
-    [
-      "DealerVision.com",
+      "Greenway Automotive Group",
       2
     ],
     [
@@ -104,7 +76,23 @@
       2
     ],
     [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Performance Auto Group",
+      2
+    ],
+    [
       "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Homan Auto Sales Inc",
+      2
+    ],
+    [
+      "Pritchard Companies",
       2
     ],
     [
@@ -112,19 +100,7 @@
       1
     ],
     [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "Georgia Auto World",
-      1
-    ],
-    [
       "Smartlot Solutions",
-      1
-    ],
-    [
-      "Moses Auto Group",
       1
     ],
     [
@@ -132,7 +108,23 @@
       1
     ],
     [
+      "Ramsey Motor Company",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
       "Lexus of Lehigh Valley",
+      1
+    ],
+    [
+      "Georgia Auto World",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -140,15 +132,11 @@
       1
     ],
     [
-      "Greenway Automotive Group",
+      "Moses Auto Group",
       1
     ],
     [
       "Bapchild Motoring World (Kent) Limited",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
       1
     ],
     [
