@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T20:32:00.892Z",
+  "fetchedAt": "2026-09-04T20:42:41.283Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,18 @@
   "rows": [
     [
       null,
-      86
+      97
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      9
     ],
     [
       "AX Auto INC",
       9
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Asbury Automotive Management L.L.C",
       9
     ],
     [
@@ -32,7 +36,7 @@
       6
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Graff Auto Campus",
       5
     ],
     [
@@ -40,16 +44,24 @@
       4
     ],
     [
+      "Gettel Automotive Group",
+      4
+    ],
+    [
       "Bergstrom Automotive",
       4
     ],
     [
-      "Graff Auto Campus",
-      4
+      "Bob King",
+      3
     ],
     [
-      "Gettel Automotive Group",
-      4
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Alpha One Automotive",
+      3
     ],
     [
       "Blasius Buick GMC",
@@ -60,27 +72,23 @@
       3
     ],
     [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
-      "Pritchard Companies",
-      2
-    ],
-    [
       "Car Central",
       2
     ],
     [
-      "Homan Auto Sales Inc",
+      "Van Horn Automotive Group",
       2
     ],
     [
-      "Performance Auto Group",
+      "Bapchild Motoring World (Kent) Limited",
+      2
+    ],
+    [
+      "SAS SELLIT",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
       2
     ],
     [
@@ -92,39 +100,19 @@
       2
     ],
     [
-      "Greenway Automotive Group",
+      "Homan Auto Sales Inc",
       2
     ],
     [
-      "Bapchild Motoring World (Kent) Limited",
+      "Pritchard Companies",
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Performance Auto Group",
       2
-    ],
-    [
-      "Speedway Car Sales",
-      1
     ],
     [
       "Ramsey Motor Company",
-      1
-    ],
-    [
-      "mclarty auto group (ams)",
-      1
-    ],
-    [
-      "Georgia Auto World",
-      1
-    ],
-    [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Moses Auto Group",
       1
     ],
     [
@@ -132,11 +120,27 @@
       1
     ],
     [
+      "Smartlot Solutions",
+      1
+    ],
+    [
+      "mclarty auto group (ams)",
+      1
+    ],
+    [
       "Lexus of Lehigh Valley",
       1
     ],
     [
-      "Flexcar",
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Georgia Auto World",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -144,7 +148,15 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Moses Auto Group",
+      1
+    ],
+    [
+      "Flexcar",
       1
     ]
   ]
