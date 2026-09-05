@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T14:03:16.493Z",
+  "fetchedAt": "2026-09-05T14:17:33.190Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      50
+      52
     ],
     [
       "Duffys Auto",
@@ -48,6 +48,10 @@
       3
     ],
     [
+      "Bob Allen Ford- Ottawa",
+      3
+    ],
+    [
       "Dave Syverson Auto Center",
       3
     ],
@@ -60,11 +64,11 @@
       2
     ],
     [
-      "Bob Allen Ford- Ottawa",
+      "Speedway Car Sales",
       2
     ],
     [
-      "Speedway Car Sales",
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
@@ -97,10 +101,6 @@
     ],
     [
       "Strategic Vehicle Solutions",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
