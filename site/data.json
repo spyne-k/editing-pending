@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T17:51:46.411Z",
+  "fetchedAt": "2026-09-05T17:59:52.113Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,23 @@
   "rows": [
     [
       null,
-      32
+      33
     ],
     [
       "IM Marketplace GmBH",
-      10
+      11
     ],
     [
-      "Hatimi Auto LLC",
-      8
+      "Asbury Automotive Management L.L.C",
+      10
     ],
     [
       "Greenway Automotive Group",
       7
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      4
+      "Brandon Steven Motors",
+      2
     ],
     [
       "MEI Inc",
