@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T12:10:08.096Z",
+  "fetchedAt": "2026-09-05T12:27:09.404Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      57
-    ],
-    [
-      "Car Castle",
-      16
+      44
     ],
     [
       "Duffys Auto",
@@ -45,6 +41,10 @@
     ],
     [
       "Gettel Automotive Group",
+      3
+    ],
+    [
+      "Greenville Automotive Group",
       3
     ],
     [
