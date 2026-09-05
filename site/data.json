@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T11:48:07.686Z",
+  "fetchedAt": "2026-09-05T11:56:26.233Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      62
+      56
     ],
     [
       "Car Castle",
@@ -26,10 +26,6 @@
     [
       "Duffys Auto",
       8
-    ],
-    [
-      "Stouffair Motors",
-      3
     ],
     [
       "Mossy Motors",
@@ -52,10 +48,6 @@
       3
     ],
     [
-      "Bob Allen Ford- Ottawa",
-      3
-    ],
-    [
       "Dave Syverson Auto Center",
       3
     ],
@@ -64,11 +56,11 @@
       3
     ],
     [
-      "S&S Motors",
+      "Kia Vancouver",
       2
     ],
     [
-      "Kia Vancouver",
+      "Bob Allen Ford- Ottawa",
       2
     ],
     [
