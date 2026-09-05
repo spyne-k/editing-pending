@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T15:30:48.413Z",
+  "fetchedAt": "2026-09-05T15:41:23.540Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      15
+      12
     ],
     [
       "KAR Auto Group",
       4
-    ],
-    [
-      "Dave Syverson Auto Center",
-      3
     ],
     [
       "Asbury Automotive Management L.L.C",
