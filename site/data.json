@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T03:24:38.790Z",
+  "fetchedAt": "2026-09-05T03:35:33.038Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      207
+      198
     ],
     [
       "Asbury Automotive Management L.L.C",
-      32
+      34
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -56,10 +56,6 @@
       6
     ],
     [
-      "Icon Motors Group of Framingham",
-      5
-    ],
-    [
       "Performance Automotive Network",
       5
     ],
@@ -76,19 +72,15 @@
       3
     ],
     [
-      "Toronto Honda",
+      "Sansone Jr's Auto Group",
       3
     ],
     [
-      "Alpha One Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
       "Bob King",
-      3
-    ],
-    [
-      "Moses Auto Group",
       3
     ],
     [
@@ -108,35 +100,11 @@
       3
     ],
     [
-      "Sansone Jr's Auto Group",
+      "Alpha One Automotive",
       3
-    ],
-    [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Georgia Auto World",
-      2
     ],
     [
       "Dick Dyer & Associates",
-      2
-    ],
-    [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
       2
     ],
     [
@@ -144,19 +112,23 @@
       2
     ],
     [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Performance Auto Group",
+      2
+    ],
+    [
+      "Georgia Auto World",
+      2
+    ],
+    [
       "Covert Ford Lincoln",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Smartlot Solutions",
       1
     ],
     [
@@ -164,7 +136,19 @@
       1
     ],
     [
+      "Smartlot Solutions",
+      1
+    ],
+    [
       "Rim Revolution LLC",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
       1
     ],
     [
@@ -176,7 +160,15 @@
       1
     ],
     [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      "greenway auto group 2",
       1
     ],
     [
@@ -192,11 +184,11 @@
       1
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "North Park Lincoln",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       1
     ],
     [
@@ -204,7 +196,7 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "Russ Darrow Group, Inc.",
       1
     ]
   ]
