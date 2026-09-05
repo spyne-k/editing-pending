@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T21:40:48.220Z",
+  "fetchedAt": "2026-09-05T21:49:32.253Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,14 @@
   "rows": [
     [
       null,
-      19
+      16
     ],
     [
       "AX Auto INC",
       3
     ],
     [
-      "Hershey Motors",
-      2
-    ],
-    [
       "Carter Myers Automotive",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
       2
     ],
     [
@@ -61,6 +53,10 @@
     ],
     [
       "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Faircy Automotive",
       1
     ],
     [
