@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T06:00:05.229Z",
+  "fetchedAt": "2026-09-05T06:19:50.701Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      248
+      256
     ],
     [
       "Asbury Automotive Management L.L.C",
-      79
+      80
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -44,8 +44,16 @@
       9
     ],
     [
+      "Your Choice Auto LLC",
+      8
+    ],
+    [
       "Impex Auto Sales",
       7
+    ],
+    [
+      "Performance Automotive Network",
+      6
     ],
     [
       "Twin Pine Ford",
@@ -54,10 +62,6 @@
     [
       "Davidson Auto Group",
       6
-    ],
-    [
-      "Performance Automotive Network",
-      5
     ],
     [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
@@ -80,6 +84,10 @@
       3
     ],
     [
+      "AutoGiant USA",
+      3
+    ],
+    [
       "Alpha One Automotive",
       3
     ],
@@ -92,11 +100,7 @@
       3
     ],
     [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Speedway Car Sales",
+      "Georgia Auto World",
       2
     ],
     [
@@ -112,15 +116,7 @@
       2
     ],
     [
-      "NorthTown Automotive",
-      2
-    ],
-    [
       "Perkins Motors",
-      2
-    ],
-    [
-      "Georgia Auto World",
       2
     ],
     [
@@ -128,15 +124,23 @@
       2
     ],
     [
+      "Speedway Car Sales",
+      2
+    ],
+    [
       "Performance Auto Group",
       2
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      1
     ],
     [
       "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "MB Motors",
       1
     ],
     [
@@ -148,19 +152,15 @@
       1
     ],
     [
-      "MB Motors",
-      1
-    ],
-    [
-      "Subaru of Columbia (CMSUB, LLC)",
-      1
-    ],
-    [
       "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "Your Choice Auto LLC",
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
