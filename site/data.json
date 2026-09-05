@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T03:35:33.038Z",
+  "fetchedAt": "2026-09-05T03:45:22.297Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      198
+      194
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -33,7 +33,7 @@
     ],
     [
       "Bud Clary Chevrolet, INC",
-      10
+      11
     ],
     [
       "Olson Chevrolet",
@@ -42,10 +42,6 @@
     [
       "Impex Auto Sales",
       7
-    ],
-    [
-      "Gettel Automotive Group",
-      6
     ],
     [
       "Twin Pine Ford",
@@ -60,11 +56,11 @@
       5
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Speedway Car Sales",
       4
     ],
     [
-      "Speedway Car Sales",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       4
     ],
     [
@@ -72,7 +68,7 @@
       3
     ],
     [
-      "Sansone Jr's Auto Group",
+      "Pritchard Companies",
       3
     ],
     [
@@ -80,7 +76,7 @@
       3
     ],
     [
-      "Bob King",
+      "Alpha One Automotive",
       3
     ],
     [
@@ -88,11 +84,11 @@
       3
     ],
     [
-      "Pritchard Companies",
+      "Bob King",
       3
     ],
     [
-      "Jim Schmidt Automotive",
+      "Sansone Jr's Auto Group",
       3
     ],
     [
@@ -100,15 +96,19 @@
       3
     ],
     [
-      "Alpha One Automotive",
+      "Jim Schmidt Automotive",
       3
+    ],
+    [
+      "Auto Park Chrysler Dodge Jeep Ram",
+      2
     ],
     [
       "Dick Dyer & Associates",
       2
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "Georgia Auto World",
       2
     ],
     [
@@ -124,14 +124,6 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Covert Ford Lincoln",
-      1
-    ],
-    [
       "Blasius South",
       1
     ],
@@ -140,11 +132,19 @@
       1
     ],
     [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Covert Ford Lincoln",
+      1
+    ],
+    [
       "Rim Revolution LLC",
       1
     ],
     [
-      "Covert Auto Group",
+      "greenway auto group 2",
       1
     ],
     [
@@ -160,7 +160,7 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "North Park Lincoln",
       1
     ],
     [
@@ -168,7 +168,7 @@
       1
     ],
     [
-      "greenway auto group 2",
+      "Covert Auto Group",
       1
     ],
     [
@@ -184,7 +184,7 @@
       1
     ],
     [
-      "North Park Lincoln",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -196,7 +196,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Rohrich Automotive Group",
       1
     ]
   ]
