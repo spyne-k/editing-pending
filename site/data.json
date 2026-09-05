@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T08:53:19.889Z",
+  "fetchedAt": "2026-09-05T09:02:35.184Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      281
+      234
     ],
     [
       "Asbury Automotive Management L.L.C",
-      99
+      46
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -44,6 +44,10 @@
       7
     ],
     [
+      "Bob Johnson Automotive Group",
+      6
+    ],
+    [
       "Twin Pine Ford",
       6
     ],
@@ -52,7 +56,7 @@
       6
     ],
     [
-      "Freedom Chevrolet",
+      "Jenkins Auto Group",
       5
     ],
     [
@@ -60,11 +64,7 @@
       5
     ],
     [
-      "Renny Bettan",
-      5
-    ],
-    [
-      "Jenkins Auto Group",
+      "Bergstrom Automotive",
       5
     ],
     [
@@ -72,11 +72,11 @@
       5
     ],
     [
-      "Worldwide Motors LTD dba Paragon Acura",
-      4
+      "Renny Bettan",
+      5
     ],
     [
-      "Bergstrom Automotive",
+      "Worldwide Motors LTD dba Paragon Acura",
       4
     ],
     [
@@ -84,7 +84,19 @@
       3
     ],
     [
+      "West Mitsubishi",
+      3
+    ],
+    [
+      "Mossy Motors",
+      3
+    ],
+    [
       "AutoGiant USA",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
       3
     ],
     [
@@ -96,12 +108,8 @@
       3
     ],
     [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
-      "West Mitsubishi",
-      3
+      "Dick Dyer & Associates",
+      2
     ],
     [
       "Bob Allen Ford- Ottawa",
@@ -112,11 +120,7 @@
       2
     ],
     [
-      "Kia Vancouver",
-      2
-    ],
-    [
-      "Jidd Performance",
+      "Soave Automotive Group",
       2
     ],
     [
@@ -128,7 +132,7 @@
       2
     ],
     [
-      "Soave Automotive Group",
+      "Kia Vancouver",
       2
     ],
     [
@@ -136,11 +140,11 @@
       2
     ],
     [
-      "Dick Dyer & Associates",
+      "Georgia Auto World",
       2
     ],
     [
-      "Georgia Auto World",
+      "Jidd Performance",
       2
     ],
     [
@@ -148,7 +152,7 @@
       2
     ],
     [
-      "Post Oak Toyota",
+      "North Park Lincoln",
       1
     ],
     [
@@ -168,11 +172,11 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Dubizzle Cars L.L.C",
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "MB Motors",
       1
     ],
     [
@@ -192,31 +196,11 @@
       1
     ],
     [
-      "Mossy Motors",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "McCurley Dealerships",
-      1
-    ],
-    [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Flood Auto Group",
-      1
-    ],
-    [
-      "Austin Ford CDJR",
-      1
-    ],
-    [
-      "MB Motors",
+      "White Bear Lincoln",
       1
     ],
     [
@@ -224,7 +208,31 @@
       1
     ],
     [
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
       "Curry Chevrolet",
+      1
+    ],
+    [
+      "Flood Auto Group",
+      1
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Austin Ford CDJR",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
