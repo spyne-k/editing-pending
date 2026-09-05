@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T23:29:45.939Z",
+  "fetchedAt": "2026-09-05T23:39:40.856Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,6 +17,10 @@
   "rows": [
     [
       null,
+      18
+    ],
+    [
+      "Flexcar",
       7
     ],
     [
@@ -24,8 +28,12 @@
       4
     ],
     [
-      "BP AUTO FINDERS",
-      1
+      "Turn Auto Mall",
+      3
+    ],
+    [
+      "Rochester Toyota",
+      2
     ],
     [
       "Your Choice Auto LLC",
