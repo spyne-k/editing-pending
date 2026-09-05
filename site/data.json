@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T09:17:30.280Z",
+  "fetchedAt": "2026-09-05T09:28:10.159Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      177
+      171
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -44,19 +44,15 @@
       7
     ],
     [
-      "Twin Pine Ford",
-      6
-    ],
-    [
       "Davidson Auto Group",
       6
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      5
+      "Twin Pine Ford",
+      6
     ],
     [
-      "Jim Schmidt Automotive",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       5
     ],
     [
@@ -80,15 +76,15 @@
       3
     ],
     [
+      "Mossy Motors",
+      3
+    ],
+    [
       "Apex Automotive Group",
       3
     ],
     [
       "Alpha One Automotive",
-      3
-    ],
-    [
-      "Mossy Motors",
       3
     ],
     [
@@ -104,6 +100,10 @@
       2
     ],
     [
+      "Soave Automotive Group",
+      2
+    ],
+    [
       "Yoder Family of Companies",
       2
     ],
@@ -112,11 +112,11 @@
       2
     ],
     [
-      "Performance Auto Group",
+      "Kia Vancouver",
       2
     ],
     [
-      "Soave Automotive Group",
+      "Performance Auto Group",
       2
     ],
     [
@@ -124,23 +124,19 @@
       2
     ],
     [
-      "Kia Vancouver",
-      2
-    ],
-    [
       "Speedway Car Sales",
       2
     ],
     [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "Jidd Motors Mitsubishi",
+      "McCurley Dealerships",
       1
     ],
     [
       "Covert Auto Group",
+      1
+    ],
+    [
+      "Dubizzle Cars L.L.C",
       1
     ],
     [
@@ -152,11 +148,7 @@
       1
     ],
     [
-      "Dubizzle Cars L.L.C",
-      1
-    ],
-    [
-      "McCurley Dealerships",
+      "Post Oak Toyota",
       1
     ],
     [
@@ -176,7 +168,7 @@
       1
     ],
     [
-      "White Bear Lincoln",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -196,11 +188,11 @@
       1
     ],
     [
-      "MB Motors",
+      "North Park Lincoln",
       1
     ],
     [
-      "North Park Lincoln",
+      "MB Motors",
       1
     ],
     [
@@ -208,7 +200,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "White Bear Lincoln",
       1
     ]
   ]
