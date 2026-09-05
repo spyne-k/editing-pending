@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T14:17:33.190Z",
+  "fetchedAt": "2026-09-05T14:28:20.112Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      52
+      53
     ],
     [
       "Duffys Auto",
@@ -77,6 +77,10 @@
     ],
     [
       "MB Motors",
+      1
+    ],
+    [
+      "Sherwood Ford",
       1
     ],
     [
