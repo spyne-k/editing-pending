@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T22:23:09.377Z",
+  "fetchedAt": "2026-09-05T22:31:56.295Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,7 @@
   "rows": [
     [
       null,
-      9
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Midwest Auto Group",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
+      5
     ],
     [
       "IM Marketplace GmBH",
@@ -49,10 +37,6 @@
     ],
     [
       "Dobbs Equity Partners, LLC",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
