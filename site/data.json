@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T05:34:58.350Z",
+  "fetchedAt": "2026-09-05T05:44:07.283Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      203
+      224
     ],
     [
       "Asbury Automotive Management L.L.C",
-      42
+      51
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -30,6 +30,10 @@
     [
       "Amato Hyundai Of Glendale",
       25
+    ],
+    [
+      "DealerVision.com",
+      10
     ],
     [
       "Olson Chevrolet",
@@ -76,19 +80,15 @@
       3
     ],
     [
-      "Alpha One Automotive",
-      3
-    ],
-    [
       "AutoGiant USA",
       3
     ],
     [
-      "DealerVision.com",
+      "Bob Johnson Automotive Group",
       3
     ],
     [
-      "Apex Automotive Group",
+      "Jenkins Auto Group",
       3
     ],
     [
@@ -96,11 +96,15 @@
       3
     ],
     [
-      "Speedway Car Sales",
-      2
+      "Alpha One Automotive",
+      3
     ],
     [
-      "Georgia Auto World",
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -108,23 +112,7 @@
       2
     ],
     [
-      "Smartlot Solutions",
-      2
-    ],
-    [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Dick Dyer & Associates",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
+      "Georgia Auto World",
       2
     ],
     [
@@ -132,23 +120,27 @@
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
-      1
+      "Perkins Motors",
+      2
     ],
     [
-      "Bill Dickason Chevrolet",
-      1
+      "Performance Auto Group",
+      2
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      1
+      "Speedway Car Sales",
+      2
     ],
     [
-      "Bergstrom Automotive",
-      1
+      "Greenway Automotive Group",
+      2
     ],
     [
-      "MB Motors",
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
@@ -156,7 +148,15 @@
       1
     ],
     [
-      "Perkins Motors",
+      "MB Motors",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
@@ -164,11 +164,15 @@
       1
     ],
     [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
       "Rochester Toyota",
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Bill Dickason Chevrolet",
       1
     ],
     [
