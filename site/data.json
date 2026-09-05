@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T20:30:18.506Z",
+  "fetchedAt": "2026-09-05T20:40:56.098Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,26 @@
   "rows": [
     [
       null,
-      40
-    ],
-    [
-      "Midwest Auto Group",
-      22
-    ],
-    [
-      "AX Auto INC",
-      4
+      20
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
+      "IM Marketplace GmBH",
+      3
+    ],
+    [
+      "Hershey Motors",
+      2
+    ],
+    [
       "Faircy Automotive",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
       2
     ],
     [
@@ -45,10 +49,6 @@
     ],
     [
       "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "IM Marketplace GmBH",
       1
     ],
     [
