@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T23:39:40.856Z",
+  "fetchedAt": "2026-09-05T23:48:05.888Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,35 @@
   "rows": [
     [
       null,
-      18
+      26
     ],
     [
       "Flexcar",
-      7
+      9
+    ],
+    [
+      "Turn Auto Mall",
+      4
     ],
     [
       "Performance Automotive Network",
       4
     ],
     [
-      "Turn Auto Mall",
+      "AutoGiant USA",
       3
     ],
     [
       "Rochester Toyota",
       2
+    ],
+    [
+      "Subaru of Gwinnett",
+      1
+    ],
+    [
+      "Countryside Mitsubishi",
+      1
     ],
     [
       "Your Choice Auto LLC",
