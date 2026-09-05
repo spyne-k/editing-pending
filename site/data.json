@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T19:44:58.656Z",
+  "fetchedAt": "2026-09-05T19:53:42.542Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      33
-    ],
-    [
-      "IM Marketplace GmBH",
-      21
+      15
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -32,11 +28,19 @@
       4
     ],
     [
-      "Car Central",
+      "IM Marketplace GmBH",
+      2
+    ],
+    [
+      "AX Auto INC",
       1
     ],
     [
       "Dobbs Equity Partners, LLC",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
