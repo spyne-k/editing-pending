@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T11:08:55.136Z",
+  "fetchedAt": "2026-09-05T11:20:44.771Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,18 @@
   "rows": [
     [
       null,
-      89
+      75
     ],
     [
       "Car Castle",
       13
     ],
     [
-      "Performance Automotive Network",
-      7
-    ],
-    [
-      "Twin Pine Ford",
-      6
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Jenkins Auto Group",
       5
     ],
     [
-      "Jenkins Auto Group",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       5
     ],
     [
@@ -44,23 +36,11 @@
       4
     ],
     [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
-      "Bob Allen Ford- Ottawa",
+      "Asbury Automotive Management L.L.C",
       3
     ],
     [
       "AutoGiant USA",
-      3
-    ],
-    [
-      "Stouffair Motors",
-      3
-    ],
-    [
-      "Dave Syverson Auto Center",
       3
     ],
     [
@@ -80,6 +60,26 @@
       3
     ],
     [
+      "Gettel Automotive Group",
+      3
+    ],
+    [
+      "Bob Allen Ford- Ottawa",
+      3
+    ],
+    [
+      "Stouffair Motors",
+      3
+    ],
+    [
+      "Dave Syverson Auto Center",
+      3
+    ],
+    [
+      "S&S Motors",
+      2
+    ],
+    [
       "Kia Vancouver",
       2
     ],
@@ -88,23 +88,15 @@
       2
     ],
     [
-      "S&S Motors",
-      2
-    ],
-    [
       "Speedway Car Sales",
       2
     ],
     [
-      "Post Oak Toyota",
+      "MB Motors",
       1
     ],
     [
-      "Dubizzle Cars L.L.C",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
+      "North Park Lincoln",
       1
     ],
     [
@@ -112,7 +104,11 @@
       1
     ],
     [
-      "Bridgeton Auto Mall",
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Dubizzle Cars L.L.C",
       1
     ],
     [
@@ -124,23 +120,7 @@
       1
     ],
     [
-      "Parks Chevrolet Richmond",
-      1
-    ],
-    [
       "Nelson Automotive Inc",
-      1
-    ],
-    [
-      "McCurley Dealerships",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "MB Motors",
       1
     ],
     [
@@ -148,7 +128,7 @@
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "McCurley Dealerships",
       1
     ]
   ]
