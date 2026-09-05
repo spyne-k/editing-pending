@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T18:32:08.349Z",
+  "fetchedAt": "2026-09-05T18:45:11.363Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,14 @@
   "rows": [
     [
       null,
-      20
+      17
     ],
     [
       "IM Marketplace GmBH",
-      14
-    ],
-    [
-      "Emerald Motors",
-      2
+      15
     ],
     [
       "MEI Inc",
-      1
-    ],
-    [
-      "Ghost Auto Werkz",
-      1
-    ],
-    [
-      "Car Bazaar",
       1
     ],
     [
