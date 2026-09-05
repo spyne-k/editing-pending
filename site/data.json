@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T21:11:04.950Z",
+  "fetchedAt": "2026-09-05T21:22:33.821Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      25
+      24
     ],
     [
       "Greenway Automotive Group",
@@ -69,10 +69,6 @@
     ],
     [
       "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "IM Marketplace GmBH",
       1
     ],
     [
