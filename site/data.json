@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T19:36:28.071Z",
+  "fetchedAt": "2026-09-05T19:44:58.656Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      31
+      33
     ],
     [
       "IM Marketplace GmBH",
-      20
+      21
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -32,11 +32,15 @@
       4
     ],
     [
+      "Car Central",
+      1
+    ],
+    [
       "Dobbs Equity Partners, LLC",
       1
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Auto Park Chrysler Dodge Jeep Ram",
       1
     ]
   ]
