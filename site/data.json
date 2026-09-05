@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T11:30:02.303Z",
+  "fetchedAt": "2026-09-05T11:39:33.362Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      70
+      69
     ],
     [
       "Car Castle",
@@ -32,7 +32,11 @@
       4
     ],
     [
-      "Gettel Automotive Group",
+      "Stouffair Motors",
+      3
+    ],
+    [
+      "Mossy Motors",
       3
     ],
     [
@@ -48,15 +52,11 @@
       3
     ],
     [
-      "Mossy Motors",
+      "Gettel Automotive Group",
       3
     ],
     [
       "Bob Allen Ford- Ottawa",
-      3
-    ],
-    [
-      "Stouffair Motors",
       3
     ],
     [
@@ -84,6 +84,10 @@
       1
     ],
     [
+      "Magnum Car Sales",
+      1
+    ],
+    [
       "North Park Lincoln",
       1
     ],
@@ -100,19 +104,11 @@
       1
     ],
     [
-      "Dubizzle Cars L.L.C",
-      1
-    ],
-    [
       "Hewlett Volkswagen, LP",
       1
     ],
     [
       "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Nelson Automotive Inc",
       1
     ]
   ]
