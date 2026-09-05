@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T12:41:57.041Z",
+  "fetchedAt": "2026-09-05T12:52:52.078Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      47
+      55
+    ],
+    [
+      "Quantrell Auto Group",
+      12
     ],
     [
       "Duffys Auto",
@@ -25,10 +29,6 @@
     ],
     [
       "KAR Auto Group",
-      4
-    ],
-    [
-      "Quantrell Auto Group",
       4
     ],
     [
