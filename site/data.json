@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:42:17.089Z",
+  "fetchedAt": "2026-09-05T04:50:33.626Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      231
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      84
+      151
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -48,7 +44,7 @@
       6
     ],
     [
-      "Performance Automotive Network",
+      "Hawthorne Auto Square",
       5
     ],
     [
@@ -60,19 +56,15 @@
       5
     ],
     [
+      "Performance Automotive Network",
+      5
+    ],
+    [
       "Worldwide Motors LTD dba Paragon Acura",
       4
     ],
     [
       "Bob King",
-      3
-    ],
-    [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Hawthorne Auto Square",
       3
     ],
     [
@@ -84,11 +76,15 @@
       3
     ],
     [
-      "Sansone Jr's Auto Group",
+      "DealerVision.com",
       3
     ],
     [
-      "DealerVision.com",
+      "AutoGiant USA",
+      3
+    ],
+    [
+      "Sansone Jr's Auto Group",
       3
     ],
     [
@@ -96,23 +92,15 @@
       3
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
-      2
-    ],
-    [
       "Dick Dyer & Associates",
       2
     ],
     [
-      "Greenway Automotive Group",
+      "NorthTown Automotive",
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
+      "Smartlot Solutions",
       2
     ],
     [
@@ -120,23 +108,31 @@
       2
     ],
     [
-      "Lambert Buick GMC Inc",
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Auto Park Chrysler Dodge Jeep Ram",
+      2
+    ],
+    [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
-      1
-    ],
-    [
-      "Smartlot Solutions",
+      "Covert Ford Lincoln",
       1
     ],
     [
       "Blasius South",
-      1
-    ],
-    [
-      "NorthTown Automotive",
       1
     ],
     [
@@ -148,11 +144,7 @@
       1
     ],
     [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Rochester Toyota",
       1
     ],
     [
@@ -160,7 +152,11 @@
       1
     ],
     [
-      "Covert Ford Lincoln",
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      1
+    ],
+    [
+      "Elite Auto Marketing Solutions",
       1
     ]
   ]
