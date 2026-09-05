@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T16:52:33.229Z",
+  "fetchedAt": "2026-09-05T17:01:03.922Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      22
+      21
     ],
     [
       "IM Marketplace GmBH",
-      7
+      8
     ],
     [
       "Greenway Automotive Group",
@@ -30,10 +30,6 @@
     [
       "Asbury Automotive Management L.L.C",
       4
-    ],
-    [
-      "Yoder Family of Companies",
-      3
     ],
     [
       "Toronto Honda",
@@ -49,6 +45,10 @@
     ],
     [
       "Auto Park Chrysler Dodge Jeep Ram",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ]
   ]
