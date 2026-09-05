@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T02:57:38.781Z",
+  "fetchedAt": "2026-09-05T03:11:18.551Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      174
+      190
     ],
     [
       "Asbury Automotive Management L.L.C",
-      26
+      31
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -32,7 +32,11 @@
       9
     ],
     [
-      "Graff Auto Campus",
+      "Bud Clary Chevrolet, INC",
+      9
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
       8
     ],
     [
@@ -40,7 +44,7 @@
       7
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Buckhannon Toyota",
       6
     ],
     [
@@ -60,15 +64,31 @@
       5
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      5
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      4
     ],
     [
       "Speedway Car Sales",
       4
     ],
     [
-      "Bob King",
+      "Brandon Steven Motors",
+      3
+    ],
+    [
+      "Toronto Honda",
+      3
+    ],
+    [
+      "Alpha One Automotive",
+      3
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
       3
     ],
     [
@@ -80,27 +100,7 @@
       3
     ],
     [
-      "Alpha One Automotive",
-      3
-    ],
-    [
-      "Toronto Honda",
-      3
-    ],
-    [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Brandon Steven Motors",
-      3
-    ],
-    [
-      "Sansone Jr's Auto Group",
+      "Pritchard Companies",
       3
     ],
     [
@@ -108,11 +108,19 @@
       3
     ],
     [
-      "Pritchard Companies",
+      "AutoGiant USA",
       3
     ],
     [
-      "Buckhannon Toyota",
+      "Sansone Jr's Auto Group",
+      3
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "Georgia Auto World",
       2
     ],
     [
@@ -120,11 +128,7 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "Performance Auto Group",
       2
     ],
     [
@@ -132,23 +136,19 @@
       2
     ],
     [
-      "Performance Auto Group",
-      2
-    ],
-    [
       "Van Horn Automotive Group",
       2
     ],
     [
-      "Smartlot Solutions",
+      "Auto Park Chrysler Dodge Jeep Ram",
+      2
+    ],
+    [
+      "Covert Ford Lincoln",
       1
     ],
     [
-      "Husker Chevrolet",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
+      "North Park Lincoln",
       1
     ],
     [
@@ -156,7 +156,23 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Smartlot Solutions",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "Husker Chevrolet",
       1
     ],
     [
@@ -164,11 +180,11 @@
       1
     ],
     [
-      "Blasius South",
+      "Greenway Automotive Group",
       1
     ],
     [
-      "North Park Lincoln",
+      "ZT Automotive",
       1
     ],
     [
@@ -180,15 +196,11 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -196,7 +208,7 @@
       1
     ],
     [
-      "Covert Auto Group",
+      "Blasius South",
       1
     ]
   ]
