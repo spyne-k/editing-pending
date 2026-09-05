@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T16:44:22.043Z",
+  "fetchedAt": "2026-09-05T16:52:33.229Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      26
+      22
     ],
     [
       "IM Marketplace GmBH",
-      6
+      7
     ],
     [
       "Greenway Automotive Group",
@@ -32,16 +32,8 @@
       4
     ],
     [
-      "Homan Auto Sales Inc",
-      3
-    ],
-    [
       "Yoder Family of Companies",
       3
-    ],
-    [
-      "Flexcar",
-      1
     ],
     [
       "Toronto Honda",
@@ -49,10 +41,6 @@
     ],
     [
       "North Park Lincoln",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
