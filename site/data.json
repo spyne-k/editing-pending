@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T14:28:20.112Z",
+  "fetchedAt": "2026-09-05T14:38:29.834Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -56,6 +56,10 @@
       3
     ],
     [
+      "Asbury Automotive Management L.L.C",
+      3
+    ],
+    [
       "Car Central",
       2
     ],
@@ -68,11 +72,7 @@
       2
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      2
-    ],
-    [
-      "Yemm Auto",
+      "MEI Inc",
       1
     ],
     [
@@ -96,15 +96,11 @@
       1
     ],
     [
-      "Bergstrom Automotive",
+      "Key West Ford Sales Ltd",
       1
     ],
     [
       "Loyalty Chevrolet/Cadillac",
-      1
-    ],
-    [
-      "Strategic Vehicle Solutions",
       1
     ]
   ]
