@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T09:28:10.159Z",
+  "fetchedAt": "2026-09-05T09:39:06.564Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      171
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      28
+      154
     ],
     [
       "Amato Hyundai Of Glendale",
       25
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      10
     ],
     [
       "Bob Johnson Automotive Group",
@@ -44,11 +44,11 @@
       7
     ],
     [
-      "Davidson Auto Group",
+      "Twin Pine Ford",
       6
     ],
     [
-      "Twin Pine Ford",
+      "Davidson Auto Group",
       6
     ],
     [
@@ -68,15 +68,11 @@
       3
     ],
     [
-      "Gettel Automotive Group",
+      "AutoGiant USA",
       3
     ],
     [
       "West Mitsubishi",
-      3
-    ],
-    [
-      "Mossy Motors",
       3
     ],
     [
@@ -88,27 +84,19 @@
       3
     ],
     [
-      "AutoGiant USA",
+      "Mossy Motors",
       3
     ],
     [
-      "Jidd Performance",
-      2
+      "Gettel Automotive Group",
+      3
     ],
     [
       "Bob Allen Ford- Ottawa",
-      2
+      3
     ],
     [
-      "Soave Automotive Group",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Dick Dyer & Associates",
+      "White Bear Lincoln",
       2
     ],
     [
@@ -116,7 +104,15 @@
       2
     ],
     [
-      "Performance Auto Group",
+      "Dick Dyer & Associates",
+      2
+    ],
+    [
+      "Soave Automotive Group",
+      2
+    ],
+    [
+      "S&S Motors",
       2
     ],
     [
@@ -124,31 +120,27 @@
       2
     ],
     [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Performance Auto Group",
+      2
+    ],
+    [
       "Speedway Car Sales",
       2
     ],
     [
-      "McCurley Dealerships",
-      1
+      "Jidd Performance",
+      2
     ],
     [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Dubizzle Cars L.L.C",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
+      "Charlie Clark Hyundai",
       1
     ],
     [
       "Bridgeton Auto Mall",
-      1
-    ],
-    [
-      "Post Oak Toyota",
       1
     ],
     [
@@ -168,7 +160,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "McCurley Dealerships",
       1
     ],
     [
@@ -176,19 +168,15 @@
       1
     ],
     [
-      "Curry Chevrolet",
+      "Post Oak Toyota",
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "Dubizzle Cars L.L.C",
       1
     ],
     [
-      "Flood Auto Group",
-      1
-    ],
-    [
-      "North Park Lincoln",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -196,11 +184,15 @@
       1
     ],
     [
+      "North Park Lincoln",
+      1
+    ],
+    [
       "Austin Ford CDJR",
       1
     ],
     [
-      "White Bear Lincoln",
+      "S&L Motors, Pulaski WI",
       1
     ]
   ]
