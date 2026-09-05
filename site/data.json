@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T11:56:26.233Z",
+  "fetchedAt": "2026-09-05T12:10:08.096Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      56
+      57
     ],
     [
       "Car Castle",
@@ -28,8 +28,8 @@
       8
     ],
     [
-      "Mossy Motors",
-      3
+      "KAR Auto Group",
+      4
     ],
     [
       "AutoGiant USA",
