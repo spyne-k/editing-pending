@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T19:27:06.430Z",
+  "fetchedAt": "2026-09-05T19:36:28.071Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      33
+      31
     ],
     [
       "IM Marketplace GmBH",
-      19
+      20
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -30,14 +30,6 @@
     [
       "Greenway Automotive Group",
       4
-    ],
-    [
-      "ROSI Automotive Group",
-      2
-    ],
-    [
-      "Emerald Motors",
-      1
     ],
     [
       "Dobbs Equity Partners, LLC",
