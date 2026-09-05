@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T06:34:33.190Z",
+  "fetchedAt": "2026-09-05T06:46:44.597Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      258
+      274
     ],
     [
       "Asbury Automotive Management L.L.C",
-      85
+      99
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -44,12 +44,12 @@
       8
     ],
     [
-      "Impex Auto Sales",
+      "Performance Automotive Network",
       7
     ],
     [
-      "Performance Automotive Network",
-      6
+      "Impex Auto Sales",
+      7
     ],
     [
       "Perkins Motors",
@@ -76,15 +76,15 @@
       4
     ],
     [
+      "Jenkins Auto Group",
+      4
+    ],
+    [
       "Bob King",
       3
     ],
     [
       "AutoGiant USA",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
       3
     ],
     [
@@ -100,7 +100,15 @@
       3
     ],
     [
+      "Bergstrom Automotive",
+      3
+    ],
+    [
       "Performance Auto Group",
+      2
+    ],
+    [
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -112,19 +120,11 @@
       2
     ],
     [
-      "Dick Dyer & Associates",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
       "Speedway Car Sales",
       2
     ],
     [
-      "Bergstrom Automotive",
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -136,10 +136,6 @@
       2
     ],
     [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
       "Bud Clary Chevrolet, INC",
       1
     ],
@@ -148,7 +144,7 @@
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -156,7 +152,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -172,7 +168,7 @@
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -180,11 +176,11 @@
       1
     ],
     [
-      "Bill Dickason Chevrolet",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Charlie Clark Hyundai",
       1
     ]
   ]
