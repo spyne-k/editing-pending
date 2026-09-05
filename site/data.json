@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T16:24:50.478Z",
+  "fetchedAt": "2026-09-05T16:35:38.165Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      18
+      24
+    ],
+    [
+      "IM Marketplace GmBH",
+      4
     ],
     [
       "Greenway Automotive Group",
@@ -28,8 +32,12 @@
       4
     ],
     [
-      "IM Marketplace GmBH",
+      "Yoder Family of Companies",
       3
+    ],
+    [
+      "Homan Auto Sales Inc",
+      2
     ],
     [
       "Performance Automotive Network",
