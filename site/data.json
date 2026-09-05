@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:58:58.313Z",
+  "fetchedAt": "2026-09-05T05:12:29.030Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      156
+      188
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      29
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -48,15 +52,19 @@
       6
     ],
     [
-      "Performance Automotive Network",
-      5
-    ],
-    [
       "Hawthorne Auto Square",
       5
     ],
     [
+      "Performance Automotive Network",
+      5
+    ],
+    [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
+      5
+    ],
+    [
+      "Jim Schmidt Automotive",
       5
     ],
     [
@@ -68,19 +76,11 @@
       3
     ],
     [
-      "DealerVision.com",
-      3
-    ],
-    [
       "Alpha One Automotive",
       3
     ],
     [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
@@ -88,8 +88,16 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "DealerVision.com",
       3
+    ],
+    [
+      "AutoGiant USA",
+      3
+    ],
+    [
+      "Dick Dyer & Associates",
+      2
     ],
     [
       "NorthTown Automotive",
@@ -100,7 +108,7 @@
       2
     ],
     [
-      "Dick Dyer & Associates",
+      "Dream Automotive",
       2
     ],
     [
@@ -124,23 +132,11 @@
       2
     ],
     [
-      "Covert Ford Lincoln",
-      1
-    ],
-    [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "Car Central",
-      1
-    ],
-    [
       "Charlie Clark Hyundai",
       1
     ],
     [
-      "Rochester Toyota",
+      "Bergstrom Automotive",
       1
     ],
     [
@@ -148,11 +144,15 @@
       1
     ],
     [
-      "Novacti",
+      "Subaru of Columbia (CMSUB, LLC)",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Car Central",
+      1
+    ],
+    [
+      "Rochester Toyota",
       1
     ],
     [
@@ -160,7 +160,11 @@
       1
     ],
     [
-      "Blasius South",
+      "Novacti",
+      1
+    ],
+    [
+      "Covert Ford Lincoln",
       1
     ]
   ]
