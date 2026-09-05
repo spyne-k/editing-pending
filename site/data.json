@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T10:20:20.371Z",
+  "fetchedAt": "2026-09-05T10:30:17.197Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      117
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      10
+      108
     ],
     [
       "Olson Chevrolet",
@@ -36,11 +32,11 @@
       7
     ],
     [
-      "Davidson Auto Group",
+      "Twin Pine Ford",
       6
     ],
     [
-      "Twin Pine Ford",
+      "Davidson Auto Group",
       6
     ],
     [
@@ -56,11 +52,11 @@
       4
     ],
     [
-      "Mossy Motors",
+      "Bob King",
       3
     ],
     [
-      "West Mitsubishi",
+      "Bob Allen Ford- Ottawa",
       3
     ],
     [
@@ -88,19 +84,15 @@
       3
     ],
     [
-      "Bob King",
+      "West Mitsubishi",
       3
     ],
     [
-      "Bob Allen Ford- Ottawa",
+      "Mossy Motors",
       3
     ],
     [
-      "S&S Motors",
-      2
-    ],
-    [
-      "Kia Vancouver",
+      "AX Auto INC",
       2
     ],
     [
@@ -112,11 +104,7 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Performance Auto Group",
+      "S&S Motors",
       2
     ],
     [
@@ -124,11 +112,27 @@
       2
     ],
     [
-      "McCurley Dealerships",
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Kia Vancouver",
+      2
+    ],
+    [
+      "Dubizzle Cars L.L.C",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
       "Bridgeton Auto Mall",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -140,19 +144,15 @@
       1
     ],
     [
-      "Dubizzle Cars L.L.C",
-      1
-    ],
-    [
       "Parks Chevrolet Richmond",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Nelson Automotive Inc",
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "McCurley Dealerships",
       1
     ],
     [
@@ -160,11 +160,11 @@
       1
     ],
     [
-      "MB Motors",
+      "Post Oak Toyota",
       1
     ],
     [
-      "Post Oak Toyota",
+      "MB Motors",
       1
     ],
     [
