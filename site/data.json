@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T08:34:16.561Z",
+  "fetchedAt": "2026-09-05T08:44:49.729Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      274
+      276
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -44,10 +44,6 @@
       7
     ],
     [
-      "Perkins Motors",
-      6
-    ],
-    [
       "Twin Pine Ford",
       6
     ],
@@ -56,11 +52,11 @@
       6
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Freedom Chevrolet",
       5
     ],
     [
-      "Jim Schmidt Automotive",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       5
     ],
     [
@@ -68,11 +64,19 @@
       5
     ],
     [
+      "Jim Schmidt Automotive",
+      5
+    ],
+    [
+      "Renny Bettan",
+      4
+    ],
+    [
       "Worldwide Motors LTD dba Paragon Acura",
       4
     ],
     [
-      "Apex Automotive Group",
+      "AutoGiant USA",
       3
     ],
     [
@@ -80,19 +84,7 @@
       3
     ],
     [
-      "West Mitsubishi",
-      3
-    ],
-    [
-      "Bergstrom Automotive",
-      3
-    ],
-    [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Gettel Automotive Group",
+      "Apex Automotive Group",
       3
     ],
     [
@@ -100,15 +92,19 @@
       3
     ],
     [
-      "Soave Automotive Group",
-      2
+      "Gettel Automotive Group",
+      3
+    ],
+    [
+      "Bergstrom Automotive",
+      3
+    ],
+    [
+      "West Mitsubishi",
+      3
     ],
     [
       "Speedway Car Sales",
-      2
-    ],
-    [
-      "Santa Motors CA",
       2
     ],
     [
@@ -116,11 +112,23 @@
       2
     ],
     [
-      "Yoder Family of Companies",
+      "Kia Vancouver",
       2
     ],
     [
       "Jidd Performance",
+      2
+    ],
+    [
+      "Santa Motors CA",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Soave Automotive Group",
       2
     ],
     [
@@ -132,23 +140,15 @@
       2
     ],
     [
-      "Kia Vancouver",
-      2
-    ],
-    [
       "Georgia Auto World",
       2
     ],
     [
-      "North Park Lincoln",
+      "Post Oak Toyota",
       1
     ],
     [
       "Jidd Motors Mitsubishi",
-      1
-    ],
-    [
-      "Covert Auto Group",
       1
     ],
     [
@@ -160,7 +160,7 @@
       1
     ],
     [
-      "MB Motors",
+      "Covert Auto Group",
       1
     ],
     [
@@ -188,22 +188,6 @@
       1
     ],
     [
-      "Car Bargain",
-      1
-    ],
-    [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "Curry Chevrolet",
-      1
-    ],
-    [
-      "McCurley Dealerships",
-      1
-    ],
-    [
       "Flood Auto Group",
       1
     ],
@@ -212,11 +196,27 @@
       1
     ],
     [
+      "McCurley Dealerships",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
       "Austin Ford CDJR",
       1
     ],
     [
-      "Renny Bettan",
+      "Curry Chevrolet",
+      1
+    ],
+    [
+      "MB Motors",
+      1
+    ],
+    [
+      "Car Bargain",
       1
     ],
     [
