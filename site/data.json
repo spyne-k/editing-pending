@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T07:19:01.796Z",
+  "fetchedAt": "2026-09-05T07:29:30.384Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      282
+      284
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -92,16 +92,12 @@
       3
     ],
     [
-      "Apex Automotive Group",
-      3
-    ],
-    [
       "Bergstrom Automotive",
       3
     ],
     [
-      "Performance Auto Group",
-      2
+      "Apex Automotive Group",
+      3
     ],
     [
       "Dick Dyer & Associates",
@@ -128,7 +124,19 @@
       2
     ],
     [
+      "Performance Auto Group",
+      2
+    ],
+    [
       "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "MB Motors",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -140,15 +148,11 @@
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "Bridgeton Auto Mall",
       1
     ],
     [
       "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "MB Motors",
       1
     ],
     [
@@ -160,7 +164,11 @@
       1
     ],
     [
-      "McCurley Dealerships",
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "Covert Auto Group",
       1
     ],
     [
@@ -180,11 +188,11 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "McCurley Dealerships",
       1
     ],
     [
-      "Covert Auto Group",
+      "Jidd Motors Mitsubishi",
       1
     ]
   ]
