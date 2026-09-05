@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T12:27:09.404Z",
+  "fetchedAt": "2026-09-05T12:41:57.041Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      44
+      47
     ],
     [
       "Duffys Auto",
@@ -25,6 +25,14 @@
     ],
     [
       "KAR Auto Group",
+      4
+    ],
+    [
+      "Quantrell Auto Group",
+      4
+    ],
+    [
+      "Greenville Automotive Group",
       4
     ],
     [
@@ -44,15 +52,7 @@
       3
     ],
     [
-      "Greenville Automotive Group",
-      3
-    ],
-    [
       "Dave Syverson Auto Center",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       3
     ],
     [
@@ -85,6 +85,10 @@
     ],
     [
       "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
