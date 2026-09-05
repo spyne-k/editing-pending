@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T00:08:19.649Z",
+  "fetchedAt": "2026-09-05T00:32:02.202Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      166
+      186
     ],
     [
       "Amato Hyundai Of Glendale",
-      18
+      25
     ],
     [
       "DealerVision.com",
-      17
+      19
     ],
     [
       "Teton solutions Group",
@@ -33,7 +33,7 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      8
+      15
     ],
     [
       "Graff Auto Campus",
@@ -60,7 +60,15 @@
       5
     ],
     [
+      "Bud Clary Chevrolet, INC",
+      5
+    ],
+    [
       "Flexcar",
+      4
+    ],
+    [
+      "Portsmouth Ford Lincoln",
       4
     ],
     [
@@ -68,11 +76,7 @@
       4
     ],
     [
-      "Toronto Honda",
-      4
-    ],
-    [
-      "Moses Auto Group",
+      "Speedway Car Sales",
       3
     ],
     [
@@ -80,11 +84,11 @@
       3
     ],
     [
-      "Pritchard Companies",
+      "Glass Capital CDJR",
       3
     ],
     [
-      "Jim Schmidt Automotive",
+      "Pritchard Companies",
       3
     ],
     [
@@ -92,7 +96,7 @@
       3
     ],
     [
-      "Portsmouth Ford Lincoln",
+      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -100,19 +104,11 @@
       3
     ],
     [
-      "Jenkins Auto Group",
+      "Moses Auto Group",
       3
     ],
     [
-      "Speedway Car Sales",
-      3
-    ],
-    [
-      "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Dick Dyer & Associates",
+      "Toronto Honda",
       2
     ],
     [
@@ -136,7 +132,15 @@
       2
     ],
     [
+      "Greenway Automotive Group",
+      2
+    ],
+    [
       "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -144,15 +148,19 @@
       1
     ],
     [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
       "Wood Motor Company",
       1
     ],
     [
-      "Car Central",
+      "ZT Automotive",
       1
     ],
     [
-      "ZT Automotive",
+      "Blasius South",
       1
     ],
     [
@@ -164,11 +172,15 @@
       1
     ],
     [
-      "North Park Lincoln",
+      "Smartlot Solutions",
       1
     ],
     [
-      "Smartlot Solutions",
+      "Car Central",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
@@ -180,10 +192,6 @@
       1
     ],
     [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
       "Van Horn Automotive Group",
       1
     ],
@@ -192,11 +200,7 @@
       1
     ],
     [
-      "Blasius South",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "ICL Autos",
       1
     ]
   ]
