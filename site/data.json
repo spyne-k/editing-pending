@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T05:12:29.030Z",
+  "fetchedAt": "2026-09-05T05:24:23.796Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      188
+      204
     ],
     [
       "Asbury Automotive Management L.L.C",
-      29
+      42
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -80,11 +80,7 @@
       3
     ],
     [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Sansone Jr's Auto Group",
+      "AutoGiant USA",
       3
     ],
     [
@@ -92,11 +88,19 @@
       3
     ],
     [
-      "AutoGiant USA",
+      "Sansone Jr's Auto Group",
       3
     ],
     [
-      "Dick Dyer & Associates",
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Speedway Car Sales",
       2
     ],
     [
@@ -104,7 +108,7 @@
       2
     ],
     [
-      "Georgia Auto World",
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -132,7 +136,11 @@
       2
     ],
     [
-      "Charlie Clark Hyundai",
+      "Covert Ford Lincoln",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -148,7 +156,11 @@
       1
     ],
     [
-      "Car Central",
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "Perkins Motors",
       1
     ],
     [
@@ -156,15 +168,11 @@
       1
     ],
     [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
-      1
-    ],
-    [
       "Novacti",
       1
     ],
     [
-      "Covert Ford Lincoln",
+      "Bill Dickason Chevrolet",
       1
     ]
   ]
