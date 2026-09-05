@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T09:56:07.244Z",
+  "fetchedAt": "2026-09-05T10:07:37.830Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      156
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      25
+      133
     ],
     [
       "Car Castle",
@@ -64,7 +60,7 @@
       4
     ],
     [
-      "Bob King",
+      "Gettel Automotive Group",
       3
     ],
     [
@@ -72,11 +68,19 @@
       3
     ],
     [
-      "West Mitsubishi",
+      "Bob King",
       3
     ],
     [
-      "Mossy Motors",
+      "Stouffair Motors",
+      3
+    ],
+    [
+      "Dave Syverson Auto Center",
+      3
+    ],
+    [
+      "West Mitsubishi",
       3
     ],
     [
@@ -88,27 +92,19 @@
       3
     ],
     [
+      "Mossy Motors",
+      3
+    ],
+    [
       "AutoGiant USA",
       3
     ],
     [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
-      "Jidd Performance",
-      2
-    ],
-    [
-      "Kia Vancouver",
-      2
-    ],
-    [
-      "White Bear Lincoln",
-      2
-    ],
-    [
       "Georgia Auto World",
+      2
+    ],
+    [
+      "S&S Motors",
       2
     ],
     [
@@ -124,12 +120,16 @@
       2
     ],
     [
-      "S&S Motors",
+      "Kia Vancouver",
       2
     ],
     [
-      "Soave Automotive Group",
+      "Jidd Performance",
       2
+    ],
+    [
+      "McCurley Dealerships",
+      1
     ],
     [
       "Charlie Clark Hyundai",
@@ -141,10 +141,6 @@
     ],
     [
       "Dubizzle Cars L.L.C",
-      1
-    ],
-    [
-      "McCurley Dealerships",
       1
     ],
     [
@@ -172,11 +168,11 @@
       1
     ],
     [
-      "MB Motors",
+      "Austin Ford CDJR",
       1
     ],
     [
-      "Austin Ford CDJR",
+      "MB Motors",
       1
     ]
   ]
