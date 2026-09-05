@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T09:02:35.184Z",
+  "fetchedAt": "2026-09-05T09:17:30.280Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      234
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      46
+      177
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -30,6 +26,10 @@
     [
       "Amato Hyundai Of Glendale",
       25
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      10
     ],
     [
       "Olson Chevrolet",
@@ -44,10 +44,6 @@
       7
     ],
     [
-      "Bob Johnson Automotive Group",
-      6
-    ],
-    [
       "Twin Pine Ford",
       6
     ],
@@ -56,15 +52,7 @@
       6
     ],
     [
-      "Jenkins Auto Group",
-      5
-    ],
-    [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
-      5
-    ],
-    [
-      "Bergstrom Automotive",
       5
     ],
     [
@@ -72,7 +60,7 @@
       5
     ],
     [
-      "Renny Bettan",
+      "Jenkins Auto Group",
       5
     ],
     [
@@ -84,19 +72,11 @@
       3
     ],
     [
-      "West Mitsubishi",
-      3
-    ],
-    [
-      "Mossy Motors",
-      3
-    ],
-    [
-      "AutoGiant USA",
-      3
-    ],
-    [
       "Gettel Automotive Group",
+      3
+    ],
+    [
+      "West Mitsubishi",
       3
     ],
     [
@@ -108,7 +88,15 @@
       3
     ],
     [
-      "Dick Dyer & Associates",
+      "Mossy Motors",
+      3
+    ],
+    [
+      "AutoGiant USA",
+      3
+    ],
+    [
+      "Jidd Performance",
       2
     ],
     [
@@ -116,23 +104,11 @@
       2
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
-      2
-    ],
-    [
-      "Soave Automotive Group",
-      2
-    ],
-    [
       "Yoder Family of Companies",
       2
     ],
     [
-      "Santa Motors CA",
-      2
-    ],
-    [
-      "Kia Vancouver",
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -140,11 +116,15 @@
       2
     ],
     [
+      "Soave Automotive Group",
+      2
+    ],
+    [
       "Georgia Auto World",
       2
     ],
     [
-      "Jidd Performance",
+      "Kia Vancouver",
       2
     ],
     [
@@ -152,7 +132,7 @@
       2
     ],
     [
-      "North Park Lincoln",
+      "Post Oak Toyota",
       1
     ],
     [
@@ -176,7 +156,7 @@
       1
     ],
     [
-      "MB Motors",
+      "McCurley Dealerships",
       1
     ],
     [
@@ -196,23 +176,11 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
       "White Bear Lincoln",
       1
     ],
     [
-      "Car Bargain",
-      1
-    ],
-    [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
+      "Parks Chevrolet Richmond",
       1
     ],
     [
@@ -220,11 +188,19 @@
       1
     ],
     [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
       "Flood Auto Group",
       1
     ],
     [
-      "Rochester Toyota",
+      "MB Motors",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
@@ -232,12 +208,8 @@
       1
     ],
     [
-      "McCurley Dealerships",
+      "Ryan Buick GMC Cadillac",
       1
-    ],
-    [
-      "carvago2",
-      0
     ]
   ]
 }
