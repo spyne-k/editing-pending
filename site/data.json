@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T17:43:24.180Z",
+  "fetchedAt": "2026-09-05T17:51:46.411Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      23
+      32
     ],
     [
       "IM Marketplace GmBH",
-      9
+      10
+    ],
+    [
+      "Hatimi Auto LLC",
+      8
     ],
     [
       "Greenway Automotive Group",
@@ -32,7 +36,7 @@
       4
     ],
     [
-      "Jaguar Land Rover San Juan",
+      "MEI Inc",
       1
     ],
     [
