@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T05:51:48.957Z",
+  "fetchedAt": "2026-09-05T06:00:05.229Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      237
+      248
     ],
     [
       "Asbury Automotive Management L.L.C",
-      68
+      79
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -76,19 +76,7 @@
       3
     ],
     [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
       "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Sansone Jr's Auto Group",
       3
     ],
     [
@@ -96,11 +84,27 @@
       3
     ],
     [
+      "Sansone Jr's Auto Group",
+      3
+    ],
+    [
       "Apex Automotive Group",
       3
     ],
     [
+      "AutoGiant USA",
+      3
+    ],
+    [
+      "Speedway Car Sales",
+      2
+    ],
+    [
       "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      2
+    ],
+    [
+      "Auto Park Chrysler Dodge Jeep Ram",
       2
     ],
     [
@@ -112,23 +116,11 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Speedway Car Sales",
-      2
-    ],
-    [
-      "Auto Park Chrysler Dodge Jeep Ram",
-      2
-    ],
-    [
-      "Performance Auto Group",
-      2
-    ],
-    [
       "Perkins Motors",
+      2
+    ],
+    [
+      "Georgia Auto World",
       2
     ],
     [
@@ -136,19 +128,15 @@
       2
     ],
     [
-      "Bill Dickason Chevrolet",
+      "Performance Auto Group",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Subaru of Columbia (CMSUB, LLC)",
-      1
-    ],
-    [
-      "MB Motors",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -156,19 +144,31 @@
       1
     ],
     [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "MB Motors",
+      1
+    ],
+    [
+      "Subaru of Columbia (CMSUB, LLC)",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Your Choice Auto LLC",
+      1
+    ],
+    [
+      "Curry Chevrolet",
+      1
+    ],
+    [
       "Flood Auto Group",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -176,7 +176,15 @@
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Bill Dickason Chevrolet",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ]
   ]
