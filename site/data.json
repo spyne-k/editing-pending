@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T00:48:12.568Z",
+  "fetchedAt": "2026-09-05T00:57:47.441Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      187
+      166
     ],
     [
       "Amato Hyundai Of Glendale",
       25
-    ],
-    [
-      "DealerVision.com",
-      19
     ],
     [
       "Teton solutions Group",
@@ -44,11 +40,11 @@
       6
     ],
     [
-      "Gettel Automotive Group",
+      "Twin Pine Ford",
       6
     ],
     [
-      "Twin Pine Ford",
+      "Gettel Automotive Group",
       6
     ],
     [
@@ -72,10 +68,6 @@
       4
     ],
     [
-      "Yemm Auto",
-      4
-    ],
-    [
       "Speedway Car Sales",
       3
     ],
@@ -88,19 +80,19 @@
       3
     ],
     [
-      "Pritchard Companies",
-      3
-    ],
-    [
       "Apex Automotive Group",
       3
     ],
     [
-      "Jim Schmidt Automotive",
+      "Pritchard Companies",
       3
     ],
     [
       "Alpha One Automotive",
+      3
+    ],
+    [
+      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -112,11 +104,11 @@
       2
     ],
     [
-      "Dick Dyer & Associates",
+      "Jenkins Auto Group",
       2
     ],
     [
-      "Georgia Auto World",
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -140,11 +132,15 @@
       2
     ],
     [
-      "Rim Revolution LLC",
-      1
+      "Georgia Auto World",
+      2
     ],
     [
       "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -156,11 +152,11 @@
       1
     ],
     [
-      "North Park Lincoln",
+      "ICL Autos",
       1
     ],
     [
-      "Prestige Auto Sales",
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -168,7 +164,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Wood Motor Company",
       1
     ],
     [
@@ -176,15 +172,15 @@
       1
     ],
     [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "ZT Automotive",
       1
     ],
     [
       "Covert Auto Group",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -200,11 +196,11 @@
       1
     ],
     [
-      "ICL Autos",
+      "North Park Lincoln",
       1
     ],
     [
-      "Kayser Chevrolet",
+      "Russ Darrow Group, Inc.",
       1
     ]
   ]
