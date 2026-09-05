@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T23:21:11.550Z",
+  "fetchedAt": "2026-09-05T23:29:45.939Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      6
+      7
     ],
     [
       "Performance Automotive Network",
       4
+    ],
+    [
+      "BP AUTO FINDERS",
+      1
     ],
     [
       "Your Choice Auto LLC",
