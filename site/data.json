@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T06:55:28.628Z",
+  "fetchedAt": "2026-09-05T07:06:22.203Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      278
+      274
     ],
     [
       "Asbury Automotive Management L.L.C",
-      106
+      107
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -45,10 +45,6 @@
     ],
     [
       "Performance Automotive Network",
-      7
-    ],
-    [
-      "Impex Auto Sales",
       7
     ],
     [
@@ -76,6 +72,10 @@
       4
     ],
     [
+      "MyCar: Trucktown",
+      4
+    ],
+    [
       "Jenkins Auto Group",
       4
     ],
@@ -88,7 +88,7 @@
       3
     ],
     [
-      "AutoGiant USA",
+      "Apex Automotive Group",
       3
     ],
     [
@@ -96,11 +96,11 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "AutoGiant USA",
       3
     ],
     [
-      "Georgia Auto World",
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -112,15 +112,7 @@
       2
     ],
     [
-      "MyCar: Trucktown",
-      2
-    ],
-    [
       "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Dick Dyer & Associates",
       2
     ],
     [
@@ -132,11 +124,11 @@
       2
     ],
     [
-      "S&L Motors, Pulaski WI",
-      1
+      "Georgia Auto World",
+      2
     ],
     [
-      "McCurley Dealerships",
+      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -144,7 +136,15 @@
       1
     ],
     [
-      "MB Motors",
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
@@ -160,7 +160,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "MB Motors",
       1
     ],
     [
@@ -173,10 +173,6 @@
     ],
     [
       "Rochester Toyota",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
       1
     ]
   ]
