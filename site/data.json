@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T23:09:58.592Z",
+  "fetchedAt": "2026-09-05T23:21:11.550Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      17
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      11
+      6
     ],
     [
       "Performance Automotive Network",
