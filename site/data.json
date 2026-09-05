@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T07:48:25.907Z",
+  "fetchedAt": "2026-09-05T07:56:40.865Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      282
+      273
     ],
     [
       "Asbury Automotive Management L.L.C",
-      109
+      98
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -80,11 +80,7 @@
       3
     ],
     [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Apex Automotive Group",
+      "Alpha One Automotive",
       3
     ],
     [
@@ -92,15 +88,15 @@
       3
     ],
     [
-      "Alpha One Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
-      "Georgia Auto World",
-      2
+      "AutoGiant USA",
+      3
     ],
     [
-      "Kia Vancouver",
+      "Speedway Car Sales",
       2
     ],
     [
@@ -124,31 +120,15 @@
       2
     ],
     [
-      "Speedway Car Sales",
+      "Georgia Auto World",
       2
     ],
     [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Bridgeton Auto Mall",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
+      "Kia Vancouver",
+      2
     ],
     [
       "Car Bargain",
-      1
-    ],
-    [
-      "McCurley Dealerships",
-      1
-    ],
-    [
-      "Zink Motor Company",
       1
     ],
     [
@@ -156,7 +136,11 @@
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Bridgeton Auto Mall",
       1
     ],
     [
@@ -164,15 +148,23 @@
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "MB Motors",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
-      "Post Oak Toyota",
+      "Zink Motor Company",
+      1
+    ],
+    [
+      "Smartlot Solutions",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
@@ -180,7 +172,23 @@
       1
     ],
     [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Soave Automotive Group",
+      1
+    ],
+    [
+      "Post Oak Toyota",
+      1
+    ],
+    [
       "Curry Chevrolet",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
@@ -192,7 +200,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -200,11 +208,11 @@
       1
     ],
     [
-      "MB Motors",
+      "Renny Bettan",
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "Ryan Buick GMC Cadillac",
       1
     ]
   ]
