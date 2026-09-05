@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T15:07:00.769Z",
+  "fetchedAt": "2026-09-05T15:20:01.032Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,11 @@
   "rows": [
     [
       null,
-      33
+      24
     ],
     [
       "KAR Auto Group",
       4
-    ],
-    [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Apex Automotive Group",
-      3
     ],
     [
       "Alpha One Automotive",
@@ -37,10 +29,6 @@
     ],
     [
       "Gettel Automotive Group",
-      3
-    ],
-    [
-      "Bob Allen Ford- Ottawa",
       3
     ],
     [
@@ -60,10 +48,6 @@
       1
     ],
     [
-      "Sherwood Ford",
-      1
-    ],
-    [
       "North Park Lincoln",
       1
     ],
@@ -77,6 +61,10 @@
     ],
     [
       "Key West Ford Sales Ltd",
+      1
+    ],
+    [
+      "Auto Park Chrysler Dodge Jeep Ram",
       1
     ]
   ]
