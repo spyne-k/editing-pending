@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T20:40:56.098Z",
+  "fetchedAt": "2026-09-05T20:49:41.135Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,14 @@
   "rows": [
     [
       null,
-      20
+      17
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
-      "IM Marketplace GmBH",
-      3
-    ],
-    [
       "Hershey Motors",
-      2
-    ],
-    [
-      "Faircy Automotive",
       2
     ],
     [
@@ -44,11 +36,19 @@
       2
     ],
     [
+      "AX Auto INC",
+      1
+    ],
+    [
       "Russ Darrow Group, Inc.",
       1
     ],
     [
       "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
       1
     ],
     [
