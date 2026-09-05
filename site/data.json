@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T02:39:40.298Z",
+  "fetchedAt": "2026-09-05T02:49:12.181Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,15 @@
   "rows": [
     [
       null,
-      180
+      168
     ],
     [
       "Amato Hyundai Of Glendale",
       25
     ],
     [
-      "Teton solutions Group",
-      17
-    ],
-    [
       "Asbury Automotive Management L.L.C",
-      15
+      23
     ],
     [
       "Olson Chevrolet",
@@ -44,15 +40,11 @@
       7
     ],
     [
-      "Greenway Automotive Group",
+      "Bud Clary Chevrolet, INC",
       6
     ],
     [
       "Twin Pine Ford",
-      6
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
       6
     ],
     [
@@ -76,7 +68,19 @@
       4
     ],
     [
+      "Brandon Steven Motors",
+      3
+    ],
+    [
+      "Glass Capital CDJR",
+      3
+    ],
+    [
       "Apex Automotive Group",
+      3
+    ],
+    [
+      "Alpha One Automotive",
       3
     ],
     [
@@ -84,11 +88,7 @@
       3
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
-      "Alpha One Automotive",
+      "Toronto Honda",
       3
     ],
     [
@@ -104,12 +104,8 @@
       3
     ],
     [
-      "Glass Capital CDJR",
+      "Bob King",
       3
-    ],
-    [
-      "Performance Auto Group",
-      2
     ],
     [
       "Auto Park Chrysler Dodge Jeep Ram",
@@ -128,10 +124,6 @@
       2
     ],
     [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
       "Yoder Family of Companies",
       2
     ],
@@ -140,23 +132,15 @@
       2
     ],
     [
-      "Toronto Honda",
+      "Performance Auto Group",
       2
-    ],
-    [
-      "Rim Revolution LLC",
-      1
     ],
     [
       "Husker Chevrolet",
       1
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
-      1
-    ],
-    [
-      "Blasius South",
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -168,11 +152,23 @@
       1
     ],
     [
+      "MP auto Sales LLC DBA Carizona",
+      1
+    ],
+    [
+      "Portsmouth Ford Lincoln",
+      1
+    ],
+    [
+      "Blasius South",
+      1
+    ],
+    [
       "Covert Auto Group",
       1
     ],
     [
-      "North Park Lincoln",
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -188,7 +184,7 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "North Park Lincoln",
       1
     ],
     [
@@ -196,7 +192,7 @@
       1
     ],
     [
-      "Kayser Chevrolet",
+      "Rohrich Automotive Group",
       1
     ]
   ]
