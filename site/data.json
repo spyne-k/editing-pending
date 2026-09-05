@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T00:57:47.441Z",
+  "fetchedAt": "2026-09-05T01:09:57.448Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      166
+      176
     ],
     [
       "Amato Hyundai Of Glendale",
       25
     ],
     [
-      "Teton solutions Group",
-      17
+      "Asbury Automotive Management L.L.C",
+      21
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      16
+      "Teton solutions Group",
+      17
     ],
     [
       "Graff Auto Campus",
@@ -76,7 +76,7 @@
       3
     ],
     [
-      "Glass Capital CDJR",
+      "Greenway Automotive Group",
       3
     ],
     [
@@ -84,11 +84,19 @@
       3
     ],
     [
-      "Pritchard Companies",
+      "Glass Capital CDJR",
       3
     ],
     [
       "Alpha One Automotive",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Pritchard Companies",
       3
     ],
     [
@@ -104,15 +112,15 @@
       2
     ],
     [
-      "Jenkins Auto Group",
+      "ICL Autos",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
       2
     ],
     [
       "Dick Dyer & Associates",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
       2
     ],
     [
@@ -136,14 +144,6 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
-      1
-    ],
-    [
       "Smartlot Solutions",
       1
     ],
@@ -152,7 +152,7 @@
       1
     ],
     [
-      "ICL Autos",
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -164,7 +164,7 @@
       1
     ],
     [
-      "Wood Motor Company",
+      "ZT Automotive",
       1
     ],
     [
@@ -172,7 +172,15 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -180,15 +188,11 @@
       1
     ],
     [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
       "Impex Auto Sales",
+      1
+    ],
+    [
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
       1
     ],
     [
@@ -200,7 +204,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Kayser Chevrolet",
       1
     ]
   ]
