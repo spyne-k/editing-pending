@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T12:52:52.078Z",
+  "fetchedAt": "2026-09-05T13:02:04.003Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      55
+      61
     ],
     [
       "Quantrell Auto Group",
-      12
+      16
     ],
     [
       "Duffys Auto",
@@ -65,6 +65,10 @@
     ],
     [
       "Speedway Car Sales",
+      2
+    ],
+    [
+      "Dutch Miller Kia Charlotte",
       2
     ],
     [
