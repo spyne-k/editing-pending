@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T19:04:37.868Z",
+  "fetchedAt": "2026-09-05T19:17:27.698Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,18 @@
   "rows": [
     [
       null,
-      33
+      30
     ],
     [
       "IM Marketplace GmBH",
-      18
+      19
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
-      "Zink Motor Company",
-      3
-    ],
-    [
-      "Cornhusker Auto Center",
+      "AutoGiant USA",
       2
     ],
     [
@@ -41,10 +37,6 @@
     ],
     [
       "MEI Inc",
-      1
-    ],
-    [
-      "Beverly Hills Auto Group",
       1
     ],
     [
