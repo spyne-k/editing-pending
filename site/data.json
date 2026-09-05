@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T14:38:29.834Z",
+  "fetchedAt": "2026-09-05T14:47:03.890Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      53
+      51
     ],
     [
       "Duffys Auto",
@@ -58,10 +58,6 @@
     [
       "Asbury Automotive Management L.L.C",
       3
-    ],
-    [
-      "Car Central",
-      2
     ],
     [
       "Kia Vancouver",
