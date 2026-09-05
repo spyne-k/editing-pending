@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:31:24.976Z",
+  "fetchedAt": "2026-09-05T04:42:17.089Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      209
+      231
     ],
     [
       "Asbury Automotive Management L.L.C",
-      67
+      84
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -56,6 +56,34 @@
       5
     ],
     [
+      "Wood Motor Company",
+      5
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      4
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "AutoGiant USA",
+      3
+    ],
+    [
+      "Hawthorne Auto Square",
+      3
+    ],
+    [
+      "Alpha One Automotive",
+      3
+    ],
+    [
+      "Apex Automotive Group",
+      3
+    ],
+    [
       "Sansone Jr's Auto Group",
       3
     ],
@@ -64,35 +92,11 @@
       3
     ],
     [
-      "Alpha One Automotive",
-      3
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
-      "Glass Capital CDJR",
-      3
-    ],
-    [
-      "Pritchard Companies",
-      3
-    ],
-    [
       "Jim Schmidt Automotive",
       3
     ],
     [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Georgia Auto World",
+      "Auto Park Chrysler Dodge Jeep Ram",
       2
     ],
     [
@@ -100,7 +104,11 @@
       2
     ],
     [
-      "Performance Auto Group",
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Georgia Auto World",
       2
     ],
     [
@@ -108,23 +116,15 @@
       2
     ],
     [
-      "Greenway Automotive Group",
+      "Performance Auto Group",
       2
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
-      2
-    ],
-    [
-      "Wood Motor Company",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
-      "Covert Ford Lincoln",
-      1
-    ],
-    [
-      "Covert Auto Group",
+      "MP auto Sales LLC DBA Carizona",
       1
     ],
     [
@@ -132,15 +132,11 @@
       1
     ],
     [
-      "Parks Chevrolet Richmond",
-      1
-    ],
-    [
       "Blasius South",
       1
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
+      "NorthTown Automotive",
       1
     ],
     [
@@ -156,11 +152,15 @@
       1
     ],
     [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
       "Novacti",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Covert Ford Lincoln",
       1
     ]
   ]
