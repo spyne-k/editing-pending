@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T10:48:56.137Z",
+  "fetchedAt": "2026-09-05T10:57:10.025Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -48,10 +48,6 @@
       4
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
       "Bob Allen Ford- Ottawa",
       3
     ],
@@ -60,11 +56,15 @@
       3
     ],
     [
-      "Stouffair Motors",
+      "Dave Syverson Auto Center",
       3
     ],
     [
-      "Dave Syverson Auto Center",
+      "Mossy Motors",
+      3
+    ],
+    [
+      "West Mitsubishi",
       3
     ],
     [
@@ -76,7 +76,11 @@
       3
     ],
     [
-      "Mossy Motors",
+      "Stouffair Motors",
+      3
+    ],
+    [
+      "Bob King",
       3
     ],
     [
@@ -84,8 +88,8 @@
       3
     ],
     [
-      "West Mitsubishi",
-      3
+      "S&S Motors",
+      2
     ],
     [
       "Kia Vancouver",
@@ -97,10 +101,6 @@
     ],
     [
       "Jidd Performance",
-      2
-    ],
-    [
-      "S&S Motors",
       2
     ],
     [
@@ -116,7 +116,7 @@
       2
     ],
     [
-      "Post Oak Toyota",
+      "McCurley Dealerships",
       1
     ],
     [
@@ -152,15 +152,15 @@
       1
     ],
     [
-      "McCurley Dealerships",
-      1
-    ],
-    [
       "North Park Lincoln",
       1
     ],
     [
       "MB Motors",
+      1
+    ],
+    [
+      "Post Oak Toyota",
       1
     ],
     [
