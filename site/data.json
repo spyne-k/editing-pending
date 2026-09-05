@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T20:57:52.371Z",
+  "fetchedAt": "2026-09-05T21:11:04.950Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,22 @@
   "rows": [
     [
       null,
-      18
+      25
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
+      "AX Auto INC",
+      3
+    ],
+    [
       "Hershey Motors",
       2
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Carter Myers Automotive",
       2
     ],
     [
@@ -36,15 +40,23 @@
       2
     ],
     [
-      "Subaru of Cherry Hill LLC",
+      "Auto Park Chrysler Dodge Jeep Ram",
       2
     ],
     [
-      "AX Auto INC",
+      "Flexcar",
       1
     ],
     [
-      "North Park Lincoln",
+      "Moses Auto Group",
+      1
+    ],
+    [
+      "MyCar: Trucktown",
+      1
+    ],
+    [
+      "Midwest Auto Group",
       1
     ],
     [
@@ -52,11 +64,19 @@
       1
     ],
     [
-      "Dobbs Equity Partners, LLC",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
+      1
+    ],
+    [
+      "Dobbs Equity Partners, LLC",
       1
     ],
     [
