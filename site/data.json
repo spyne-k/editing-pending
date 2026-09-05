@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T18:45:11.363Z",
+  "fetchedAt": "2026-09-05T18:54:38.712Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,30 @@
   "rows": [
     [
       null,
-      17
+      24
     ],
     [
       "IM Marketplace GmBH",
-      15
+      16
+    ],
+    [
+      "Greenway Automotive Group",
+      4
     ],
     [
       "MEI Inc",
       1
     ],
     [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      1
+    ],
+    [
       "Dobbs Equity Partners, LLC",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ]
   ]
