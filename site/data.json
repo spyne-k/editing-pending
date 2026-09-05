@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T19:53:42.542Z",
+  "fetchedAt": "2026-09-05T20:03:31.767Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      15
+      27
+    ],
+    [
+      "Midwest Auto Group",
+      9
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -25,6 +29,10 @@
     ],
     [
       "Greenway Automotive Group",
+      4
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       4
     ],
     [
@@ -37,10 +45,6 @@
     ],
     [
       "Dobbs Equity Partners, LLC",
-      1
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
