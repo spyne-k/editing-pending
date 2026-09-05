@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T01:42:32.783Z",
+  "fetchedAt": "2026-09-05T01:51:22.317Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,10 @@
   "rows": [
     [
       null,
-      196
+      174
     ],
     [
       "Amato Hyundai Of Glendale",
-      25
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       25
     ],
     [
@@ -40,11 +36,7 @@
       8
     ],
     [
-      "Flexcar",
-      6
-    ],
-    [
-      "Twin Pine Ford",
+      "Greenway Automotive Group",
       6
     ],
     [
@@ -52,11 +44,15 @@
       6
     ],
     [
-      "Greenway Automotive Group",
+      "Davidson Auto Group",
       6
     ],
     [
-      "Davidson Auto Group",
+      "Flexcar",
+      6
+    ],
+    [
+      "Twin Pine Ford",
       6
     ],
     [
@@ -77,14 +73,14 @@
     ],
     [
       "Speedway Car Sales",
+      4
+    ],
+    [
+      "Moses Auto Group",
       3
     ],
     [
       "Performance Automotive Network",
-      3
-    ],
-    [
-      "Pritchard Companies",
       3
     ],
     [
@@ -100,7 +96,11 @@
       3
     ],
     [
-      "Moses Auto Group",
+      "Glass Capital CDJR",
+      3
+    ],
+    [
+      "Pritchard Companies",
       3
     ],
     [
@@ -108,11 +108,31 @@
       3
     ],
     [
-      "Glass Capital CDJR",
-      3
+      "ICL Autos",
+      2
     ],
     [
       "Olson Chevrolet",
+      2
+    ],
+    [
+      "Dick Dyer & Associates",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "Toronto Honda",
+      2
+    ],
+    [
+      "Auto Park Chrysler Dodge Jeep Ram",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
       2
     ],
     [
@@ -124,35 +144,15 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Dick Dyer & Associates",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "Auto Park Chrysler Dodge Jeep Ram",
-      2
-    ],
-    [
-      "Toronto Honda",
-      2
-    ],
-    [
-      "ICL Autos",
-      2
-    ],
-    [
       "Performance Auto Group",
       2
     ],
     [
-      "Kayser Chevrolet",
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Blasius South",
       1
     ],
     [
@@ -164,15 +164,15 @@
       1
     ],
     [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
       "MP auto Sales LLC DBA Carizona",
       1
     ],
     [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Impex Auto Sales",
+      "ZT Automotive",
       1
     ],
     [
@@ -180,15 +180,11 @@
       1
     ],
     [
-      "Car Central",
+      "Impex Auto Sales",
       1
     ],
     [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -196,11 +192,15 @@
       1
     ],
     [
-      "Blasius South",
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
       1
     ],
     [
-      "ZT Automotive",
+      "Car Central",
+      1
+    ],
+    [
+      "Wood Motor Company",
       1
     ],
     [
