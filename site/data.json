@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T13:16:22.806Z",
+  "fetchedAt": "2026-09-05T13:27:23.693Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      62
+      58
     ],
     [
       "Quantrell Auto Group",
@@ -29,10 +29,6 @@
     ],
     [
       "KAR Auto Group",
-      4
-    ],
-    [
-      "Greenville Automotive Group",
       4
     ],
     [
@@ -68,15 +64,15 @@
       2
     ],
     [
-      "Dutch Miller Kia Charlotte",
-      2
-    ],
-    [
-      "MB Motors",
+      "Car Central",
       1
     ],
     [
-      "Magnum Car Sales",
+      "Yemm Auto",
+      1
+    ],
+    [
+      "MB Motors",
       1
     ],
     [
@@ -85,6 +81,10 @@
     ],
     [
       "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
       1
     ],
     [
