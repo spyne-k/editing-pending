@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T15:20:01.032Z",
+  "fetchedAt": "2026-09-05T15:30:48.413Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,11 @@
   "rows": [
     [
       null,
-      24
+      15
     ],
     [
       "KAR Auto Group",
       4
-    ],
-    [
-      "Alpha One Automotive",
-      3
-    ],
-    [
-      "Gettel Automotive Group",
-      3
     ],
     [
       "Dave Syverson Auto Center",
@@ -38,10 +30,6 @@
     [
       "Asbury Automotive Management L.L.C",
       3
-    ],
-    [
-      "Speedway Car Sales",
-      2
     ],
     [
       "MB Motors",
@@ -53,10 +41,6 @@
     ],
     [
       "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
       1
     ],
     [
