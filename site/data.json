@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:50:33.626Z",
+  "fetchedAt": "2026-09-05T04:58:58.313Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      151
+      156
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -29,6 +29,10 @@
     ],
     [
       "Olson Chevrolet",
+      9
+    ],
+    [
+      "Wood Motor Company",
       9
     ],
     [
@@ -44,19 +48,15 @@
       6
     ],
     [
+      "Performance Automotive Network",
+      5
+    ],
+    [
       "Hawthorne Auto Square",
       5
     ],
     [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
-      5
-    ],
-    [
-      "Wood Motor Company",
-      5
-    ],
-    [
-      "Performance Automotive Network",
       5
     ],
     [
@@ -68,15 +68,11 @@
       3
     ],
     [
-      "Alpha One Automotive",
-      3
-    ],
-    [
-      "Apex Automotive Group",
-      3
-    ],
-    [
       "DealerVision.com",
+      3
+    ],
+    [
+      "Alpha One Automotive",
       3
     ],
     [
@@ -84,19 +80,27 @@
       3
     ],
     [
-      "Sansone Jr's Auto Group",
-      3
-    ],
-    [
       "Jim Schmidt Automotive",
       3
     ],
     [
-      "Dick Dyer & Associates",
-      2
+      "Sansone Jr's Auto Group",
+      3
+    ],
+    [
+      "Apex Automotive Group",
+      3
     ],
     [
       "NorthTown Automotive",
+      2
+    ],
+    [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -120,19 +124,7 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
       "Covert Ford Lincoln",
-      1
-    ],
-    [
-      "Blasius South",
       1
     ],
     [
@@ -144,7 +136,15 @@
       1
     ],
     [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
       "Rochester Toyota",
+      1
+    ],
+    [
+      "MB Motors",
       1
     ],
     [
@@ -152,11 +152,15 @@
       1
     ],
     [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
       "Jerry Spady Chevrolet GMC Corvette Hummer",
       1
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Blasius South",
       1
     ]
   ]
