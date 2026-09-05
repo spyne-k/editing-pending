@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:03:50.156Z",
+  "fetchedAt": "2026-09-05T04:19:21.241Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,19 @@
   "rows": [
     [
       null,
-      195
+      200
     ],
     [
       "Asbury Automotive Management L.L.C",
-      37
+      59
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      27
     ],
     [
       "Amato Hyundai Of Glendale",
       25
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      25
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      11
     ],
     [
       "Olson Chevrolet",
@@ -60,19 +56,11 @@
       5
     ],
     [
-      "Brandon Steven Motors",
-      3
-    ],
-    [
-      "AutoGiant USA",
+      "Bob King",
       3
     ],
     [
       "Glass Capital CDJR",
-      3
-    ],
-    [
-      "Bob King",
       3
     ],
     [
@@ -84,7 +72,11 @@
       3
     ],
     [
-      "Pritchard Companies",
+      "Sansone Jr's Auto Group",
+      3
+    ],
+    [
+      "AutoGiant USA",
       3
     ],
     [
@@ -92,15 +84,11 @@
       3
     ],
     [
-      "Sansone Jr's Auto Group",
+      "Pritchard Companies",
       3
     ],
     [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Georgia Auto World",
+      "Auto Park Chrysler Dodge Jeep Ram",
       2
     ],
     [
@@ -108,11 +96,7 @@
       2
     ],
     [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
+      "Georgia Auto World",
       2
     ],
     [
@@ -120,27 +104,19 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Yoder Family of Companies",
       2
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "DealerVision.com",
       2
     ],
     [
-      "Covert Ford Lincoln",
-      1
+      "Performance Auto Group",
+      2
     ],
     [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Blasius South",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -148,23 +124,23 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
       "Parks Chevrolet Richmond",
       1
     ],
     [
-      "ZT Automotive",
+      "Blasius South",
       1
     ],
     [
       "MP auto Sales LLC DBA Carizona",
+      1
+    ],
+    [
+      "Covert Ford Lincoln",
+      1
+    ],
+    [
+      "Covert Auto Group",
       1
     ],
     [
@@ -180,7 +156,7 @@
       1
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -188,7 +164,7 @@
       1
     ],
     [
-      "Husker Chevrolet",
+      "Wood Motor Company",
       1
     ]
   ]
