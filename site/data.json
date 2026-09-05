@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T17:34:33.258Z",
+  "fetchedAt": "2026-09-05T17:43:24.180Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      21
+      23
     ],
     [
       "IM Marketplace GmBH",
-      8
+      9
     ],
     [
       "Greenway Automotive Group",
@@ -30,6 +30,10 @@
     [
       "Asbury Automotive Management L.L.C",
       4
+    ],
+    [
+      "Jaguar Land Rover San Juan",
+      1
     ],
     [
       "Dobbs Equity Partners, LLC",
