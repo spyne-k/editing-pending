@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T16:35:38.165Z",
+  "fetchedAt": "2026-09-05T16:44:22.043Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      24
+      26
     ],
     [
       "IM Marketplace GmBH",
-      4
+      6
     ],
     [
       "Greenway Automotive Group",
@@ -32,16 +32,16 @@
       4
     ],
     [
+      "Homan Auto Sales Inc",
+      3
+    ],
+    [
       "Yoder Family of Companies",
       3
     ],
     [
-      "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Performance Automotive Network",
-      2
+      "Flexcar",
+      1
     ],
     [
       "Toronto Honda",
