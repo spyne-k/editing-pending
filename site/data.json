@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:19:21.241Z",
+  "fetchedAt": "2026-09-05T04:31:24.976Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      200
+      209
     ],
     [
       "Asbury Automotive Management L.L.C",
-      59
+      67
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
-      27
+      28
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -56,6 +56,18 @@
       5
     ],
     [
+      "Sansone Jr's Auto Group",
+      3
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Alpha One Automotive",
+      3
+    ],
+    [
       "Bob King",
       3
     ],
@@ -64,19 +76,7 @@
       3
     ],
     [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Alpha One Automotive",
-      3
-    ],
-    [
-      "Sansone Jr's Auto Group",
-      3
-    ],
-    [
-      "AutoGiant USA",
+      "Pritchard Companies",
       3
     ],
     [
@@ -84,11 +84,15 @@
       3
     ],
     [
-      "Pritchard Companies",
+      "AutoGiant USA",
       3
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Georgia Auto World",
       2
     ],
     [
@@ -96,11 +100,7 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
+      "Performance Auto Group",
       2
     ],
     [
@@ -108,15 +108,23 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Greenway Automotive Group",
       2
     ],
     [
-      "Performance Auto Group",
+      "Auto Park Chrysler Dodge Jeep Ram",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Covert Ford Lincoln",
+      1
+    ],
+    [
+      "Covert Auto Group",
       1
     ],
     [
@@ -136,14 +144,6 @@
       1
     ],
     [
-      "Covert Ford Lincoln",
-      1
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
       "Kayser Chevrolet",
       1
     ],
@@ -156,15 +156,11 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
       "Novacti",
       1
     ],
     [
-      "Wood Motor Company",
+      "Russ Darrow Group, Inc.",
       1
     ]
   ]
