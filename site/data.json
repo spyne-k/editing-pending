@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T07:06:22.203Z",
+  "fetchedAt": "2026-09-05T07:19:01.796Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      274
+      282
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -41,6 +41,10 @@
     ],
     [
       "Your Choice Auto LLC",
+      8
+    ],
+    [
+      "Joshua Trownsell",
       8
     ],
     [
@@ -68,19 +72,19 @@
       5
     ],
     [
+      "Jenkins Auto Group",
+      5
+    ],
+    [
       "Worldwide Motors LTD dba Paragon Acura",
       4
     ],
     [
-      "MyCar: Trucktown",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
       "Bob King",
+      3
+    ],
+    [
+      "AutoGiant USA",
       3
     ],
     [
@@ -96,27 +100,11 @@
       3
     ],
     [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Dick Dyer & Associates",
-      2
-    ],
-    [
-      "Speedway Car Sales",
-      2
-    ],
-    [
       "Performance Auto Group",
       2
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -124,7 +112,19 @@
       2
     ],
     [
+      "Auto Park Chrysler Dodge Jeep Ram",
+      2
+    ],
+    [
       "Georgia Auto World",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Speedway Car Sales",
       2
     ],
     [
@@ -132,27 +132,15 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "McCurley Dealerships",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
+      "Zink Motor Company",
       1
     ],
     [
       "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -164,6 +152,18 @@
       1
     ],
     [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Car Bargain",
+      1
+    ],
+    [
+      "McCurley Dealerships",
+      1
+    ],
+    [
       "Curry Chevrolet",
       1
     ],
@@ -172,7 +172,19 @@
       1
     ],
     [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
       "Rochester Toyota",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Covert Auto Group",
       1
     ]
   ]
