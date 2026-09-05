@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T10:40:54.403Z",
+  "fetchedAt": "2026-09-05T10:48:56.137Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      100
+      103
+    ],
+    [
+      "Car Castle",
+      10
     ],
     [
       "Joshua Trownsell",
       8
-    ],
-    [
-      "Car Castle",
-      7
     ],
     [
       "Performance Automotive Network",
