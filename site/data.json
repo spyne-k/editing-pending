@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T16:11:43.088Z",
+  "fetchedAt": "2026-09-05T16:24:50.478Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      15
+      18
     ],
     [
       "Greenway Automotive Group",
@@ -28,15 +28,19 @@
       4
     ],
     [
+      "IM Marketplace GmBH",
+      3
+    ],
+    [
       "Performance Automotive Network",
       2
     ],
     [
-      "North Park Lincoln",
+      "Toronto Honda",
       1
     ],
     [
-      "IM Marketplace GmBH",
+      "North Park Lincoln",
       1
     ],
     [
