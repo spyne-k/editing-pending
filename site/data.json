@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T03:45:22.297Z",
+  "fetchedAt": "2026-09-05T03:53:49.376Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      194
+      195
     ],
     [
       "Asbury Automotive Management L.L.C",
-      34
+      35
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -64,11 +64,11 @@
       4
     ],
     [
-      "Brandon Steven Motors",
+      "Bob King",
       3
     ],
     [
-      "Pritchard Companies",
+      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -84,7 +84,11 @@
       3
     ],
     [
-      "Bob King",
+      "AutoGiant USA",
+      3
+    ],
+    [
+      "Brandon Steven Motors",
       3
     ],
     [
@@ -92,15 +96,15 @@
       3
     ],
     [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
+      "Pritchard Companies",
       3
     ],
     [
       "Auto Park Chrysler Dodge Jeep Ram",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
       2
     ],
     [
@@ -112,16 +116,16 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
       "Yoder Family of Companies",
       2
     ],
     [
       "Performance Auto Group",
       2
+    ],
+    [
+      "North Park Lincoln",
+      1
     ],
     [
       "Blasius South",
@@ -132,15 +136,7 @@
       1
     ],
     [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Covert Ford Lincoln",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
+      "Husker Chevrolet",
       1
     ],
     [
@@ -148,27 +144,11 @@
       1
     ],
     [
+      "DealerVision.com",
+      1
+    ],
+    [
       "Parks Chevrolet Richmond",
-      1
-    ],
-    [
-      "Husker Chevrolet",
-      1
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Covert Auto Group",
       1
     ],
     [
@@ -176,11 +156,15 @@
       1
     ],
     [
-      "Kayser Chevrolet",
+      "MP auto Sales LLC DBA Carizona",
       1
     ],
     [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ],
     [
@@ -188,7 +172,7 @@
       1
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -196,7 +180,23 @@
       1
     ],
     [
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      1
+    ],
+    [
       "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      1
+    ],
+    [
+      "Novacti",
+      1
+    ],
+    [
+      "Covert Ford Lincoln",
       1
     ]
   ]
