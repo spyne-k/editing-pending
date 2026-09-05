@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T01:51:22.317Z",
+  "fetchedAt": "2026-09-05T01:59:35.928Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      174
+      183
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -34,6 +34,10 @@
     [
       "Graff Auto Campus",
       8
+    ],
+    [
+      "Impex Auto Sales",
+      7
     ],
     [
       "Greenway Automotive Group",
@@ -60,39 +64,35 @@
       5
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      5
-    ],
-    [
       "Jenkins Auto Group",
       5
     ],
     [
-      "Portsmouth Ford Lincoln",
-      4
+      "Performance Automotive Network",
+      5
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      5
     ],
     [
       "Speedway Car Sales",
       4
     ],
     [
+      "Portsmouth Ford Lincoln",
+      4
+    ],
+    [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
       "Moses Auto Group",
       3
     ],
     [
-      "Performance Automotive Network",
-      3
-    ],
-    [
       "Bob King",
-      3
-    ],
-    [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Alpha One Automotive",
       3
     ],
     [
@@ -104,27 +104,23 @@
       3
     ],
     [
-      "Jim Schmidt Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
-      "ICL Autos",
+      "Alpha One Automotive",
+      3
+    ],
+    [
+      "Toronto Honda",
       2
     ],
     [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Dick Dyer & Associates",
+      "Performance Auto Group",
       2
     ],
     [
       "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Toronto Honda",
       2
     ],
     [
@@ -136,7 +132,23 @@
       2
     ],
     [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Dick Dyer & Associates",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
       "Yoder Family of Companies",
+      2
+    ],
+    [
+      "ICL Autos",
       2
     ],
     [
@@ -144,23 +156,11 @@
       2
     ],
     [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Blasius South",
+      "Kayser Chevrolet",
       1
     ],
     [
       "Rim Revolution LLC",
-      1
-    ],
-    [
-      "Smartlot Solutions",
       1
     ],
     [
@@ -176,19 +176,19 @@
       1
     ],
     [
+      "Smartlot Solutions",
+      1
+    ],
+    [
       "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Impex Auto Sales",
+      "Covert Auto Group",
       1
     ],
     [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "North Park Lincoln",
+      "Blasius South",
       1
     ],
     [
@@ -196,15 +196,19 @@
       1
     ],
     [
-      "Car Central",
-      1
-    ],
-    [
       "Wood Motor Company",
       1
     ],
     [
-      "Covert Auto Group",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Car Central",
       1
     ]
   ]
