@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T21:58:05.715Z",
+  "fetchedAt": "2026-09-05T22:11:18.017Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,10 @@
   "rows": [
     [
       null,
-      16
+      13
     ],
     [
-      "Carter Myers Automotive",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "Vatland Auto Group",
       2
     ],
     [
@@ -40,10 +36,6 @@
       1
     ],
     [
-      "MyCar: Trucktown",
-      1
-    ],
-    [
       "Toronto Honda",
       1
     ],
@@ -52,15 +44,15 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
       1
     ],
     [
       "Faircy Automotive",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
       1
     ],
     [
