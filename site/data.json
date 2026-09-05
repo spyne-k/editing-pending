@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T06:19:50.701Z",
+  "fetchedAt": "2026-09-05T06:34:33.190Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      256
+      258
     ],
     [
       "Asbury Automotive Management L.L.C",
-      80
+      85
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -30,10 +30,6 @@
     [
       "Amato Hyundai Of Glendale",
       25
-    ],
-    [
-      "DealerVision.com",
-      10
     ],
     [
       "Olson Chevrolet",
@@ -53,6 +49,10 @@
     ],
     [
       "Performance Automotive Network",
+      6
+    ],
+    [
+      "Perkins Motors",
       6
     ],
     [
@@ -80,11 +80,11 @@
       3
     ],
     [
-      "Jenkins Auto Group",
+      "AutoGiant USA",
       3
     ],
     [
-      "AutoGiant USA",
+      "Jenkins Auto Group",
       3
     ],
     [
@@ -100,7 +100,7 @@
       3
     ],
     [
-      "Georgia Auto World",
+      "Performance Auto Group",
       2
     ],
     [
@@ -116,10 +116,6 @@
       2
     ],
     [
-      "Perkins Motors",
-      2
-    ],
-    [
       "Yoder Family of Companies",
       2
     ],
@@ -128,7 +124,15 @@
       2
     ],
     [
-      "Performance Auto Group",
+      "Bergstrom Automotive",
+      2
+    ],
+    [
+      "MyCar: Trucktown",
+      2
+    ],
+    [
+      "Georgia Auto World",
       2
     ],
     [
@@ -140,19 +144,15 @@
       1
     ],
     [
-      "MB Motors",
-      1
-    ],
-    [
       "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
-      "Bergstrom Automotive",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "MB Motors",
       1
     ],
     [
