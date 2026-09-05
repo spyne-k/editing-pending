@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T01:59:35.928Z",
+  "fetchedAt": "2026-09-05T02:15:01.324Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      183
+      178
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -28,8 +28,8 @@
       17
     ],
     [
-      "Gettel Automotive Group",
-      11
+      "Olson Chevrolet",
+      9
     ],
     [
       "Graff Auto Campus",
@@ -44,6 +44,10 @@
       6
     ],
     [
+      "Twin Pine Ford",
+      6
+    ],
+    [
       "Bud Clary Chevrolet, INC",
       6
     ],
@@ -52,19 +56,7 @@
       6
     ],
     [
-      "Flexcar",
-      6
-    ],
-    [
-      "Twin Pine Ford",
-      6
-    ],
-    [
       "Icon Motors Group of Framingham",
-      5
-    ],
-    [
-      "Jenkins Auto Group",
       5
     ],
     [
@@ -76,23 +68,19 @@
       5
     ],
     [
+      "Jenkins Auto Group",
+      5
+    ],
+    [
+      "Portsmouth Ford Lincoln",
+      5
+    ],
+    [
       "Speedway Car Sales",
       4
     ],
     [
-      "Portsmouth Ford Lincoln",
-      4
-    ],
-    [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
       "Moses Auto Group",
-      3
-    ],
-    [
-      "Bob King",
       3
     ],
     [
@@ -104,6 +92,10 @@
       3
     ],
     [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
       "Apex Automotive Group",
       3
     ],
@@ -112,7 +104,11 @@
       3
     ],
     [
-      "Toronto Honda",
+      "Bob King",
+      3
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -120,7 +116,15 @@
       2
     ],
     [
-      "Brandon Steven Motors",
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -132,23 +136,7 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Dick Dyer & Associates",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
       "Yoder Family of Companies",
-      2
-    ],
-    [
-      "ICL Autos",
       2
     ],
     [
@@ -156,7 +144,19 @@
       2
     ],
     [
-      "Kayser Chevrolet",
+      "Toronto Honda",
+      2
+    ],
+    [
+      "ICL Autos",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Blasius South",
       1
     ],
     [
@@ -164,15 +164,7 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
       "MP auto Sales LLC DBA Carizona",
-      1
-    ],
-    [
-      "ZT Automotive",
       1
     ],
     [
@@ -180,15 +172,19 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "North Park Lincoln",
       1
     ],
     [
-      "Covert Auto Group",
+      "Husker Chevrolet",
       1
     ],
     [
-      "Blasius South",
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "ZT Automotive",
       1
     ],
     [
@@ -196,7 +192,7 @@
       1
     ],
     [
-      "Wood Motor Company",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -204,11 +200,15 @@
       1
     ],
     [
-      "North Park Lincoln",
+      "Kayser Chevrolet",
       1
     ],
     [
       "Car Central",
+      1
+    ],
+    [
+      "Covert Auto Group",
       1
     ]
   ]
