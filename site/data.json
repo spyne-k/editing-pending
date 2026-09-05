@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T11:20:44.771Z",
+  "fetchedAt": "2026-09-05T11:30:02.303Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,22 @@
   "rows": [
     [
       null,
-      75
+      70
     ],
     [
       "Car Castle",
-      13
+      16
     ],
     [
-      "Jenkins Auto Group",
-      5
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      5
+      "Duffys Auto",
+      8
     ],
     [
       "Worldwide Motors LTD dba Paragon Acura",
       4
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Gettel Automotive Group",
       3
     ],
     [
@@ -56,14 +52,6 @@
       3
     ],
     [
-      "West Mitsubishi",
-      3
-    ],
-    [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
       "Bob Allen Ford- Ottawa",
       3
     ],
@@ -76,15 +64,15 @@
       3
     ],
     [
+      "Asbury Automotive Management L.L.C",
+      3
+    ],
+    [
       "S&S Motors",
       2
     ],
     [
       "Kia Vancouver",
-      2
-    ],
-    [
-      "Jidd Performance",
       2
     ],
     [
@@ -97,6 +85,10 @@
     ],
     [
       "North Park Lincoln",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
@@ -121,14 +113,6 @@
     ],
     [
       "Nelson Automotive Inc",
-      1
-    ],
-    [
-      "Austin Ford CDJR",
-      1
-    ],
-    [
-      "McCurley Dealerships",
       1
     ]
   ]
