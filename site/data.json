@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T15:41:23.540Z",
+  "fetchedAt": "2026-09-05T15:49:39.084Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      12
+      15
     ],
     [
       "KAR Auto Group",
@@ -25,10 +25,14 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      3
+      4
     ],
     [
       "MB Motors",
+      1
+    ],
+    [
+      "Toronto Honda",
       1
     ],
     [
@@ -41,6 +45,10 @@
     ],
     [
       "Key West Ford Sales Ltd",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ],
     [
