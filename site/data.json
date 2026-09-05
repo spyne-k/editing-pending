@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T18:54:38.712Z",
+  "fetchedAt": "2026-09-05T19:04:37.868Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,34 @@
   "rows": [
     [
       null,
-      24
+      33
     ],
     [
       "IM Marketplace GmBH",
-      16
+      18
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
+      "Zink Motor Company",
+      3
+    ],
+    [
+      "Cornhusker Auto Center",
+      2
+    ],
+    [
+      "ROSI Automotive Group",
+      2
+    ],
+    [
       "MEI Inc",
       1
     ],
     [
-      "Southbank Dodge Chrysler (1982) Ltd",
+      "Beverly Hills Auto Group",
       1
     ],
     [
