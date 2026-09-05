@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T13:53:40.448Z",
+  "fetchedAt": "2026-09-05T14:03:16.493Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      49
+      50
     ],
     [
       "Duffys Auto",
@@ -89,6 +89,10 @@
     ],
     [
       "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Loyalty Chevrolet/Cadillac",
       1
     ],
     [
