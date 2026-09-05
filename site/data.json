@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T10:57:10.025Z",
+  "fetchedAt": "2026-09-05T11:08:55.136Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      103
+      89
     ],
     [
       "Car Castle",
-      10
-    ],
-    [
-      "Joshua Trownsell",
-      8
+      13
     ],
     [
       "Performance Automotive Network",
@@ -48,6 +44,10 @@
       4
     ],
     [
+      "Gettel Automotive Group",
+      3
+    ],
+    [
       "Bob Allen Ford- Ottawa",
       3
     ],
@@ -56,15 +56,11 @@
       3
     ],
     [
+      "Stouffair Motors",
+      3
+    ],
+    [
       "Dave Syverson Auto Center",
-      3
-    ],
-    [
-      "Mossy Motors",
-      3
-    ],
-    [
-      "West Mitsubishi",
       3
     ],
     [
@@ -76,27 +72,15 @@
       3
     ],
     [
-      "Stouffair Motors",
+      "Mossy Motors",
       3
     ],
     [
-      "Bob King",
+      "West Mitsubishi",
       3
-    ],
-    [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
-      "S&S Motors",
-      2
     ],
     [
       "Kia Vancouver",
-      2
-    ],
-    [
-      "AX Auto INC",
       2
     ],
     [
@@ -104,7 +88,7 @@
       2
     ],
     [
-      "Yoder Family of Companies",
+      "S&S Motors",
       2
     ],
     [
@@ -112,11 +96,7 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "McCurley Dealerships",
+      "Post Oak Toyota",
       1
     ],
     [
@@ -125,6 +105,10 @@
     ],
     [
       "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -148,7 +132,7 @@
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "McCurley Dealerships",
       1
     ],
     [
@@ -157,10 +141,6 @@
     ],
     [
       "MB Motors",
-      1
-    ],
-    [
-      "Post Oak Toyota",
       1
     ],
     [
