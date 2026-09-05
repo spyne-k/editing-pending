@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T07:56:40.865Z",
+  "fetchedAt": "2026-09-05T08:09:39.566Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      273
+      277
     ],
     [
       "Asbury Automotive Management L.L.C",
-      98
+      99
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -48,6 +48,10 @@
       7
     ],
     [
+      "Davidson Auto Group",
+      6
+    ],
+    [
       "Perkins Motors",
       6
     ],
@@ -56,15 +60,11 @@
       6
     ],
     [
-      "Davidson Auto Group",
-      6
-    ],
-    [
-      "Jenkins Auto Group",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       5
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Jenkins Auto Group",
       5
     ],
     [
@@ -76,7 +76,11 @@
       4
     ],
     [
-      "Bob King",
+      "AutoGiant USA",
+      3
+    ],
+    [
+      "Apex Automotive Group",
       3
     ],
     [
@@ -88,19 +92,19 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "Gettel Automotive Group",
       3
     ],
     [
-      "AutoGiant USA",
+      "Bob King",
       3
     ],
     [
-      "Speedway Car Sales",
+      "Kia Vancouver",
       2
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -108,7 +112,7 @@
       2
     ],
     [
-      "Yoder Family of Companies",
+      "Soave Automotive Group",
       2
     ],
     [
@@ -120,19 +124,19 @@
       2
     ],
     [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      2
+    ],
+    [
       "Georgia Auto World",
       2
     ],
     [
-      "Kia Vancouver",
+      "Speedway Car Sales",
       2
     ],
     [
-      "Car Bargain",
-      1
-    ],
-    [
-      "Jidd Motors Mitsubishi",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -144,11 +148,11 @@
       1
     ],
     [
-      "Covert Auto Group",
+      "Jidd Motors Mitsubishi",
       1
     ],
     [
-      "MB Motors",
+      "Covert Auto Group",
       1
     ],
     [
@@ -176,7 +180,19 @@
       1
     ],
     [
-      "Soave Automotive Group",
+      "McCurley Dealerships",
+      1
+    ],
+    [
+      "Renny Bettan",
+      1
+    ],
+    [
+      "MB Motors",
+      1
+    ],
+    [
+      "Car Bargain",
       1
     ],
     [
@@ -188,10 +204,6 @@
       1
     ],
     [
-      "McCurley Dealerships",
-      1
-    ],
-    [
       "Flood Auto Group",
       1
     ],
@@ -200,20 +212,12 @@
       1
     ],
     [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
       "Austin Ford CDJR",
       1
     ],
     [
-      "Renny Bettan",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
+      "carvago2",
+      0
     ]
   ]
 }
