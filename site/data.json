@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T23:54:29.055Z",
+  "fetchedAt": "2026-09-05T00:08:19.649Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,31 @@
   "rows": [
     [
       null,
-      152
+      166
     ],
     [
-      "Teton solutions Group",
-      17
+      "Amato Hyundai Of Glendale",
+      18
     ],
     [
       "DealerVision.com",
       17
     ],
     [
-      "Amato Hyundai Of Glendale",
-      14
+      "Teton solutions Group",
+      17
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      8
     ],
     [
       "Graff Auto Campus",
       8
+    ],
+    [
+      "Davidson Auto Group",
+      6
     ],
     [
       "Gettel Automotive Group",
@@ -41,10 +49,6 @@
     ],
     [
       "Twin Pine Ford",
-      6
-    ],
-    [
-      "Davidson Auto Group",
       6
     ],
     [
@@ -64,7 +68,19 @@
       4
     ],
     [
+      "Toronto Honda",
+      4
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
       "Bob King",
+      3
+    ],
+    [
+      "Pritchard Companies",
       3
     ],
     [
@@ -72,23 +88,11 @@
       3
     ],
     [
-      "Speedway Car Sales",
-      3
-    ],
-    [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Toronto Honda",
-      3
-    ],
-    [
       "Apex Automotive Group",
       3
     ],
     [
-      "Pritchard Companies",
+      "Portsmouth Ford Lincoln",
       3
     ],
     [
@@ -100,15 +104,11 @@
       3
     ],
     [
-      "Performance Auto Group",
-      2
+      "Speedway Car Sales",
+      3
     ],
     [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
+      "Homan Auto Sales Inc",
       2
     ],
     [
@@ -120,7 +120,19 @@
       2
     ],
     [
+      "Performance Auto Group",
+      2
+    ],
+    [
       "Olson Chevrolet",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -128,15 +140,7 @@
       2
     ],
     [
-      "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Portsmouth Ford Lincoln",
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -144,15 +148,15 @@
       1
     ],
     [
+      "Car Central",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
       "Prestige Auto Sales",
-      1
-    ],
-    [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
       1
     ],
     [
@@ -164,11 +168,15 @@
       1
     ],
     [
-      "Blasius South",
+      "Smartlot Solutions",
       1
     ],
     [
-      "ZT Automotive",
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "MP auto Sales LLC DBA Carizona",
       1
     ],
     [
@@ -180,23 +188,15 @@
       1
     ],
     [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
-      1
-    ],
-    [
-      "Car Central",
-      1
-    ],
-    [
       "Impex Auto Sales",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Blasius South",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ]
   ]
