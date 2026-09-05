@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T02:27:45.326Z",
+  "fetchedAt": "2026-09-05T02:39:40.298Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -26,6 +26,10 @@
     [
       "Teton solutions Group",
       17
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      15
     ],
     [
       "Olson Chevrolet",
@@ -56,10 +60,6 @@
       6
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      6
-    ],
-    [
       "Icon Motors Group of Framingham",
       5
     ],
@@ -72,12 +72,16 @@
       5
     ],
     [
-      "Portsmouth Ford Lincoln",
-      5
-    ],
-    [
       "Speedway Car Sales",
       4
+    ],
+    [
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Moses Auto Group",
+      3
     ],
     [
       "Bob King",
@@ -88,19 +92,7 @@
       3
     ],
     [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Glass Capital CDJR",
-      3
-    ],
-    [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Pritchard Companies",
+      "AutoGiant USA",
       3
     ],
     [
@@ -108,27 +100,15 @@
       3
     ],
     [
-      "Wood Motor Company",
+      "Pritchard Companies",
       3
     ],
     [
-      "Toronto Honda",
-      2
+      "Glass Capital CDJR",
+      3
     ],
     [
       "Performance Auto Group",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "ICL Autos",
       2
     ],
     [
@@ -140,6 +120,18 @@
       2
     ],
     [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
+      2
+    ],
+    [
       "Yoder Family of Companies",
       2
     ],
@@ -148,23 +140,15 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Toronto Honda",
       2
-    ],
-    [
-      "Husker Chevrolet",
-      1
     ],
     [
       "Rim Revolution LLC",
       1
     ],
     [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "North Park Lincoln",
+      "Husker Chevrolet",
       1
     ],
     [
@@ -172,11 +156,11 @@
       1
     ],
     [
-      "Smartlot Solutions",
+      "Blasius South",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Smartlot Solutions",
       1
     ],
     [
@@ -184,11 +168,11 @@
       1
     ],
     [
-      "Blasius South",
+      "Covert Auto Group",
       1
     ],
     [
-      "Kayser Chevrolet",
+      "North Park Lincoln",
       1
     ],
     [
@@ -196,7 +180,7 @@
       1
     ],
     [
-      "AutoGiant USA",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -212,7 +196,7 @@
       1
     ],
     [
-      "Covert Auto Group",
+      "Kayser Chevrolet",
       1
     ]
   ]
