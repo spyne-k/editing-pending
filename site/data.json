@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T22:48:52.577Z",
+  "fetchedAt": "2026-09-05T22:57:32.544Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,18 @@
   "rows": [
     [
       null,
-      4
+      5
     ],
     [
-      "Jim Schmidt Automotive",
-      2
+      "Asbury Automotive Management L.L.C",
+      3
     ],
     [
-      "IM Marketplace GmBH",
+      "Your Choice Auto LLC",
       1
     ],
     [
-      "Dobbs Equity Partners, LLC",
+      "IM Marketplace GmBH",
       1
     ]
   ]
