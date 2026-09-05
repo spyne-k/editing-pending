@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T00:32:02.202Z",
+  "fetchedAt": "2026-09-05T00:48:12.568Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      186
+      187
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -33,7 +33,7 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      15
+      16
     ],
     [
       "Graff Auto Campus",
@@ -112,23 +112,11 @@
       2
     ],
     [
+      "Dick Dyer & Associates",
+      2
+    ],
+    [
       "Georgia Auto World",
-      2
-    ],
-    [
-      "Performance Auto Group",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
       2
     ],
     [
@@ -136,35 +124,23 @@
       2
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Yoder Family of Companies",
       2
     ],
     [
-      "Dick Dyer & Associates",
+      "Preston Motor Automotive Group",
       2
     ],
     [
-      "Kayser Chevrolet",
-      1
+      "Olson Chevrolet",
+      2
     ],
     [
-      "Russ Darrow Group, Inc.",
-      1
+      "Performance Auto Group",
+      2
     ],
     [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Blasius South",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -184,11 +160,31 @@
       1
     ],
     [
-      "Rim Revolution LLC",
+      "Prestige Auto Sales",
+      1
+    ],
+    [
+      "Blasius South",
+      1
+    ],
+    [
+      "ZT Automotive",
       1
     ],
     [
       "MP auto Sales LLC DBA Carizona",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Covert Auto Group",
       1
     ],
     [
@@ -200,7 +196,15 @@
       1
     ],
     [
+      "Performance Automotive Network",
+      1
+    ],
+    [
       "ICL Autos",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
       1
     ]
   ]
