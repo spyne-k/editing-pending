@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T05:44:07.283Z",
+  "fetchedAt": "2026-09-05T05:51:48.957Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      224
+      237
     ],
     [
       "Asbury Automotive Management L.L.C",
-      51
+      68
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -54,10 +54,6 @@
     [
       "Davidson Auto Group",
       6
-    ],
-    [
-      "Hawthorne Auto Square",
-      5
     ],
     [
       "Performance Automotive Network",
@@ -104,6 +100,10 @@
       3
     ],
     [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      2
+    ],
+    [
       "Dick Dyer & Associates",
       2
     ],
@@ -116,11 +116,11 @@
       2
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "Speedway Car Sales",
       2
     ],
     [
-      "Perkins Motors",
+      "Auto Park Chrysler Dodge Jeep Ram",
       2
     ],
     [
@@ -128,11 +128,7 @@
       2
     ],
     [
-      "Speedway Car Sales",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
+      "Perkins Motors",
       2
     ],
     [
@@ -140,7 +136,7 @@
       2
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "Bill Dickason Chevrolet",
       1
     ],
     [
@@ -156,7 +152,7 @@
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
@@ -164,7 +160,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
@@ -172,11 +168,15 @@
       1
     ],
     [
-      "Bill Dickason Chevrolet",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
       "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       1
     ]
   ]
