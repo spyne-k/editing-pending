@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T13:45:10.984Z",
+  "fetchedAt": "2026-09-05T13:53:40.448Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      44
+      49
     ],
     [
       "Duffys Auto",
       8
+    ],
+    [
+      "DealerVision.com",
+      6
     ],
     [
       "KAR Auto Group",
@@ -48,11 +52,11 @@
       3
     ],
     [
-      "Kia Vancouver",
+      "Car Central",
       2
     ],
     [
-      "Kempton Chevrolet",
+      "Kia Vancouver",
       2
     ],
     [
@@ -62,10 +66,6 @@
     [
       "Speedway Car Sales",
       2
-    ],
-    [
-      "Car Central",
-      1
     ],
     [
       "Yemm Auto",
