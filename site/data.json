@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T07:29:30.384Z",
+  "fetchedAt": "2026-09-05T07:39:59.342Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      284
+      279
     ],
     [
       "Asbury Automotive Management L.L.C",
-      107
+      109
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
@@ -36,15 +36,11 @@
       9
     ],
     [
-      "Wood Motor Company",
-      9
-    ],
-    [
-      "Your Choice Auto LLC",
+      "Joshua Trownsell",
       8
     ],
     [
-      "Joshua Trownsell",
+      "Your Choice Auto LLC",
       8
     ],
     [
@@ -64,15 +60,15 @@
       6
     ],
     [
+      "Jenkins Auto Group",
+      5
+    ],
+    [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
       5
     ],
     [
       "Jim Schmidt Automotive",
-      5
-    ],
-    [
-      "Jenkins Auto Group",
       5
     ],
     [
@@ -84,11 +80,7 @@
       3
     ],
     [
-      "AutoGiant USA",
-      3
-    ],
-    [
-      "Alpha One Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
@@ -96,8 +88,16 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "Alpha One Automotive",
       3
+    ],
+    [
+      "AutoGiant USA",
+      3
+    ],
+    [
+      "Georgia Auto World",
+      2
     ],
     [
       "Dick Dyer & Associates",
@@ -112,15 +112,7 @@
       2
     ],
     [
-      "Georgia Auto World",
-      2
-    ],
-    [
       "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Speedway Car Sales",
       2
     ],
     [
@@ -128,20 +120,8 @@
       2
     ],
     [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "MB Motors",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Zink Motor Company",
-      1
+      "Speedway Car Sales",
+      2
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -152,7 +132,19 @@
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "Kia Vancouver",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Zink Motor Company",
       1
     ],
     [
@@ -160,15 +152,27 @@
       1
     ],
     [
+      "Jidd Motors Mitsubishi",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "McCurley Dealerships",
+      1
+    ],
+    [
       "Car Bargain",
       1
     ],
     [
-      "Post Oak Toyota",
+      "Covert Auto Group",
       1
     ],
     [
-      "Covert Auto Group",
+      "Post Oak Toyota",
       1
     ],
     [
@@ -180,7 +184,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "MB Motors",
       1
     ],
     [
@@ -188,11 +192,11 @@
       1
     ],
     [
-      "McCurley Dealerships",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Jidd Motors Mitsubishi",
+      "Hewlett Volkswagen, LP",
       1
     ]
   ]
