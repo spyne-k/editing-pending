@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T21:31:32.653Z",
+  "fetchedAt": "2026-09-05T21:40:48.220Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      20
+      19
     ],
     [
       "AX Auto INC",
@@ -40,11 +40,11 @@
       2
     ],
     [
-      "Flexcar",
+      "Moses Auto Group",
       1
     ],
     [
-      "Moses Auto Group",
+      "Yemm Auto",
       1
     ],
     [
@@ -61,10 +61,6 @@
     ],
     [
       "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
       1
     ],
     [
