@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T17:59:52.113Z",
+  "fetchedAt": "2026-09-05T18:17:27.776Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,26 @@
   "rows": [
     [
       null,
-      33
+      24
     ],
     [
       "IM Marketplace GmBH",
-      11
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      10
+      12
     ],
     [
       "Greenway Automotive Group",
       7
     ],
     [
-      "Brandon Steven Motors",
-      2
+      "MEI Inc",
+      1
     ],
     [
-      "MEI Inc",
+      "Ghost Auto Werkz",
+      1
+    ],
+    [
+      "Car Bazaar",
       1
     ],
     [
