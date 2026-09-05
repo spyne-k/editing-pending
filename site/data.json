@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T20:18:50.417Z",
+  "fetchedAt": "2026-09-05T20:30:18.506Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,14 @@
   "rows": [
     [
       null,
-      47
+      40
     ],
     [
       "Midwest Auto Group",
       22
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      8
-    ],
-    [
-      "IM Marketplace GmBH",
+      "AX Auto INC",
       4
     ],
     [
@@ -36,15 +32,23 @@
       4
     ],
     [
-      "AX Auto INC",
-      3
-    ],
-    [
       "Faircy Automotive",
       2
     ],
     [
-      "Rochester Toyota",
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
       1
     ],
     [
