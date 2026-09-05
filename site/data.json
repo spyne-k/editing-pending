@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T14:47:03.890Z",
+  "fetchedAt": "2026-09-05T14:55:39.965Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,7 @@
   "rows": [
     [
       null,
-      51
-    ],
-    [
-      "Duffys Auto",
-      8
-    ],
-    [
-      "DealerVision.com",
-      6
+      36
     ],
     [
       "KAR Auto Group",
@@ -93,10 +85,6 @@
     ],
     [
       "Key West Ford Sales Ltd",
-      1
-    ],
-    [
-      "Loyalty Chevrolet/Cadillac",
       1
     ]
   ]
