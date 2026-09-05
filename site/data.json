@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T03:11:18.551Z",
+  "fetchedAt": "2026-09-05T03:24:38.790Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,34 @@
   "rows": [
     [
       null,
-      190
+      207
     ],
     [
       "Asbury Automotive Management L.L.C",
-      31
+      32
     ],
     [
       "Amato Hyundai Of Glendale",
       25
     ],
     [
-      "Olson Chevrolet",
-      9
+      "Alliance Automotive of Westchester LLC dba White P",
+      25
     ],
     [
       "Bud Clary Chevrolet, INC",
-      9
+      10
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      8
+      "Olson Chevrolet",
+      9
     ],
     [
       "Impex Auto Sales",
       7
     ],
     [
-      "Buckhannon Toyota",
+      "Gettel Automotive Group",
       6
     ],
     [
@@ -84,19 +84,15 @@
       3
     ],
     [
+      "Bob King",
+      3
+    ],
+    [
       "Moses Auto Group",
       3
     ],
     [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
       "Glass Capital CDJR",
-      3
-    ],
-    [
-      "Apex Automotive Group",
       3
     ],
     [
@@ -116,7 +112,7 @@
       3
     ],
     [
-      "Bob King",
+      "Apex Automotive Group",
       3
     ],
     [
@@ -129,6 +125,10 @@
     ],
     [
       "Performance Auto Group",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
       2
     ],
     [
@@ -152,10 +152,6 @@
       1
     ],
     [
-      "Portsmouth Ford Lincoln",
-      1
-    ],
-    [
       "Covert Auto Group",
       1
     ],
@@ -164,7 +160,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Blasius South",
       1
     ],
     [
@@ -200,7 +196,7 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -208,7 +204,7 @@
       1
     ],
     [
-      "Blasius South",
+      "Rohrich Automotive Group",
       1
     ]
   ]
