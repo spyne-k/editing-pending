@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T13:27:23.693Z",
+  "fetchedAt": "2026-09-05T13:37:03.083Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      58
-    ],
-    [
-      "Quantrell Auto Group",
-      17
+      43
     ],
     [
       "Duffys Auto",
@@ -64,6 +60,10 @@
       2
     ],
     [
+      "Lockwood Motors, Inc.",
+      2
+    ],
+    [
       "Car Central",
       1
     ],
@@ -84,11 +84,11 @@
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Bergstrom Automotive",
       1
     ],
     [
