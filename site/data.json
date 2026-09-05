@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T11:39:33.362Z",
+  "fetchedAt": "2026-09-05T11:48:07.686Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      69
+      62
     ],
     [
       "Car Castle",
@@ -26,10 +26,6 @@
     [
       "Duffys Auto",
       8
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
-      4
     ],
     [
       "Stouffair Motors",
@@ -92,19 +88,7 @@
       1
     ],
     [
-      "McCurley Dealerships",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
       "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
       1
     ],
     [
