@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T15:49:39.084Z",
+  "fetchedAt": "2026-09-05T15:57:55.028Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,10 +17,10 @@
   "rows": [
     [
       null,
-      15
+      12
     ],
     [
-      "KAR Auto Group",
+      "Greenway Automotive Group",
       4
     ],
     [
@@ -28,27 +28,15 @@
       4
     ],
     [
-      "MB Motors",
-      1
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
       "North Park Lincoln",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "IM Marketplace GmBH",
       1
     ],
     [
       "Key West Ford Sales Ltd",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
       1
     ],
     [
