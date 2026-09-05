@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T02:49:12.181Z",
+  "fetchedAt": "2026-09-05T02:57:38.781Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      168
+      174
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      26
     ],
     [
       "Amato Hyundai Of Glendale",
       25
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      23
     ],
     [
       "Olson Chevrolet",
@@ -68,7 +68,7 @@
       4
     ],
     [
-      "Brandon Steven Motors",
+      "Bob King",
       3
     ],
     [
@@ -84,15 +84,23 @@
       3
     ],
     [
-      "Moses Auto Group",
-      3
-    ],
-    [
       "Toronto Honda",
       3
     ],
     [
+      "Moses Auto Group",
+      3
+    ],
+    [
       "AutoGiant USA",
+      3
+    ],
+    [
+      "Brandon Steven Motors",
+      3
+    ],
+    [
+      "Sansone Jr's Auto Group",
       3
     ],
     [
@@ -104,11 +112,7 @@
       3
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "Buckhannon Toyota",
       2
     ],
     [
@@ -120,7 +124,7 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Auto Park Chrysler Dodge Jeep Ram",
       2
     ],
     [
@@ -128,12 +132,16 @@
       2
     ],
     [
-      "Preston Motor Automotive Group",
+      "Performance Auto Group",
       2
     ],
     [
-      "Performance Auto Group",
+      "Van Horn Automotive Group",
       2
+    ],
+    [
+      "Smartlot Solutions",
+      1
     ],
     [
       "Husker Chevrolet",
@@ -144,7 +152,7 @@
       1
     ],
     [
-      "Smartlot Solutions",
+      "Portsmouth Ford Lincoln",
       1
     ],
     [
@@ -156,15 +164,11 @@
       1
     ],
     [
-      "Portsmouth Ford Lincoln",
-      1
-    ],
-    [
       "Blasius South",
       1
     ],
     [
-      "Covert Auto Group",
+      "North Park Lincoln",
       1
     ],
     [
@@ -176,7 +180,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -184,7 +188,7 @@
       1
     ],
     [
-      "North Park Lincoln",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -192,7 +196,7 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "Covert Auto Group",
       1
     ]
   ]
