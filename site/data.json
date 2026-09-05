@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T05:24:23.796Z",
+  "fetchedAt": "2026-09-05T05:34:58.350Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      204
+      203
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -88,31 +88,23 @@
       3
     ],
     [
-      "Sansone Jr's Auto Group",
-      3
-    ],
-    [
       "Apex Automotive Group",
       3
     ],
     [
-      "Georgia Auto World",
-      2
+      "Sansone Jr's Auto Group",
+      3
     ],
     [
       "Speedway Car Sales",
       2
     ],
     [
+      "Georgia Auto World",
+      2
+    ],
+    [
       "NorthTown Automotive",
-      2
-    ],
-    [
-      "Dick Dyer & Associates",
-      2
-    ],
-    [
-      "Dream Automotive",
       2
     ],
     [
@@ -121,6 +113,10 @@
     ],
     [
       "Performance Auto Group",
+      2
+    ],
+    [
+      "Dick Dyer & Associates",
       2
     ],
     [
@@ -136,11 +132,15 @@
       2
     ],
     [
-      "Covert Ford Lincoln",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Bill Dickason Chevrolet",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
@@ -156,11 +156,11 @@
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "Perkins Motors",
       1
     ],
     [
-      "Perkins Motors",
+      "Flood Auto Group",
       1
     ],
     [
@@ -168,11 +168,11 @@
       1
     ],
     [
-      "Novacti",
+      "Bob Johnson Automotive Group",
       1
     ],
     [
-      "Bill Dickason Chevrolet",
+      "Charlie Clark Hyundai",
       1
     ]
   ]
