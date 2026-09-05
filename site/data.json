@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T20:03:31.767Z",
+  "fetchedAt": "2026-09-05T20:18:50.417Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,34 @@
   "rows": [
     [
       null,
-      27
+      47
     ],
     [
       "Midwest Auto Group",
-      9
+      22
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      5
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      8
+    ],
+    [
+      "IM Marketplace GmBH",
+      4
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      4
+      "AX Auto INC",
+      3
     ],
     [
-      "IM Marketplace GmBH",
+      "Faircy Automotive",
       2
     ],
     [
-      "AX Auto INC",
+      "Rochester Toyota",
       1
     ],
     [
@@ -49,6 +53,10 @@
     ],
     [
       "Auto Park Chrysler Dodge Jeep Ram",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
