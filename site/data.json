@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T10:30:17.197Z",
+  "fetchedAt": "2026-09-05T10:40:54.403Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      108
-    ],
-    [
-      "Olson Chevrolet",
-      9
+      100
     ],
     [
       "Joshua Trownsell",
       8
+    ],
+    [
+      "Car Castle",
+      7
     ],
     [
       "Performance Automotive Network",
@@ -33,10 +33,6 @@
     ],
     [
       "Twin Pine Ford",
-      6
-    ],
-    [
-      "Davidson Auto Group",
       6
     ],
     [
@@ -80,6 +76,10 @@
       3
     ],
     [
+      "Mossy Motors",
+      3
+    ],
+    [
       "Gettel Automotive Group",
       3
     ],
@@ -88,8 +88,8 @@
       3
     ],
     [
-      "Mossy Motors",
-      3
+      "Kia Vancouver",
+      2
     ],
     [
       "AX Auto INC",
@@ -100,11 +100,11 @@
       2
     ],
     [
-      "Yoder Family of Companies",
+      "S&S Motors",
       2
     ],
     [
-      "S&S Motors",
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -116,8 +116,8 @@
       2
     ],
     [
-      "Kia Vancouver",
-      2
+      "Post Oak Toyota",
+      1
     ],
     [
       "Dubizzle Cars L.L.C",
@@ -129,10 +129,6 @@
     ],
     [
       "Bridgeton Auto Mall",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -152,15 +148,15 @@
       1
     ],
     [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
       "McCurley Dealerships",
       1
     ],
     [
       "North Park Lincoln",
-      1
-    ],
-    [
-      "Post Oak Toyota",
       1
     ],
     [
