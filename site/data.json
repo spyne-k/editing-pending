@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T13:02:04.003Z",
+  "fetchedAt": "2026-09-05T13:16:22.806Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      61
+      62
     ],
     [
       "Quantrell Auto Group",
-      16
+      17
     ],
     [
       "Duffys Auto",
