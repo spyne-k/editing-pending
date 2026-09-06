@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T18:25:22.695Z",
+  "fetchedAt": "2026-09-06T18:38:14.225Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,10 +17,14 @@
   "rows": [
     [
       null,
-      9
+      12
     ],
     [
       "Car Castle",
+      3
+    ],
+    [
+      "ZT Automotive",
       3
     ],
     [
