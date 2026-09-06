@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T15:31:00.854Z",
+  "fetchedAt": "2026-09-06T15:41:44.209Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      3
+      2
     ],
     [
       "Stouffair Motors",
@@ -25,10 +25,6 @@
     ],
     [
       "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "Greenville Automotive Group",
       1
     ]
   ]
