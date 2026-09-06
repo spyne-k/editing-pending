@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T04:49:10.668Z",
+  "fetchedAt": "2026-09-06T04:57:16.707Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      9
+      7
     ],
     [
       "Turn Auto Mall",
       4
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      2
     ],
     [
       "IM Marketplace GmBH",
