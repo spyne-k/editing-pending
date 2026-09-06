@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T05:59:32.675Z",
+  "fetchedAt": "2026-09-06T06:18:43.660Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,11 @@
   "rows": [
     [
       null,
-      14
+      9
     ],
     [
       "Turn Auto Mall",
       4
-    ],
-    [
-      "Santa Motors CA",
-      4
-    ],
-    [
-      "Jidd Performance",
-      2
     ],
     [
       "IM Marketplace GmBH",
@@ -41,6 +33,10 @@
     ],
     [
       "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
       1
     ]
   ]
