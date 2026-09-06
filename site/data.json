@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T01:19:14.924Z",
+  "fetchedAt": "2026-09-06T01:30:20.858Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      14
+      13
     ],
     [
       "Turn Auto Mall",
@@ -30,10 +30,6 @@
     [
       "Rochester Toyota",
       2
-    ],
-    [
-      "Subaru of Gwinnett",
-      1
     ],
     [
       "Countryside Mitsubishi",
