@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T18:10:28.940Z",
+  "fetchedAt": "2026-09-06T18:25:22.695Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      8
+      9
     ],
     [
       "Car Castle",
@@ -37,6 +37,10 @@
     ],
     [
       "IM Marketplace GmBH",
+      1
+    ],
+    [
+      "Automistic Car sales Ltd",
       1
     ]
   ]
