@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T09:19:22.855Z",
+  "fetchedAt": "2026-09-06T09:31:24.570Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,15 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
       "North Park Lincoln",
+      1
+    ],
+    [
+      null,
       1
     ]
   ]
