@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T01:30:20.858Z",
+  "fetchedAt": "2026-09-06T01:42:25.808Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      13
+      11
     ],
     [
       "Turn Auto Mall",
@@ -26,10 +26,6 @@
     [
       "Performance Automotive Network",
       4
-    ],
-    [
-      "Rochester Toyota",
-      2
     ],
     [
       "Countryside Mitsubishi",
