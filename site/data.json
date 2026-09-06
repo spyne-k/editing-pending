@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T20:51:20.587Z",
+  "fetchedAt": "2026-09-06T20:59:26.454Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      11
+      12
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -25,6 +25,10 @@
     ],
     [
       "DealerVision.com",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
@@ -45,10 +49,6 @@
     ],
     [
       "Performance Automotive Network",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
