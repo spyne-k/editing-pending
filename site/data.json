@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T00:15:52.568Z",
+  "fetchedAt": "2026-09-06T00:41:04.409Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      17
+      14
     ],
     [
       "Turn Auto Mall",
@@ -26,10 +26,6 @@
     [
       "Performance Automotive Network",
       4
-    ],
-    [
-      "AutoGiant USA",
-      3
     ],
     [
       "Rochester Toyota",
