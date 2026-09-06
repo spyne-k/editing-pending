@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T05:43:05.821Z",
+  "fetchedAt": "2026-09-06T05:51:06.099Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      8
+      10
     ],
     [
       "Turn Auto Mall",
       4
+    ],
+    [
+      "Santa Motors CA",
+      2
     ],
     [
       "IM Marketplace GmBH",
