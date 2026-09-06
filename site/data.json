@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T18:56:32.358Z",
+  "fetchedAt": "2026-09-06T19:07:40.540Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      17
+      18
     ],
     [
       "ZT Automotive",
@@ -45,6 +45,10 @@
     ],
     [
       "Automistic Car sales Ltd",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ]
   ]
