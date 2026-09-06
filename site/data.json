@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T08:32:47.329Z",
+  "fetchedAt": "2026-09-06T08:44:29.182Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      7
+      8
     ],
     [
       "IM Marketplace GmBH",
@@ -26,6 +26,10 @@
     [
       "Bud Clary Chevrolet, INC",
       3
+    ],
+    [
+      "North Park Lincoln",
+      1
     ]
   ]
 }
