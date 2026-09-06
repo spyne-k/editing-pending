@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T21:14:01.104Z",
+  "fetchedAt": "2026-09-06T21:25:37.361Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,14 @@
   "rows": [
     [
       null,
-      8
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      2
-    ],
-    [
-      "Car Central",
-      1
+      7
     ],
     [
       "Reliance Motor Group LLC",
+      4
+    ],
+    [
+      "AutoGiant USA",
       1
     ],
     [
