@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T06:35:17.883Z",
+  "fetchedAt": "2026-09-06T06:48:55.547Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,16 +16,12 @@
   ],
   "rows": [
     [
-      null,
-      3
-    ],
-    [
       "IM Marketplace GmBH",
       2
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      1
+      null,
+      2
     ]
   ]
 }
