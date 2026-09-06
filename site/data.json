@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T09:31:24.570Z",
+  "fetchedAt": "2026-09-06T09:42:23.594Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,14 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      null,
-      1
-    ]
-  ]
+  "rows": []
 }
