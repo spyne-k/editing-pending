@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T02:29:50.321Z",
+  "fetchedAt": "2026-09-06T02:41:43.900Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      9
+      8
     ],
     [
       "Turn Auto Mall",
@@ -29,10 +29,6 @@
     ],
     [
       "Countryside Mitsubishi",
-      1
-    ],
-    [
-      "Your Choice Auto LLC",
       1
     ],
     [
