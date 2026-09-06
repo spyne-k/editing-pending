@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T11:31:19.523Z",
+  "fetchedAt": "2026-09-06T11:41:32.609Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,10 @@
   "rows": [
     [
       null,
-      3
+      2
     ],
     [
       "Stouffair Motors",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
       1
     ],
     [
