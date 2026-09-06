@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T20:07:06.149Z",
+  "fetchedAt": "2026-09-06T20:21:05.651Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      18
+      21
     ],
     [
       "ZT Automotive",
@@ -25,6 +25,10 @@
     ],
     [
       "Car Castle",
+      3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       3
     ],
     [
