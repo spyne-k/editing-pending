@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T21:25:37.361Z",
+  "fetchedAt": "2026-09-06T21:35:10.599Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,22 @@
   "rows": [
     [
       null,
-      7
+      4
     ],
     [
-      "Reliance Motor Group LLC",
-      4
+      "Emerald Motors",
+      1
     ],
     [
       "AutoGiant USA",
       1
     ],
     [
-      "Automistic Car sales Ltd",
+      "Performance Automotive Network",
       1
     ],
     [
-      "Performance Automotive Network",
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
