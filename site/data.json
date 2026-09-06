@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T22:01:41.120Z",
+  "fetchedAt": "2026-09-06T22:17:15.999Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,23 @@
   "rows": [
     [
       null,
-      5
+      14
+    ],
+    [
+      "Mt Orab Chevy",
+      4
+    ],
+    [
+      "Performance Automotive Network",
+      3
     ],
     [
       "AutoGiant USA",
       2
+    ],
+    [
+      "Flexcar",
+      1
     ],
     [
       "Emerald Motors",
@@ -29,6 +41,10 @@
     ],
     [
       "Kempton Chevrolet",
+      1
+    ],
+    [
+      "Auto Exchange Group",
       1
     ],
     [
