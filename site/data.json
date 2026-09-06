@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T03:14:43.184Z",
+  "fetchedAt": "2026-09-06T03:27:57.449Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      8
+      9
     ],
     [
       "Turn Auto Mall",
       4
     ],
     [
-      "IM Marketplace GmBH",
+      "Hewlett Volkswagen, LP",
       2
     ],
     [
-      "Flexcar",
-      1
+      "IM Marketplace GmBH",
+      2
     ],
     [
       "Bud Clary Chevrolet, INC",
