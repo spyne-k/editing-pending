@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T05:51:06.099Z",
+  "fetchedAt": "2026-09-06T05:59:32.675Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      10
+      14
     ],
     [
       "Turn Auto Mall",
@@ -25,6 +25,10 @@
     ],
     [
       "Santa Motors CA",
+      4
+    ],
+    [
+      "Jidd Performance",
       2
     ],
     [
