@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T21:43:25.784Z",
+  "fetchedAt": "2026-09-06T21:52:49.132Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      4
+      5
     ],
     [
       "AutoGiant USA",
@@ -25,6 +25,10 @@
     ],
     [
       "Emerald Motors",
+      1
+    ],
+    [
+      "Kempton Chevrolet",
       1
     ],
     [
