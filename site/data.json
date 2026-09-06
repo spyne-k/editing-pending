@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T23:20:03.773Z",
+  "fetchedAt": "2026-09-06T23:29:59.552Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      20
+      21
+    ],
+    [
+      "Flexcar",
+      5
     ],
     [
       "Performance Automotive Network",
       5
-    ],
-    [
-      "Flexcar",
-      4
     ],
     [
       "Mt Orab Chevy",
