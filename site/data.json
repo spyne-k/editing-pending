@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T16:56:13.859Z",
+  "fetchedAt": "2026-09-06T17:07:45.361Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      3
+      5
     ],
     [
       "Car Castle",
-      1
+      3
     ],
     [
       "Stouffair Motors",
