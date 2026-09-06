@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T02:17:03.431Z",
+  "fetchedAt": "2026-09-06T02:29:50.321Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      8
+      9
     ],
     [
       "Turn Auto Mall",
@@ -33,6 +33,10 @@
     ],
     [
       "Your Choice Auto LLC",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       1
     ]
   ]
