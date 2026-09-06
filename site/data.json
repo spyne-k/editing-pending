@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T04:39:12.780Z",
+  "fetchedAt": "2026-09-06T04:49:10.668Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      22
-    ],
-    [
-      "AX Auto INC",
-      13
+      9
     ],
     [
       "Turn Auto Mall",
