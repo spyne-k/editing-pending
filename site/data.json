@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T20:42:46.818Z",
+  "fetchedAt": "2026-09-06T20:51:20.587Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      10
+      11
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -29,6 +29,10 @@
     ],
     [
       "Taylor BMW",
+      1
+    ],
+    [
+      "Reliance Motor Group LLC",
       1
     ],
     [
