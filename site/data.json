@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T23:26:29.990Z",
+  "fetchedAt": "2026-09-07T23:36:20.599Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      40
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      7
+      29
     ],
     [
       "Event Motoring",
@@ -40,16 +36,8 @@
       3
     ],
     [
-      "Vatland Auto Group",
-      3
-    ],
-    [
       "Your Choice Auto LLC",
       3
-    ],
-    [
-      "Bob King",
-      1
     ],
     [
       "Silsbee Ford",
