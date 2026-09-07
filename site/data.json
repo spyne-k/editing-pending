@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T19:32:23.650Z",
+  "fetchedAt": "2026-09-07T19:43:32.741Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,19 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      7
-    ],
-    [
-      "Bapchild Motoring World (Kent) Limited",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      null,
       1
     ]
   ]
