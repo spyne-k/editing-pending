@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T15:56:30.065Z",
+  "fetchedAt": "2026-09-07T16:09:18.072Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,18 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      2
-    ],
-    [
-      "Flexcar",
-      1
-    ],
-    [
-      "Van Mossel",
-      1
-    ]
-  ]
+  "rows": []
 }
