@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T18:12:29.691Z",
+  "fetchedAt": "2026-09-07T18:29:49.448Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,22 @@
   "rows": [
     [
       null,
-      14
+      20
     ],
     [
       "Rawian Oy",
       9
     ],
     [
-      "Jenkins Auto Group",
+      "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
+      "Bapchild Motoring World (Kent) Limited",
+      3
+    ],
+    [
+      "Willowbrook Ford & Kia",
       1
     ],
     [
@@ -32,15 +40,7 @@
       1
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      1
-    ],
-    [
-      "Bapchild Motoring World (Kent) Limited",
+      "Greenway Automotive Group",
       1
     ]
   ]
