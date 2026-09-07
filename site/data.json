@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T06:31:25.028Z",
+  "fetchedAt": "2026-09-07T06:50:48.203Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,22 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      null,
+      14
+    ],
+    [
+      "KAR Auto Group",
+      5
+    ],
+    [
+      "AutoGiant USA",
+      5
+    ],
+    [
+      "Faircy Automotive",
+      4
+    ]
+  ]
 }
