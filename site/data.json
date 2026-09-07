@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T22:42:13.298Z",
+  "fetchedAt": "2026-09-07T22:50:48.711Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      56
+      58
     ],
     [
       "LuxuryMotorCars",
@@ -48,11 +48,15 @@
       3
     ],
     [
+      "Asbury Automotive Management L.L.C",
+      3
+    ],
+    [
       "ZT Automotive",
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Certified Autoplex Inc.",
       1
     ],
     [
@@ -60,23 +64,15 @@
       1
     ],
     [
-      "KAR Auto Group",
-      1
-    ],
-    [
       "Gettel Automotive Group",
       1
     ],
     [
+      "KAR Auto Group",
+      1
+    ],
+    [
       "Emerald Motors",
-      1
-    ],
-    [
-      "Certified Autoplex Inc.",
-      1
-    ],
-    [
-      "Silsbee Ford",
       1
     ],
     [
@@ -109,6 +105,10 @@
     ],
     [
       "Icon Motors Group of Framingham",
+      1
+    ],
+    [
+      "Silsbee Ford",
       1
     ],
     [
