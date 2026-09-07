@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T14:42:34.971Z",
+  "fetchedAt": "2026-09-07T14:54:12.307Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,23 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      6
-    ],
-    [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
-      "INERCIKAR SA",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
-      1
-    ],
-    [
       "C.A. Larsen Automobiler A/S",
+      1
+    ],
+    [
+      null,
       1
     ]
   ]
