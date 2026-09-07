@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T19:52:25.430Z",
+  "fetchedAt": "2026-09-07T20:00:52.197Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      6
+      11
+    ],
+    [
+      "Freedom Chevrolet",
+      4
     ],
     [
       "Jenkins Auto Group",
@@ -29,6 +33,10 @@
     ],
     [
       "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
