@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T22:59:19.401Z",
+  "fetchedAt": "2026-09-07T23:14:31.442Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      57
-    ],
-    [
-      "LuxuryMotorCars",
-      10
+      50
     ],
     [
       "DealerVision.com",
@@ -29,19 +25,15 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      6
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      4
+      7
     ],
     [
       "Event Motoring",
       4
     ],
     [
-      "Vatland Auto Group",
-      3
+      "Bob Johnson Automotive Group",
+      4
     ],
     [
       "Post Oak Toyota",
@@ -49,14 +41,34 @@
     ],
     [
       "Jenkins Auto Group",
-      2
+      3
+    ],
+    [
+      "Vatland Auto Group",
+      3
     ],
     [
       "ZT Automotive",
       2
     ],
     [
-      "Certified Autoplex Inc.",
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Silsbee Ford",
+      1
+    ],
+    [
+      "Emerald Motors",
+      1
+    ],
+    [
+      "KAR Auto Group",
       1
     ],
     [
@@ -68,15 +80,7 @@
       1
     ],
     [
-      "KAR Auto Group",
-      1
-    ],
-    [
-      "Emerald Motors",
-      1
-    ],
-    [
-      "Your Choice Auto LLC",
+      "Certified Autoplex Inc.",
       1
     ],
     [
@@ -105,14 +109,6 @@
     ],
     [
       "Icon Motors Group of Framingham",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Bob King",
       1
     ]
   ]
