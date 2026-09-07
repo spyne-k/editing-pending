@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T05:54:58.684Z",
+  "fetchedAt": "2026-09-07T06:08:25.484Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,26 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      6
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      2
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      2
-    ],
-    [
-      "Rawian Oy",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ]
-  ]
+  "rows": []
 }
