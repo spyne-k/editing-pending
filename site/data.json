@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T20:00:52.197Z",
+  "fetchedAt": "2026-09-07T20:17:51.087Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,23 @@
   "rows": [
     [
       null,
-      11
-    ],
-    [
-      "Freedom Chevrolet",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
-      2
+      17
     ],
     [
       "Asbury Automotive Management L.L.C",
-      2
+      5
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Freedom Chevrolet",
+      3
     ],
     [
       "Gettel Automotive Group",
