@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T23:14:31.442Z",
+  "fetchedAt": "2026-09-07T23:26:29.990Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      50
-    ],
-    [
-      "DealerVision.com",
-      8
+      40
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -48,12 +44,8 @@
       3
     ],
     [
-      "ZT Automotive",
-      2
-    ],
-    [
       "Your Choice Auto LLC",
-      2
+      3
     ],
     [
       "Bob King",
@@ -65,6 +57,10 @@
     ],
     [
       "Emerald Motors",
+      1
+    ],
+    [
+      "Ideal Cars",
       1
     ],
     [
@@ -81,14 +77,6 @@
     ],
     [
       "Certified Autoplex Inc.",
-      1
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Parks Chevrolet Richmond",
       1
     ],
     [
