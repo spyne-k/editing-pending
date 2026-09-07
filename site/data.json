@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T08:58:47.405Z",
+  "fetchedAt": "2026-09-07T09:15:42.894Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,14 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      null,
+      1
+    ]
+  ]
 }
