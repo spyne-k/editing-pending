@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T07:02:22.273Z",
+  "fetchedAt": "2026-09-07T07:20:52.613Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,19 +16,11 @@
   ],
   "rows": [
     [
+      "Rawian Oy",
+      4
+    ],
+    [
       null,
-      14
-    ],
-    [
-      "KAR Auto Group",
-      5
-    ],
-    [
-      "AutoGiant USA",
-      5
-    ],
-    [
-      "Faircy Automotive",
       4
     ]
   ]
