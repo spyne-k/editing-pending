@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T02:11:13.995Z",
+  "fetchedAt": "2026-09-07T02:26:19.738Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      16
+      23
     ],
     [
       "IM Marketplace GmBH",
-      14
+      21
     ],
     [
       "Subaru of Gwinnett",
