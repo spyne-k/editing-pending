@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T17:12:25.288Z",
+  "fetchedAt": "2026-09-07T17:26:01.546Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,22 @@
   "rows": [
     [
       null,
-      5
+      16
     ],
     [
-      "ZT Automotive",
-      3
+      "Rawian Oy",
+      9
     ],
     [
       "Flexcar",
+      4
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
