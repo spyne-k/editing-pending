@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T00:17:37.616Z",
+  "fetchedAt": "2026-09-07T00:42:22.519Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,18 @@
   "rows": [
     [
       null,
-      9
+      4
     ],
     [
-      "AutoGiant USA",
+      "Flexcar",
       2
     ],
     [
-      "Auto Exchange Group",
-      2
-    ],
-    [
-      "Performance Automotive Network",
-      2
-    ],
-    [
-      "Emerald Motors",
+      "McCurley Dealerships",
       1
     ],
     [
-      "Kempton Chevrolet",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
+      "IM Marketplace GmBH",
       1
     ]
   ]
