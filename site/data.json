@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T21:53:59.339Z",
+  "fetchedAt": "2026-09-07T22:03:44.678Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -25,7 +25,11 @@
     ],
     [
       "DealerVision.com",
-      7
+      8
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      5
     ],
     [
       "Event Motoring",
@@ -33,10 +37,6 @@
     ],
     [
       "Jenkins Auto Group",
-      4
-    ],
-    [
-      "Freedom Chevrolet",
       4
     ],
     [
@@ -48,11 +48,11 @@
       2
     ],
     [
-      "Post Oak Toyota",
-      2
+      "Bob King",
+      1
     ],
     [
-      "Bob King",
+      "Silsbee Ford",
       1
     ],
     [
@@ -97,10 +97,6 @@
     ],
     [
       "Icon Motors Group of Framingham",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
