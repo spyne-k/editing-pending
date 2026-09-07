@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T13:58:01.537Z",
+  "fetchedAt": "2026-09-07T14:13:21.522Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      17
+      14
     ],
     [
       "Rawian Oy",
       8
-    ],
-    [
-      "Stouffair Motors",
-      3
     ],
     [
       "ZT Automotive",
