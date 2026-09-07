@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T22:19:24.725Z",
+  "fetchedAt": "2026-09-07T22:31:11.358Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      54
+      57
     ],
     [
       "LuxuryMotorCars",
@@ -29,11 +29,11 @@
     ],
     [
       "Jenkins Auto Group",
-      5
+      6
     ],
     [
       "Asbury Automotive Management L.L.C",
-      5
+      6
     ],
     [
       "Event Motoring",
@@ -61,6 +61,10 @@
     ],
     [
       "Emerald Motors",
+      1
+    ],
+    [
+      "Beaver County Auto",
       1
     ],
     [
