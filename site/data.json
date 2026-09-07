@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T05:44:31.873Z",
+  "fetchedAt": "2026-09-07T05:54:58.684Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,7 @@
   "rows": [
     [
       null,
-      11
-    ],
-    [
-      "Starling Auto Group",
-      3
-    ],
-    [
-      "Subaru of Gwinnett",
-      2
+      6
     ],
     [
       "Amato Hyundai Of Glendale",
