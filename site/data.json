@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T19:43:32.741Z",
+  "fetchedAt": "2026-09-07T19:52:25.430Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,23 @@
   ],
   "rows": [
     [
-      "Greenway Automotive Group",
+      null,
+      6
+    ],
+    [
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
       1
     ],
     [
-      null,
+      "Greenway Automotive Group",
       1
     ]
   ]
