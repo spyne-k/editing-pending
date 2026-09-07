@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T23:57:11.719Z",
+  "fetchedAt": "2026-09-07T00:17:37.616Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,7 @@
   "rows": [
     [
       null,
-      16
-    ],
-    [
-      "Performance Automotive Network",
-      5
-    ],
-    [
-      "Mt Orab Chevy",
-      4
+      9
     ],
     [
       "AutoGiant USA",
@@ -33,6 +25,10 @@
     ],
     [
       "Auto Exchange Group",
+      2
+    ],
+    [
+      "Performance Automotive Network",
       2
     ],
     [
