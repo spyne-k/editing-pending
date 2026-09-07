@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T20:17:51.087Z",
+  "fetchedAt": "2026-09-07T20:31:52.456Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      17
+      37
     ],
     [
       "Asbury Automotive Management L.L.C",
-      5
+      17
+    ],
+    [
+      "LuxuryMotorCars",
+      6
     ],
     [
       "DealerVision.com",
@@ -41,6 +45,14 @@
     ],
     [
       "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
       1
     ],
     [
