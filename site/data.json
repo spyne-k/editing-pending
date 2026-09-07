@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T18:29:49.448Z",
+  "fetchedAt": "2026-09-07T18:46:04.636Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,27 +17,15 @@
   "rows": [
     [
       null,
-      20
-    ],
-    [
-      "Rawian Oy",
-      9
+      10
     ],
     [
       "Asbury Automotive Management L.L.C",
-      5
+      6
     ],
     [
       "Bapchild Motoring World (Kent) Limited",
       3
-    ],
-    [
-      "Willowbrook Ford & Kia",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
     ],
     [
       "Greenway Automotive Group",
