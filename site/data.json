@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T22:03:44.678Z",
+  "fetchedAt": "2026-09-07T22:19:24.725Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      49
+      54
     ],
     [
       "LuxuryMotorCars",
@@ -28,6 +28,10 @@
       8
     ],
     [
+      "Jenkins Auto Group",
+      5
+    ],
+    [
       "Asbury Automotive Management L.L.C",
       5
     ],
@@ -36,8 +40,8 @@
       4
     ],
     [
-      "Jenkins Auto Group",
-      4
+      "Post Oak Toyota",
+      3
     ],
     [
       "Vatland Auto Group",
@@ -53,10 +57,6 @@
     ],
     [
       "Silsbee Ford",
-      1
-    ],
-    [
-      "mp-auto-trgovina",
       1
     ],
     [
@@ -76,11 +76,19 @@
       1
     ],
     [
+      "Your Choice Auto LLC",
+      1
+    ],
+    [
       "Covert Auto Group",
       1
     ],
     [
       "Parks Chevrolet Richmond",
+      1
+    ],
+    [
+      "Faircy Automotive",
       1
     ],
     [
@@ -92,7 +100,7 @@
       1
     ],
     [
-      "Springfield Luxury Automall",
+      "Auto Park Chrysler Dodge Jeep Ram",
       1
     ],
     [
