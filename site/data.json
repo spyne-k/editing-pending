@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T21:04:26.664Z",
+  "fetchedAt": "2026-09-07T21:20:41.315Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      52
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      13
+      42
     ],
     [
       "LuxuryMotorCars",
@@ -52,6 +48,10 @@
       2
     ],
     [
+      "Bob King",
+      1
+    ],
+    [
       "District Auto Group",
       1
     ],
@@ -61,6 +61,10 @@
     ],
     [
       "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Certified Autoplex Inc.",
       1
     ],
     [
@@ -77,6 +81,10 @@
     ],
     [
       "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
