@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T19:08:36.251Z",
+  "fetchedAt": "2026-09-07T19:21:35.451Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      7
+      13
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      6
     ],
     [
       "Bapchild Motoring World (Kent) Limited",
@@ -28,7 +32,7 @@
       2
     ],
     [
-      "Your Choice Auto LLC",
+      "Flexcar",
       1
     ],
     [
