@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T23:44:35.520Z",
+  "fetchedAt": "2026-09-07T23:53:41.771Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      29
+      32
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      7
     ],
     [
       "Event Motoring",
@@ -33,10 +37,6 @@
     ],
     [
       "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Your Choice Auto LLC",
       3
     ],
     [
@@ -56,11 +56,15 @@
       1
     ],
     [
+      "Sithari Cars Limited",
+      1
+    ],
+    [
       "Gettel Automotive Group",
       1
     ],
     [
-      "Certified Autoplex Inc.",
+      "greenway auto group 2",
       1
     ],
     [
@@ -76,15 +80,7 @@
       1
     ],
     [
-      "Envision Management Group",
-      1
-    ],
-    [
       "Auto Park Chrysler Dodge Jeep Ram",
-      1
-    ],
-    [
-      "Icon Motors Group of Framingham",
       1
     ]
   ]
