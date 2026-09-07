@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T04:09:38.891Z",
+  "fetchedAt": "2026-09-07T04:25:07.228Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      49
+      38
     ],
     [
       "Amato Hyundai Of Glendale",
-      28
-    ],
-    [
-      "IM Marketplace GmBH",
-      13
+      30
     ],
     [
       "Starling Auto Group",
