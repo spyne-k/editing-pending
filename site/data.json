@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T21:20:41.315Z",
+  "fetchedAt": "2026-09-07T21:32:52.052Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      42
+      45
     ],
     [
       "LuxuryMotorCars",
@@ -32,11 +32,11 @@
       4
     ],
     [
-      "AX Auto INC",
-      3
+      "Freedom Chevrolet",
+      4
     ],
     [
-      "Freedom Chevrolet",
+      "AX Auto INC",
       3
     ],
     [
@@ -49,6 +49,10 @@
     ],
     [
       "Bob King",
+      1
+    ],
+    [
+      "Post Oak Toyota",
       1
     ],
     [
@@ -77,6 +81,10 @@
     ],
     [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Envision Management Group",
       1
     ],
     [
