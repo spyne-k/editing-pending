@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T15:20:31.016Z",
+  "fetchedAt": "2026-09-07T15:33:52.865Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      9
+      10
     ],
     [
       "Altawkilat",
@@ -29,6 +29,10 @@
     ],
     [
       "Autoland",
+      1
+    ],
+    [
+      "Car Bazaar",
       1
     ],
     [
