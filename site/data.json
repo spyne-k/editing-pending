@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T14:28:18.451Z",
+  "fetchedAt": "2026-09-07T14:42:34.971Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,22 @@
   "rows": [
     [
       null,
-      13
+      6
     ],
     [
-      "Rawian Oy",
-      8
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      2
+      "Gettel Automotive Group",
+      3
     ],
     [
       "INERCIKAR SA",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Bergstrom Automotive",
       1
     ],
     [
-      "Bergstrom Automotive",
+      "C.A. Larsen Automobiler A/S",
       1
     ]
   ]
