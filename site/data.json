@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T07:20:52.613Z",
+  "fetchedAt": "2026-09-07T07:35:15.836Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,20 @@
   ],
   "rows": [
     [
-      "Rawian Oy",
+      null,
       4
     ],
     [
-      null,
-      4
+      "AutoGiant USA",
+      2
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "C.A. Larsen Automobiler A/S",
+      1
     ]
   ]
 }
