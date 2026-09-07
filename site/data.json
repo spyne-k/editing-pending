@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T14:54:12.307Z",
+  "fetchedAt": "2026-09-07T15:04:07.662Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,12 @@
   ],
   "rows": [
     [
-      "C.A. Larsen Automobiler A/S",
-      1
+      "Altawkilat",
+      3
     ],
     [
       null,
-      1
+      3
     ]
   ]
 }
