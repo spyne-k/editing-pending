@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T20:31:52.456Z",
+  "fetchedAt": "2026-09-07T20:44:02.465Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      37
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      17
+      26
     ],
     [
       "LuxuryMotorCars",
-      6
+      10
     ],
     [
       "DealerVision.com",
@@ -38,6 +34,10 @@
     [
       "Freedom Chevrolet",
       3
+    ],
+    [
+      "ZT Automotive",
+      1
     ],
     [
       "Gettel Automotive Group",
@@ -57,6 +57,10 @@
     ],
     [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Springfield Luxury Automall",
       1
     ]
   ]
