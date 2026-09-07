@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T20:53:56.107Z",
+  "fetchedAt": "2026-09-07T21:04:26.664Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      36
+      52
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      13
     ],
     [
       "LuxuryMotorCars",
@@ -30,6 +34,10 @@
     [
       "Jenkins Auto Group",
       4
+    ],
+    [
+      "AX Auto INC",
+      3
     ],
     [
       "Freedom Chevrolet",
