@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T20:44:02.465Z",
+  "fetchedAt": "2026-09-07T20:53:56.107Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      26
+      36
     ],
     [
       "LuxuryMotorCars",
@@ -25,18 +25,26 @@
     ],
     [
       "DealerVision.com",
-      3
+      7
     ],
     [
       "Jenkins Auto Group",
-      3
+      4
     ],
     [
       "Freedom Chevrolet",
       3
     ],
     [
+      "Vatland Auto Group",
+      3
+    ],
+    [
       "ZT Automotive",
+      2
+    ],
+    [
+      "District Auto Group",
       1
     ],
     [
