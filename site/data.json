@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T22:31:11.358Z",
+  "fetchedAt": "2026-09-07T22:42:13.298Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      57
+      56
     ],
     [
       "LuxuryMotorCars",
@@ -32,19 +32,19 @@
       6
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      6
+      "Bob Johnson Automotive Group",
+      4
     ],
     [
       "Event Motoring",
       4
     ],
     [
-      "Post Oak Toyota",
+      "Vatland Auto Group",
       3
     ],
     [
-      "Vatland Auto Group",
+      "Post Oak Toyota",
       3
     ],
     [
@@ -52,15 +52,7 @@
       2
     ],
     [
-      "Bob King",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Emerald Motors",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -68,15 +60,23 @@
       1
     ],
     [
+      "KAR Auto Group",
+      1
+    ],
+    [
       "Gettel Automotive Group",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Emerald Motors",
       1
     ],
     [
       "Certified Autoplex Inc.",
+      1
+    ],
+    [
+      "Silsbee Ford",
       1
     ],
     [
@@ -109,6 +109,10 @@
     ],
     [
       "Icon Motors Group of Framingham",
+      1
+    ],
+    [
+      "Bob King",
       1
     ]
   ]
