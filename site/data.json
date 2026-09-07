@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T00:42:22.519Z",
+  "fetchedAt": "2026-09-07T00:57:13.095Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,22 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      4
-    ],
-    [
-      "Flexcar",
-      2
-    ],
-    [
-      "McCurley Dealerships",
-      1
-    ],
-    [
-      "IM Marketplace GmBH",
-      1
-    ]
-  ]
+  "rows": []
 }
