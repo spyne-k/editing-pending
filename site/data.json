@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T08:48:33.291Z",
+  "fetchedAt": "2026-09-07T08:58:47.405Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,22 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      4
-    ],
-    [
-      "World Car Auto Group",
-      2
-    ],
-    [
-      "Rawian Oy",
-      1
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      1
-    ]
-  ]
+  "rows": []
 }
