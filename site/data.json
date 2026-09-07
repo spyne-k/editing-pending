@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T13:20:00.617Z",
+  "fetchedAt": "2026-09-07T13:34:48.679Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,31 +17,27 @@
   "rows": [
     [
       null,
-      16
+      17
     ],
     [
       "Dubizzle Cars L.L.C",
       5
     ],
     [
+      "Rim Revolution LLC",
+      4
+    ],
+    [
       "Stouffair Motors",
       3
     ],
     [
+      "ZT Automotive",
+      2
+    ],
+    [
       "Russ Darrow Group, Inc.",
       2
-    ],
-    [
-      "Rim Revolution LLC",
-      2
-    ],
-    [
-      "C.A. Larsen Automobiler A/S",
-      2
-    ],
-    [
-      "Rawian Oy",
-      1
     ],
     [
       "Bergstrom Automotive",
