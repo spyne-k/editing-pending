@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T19:21:35.451Z",
+  "fetchedAt": "2026-09-07T19:32:23.650Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,15 @@
   "rows": [
     [
       null,
-      13
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      6
+      7
     ],
     [
       "Bapchild Motoring World (Kent) Limited",
-      3
+      4
     ],
     [
       "Jenkins Auto Group",
       2
-    ],
-    [
-      "Flexcar",
-      1
     ],
     [
       "Greenway Automotive Group",
