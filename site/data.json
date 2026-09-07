@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T11:18:06.679Z",
+  "fetchedAt": "2026-09-07T11:32:47.606Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      9
-    ],
-    [
-      "Rawian Oy",
-      6
+      4
     ],
     [
       "Stouffair Motors",
       3
+    ],
+    [
+      "C.A. Larsen Automobiler A/S",
+      1
     ]
   ]
 }
