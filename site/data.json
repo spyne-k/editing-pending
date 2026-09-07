@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T21:32:52.052Z",
+  "fetchedAt": "2026-09-07T21:44:30.597Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      45
+      49
     ],
     [
       "LuxuryMotorCars",
@@ -28,16 +28,16 @@
       7
     ],
     [
+      "Event Motoring",
+      4
+    ],
+    [
       "Jenkins Auto Group",
       4
     ],
     [
       "Freedom Chevrolet",
       4
-    ],
-    [
-      "AX Auto INC",
-      3
     ],
     [
       "Vatland Auto Group",
@@ -48,15 +48,19 @@
       2
     ],
     [
+      "Post Oak Toyota",
+      2
+    ],
+    [
       "Bob King",
       1
     ],
     [
-      "Post Oak Toyota",
+      "mp-auto-trgovina",
       1
     ],
     [
-      "District Auto Group",
+      "Emerald Motors",
       1
     ],
     [
@@ -89,6 +93,10 @@
     ],
     [
       "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "Icon Motors Group of Framingham",
       1
     ],
     [
