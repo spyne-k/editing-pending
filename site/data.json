@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T12:50:49.320Z",
+  "fetchedAt": "2026-09-07T13:01:24.973Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      10
+      12
+    ],
+    [
+      "Dubizzle Cars L.L.C",
+      4
     ],
     [
       "Stouffair Motors",
@@ -25,10 +29,6 @@
     ],
     [
       "Russ Darrow Group, Inc.",
-      2
-    ],
-    [
-      "Dubizzle Cars L.L.C",
       2
     ],
     [
