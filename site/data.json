@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T07:35:15.836Z",
+  "fetchedAt": "2026-09-07T07:49:00.948Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,10 @@
   "rows": [
     [
       null,
-      4
-    ],
-    [
-      "AutoGiant USA",
       2
     ],
     [
-      "World Car Auto Group",
+      "Rawian Oy",
       1
     ],
     [
