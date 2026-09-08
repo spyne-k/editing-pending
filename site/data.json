@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T00:31:23.762Z",
+  "fetchedAt": "2026-09-08T00:50:08.107Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      61
+      34
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      39
+      "Yoder Family of Companies",
+      6
     ],
     [
       "Event Motoring",
@@ -32,6 +32,14 @@
       4
     ],
     [
+      "Gettel Automotive Group",
+      3
+    ],
+    [
+      "greenway auto group 2",
+      3
+    ],
+    [
       "Ideal Cars",
       2
     ],
@@ -40,7 +48,11 @@
       2
     ],
     [
-      "greenway auto group 2",
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
@@ -57,14 +69,6 @@
     ],
     [
       "Sithari Cars Limited",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Faircy Automotive",
       1
     ],
     [
