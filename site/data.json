@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T17:26:48.892Z",
+  "fetchedAt": "2026-09-08T17:38:32.204Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,22 @@
   "rows": [
     [
       null,
-      23
+      24
     ],
     [
       "Asbury Automotive Management L.L.C",
       16
     ],
     [
-      "Watermark Auto Group",
+      "Rawian Oy",
       5
     ],
     [
       "DealerVision.com",
+      1
+    ],
+    [
+      "Key West Ford Sales Ltd",
       1
     ],
     [
