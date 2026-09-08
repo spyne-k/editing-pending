@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T23:17:39.114Z",
+  "fetchedAt": "2026-09-08T23:29:16.207Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      60
-    ],
-    [
-      "DealerVision.com",
-      25
+      37
     ],
     [
       "AX Auto INC",
-      10
+      14
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -34,10 +30,6 @@
     [
       "Bergstrom Automotive",
       4
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      3
     ],
     [
       "Countryside Mitsubishi",
@@ -54,6 +46,10 @@
     [
       "Greenway Automotive Group",
       2
+    ],
+    [
+      "DealerVision.com",
+      1
     ],
     [
       "Giant Auto Warehouse",
