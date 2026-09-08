@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T00:50:08.107Z",
+  "fetchedAt": "2026-09-08T01:01:11.405Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      34
+      39
     ],
     [
       "Yoder Family of Companies",
       6
+    ],
+    [
+      "AX Auto INC",
+      4
     ],
     [
       "Event Motoring",
@@ -69,6 +73,10 @@
     ],
     [
       "Sithari Cars Limited",
+      1
+    ],
+    [
+      "Vatland Auto Group",
       1
     ],
     [
