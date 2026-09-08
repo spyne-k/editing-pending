@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T15:00:46.933Z",
+  "fetchedAt": "2026-09-08T15:19:48.602Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,15 @@
   ],
   "rows": [
     [
-      "Pritchard Companies",
-      1
+      null,
+      5
     ],
     [
-      null,
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "Pritchard Companies",
       1
     ]
   ]
