@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T02:48:36.920Z",
+  "fetchedAt": "2026-09-08T02:58:09.917Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      23
+      19
     ],
     [
       "Yoder Family of Companies",
@@ -40,10 +40,6 @@
       2
     ],
     [
-      "Faircy Automotive",
-      2
-    ],
-    [
       "MB Motors",
       1
     ],
@@ -53,14 +49,6 @@
     ],
     [
       "mclarty auto group (ams)",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Auto Park Chrysler Dodge Jeep Ram",
       1
     ]
   ]
