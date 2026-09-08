@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T17:56:56.199Z",
+  "fetchedAt": "2026-09-08T18:12:37.969Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,18 @@
   "rows": [
     [
       null,
-      20
+      21
     ],
     [
       "Asbury Automotive Management L.L.C",
       16
     ],
     [
-      "BP AUTO FINDERS",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
       "Pritchard Companies",
-      1
+      4
     ],
     [
-      "Bergstrom Automotive",
+      "Key West Ford Sales Ltd",
       1
     ]
   ]
