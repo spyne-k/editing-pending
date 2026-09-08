@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T06:00:05.480Z",
+  "fetchedAt": "2026-09-08T06:22:18.565Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,15 @@
   ],
   "rows": [
     [
-      "Jenkins Auto Group",
-      1
+      null,
+      3
     ],
     [
-      null,
+      "Auto Dobrovolny V.M. s.r.o.",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
       1
     ]
   ]
