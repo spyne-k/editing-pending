@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T22:21:20.099Z",
+  "fetchedAt": "2026-09-08T22:33:00.750Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,11 @@
   "rows": [
     [
       null,
-      33
+      28
     ],
     [
       "Asbury Automotive Management L.L.C",
       15
-    ],
-    [
-      "Bergstrom Automotive",
-      5
-    ],
-    [
-      "ZT Automotive",
-      3
     ],
     [
       "Countryside Mitsubishi",
@@ -40,11 +32,19 @@
       2
     ],
     [
+      "Hondru Auto Group(US)",
+      2
+    ],
+    [
       "Greenway Automotive Group",
       2
     ],
     [
       "DealerVision.com",
+      1
+    ],
+    [
+      "Your Choice Auto LLC",
       1
     ],
     [
