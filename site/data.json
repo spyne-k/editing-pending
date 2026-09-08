@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T20:25:57.365Z",
+  "fetchedAt": "2026-09-08T20:39:48.799Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      7
+      9
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      4
     ],
     [
       "Asbury Automotive Management L.L.C",
       4
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      2
     ],
     [
       "Jidd Motors Mitsubishi",
