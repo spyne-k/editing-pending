@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T06:39:49.603Z",
+  "fetchedAt": "2026-09-08T06:54:21.950Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,24 +16,12 @@
   ],
   "rows": [
     [
-      null,
-      8
-    ],
-    [
       "IM Marketplace GmBH",
-      4
+      5
     ],
     [
-      "Auto Dobrovolny V.M. s.r.o.",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      1
+      null,
+      5
     ]
   ]
 }
