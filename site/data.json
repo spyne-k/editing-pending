@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T13:50:10.020Z",
+  "fetchedAt": "2026-09-08T14:00:26.689Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,14 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      "Pritchard Companies",
+      1
+    ],
+    [
+      null,
+      1
+    ]
+  ]
 }
