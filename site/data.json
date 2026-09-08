@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T07:59:26.601Z",
+  "fetchedAt": "2026-09-08T08:18:18.754Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,16 @@
   ],
   "rows": [
     [
-      "IM Marketplace GmBH",
-      5
+      null,
+      9
     ],
     [
-      null,
-      5
+      "IM Marketplace GmBH",
+      8
+    ],
+    [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      1
     ]
   ]
 }
