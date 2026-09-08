@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T17:11:48.959Z",
+  "fetchedAt": "2026-09-08T17:26:48.892Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,18 @@
   "rows": [
     [
       null,
-      18
+      23
     ],
     [
       "Asbury Automotive Management L.L.C",
       16
     ],
     [
-      "MyCar: Trucktown",
+      "Watermark Auto Group",
+      5
+    ],
+    [
+      "DealerVision.com",
       1
     ],
     [
