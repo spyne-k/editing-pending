@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T14:50:21.027Z",
+  "fetchedAt": "2026-09-08T15:00:46.933Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,15 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      5
-    ],
-    [
-      "Victory Automotive Group",
-      4
-    ],
-    [
       "Pritchard Companies",
+      1
+    ],
+    [
+      null,
       1
     ]
   ]
