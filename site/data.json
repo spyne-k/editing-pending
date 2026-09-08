@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T03:42:56.796Z",
+  "fetchedAt": "2026-09-08T03:54:31.672Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,14 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      null,
+      2
+    ]
+  ]
 }
