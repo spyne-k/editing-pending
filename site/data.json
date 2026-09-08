@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T07:06:42.355Z",
+  "fetchedAt": "2026-09-08T07:23:18.619Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      7
+      9
     ],
     [
       "IM Marketplace GmBH",
-      5
+      8
     ],
     [
-      "Autohighway",
-      2
+      "Rawian Oy",
+      1
     ]
   ]
 }
