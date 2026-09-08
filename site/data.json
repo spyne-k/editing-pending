@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T21:54:59.221Z",
+  "fetchedAt": "2026-09-08T22:06:50.579Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,30 @@
   "rows": [
     [
       null,
-      22
+      33
     ],
     [
       "Asbury Automotive Management L.L.C",
-      11
+      15
     ],
     [
       "Bergstrom Automotive",
       5
     ],
     [
+      "ZT Automotive",
+      3
+    ],
+    [
       "Countryside Mitsubishi",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
       2
     ],
     [
@@ -44,7 +56,7 @@
       1
     ],
     [
-      "Greenway Automotive Group",
+      "Runde Chevrolet, Inc.",
       1
     ]
   ]
