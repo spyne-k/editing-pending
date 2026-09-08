@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T15:50:09.578Z",
+  "fetchedAt": "2026-09-08T16:00:05.974Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      11
+      18
     ],
     [
       "Asbury Automotive Management L.L.C",
-      9
+      16
     ],
     [
       "Flexcar",
