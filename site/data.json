@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T17:38:32.204Z",
+  "fetchedAt": "2026-09-08T17:48:09.158Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      24
+      25
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -26,6 +26,10 @@
     [
       "Rawian Oy",
       5
+    ],
+    [
+      "BP AUTO FINDERS",
+      1
     ],
     [
       "DealerVision.com",
