@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T11:31:49.523Z",
+  "fetchedAt": "2026-09-08T11:44:51.746Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,14 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      null,
-      1
-    ]
-  ]
+  "rows": []
 }
