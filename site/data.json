@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T22:53:17.560Z",
+  "fetchedAt": "2026-09-08T23:02:49.942Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,23 @@
   "rows": [
     [
       null,
-      34
+      55
     ],
     [
       "DealerVision.com",
-      14
+      25
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      5
+    ],
+    [
+      "AX Auto INC",
+      4
     ],
     [
       "Bergstrom Automotive",
-      3
+      4
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -36,11 +44,11 @@
       2
     ],
     [
-      "Gettel Automotive Group",
+      "Hondru Auto Group(US)",
       2
     ],
     [
-      "Hondru Auto Group(US)",
+      "Starling Auto Group",
       2
     ],
     [
@@ -60,7 +68,7 @@
       1
     ],
     [
-      "Starling Auto Group",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
