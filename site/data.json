@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T00:03:38.895Z",
+  "fetchedAt": "2026-09-08T00:31:23.762Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      44
+      61
     ],
     [
       "Asbury Automotive Management L.L.C",
-      19
+      39
     ],
     [
       "Event Motoring",
@@ -32,31 +32,27 @@
       4
     ],
     [
-      "Post Oak Toyota",
-      3
+      "Ideal Cars",
+      2
     ],
     [
-      "Jenkins Auto Group",
-      3
+      "Certified Autoplex Inc.",
+      2
+    ],
+    [
+      "greenway auto group 2",
+      2
     ],
     [
       "Silsbee Ford",
       1
     ],
     [
-      "Ideal Cars",
+      "Post Oak Toyota",
       1
     ],
     [
       "KAR Auto Group",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "North Park Lincoln",
       1
     ],
     [
@@ -65,10 +61,6 @@
     ],
     [
       "Gettel Automotive Group",
-      1
-    ],
-    [
-      "greenway auto group 2",
       1
     ],
     [
