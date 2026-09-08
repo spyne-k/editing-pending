@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T18:12:37.969Z",
+  "fetchedAt": "2026-09-08T18:31:00.139Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,18 @@
   "rows": [
     [
       null,
-      21
+      18
     ],
     [
       "Asbury Automotive Management L.L.C",
       16
     ],
     [
-      "Pritchard Companies",
-      4
+      "Countryside Mitsubishi",
+      1
     ],
     [
-      "Key West Ford Sales Ltd",
+      "Jidd Motors Mitsubishi",
       1
     ]
   ]
