@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T01:17:22.802Z",
+  "fetchedAt": "2026-09-08T01:30:41.756Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      49
+      57
     ],
     [
       "AX Auto INC",
@@ -32,6 +32,10 @@
       5
     ],
     [
+      "Ideal Cars",
+      4
+    ],
+    [
       "Event Motoring",
       4
     ],
@@ -40,7 +44,11 @@
       4
     ],
     [
-      "Ideal Cars",
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "MB Motors",
       3
     ],
     [
@@ -53,10 +61,6 @@
     ],
     [
       "Faircy Automotive",
-      2
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       2
     ],
     [
@@ -77,6 +81,14 @@
     ],
     [
       "Vatland Auto Group",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "mclarty auto group (ams)",
       1
     ],
     [
