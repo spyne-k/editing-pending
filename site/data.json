@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T04:48:23.011Z",
+  "fetchedAt": "2026-09-08T04:57:44.548Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,16 @@
   ],
   "rows": [
     [
-      "Asbury Automotive Management L.L.C",
-      8
+      null,
+      16
     ],
     [
-      null,
-      8
+      "Asbury Automotive Management L.L.C",
+      15
+    ],
+    [
+      "Jenkins Auto Group",
+      1
     ]
   ]
 }
