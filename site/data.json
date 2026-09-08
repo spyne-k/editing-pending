@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T01:55:54.954Z",
+  "fetchedAt": "2026-09-08T02:07:39.238Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      62
+      49
     ],
     [
       "AX Auto INC",
@@ -25,10 +25,6 @@
     ],
     [
       "Yoder Family of Companies",
-      6
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       6
     ],
     [
@@ -40,15 +36,7 @@
       4
     ],
     [
-      "Event Motoring",
-      4
-    ],
-    [
       "Autohighway",
-      4
-    ],
-    [
-      "Bob Johnson Automotive Group",
       4
     ],
     [
@@ -101,6 +89,10 @@
     ],
     [
       "Auto Park Chrysler Dodge Jeep Ram",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
