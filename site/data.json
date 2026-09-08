@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T03:28:20.019Z",
+  "fetchedAt": "2026-09-08T03:42:56.796Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,22 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      3
-    ],
-    [
-      "MB Motors",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "mclarty auto group (ams)",
-      1
-    ]
-  ]
+  "rows": []
 }
