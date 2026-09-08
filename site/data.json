@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T23:53:41.771Z",
+  "fetchedAt": "2026-09-08T00:03:38.895Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      32
+      44
     ],
     [
       "Asbury Automotive Management L.L.C",
-      7
+      19
     ],
     [
       "Event Motoring",
@@ -44,15 +44,19 @@
       1
     ],
     [
-      "Emerald Motors",
-      1
-    ],
-    [
       "Ideal Cars",
       1
     ],
     [
       "KAR Auto Group",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
@@ -65,10 +69,6 @@
     ],
     [
       "greenway auto group 2",
-      1
-    ],
-    [
-      "Diffee Ford Lincoln",
       1
     ],
     [
