@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T23:02:49.942Z",
+  "fetchedAt": "2026-09-08T23:17:39.114Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      55
+      60
     ],
     [
       "DealerVision.com",
       25
     ],
     [
-      "Elite Auto Marketing Solutions",
-      5
+      "AX Auto INC",
+      10
     ],
     [
-      "AX Auto INC",
-      4
+      "Elite Auto Marketing Solutions",
+      5
     ],
     [
       "Bergstrom Automotive",
@@ -65,10 +65,6 @@
     ],
     [
       "Jidd Motors Mitsubishi",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
       1
     ],
     [
