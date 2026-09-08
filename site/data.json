@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T21:46:42.661Z",
+  "fetchedAt": "2026-09-08T21:54:59.221Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      20
+      22
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -32,7 +32,15 @@
       2
     ],
     [
+      "DealerVision.com",
+      1
+    ],
+    [
       "Jidd Motors Mitsubishi",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
       1
     ],
     [
