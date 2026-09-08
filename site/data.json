@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T22:33:00.750Z",
+  "fetchedAt": "2026-09-08T22:43:57.150Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      28
+      32
     ],
     [
       "Asbury Automotive Management L.L.C",
       15
+    ],
+    [
+      "DealerVision.com",
+      3
     ],
     [
       "Countryside Mitsubishi",
@@ -40,7 +44,7 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Giant Auto Warehouse",
       1
     ],
     [
@@ -49,6 +53,10 @@
     ],
     [
       "Jidd Motors Mitsubishi",
+      1
+    ],
+    [
+      "Starling Auto Group",
       1
     ],
     [
