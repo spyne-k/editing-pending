@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T23:49:11.965Z",
+  "fetchedAt": "2026-09-08T23:57:25.300Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      36
-    ],
-    [
-      "AX Auto INC",
-      14
+      22
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -52,7 +48,7 @@
       1
     ],
     [
-      "Your Choice Auto LLC",
+      "Freedom Chevrolet",
       1
     ],
     [
