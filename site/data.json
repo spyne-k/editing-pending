@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T14:00:26.689Z",
+  "fetchedAt": "2026-09-08T14:19:52.644Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,15 @@
   ],
   "rows": [
     [
-      "Pritchard Companies",
-      1
+      null,
+      7
     ],
     [
-      null,
+      "Rawian Oy",
+      6
+    ],
+    [
+      "Pritchard Companies",
       1
     ]
   ]
