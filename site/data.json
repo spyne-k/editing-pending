@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T17:48:09.158Z",
+  "fetchedAt": "2026-09-08T17:56:56.199Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      25
+      20
     ],
     [
       "Asbury Automotive Management L.L.C",
       16
-    ],
-    [
-      "Rawian Oy",
-      5
     ],
     [
       "BP AUTO FINDERS",
@@ -36,7 +32,7 @@
       1
     ],
     [
-      "Key West Ford Sales Ltd",
+      "Pritchard Companies",
       1
     ],
     [
