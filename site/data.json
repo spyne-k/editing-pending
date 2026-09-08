@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T02:07:39.238Z",
+  "fetchedAt": "2026-09-08T02:23:17.333Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      49
+      43
     ],
     [
       "AX Auto INC",
@@ -32,10 +32,6 @@
       5
     ],
     [
-      "Ideal Cars",
-      4
-    ],
-    [
       "Autohighway",
       4
     ],
@@ -44,7 +40,7 @@
       3
     ],
     [
-      "Certified Autoplex Inc.",
+      "Charlie Clark Hyundai",
       2
     ],
     [
@@ -76,10 +72,6 @@
       1
     ],
     [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
       "mclarty auto group (ams)",
       1
     ],
@@ -89,10 +81,6 @@
     ],
     [
       "Auto Park Chrysler Dodge Jeep Ram",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
