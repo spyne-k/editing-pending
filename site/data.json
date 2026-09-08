@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T01:01:11.405Z",
+  "fetchedAt": "2026-09-08T01:17:22.802Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,19 @@
   "rows": [
     [
       null,
-      39
+      49
+    ],
+    [
+      "AX Auto INC",
+      11
     ],
     [
       "Yoder Family of Companies",
       6
     ],
     [
-      "AX Auto INC",
-      4
+      "Gettel Automotive Group",
+      5
     ],
     [
       "Event Motoring",
@@ -36,16 +40,12 @@
       4
     ],
     [
-      "Gettel Automotive Group",
+      "Ideal Cars",
       3
     ],
     [
       "greenway auto group 2",
       3
-    ],
-    [
-      "Ideal Cars",
-      2
     ],
     [
       "Certified Autoplex Inc.",
