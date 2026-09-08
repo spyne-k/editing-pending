@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T04:22:14.185Z",
+  "fetchedAt": "2026-09-08T04:35:53.609Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      3
+      4
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      2
     ],
     [
       "Asbury Automotive Management L.L.C",
       2
-    ],
-    [
-      "Greenway Automotive Group",
-      1
     ]
   ]
 }
