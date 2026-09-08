@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T01:44:32.169Z",
+  "fetchedAt": "2026-09-08T01:55:54.954Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      63
+      62
     ],
     [
       "AX Auto INC",
@@ -25,6 +25,10 @@
     ],
     [
       "Yoder Family of Companies",
+      6
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       6
     ],
     [
@@ -46,14 +50,6 @@
     [
       "Bob Johnson Automotive Group",
       4
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      4
-    ],
-    [
-      "MB Motors",
-      3
     ],
     [
       "greenway auto group 2",
