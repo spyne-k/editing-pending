@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T13:20:51.825Z",
+  "fetchedAt": "2026-09-08T13:35:47.517Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,18 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      3
-    ],
-    [
-      "Greenway Automotive Group",
-      2
-    ],
-    [
-      "Car Capital LTD",
-      1
-    ]
-  ]
+  "rows": []
 }
