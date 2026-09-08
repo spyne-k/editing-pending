@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T02:23:17.333Z",
+  "fetchedAt": "2026-09-08T02:36:47.081Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      43
+      34
     ],
     [
       "AX Auto INC",
@@ -28,16 +28,12 @@
       6
     ],
     [
-      "Gettel Automotive Group",
-      5
-    ],
-    [
       "Autohighway",
       4
     ],
     [
-      "greenway auto group 2",
-      3
+      "LuxuryMotorCars",
+      2
     ],
     [
       "Charlie Clark Hyundai",
@@ -52,19 +48,7 @@
       2
     ],
     [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "KAR Auto Group",
-      1
-    ],
-    [
-      "Sithari Cars Limited",
+      "MB Motors",
       1
     ],
     [
