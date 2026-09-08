@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T19:14:16.429Z",
+  "fetchedAt": "2026-09-08T19:27:05.155Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      16
+      17
     ],
     [
       "Asbury Automotive Management L.L.C",
-      13
+      14
     ],
     [
       "Countryside Mitsubishi",
