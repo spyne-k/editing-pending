@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T18:59:26.942Z",
+  "fetchedAt": "2026-09-08T19:14:16.429Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      19
+      16
     ],
     [
       "Asbury Automotive Management L.L.C",
-      17
+      13
     ],
     [
       "Countryside Mitsubishi",
@@ -29,6 +29,10 @@
     ],
     [
       "Jidd Motors Mitsubishi",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       1
     ]
   ]
