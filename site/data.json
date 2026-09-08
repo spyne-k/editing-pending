@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T05:25:54.223Z",
+  "fetchedAt": "2026-09-08T05:39:55.803Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,19 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      9
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      6
-    ],
-    [
-      "Rawian Oy",
-      2
-    ],
-    [
       "Jenkins Auto Group",
+      1
+    ],
+    [
+      null,
       1
     ]
   ]
