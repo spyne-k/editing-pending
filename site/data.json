@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T10:42:34.329Z",
+  "fetchedAt": "2026-09-09T10:54:05.895Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      20
+      22
     ],
     [
       "Hammond Cars",
@@ -30,6 +30,10 @@
     [
       "Elite Auto Marketing Solutions",
       3
+    ],
+    [
+      "Rawian Oy",
+      2
     ],
     [
       "Prestige Auto Sales",
