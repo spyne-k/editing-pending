@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T22:49:22.770Z",
+  "fetchedAt": "2026-09-09T22:57:57.232Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      296
+      308
     ],
     [
       "Asbury Automotive Management L.L.C",
-      94
+      98
     ],
     [
       "Greenway Automotive Group",
@@ -45,15 +45,15 @@
     ],
     [
       "Bergstrom Automotive",
-      8
+      11
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      7
     ],
     [
       "Brandon Steven Motors",
       7
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      6
     ],
     [
       "Speedway Car Sales",
@@ -62,6 +62,10 @@
     [
       "Capital Chevrolet Inc.",
       5
+    ],
+    [
+      "Covert Auto Group",
+      4
     ],
     [
       "Rohrich Automotive Group",
@@ -96,10 +100,6 @@
       2
     ],
     [
-      "Covert Auto Group",
-      2
-    ],
-    [
       "Quantrell Auto Group",
       2
     ],
@@ -112,7 +112,15 @@
       1
     ],
     [
+      "DealerVision.com",
+      1
+    ],
+    [
       "Davidson Auto Group",
+      1
+    ],
+    [
+      "Audi Cape Fear",
       1
     ],
     [
@@ -120,11 +128,11 @@
       1
     ],
     [
-      "DealerVision.com",
+      "Wallingford Auto Park, Inc.",
       1
     ],
     [
-      "Wallingford Auto Park, Inc.",
+      "Ideal Cars",
       1
     ],
     [
