@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T22:57:57.232Z",
+  "fetchedAt": "2026-09-09T23:11:07.864Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      308
+      340
     ],
     [
       "Asbury Automotive Management L.L.C",
-      98
+      114
     ],
     [
       "Greenway Automotive Group",
-      69
+      71
     ],
     [
       "ZT Automotive",
@@ -36,6 +36,10 @@
       19
     ],
     [
+      "Bergstrom Automotive",
+      17
+    ],
+    [
       "Icon Motors Group of Framingham",
       11
     ],
@@ -44,12 +48,8 @@
       11
     ],
     [
-      "Bergstrom Automotive",
-      11
-    ],
-    [
       "Bud Clary Chevrolet, INC",
-      7
+      8
     ],
     [
       "Brandon Steven Motors",
@@ -76,7 +76,7 @@
       4
     ],
     [
-      "Teton solutions Group",
+      "Moses Auto Group",
       3
     ],
     [
@@ -84,7 +84,19 @@
       3
     ],
     [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Haldeman Lexus of Princeton",
+      3
+    ],
+    [
       "Jim Schmidt Automotive",
+      3
+    ],
+    [
+      "Audi Cape Fear",
       3
     ],
     [
@@ -92,8 +104,8 @@
       3
     ],
     [
-      "Moses Auto Group",
-      3
+      "Impex Auto Sales",
+      2
     ],
     [
       "Victory Automotive Group",
@@ -104,7 +116,7 @@
       2
     ],
     [
-      "Impex Auto Sales",
+      "Ideal Cars",
       2
     ],
     [
@@ -112,15 +124,7 @@
       1
     ],
     [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Audi Cape Fear",
+      "Wallingford Auto Park, Inc.",
       1
     ],
     [
@@ -128,19 +132,23 @@
       1
     ],
     [
-      "Wallingford Auto Park, Inc.",
-      1
-    ],
-    [
-      "Ideal Cars",
-      1
-    ],
-    [
       "Van Horn Automotive Group",
       1
     ],
     [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
       "Performance Automotive Network",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
