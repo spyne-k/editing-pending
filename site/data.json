@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T07:32:15.484Z",
+  "fetchedAt": "2026-09-09T07:46:25.017Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      69
+      70
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -25,7 +25,7 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      10
+      13
     ],
     [
       "Rawian Oy",
@@ -33,7 +33,7 @@
     ],
     [
       "Hammond Cars",
-      5
+      6
     ],
     [
       "Altawkilat",
@@ -53,18 +53,6 @@
     ],
     [
       "Jenkins Auto Group",
-      1
-    ],
-    [
-      "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Elite Auto Marketing Solutions",
       1
     ]
   ]
