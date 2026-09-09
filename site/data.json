@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T21:29:26.883Z",
+  "fetchedAt": "2026-09-09T21:41:52.092Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      238
+      250
     ],
     [
       "Asbury Automotive Management L.L.C",
-      95
+      97
     ],
     [
       "Greenway Automotive Group",
-      52
+      56
     ],
     [
       "Gettel Automotive Group",
-      21
+      23
     ],
     [
       "Preston Motor Automotive Group",
@@ -56,6 +56,10 @@
       4
     ],
     [
+      "Moses Auto Group",
+      3
+    ],
+    [
       "Renny Bettan",
       3
     ],
@@ -64,7 +68,7 @@
       3
     ],
     [
-      "Moses Auto Group",
+      "ZT Automotive",
       2
     ],
     [
@@ -76,15 +80,15 @@
       2
     ],
     [
+      "Capital Chevrolet Inc.",
+      2
+    ],
+    [
       "Jim Schmidt Automotive",
       2
     ],
     [
       "Rochester Toyota",
-      1
-    ],
-    [
-      "ZT Automotive",
       1
     ],
     [
