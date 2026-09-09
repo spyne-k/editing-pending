@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T03:19:54.484Z",
+  "fetchedAt": "2026-09-09T03:33:58.611Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      14
+      15
     ],
     [
       "Expert Auto Group",
       4
-    ],
-    [
-      "Midwest Auto Group",
-      2
     ],
     [
       "Jenkins Auto Group",
@@ -34,6 +30,18 @@
     [
       "Charlie Clark Hyundai",
       2
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
     ],
     [
       "Ferris Chevrolet, Inc",
