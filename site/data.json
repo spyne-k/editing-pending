@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T22:15:06.479Z",
+  "fetchedAt": "2026-09-09T22:28:07.502Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,35 +17,31 @@
   "rows": [
     [
       null,
-      263
+      272
     ],
     [
       "Asbury Automotive Management L.L.C",
-      80
+      91
     ],
     [
       "Greenway Automotive Group",
-      60
-    ],
-    [
-      "Gettel Automotive Group",
-      29
+      64
     ],
     [
       "Toronto Honda",
-      12
+      19
     ],
     [
-      "Preston Motor Automotive Group",
-      11
+      "ZT Automotive",
+      16
     ],
     [
       "Icon Motors Group of Framingham",
       11
     ],
     [
-      "ZT Automotive",
-      8
+      "Preston Motor Automotive Group",
+      11
     ],
     [
       "Bergstrom Automotive",
@@ -53,10 +49,18 @@
     ],
     [
       "Jenkins Auto Group",
-      6
+      7
+    ],
+    [
+      "Brandon Steven Motors",
+      7
     ],
     [
       "Speedway Car Sales",
+      5
+    ],
+    [
+      "Capital Chevrolet Inc.",
       5
     ],
     [
@@ -65,10 +69,6 @@
     ],
     [
       "Elite Auto Marketing Solutions",
-      4
-    ],
-    [
-      "Capital Chevrolet Inc.",
       4
     ],
     [
@@ -92,11 +92,7 @@
       2
     ],
     [
-      "Brandon Steven Motors",
-      1
-    ],
-    [
-      "Wallingford Auto Park, Inc.",
+      "Davidson Auto Group",
       1
     ],
     [
@@ -104,7 +100,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "Wallingford Auto Park, Inc.",
       1
     ],
     [
