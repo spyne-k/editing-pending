@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T01:23:13.005Z",
+  "fetchedAt": "2026-09-09T01:36:17.203Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,31 +17,19 @@
   "rows": [
     [
       null,
-      22
+      16
     ],
     [
       "Elite Auto Marketing Solutions",
       6
     ],
     [
-      "DealerVision.com",
-      2
-    ],
-    [
       "Countryside Mitsubishi",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
       2
     ],
     [
       "Starling Auto Group",
       2
-    ],
-    [
-      "AX Auto INC",
-      1
     ],
     [
       "Vatland Auto Group",
@@ -61,10 +49,6 @@
     ],
     [
       "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
       1
     ],
     [
