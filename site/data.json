@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T12:11:01.685Z",
+  "fetchedAt": "2026-09-09T12:32:42.218Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      17
+      14
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      4
+      "Davidson Auto Group",
+      3
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -36,15 +36,7 @@
       2
     ],
     [
-      "Rawian Oy",
-      1
-    ],
-    [
       "Sithari Cars Limited",
-      1
-    ],
-    [
-      "Davidson Auto Group",
       1
     ],
     [
