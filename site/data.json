@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T05:17:52.576Z",
+  "fetchedAt": "2026-09-09T05:31:41.764Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      20
-    ],
-    [
-      "Hammond Cars",
-      6
+      15
     ],
     [
       "Expert Auto Group",
@@ -41,6 +37,10 @@
     ],
     [
       "Ferris Chevrolet, Inc",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
