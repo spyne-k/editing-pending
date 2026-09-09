@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T17:27:07.667Z",
+  "fetchedAt": "2026-09-09T17:39:47.330Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      134
+      141
     ],
     [
       "Asbury Automotive Management L.L.C",
-      91
-    ],
-    [
-      "Toronto Honda",
-      13
+      111
     ],
     [
       "Bergstrom Automotive",
@@ -36,6 +32,10 @@
       5
     ],
     [
+      "Bob Johnson Automotive Group",
+      4
+    ],
+    [
       "Greenway Automotive Group",
       3
     ],
@@ -44,15 +44,7 @@
       3
     ],
     [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
       "Cornhusker Auto Center",
-      2
-    ],
-    [
-      "Gettel Automotive Group",
       2
     ],
     [
@@ -61,6 +53,10 @@
     ],
     [
       "DealerVision.com",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
       1
     ],
     [
