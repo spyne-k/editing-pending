@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T09:02:17.178Z",
+  "fetchedAt": "2026-09-09T09:19:48.941Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      46
+      53
     ],
     [
       "Asbury Automotive Management L.L.C",
       20
     ],
     [
-      "Hammond Cars",
-      6
+      "Jenkins Auto Group",
+      12
     ],
     [
-      "Jenkins Auto Group",
-      5
+      "Hammond Cars",
+      6
     ],
     [
       "Altawkilat",
@@ -56,7 +56,7 @@
       1
     ],
     [
-      "Quantrell Auto Group",
+      "Pritchard Companies",
       1
     ]
   ]
