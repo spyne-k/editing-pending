@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T03:57:19.606Z",
+  "fetchedAt": "2026-09-09T04:11:14.123Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      18
+      16
     ],
     [
       "Expert Auto Group",
@@ -28,19 +28,15 @@
       2
     ],
     [
-      "Gettel Automotive Group",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
       "DealerVision.com",
       1
     ],
     [
       "Graff Auto Campus",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -65,6 +61,10 @@
     ],
     [
       "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "Autmotive Marketing Solution - Main",
       1
     ]
   ]
