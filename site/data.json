@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T02:53:16.728Z",
+  "fetchedAt": "2026-09-09T03:02:45.848Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,15 @@
   "rows": [
     [
       null,
-      7
+      9
+    ],
+    [
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      1
     ],
     [
       "Ferris Chevrolet, Inc",
@@ -33,10 +41,6 @@
     ],
     [
       "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
       1
     ],
     [
