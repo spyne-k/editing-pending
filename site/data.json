@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T23:23:54.332Z",
+  "fetchedAt": "2026-09-09T23:34:25.752Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,27 +17,31 @@
   "rows": [
     [
       null,
-      371
+      394
     ],
     [
       "Asbury Automotive Management L.L.C",
-      133
+      135
     ],
     [
       "Greenway Automotive Group",
-      72
+      73
     ],
     [
       "Bergstrom Automotive",
-      21
+      23
+    ],
+    [
+      "Toronto Honda",
+      23
     ],
     [
       "ZT Automotive",
       21
     ],
     [
-      "Toronto Honda",
-      21
+      "Bud Clary Chevrolet, INC",
+      13
     ],
     [
       "Icon Motors Group of Framingham",
@@ -48,24 +52,28 @@
       11
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      8
-    ],
-    [
       "Brandon Steven Motors",
       7
     ],
     [
-      "Speedway Car Sales",
-      5
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
     ],
     [
       "Russ Darrow Group, Inc.",
       5
     ],
     [
+      "Speedway Car Sales",
+      5
+    ],
+    [
       "Capital Chevrolet Inc.",
       5
+    ],
+    [
+      "Rohrich Automotive Group",
+      4
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -76,12 +84,8 @@
       4
     ],
     [
-      "Rohrich Automotive Group",
+      "Van Horn Automotive Group",
       4
-    ],
-    [
-      "Moses Auto Group",
-      3
     ],
     [
       "Haldeman Lexus of Princeton",
@@ -100,8 +104,20 @@
       3
     ],
     [
+      "Starling Auto Group",
+      3
+    ],
+    [
       "Renny Bettan",
       3
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Ideal Cars",
+      2
     ],
     [
       "Victory Automotive Group",
@@ -112,23 +128,19 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
       "Impex Auto Sales",
       2
     ],
     [
-      "Ideal Cars",
-      2
-    ],
-    [
-      "Starling Auto Group",
+      "DealerVision.com",
       1
     ],
     [
       "Wallingford Auto Park, Inc.",
+      1
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
       1
     ],
     [
@@ -137,10 +149,6 @@
     ],
     [
       "Davidson Auto Group",
-      1
-    ],
-    [
-      "DealerVision.com",
       1
     ],
     [
