@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T02:28:41.726Z",
+  "fetchedAt": "2026-09-09T02:42:22.652Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,7 @@
   "rows": [
     [
       null,
-      14
-    ],
-    [
-      "Hammond Cars",
-      3
-    ],
-    [
-      "Countryside Mitsubishi",
-      2
-    ],
-    [
-      "Starling Auto Group",
-      2
+      7
     ],
     [
       "Ferris Chevrolet, Inc",
@@ -56,7 +44,7 @@
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Elite Auto Marketing Solutions",
       1
     ]
   ]
