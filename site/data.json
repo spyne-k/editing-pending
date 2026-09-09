@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T04:11:14.123Z",
+  "fetchedAt": "2026-09-09T04:26:43.640Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      16
+      26
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      5
     ],
     [
       "Expert Auto Group",
@@ -28,6 +32,18 @@
       2
     ],
     [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "RBM Automotive Group",
+      2
+    ],
+    [
+      "Hammond Cars",
+      1
+    ],
+    [
       "DealerVision.com",
       1
     ],
@@ -36,7 +52,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "McCurley Dealerships",
       1
     ],
     [
