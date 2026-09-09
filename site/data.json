@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T01:08:30.846Z",
+  "fetchedAt": "2026-09-09T01:23:13.005Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      21
+      22
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -65,6 +65,10 @@
     ],
     [
       "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ]
   ]
