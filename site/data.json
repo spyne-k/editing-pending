@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T17:58:45.752Z",
+  "fetchedAt": "2026-09-09T18:17:25.082Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,27 +17,27 @@
   "rows": [
     [
       null,
-      142
+      145
     ],
     [
       "Asbury Automotive Management L.L.C",
-      106
+      108
     ],
     [
       "Bergstrom Automotive",
       8
     ],
     [
-      "Rawian Oy",
+      "Flood Auto Group",
+      5
+    ],
+    [
+      "Gettel Automotive Group",
       5
     ],
     [
       "Speedway Car Sales",
       5
-    ],
-    [
-      "Gettel Automotive Group",
-      4
     ],
     [
       "Greenway Automotive Group",
