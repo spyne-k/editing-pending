@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T15:42:49.628Z",
+  "fetchedAt": "2026-09-09T15:54:20.990Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      66
+      81
     ],
     [
       "Asbury Automotive Management L.L.C",
-      39
+      52
     ],
     [
       "Bergstrom Automotive",
@@ -29,7 +29,7 @@
     ],
     [
       "Jenkins Auto Group",
-      6
+      7
     ],
     [
       "Quantrell Auto Group",
@@ -53,6 +53,10 @@
     ],
     [
       "Teton solutions Group",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ]
   ]
