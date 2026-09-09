@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T11:56:14.011Z",
+  "fetchedAt": "2026-09-09T12:11:01.685Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -28,10 +28,6 @@
       3
     ],
     [
-      "Rawian Oy",
-      2
-    ],
-    [
       "Prestige Auto Sales",
       2
     ],
@@ -40,7 +36,15 @@
       2
     ],
     [
+      "Rawian Oy",
+      1
+    ],
+    [
       "Sithari Cars Limited",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
