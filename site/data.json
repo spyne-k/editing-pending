@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T22:28:07.502Z",
+  "fetchedAt": "2026-09-09T22:39:52.959Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,27 @@
   "rows": [
     [
       null,
-      272
+      294
     ],
     [
       "Asbury Automotive Management L.L.C",
-      91
+      94
     ],
     [
       "Greenway Automotive Group",
-      64
+      66
+    ],
+    [
+      "ZT Automotive",
+      21
     ],
     [
       "Toronto Honda",
       19
     ],
     [
-      "ZT Automotive",
-      16
+      "Jenkins Auto Group",
+      14
     ],
     [
       "Icon Motors Group of Framingham",
@@ -46,10 +50,6 @@
     [
       "Bergstrom Automotive",
       8
-    ],
-    [
-      "Jenkins Auto Group",
-      7
     ],
     [
       "Brandon Steven Motors",
@@ -72,14 +72,6 @@
       4
     ],
     [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Renny Bettan",
-      3
-    ],
-    [
       "Teton solutions Group",
       3
     ],
@@ -88,15 +80,35 @@
       3
     ],
     [
+      "Renny Bettan",
+      3
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Victory Automotive Group",
+      2
+    ],
+    [
       "Quantrell Auto Group",
       2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
     ],
     [
       "Davidson Auto Group",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "RBM Automotive Group",
       1
     ],
     [
@@ -104,11 +116,15 @@
       1
     ],
     [
-      "Performance Automotive Network",
+      "DealerVision.com",
       1
     ],
     [
-      "DealerVision.com",
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ],
     [
