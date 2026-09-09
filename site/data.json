@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T21:02:08.504Z",
+  "fetchedAt": "2026-09-09T21:16:47.101Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,23 @@
   "rows": [
     [
       null,
-      268
+      225
     ],
     [
       "Asbury Automotive Management L.L.C",
-      145
+      89
     ],
     [
       "Greenway Automotive Group",
-      43
+      48
     ],
     [
       "Gettel Automotive Group",
-      15
+      17
+    ],
+    [
+      "Preston Motor Automotive Group",
+      11
     ],
     [
       "Icon Motors Group of Framingham",
@@ -42,10 +46,6 @@
     [
       "Bergstrom Automotive",
       8
-    ],
-    [
-      "Preston Motor Automotive Group",
-      7
     ],
     [
       "Envision Management Group",
@@ -65,6 +65,10 @@
     ],
     [
       "Moses Auto Group",
+      2
+    ],
+    [
+      "Teton solutions Group",
       2
     ],
     [
@@ -88,11 +92,11 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Davidson Auto Group",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Van Horn Automotive Group",
       1
     ],
     [
