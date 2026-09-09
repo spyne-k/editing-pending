@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T18:17:25.082Z",
+  "fetchedAt": "2026-09-09T18:35:35.617Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,22 @@
   "rows": [
     [
       null,
-      145
+      142
     ],
     [
       "Asbury Automotive Management L.L.C",
-      108
+      102
     ],
     [
       "Bergstrom Automotive",
       8
     ],
     [
-      "Flood Auto Group",
-      5
+      "Gettel Automotive Group",
+      7
     ],
     [
-      "Gettel Automotive Group",
+      "Flood Auto Group",
       5
     ],
     [
@@ -54,6 +54,10 @@
     [
       "Quantrell Auto Group",
       2
+    ],
+    [
+      "Bob King",
+      1
     ],
     [
       "Rochester Toyota",
