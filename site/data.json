@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T16:22:52.607Z",
+  "fetchedAt": "2026-09-09T16:37:24.454Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      123
+      110
     ],
     [
       "Asbury Automotive Management L.L.C",
       81
-    ],
-    [
-      "Rawian Oy",
-      14
     ],
     [
       "Bergstrom Automotive",
@@ -36,16 +32,16 @@
       5
     ],
     [
+      "Toronto Honda",
+      3
+    ],
+    [
       "Greenway Automotive Group",
       3
     ],
     [
       "Elite Auto Marketing Solutions",
       3
-    ],
-    [
-      "Jenkins Auto Group",
-      2
     ],
     [
       "Cornhusker Auto Center",
