@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T19:51:34.481Z",
+  "fetchedAt": "2026-09-09T19:59:36.439Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      174
+      181
     ],
     [
       "Asbury Automotive Management L.L.C",
-      114
+      116
     ],
     [
       "Toronto Honda",
@@ -52,6 +52,10 @@
       3
     ],
     [
+      "ZT Automotive",
+      3
+    ],
+    [
       "Greenway Automotive Group",
       3
     ],
@@ -76,11 +80,19 @@
       1
     ],
     [
+      "Renny Bettan",
+      1
+    ],
+    [
       "DealerVision.com",
       1
     ],
     [
       "Teton solutions Group",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
