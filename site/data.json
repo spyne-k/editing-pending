@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T23:57:25.300Z",
+  "fetchedAt": "2026-09-09T00:18:15.163Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      22
+      21
     ],
     [
       "Elite Auto Marketing Solutions",
-      5
+      6
     ],
     [
       "Bergstrom Automotive",
@@ -33,10 +33,6 @@
     ],
     [
       "Starling Auto Group",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
       2
     ],
     [
