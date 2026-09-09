@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T20:31:04.593Z",
+  "fetchedAt": "2026-09-09T20:43:58.538Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      210
+      230
     ],
     [
       "Asbury Automotive Management L.L.C",
-      131
+      137
+    ],
+    [
+      "Greenway Automotive Group",
+      25
     ],
     [
       "Gettel Automotive Group",
       12
-    ],
-    [
-      "Greenway Automotive Group",
-      11
     ],
     [
       "Toronto Honda",
@@ -40,10 +40,6 @@
       8
     ],
     [
-      "ZT Automotive",
-      7
-    ],
-    [
       "Envision Management Group",
       6
     ],
@@ -52,8 +48,16 @@
       5
     ],
     [
+      "Preston Motor Automotive Group",
+      5
+    ],
+    [
+      "Icon Motors Group of Framingham",
+      5
+    ],
+    [
       "Rohrich Automotive Group",
-      3
+      4
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -64,15 +68,7 @@
       2
     ],
     [
-      "Cornhusker Auto Center",
-      2
-    ],
-    [
       "Quantrell Auto Group",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
       2
     ],
     [
