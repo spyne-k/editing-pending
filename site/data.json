@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T20:53:16.956Z",
+  "fetchedAt": "2026-09-09T21:02:08.504Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      253
+      268
     ],
     [
       "Asbury Automotive Management L.L.C",
-      141
+      145
     ],
     [
       "Greenway Automotive Group",
-      32
+      43
     ],
     [
       "Gettel Automotive Group",
