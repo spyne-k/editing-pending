@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T19:59:36.439Z",
+  "fetchedAt": "2026-09-09T20:16:27.001Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      181
+      193
     ],
     [
       "Asbury Automotive Management L.L.C",
-      116
+      123
+    ],
+    [
+      "Gettel Automotive Group",
+      12
     ],
     [
       "Toronto Honda",
@@ -32,7 +36,7 @@
       8
     ],
     [
-      "Gettel Automotive Group",
+      "ZT Automotive",
       7
     ],
     [
@@ -40,19 +44,11 @@
       6
     ],
     [
-      "Flood Auto Group",
-      5
-    ],
-    [
       "Speedway Car Sales",
       5
     ],
     [
       "Bob King",
-      3
-    ],
-    [
-      "ZT Automotive",
       3
     ],
     [
@@ -93,6 +89,10 @@
     ],
     [
       "Davidson Auto Group",
+      1
+    ],
+    [
+      "Preston Motor Automotive Group",
       1
     ],
     [
