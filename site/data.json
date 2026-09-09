@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T03:46:57.438Z",
+  "fetchedAt": "2026-09-09T03:57:19.606Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,14 @@
   "rows": [
     [
       null,
-      15
+      18
     ],
     [
       "Expert Auto Group",
       4
     ],
     [
-      "Jenkins Auto Group",
+      "ZT Automotive",
       2
     ],
     [
@@ -32,15 +32,23 @@
       2
     ],
     [
-      "ZT Automotive",
-      1
+      "Van Horn Automotive Group",
+      2
     ],
     [
       "DealerVision.com",
       1
     ],
     [
+      "Graff Auto Campus",
+      1
+    ],
+    [
       "Ferris Chevrolet, Inc",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
@@ -52,11 +60,11 @@
       1
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "H&K Chevrolet Family Auto",
       1
     ],
     [
-      "Performance Automotive Network",
+      "Elite Auto Marketing Solutions",
       1
     ]
   ]
