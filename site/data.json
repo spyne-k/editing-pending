@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T14:57:34.951Z",
+  "fetchedAt": "2026-09-09T15:11:07.345Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,23 @@
   "rows": [
     [
       null,
-      21
+      40
     ],
     [
       "Rawian Oy",
-      6
+      16
     ],
     [
       "Bergstrom Automotive",
-      6
+      8
+    ],
+    [
+      "Performance Automotive Network",
+      4
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      4
     ],
     [
       "Quantrell Auto Group",
@@ -36,8 +44,8 @@
       3
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      2
+      "Rochester Toyota",
+      1
     ],
     [
       "Teton solutions Group",
