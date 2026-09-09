@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T00:18:15.163Z",
+  "fetchedAt": "2026-09-09T00:41:50.945Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      21
+      18
     ],
     [
       "Elite Auto Marketing Solutions",
       6
     ],
     [
-      "Bergstrom Automotive",
-      4
+      "DealerVision.com",
+      2
     ],
     [
       "Countryside Mitsubishi",
@@ -36,15 +36,11 @@
       2
     ],
     [
-      "DealerVision.com",
+      "AX Auto INC",
       1
     ],
     [
-      "Giant Auto Warehouse",
-      1
-    ],
-    [
-      "Freedom Chevrolet",
+      "Vatland Auto Group",
       1
     ],
     [
