@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T13:58:35.529Z",
+  "fetchedAt": "2026-09-09T14:14:02.950Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,24 @@
   ],
   "rows": [
     [
+      null,
+      13
+    ],
+    [
+      "Bergstrom Automotive",
+      6
+    ],
+    [
+      "Quantrell Auto Group",
+      3
+    ],
+    [
       "Elite Auto Marketing Solutions",
       3
     ],
     [
-      null,
-      3
+      "Asbury Automotive Management L.L.C",
+      1
     ]
   ]
 }
