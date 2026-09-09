@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T06:59:10.806Z",
+  "fetchedAt": "2026-09-09T07:17:09.777Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,31 +17,31 @@
   "rows": [
     [
       null,
-      64
+      70
     ],
     [
       "KASS Bladel-Reusel BV",
       31
     ],
     [
+      "Asbury Automotive Management L.L.C",
+      10
+    ],
+    [
       "Rawian Oy",
       8
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      5
+      "Hammond Cars",
+      4
+    ],
+    [
+      "Altawkilat",
+      4
     ],
     [
       "Ryan Buick GMC Cadillac",
       4
-    ],
-    [
-      "Hammond Cars",
-      3
-    ],
-    [
-      "Altawkilat",
-      2
     ],
     [
       "Prestige Auto Sales",
@@ -53,10 +53,6 @@
     ],
     [
       "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Graff Auto Campus",
       1
     ],
     [
@@ -73,10 +69,6 @@
     ],
     [
       "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
       1
     ],
     [
