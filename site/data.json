@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T09:47:46.175Z",
+  "fetchedAt": "2026-09-09T09:57:25.622Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,11 @@
   "rows": [
     [
       null,
-      35
-    ],
-    [
-      "Jenkins Auto Group",
-      15
+      16
     ],
     [
       "Hammond Cars",
       6
-    ],
-    [
-      "Altawkilat",
-      4
     ],
     [
       "Ryan Buick GMC Cadillac",
