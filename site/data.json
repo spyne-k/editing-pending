@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T20:16:27.001Z",
+  "fetchedAt": "2026-09-09T20:31:04.593Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,19 @@
   "rows": [
     [
       null,
-      193
+      210
     ],
     [
       "Asbury Automotive Management L.L.C",
-      123
+      131
     ],
     [
       "Gettel Automotive Group",
       12
+    ],
+    [
+      "Greenway Automotive Group",
+      11
     ],
     [
       "Toronto Honda",
@@ -48,11 +52,7 @@
       5
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
-      "Greenway Automotive Group",
+      "Rohrich Automotive Group",
       3
     ],
     [
@@ -69,6 +69,10 @@
     ],
     [
       "Quantrell Auto Group",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
       2
     ],
     [
@@ -89,10 +93,6 @@
     ],
     [
       "Davidson Auto Group",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
       1
     ],
     [
