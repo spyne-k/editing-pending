@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T01:58:27.396Z",
+  "fetchedAt": "2026-09-09T02:13:25.365Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      21
+      20
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -49,10 +49,6 @@
     ],
     [
       "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
       1
     ],
     [
