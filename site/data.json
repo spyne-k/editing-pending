@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T13:01:02.863Z",
+  "fetchedAt": "2026-09-09T13:20:08.809Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,14 @@
   "rows": [
     [
       null,
-      7
+      4
     ],
     [
       "Elite Auto Marketing Solutions",
       3
     ],
     [
-      "Sithari Cars Limited",
-      1
-    ],
-    [
-      "Pritchard Companies",
-      1
-    ],
-    [
       "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Best Deal Auto Sales, INC.",
       1
     ]
   ]
