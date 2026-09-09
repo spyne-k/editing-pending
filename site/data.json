@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T06:28:49.971Z",
+  "fetchedAt": "2026-09-09T06:46:46.125Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,23 @@
   "rows": [
     [
       null,
-      52
+      60
     ],
     [
       "KASS Bladel-Reusel BV",
       31
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      4
+      "Rawian Oy",
+      8
     ],
     [
-      "Greenway Automotive Group",
-      3
+      "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      4
     ],
     [
       "Hammond Cars",
@@ -40,8 +44,8 @@
       2
     ],
     [
-      "RBM Automotive Group",
-      2
+      "Post Oak Toyota",
+      1
     ],
     [
       "Jenkins Auto Group",
@@ -69,10 +73,6 @@
     ],
     [
       "Elite Auto Marketing Solutions",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
