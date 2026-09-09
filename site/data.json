@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T19:09:58.842Z",
+  "fetchedAt": "2026-09-09T19:23:03.422Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      125
+      143
     ],
     [
       "Asbury Automotive Management L.L.C",
-      77
+      81
+    ],
+    [
+      "Rawian Oy",
+      11
     ],
     [
       "Bergstrom Automotive",
@@ -32,16 +36,24 @@
       7
     ],
     [
-      "Flood Auto Group",
-      5
+      "Envision Management Group",
+      6
     ],
     [
-      "Rawian Oy",
+      "Flood Auto Group",
       5
     ],
     [
       "Speedway Car Sales",
       5
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "Toronto Honda",
+      3
     ],
     [
       "Greenway Automotive Group",
@@ -50,10 +62,6 @@
     [
       "Elite Auto Marketing Solutions",
       3
-    ],
-    [
-      "Bob King",
-      2
     ],
     [
       "Cornhusker Auto Center",
@@ -65,14 +73,6 @@
     ],
     [
       "Rochester Toyota",
-      1
-    ],
-    [
-      "Kia Vancouver",
-      1
-    ],
-    [
-      "Toronto Honda",
       1
     ],
     [
