@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T21:59:51.552Z",
+  "fetchedAt": "2026-09-09T22:15:06.479Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,23 @@
   "rows": [
     [
       null,
-      236
+      263
     ],
     [
       "Asbury Automotive Management L.L.C",
-      72
+      80
     ],
     [
       "Greenway Automotive Group",
-      59
+      60
     ],
     [
       "Gettel Automotive Group",
-      26
+      29
+    ],
+    [
+      "Toronto Honda",
+      12
     ],
     [
       "Preston Motor Automotive Group",
@@ -40,12 +44,16 @@
       11
     ],
     [
-      "Toronto Honda",
-      10
+      "ZT Automotive",
+      8
     ],
     [
       "Bergstrom Automotive",
       8
+    ],
+    [
+      "Jenkins Auto Group",
+      6
     ],
     [
       "Speedway Car Sales",
@@ -60,11 +68,11 @@
       4
     ],
     [
-      "Moses Auto Group",
-      3
+      "Capital Chevrolet Inc.",
+      4
     ],
     [
-      "ZT Automotive",
+      "Moses Auto Group",
       3
     ],
     [
@@ -76,10 +84,6 @@
       3
     ],
     [
-      "Capital Chevrolet Inc.",
-      3
-    ],
-    [
       "Jim Schmidt Automotive",
       3
     ],
@@ -88,15 +92,7 @@
       2
     ],
     [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Davidson Auto Group",
+      "Brandon Steven Motors",
       1
     ],
     [
@@ -108,7 +104,19 @@
       1
     ],
     [
+      "Davidson Auto Group",
+      1
+    ],
+    [
       "Performance Automotive Network",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Rochester Toyota",
       1
     ]
   ]
