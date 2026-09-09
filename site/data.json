@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T21:16:47.101Z",
+  "fetchedAt": "2026-09-09T21:29:26.883Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      225
+      238
     ],
     [
       "Asbury Automotive Management L.L.C",
-      89
+      95
     ],
     [
       "Greenway Automotive Group",
-      48
+      52
     ],
     [
       "Gettel Automotive Group",
-      17
+      21
     ],
     [
       "Preston Motor Automotive Group",
@@ -48,16 +48,16 @@
       8
     ],
     [
-      "Envision Management Group",
-      6
-    ],
-    [
       "Speedway Car Sales",
       5
     ],
     [
       "Rohrich Automotive Group",
       4
+    ],
+    [
+      "Renny Bettan",
+      3
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -76,6 +76,10 @@
       2
     ],
     [
+      "Jim Schmidt Automotive",
+      2
+    ],
+    [
       "Rochester Toyota",
       1
     ],
@@ -84,11 +88,11 @@
       1
     ],
     [
-      "Renny Bettan",
+      "DealerVision.com",
       1
     ],
     [
-      "DealerVision.com",
+      "Prestige Auto Sales",
       1
     ],
     [
