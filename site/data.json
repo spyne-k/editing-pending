@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T17:50:13.363Z",
+  "fetchedAt": "2026-09-09T17:58:45.752Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,19 @@
   "rows": [
     [
       null,
-      136
+      142
     ],
     [
       "Asbury Automotive Management L.L.C",
-      105
+      106
     ],
     [
       "Bergstrom Automotive",
       8
+    ],
+    [
+      "Rawian Oy",
+      5
     ],
     [
       "Speedway Car Sales",
