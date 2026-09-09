@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T23:34:25.752Z",
+  "fetchedAt": "2026-09-09T23:44:11.911Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      394
+      378
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -32,10 +32,6 @@
       23
     ],
     [
-      "Toronto Honda",
-      23
-    ],
-    [
       "ZT Automotive",
       21
     ],
@@ -44,11 +40,11 @@
       13
     ],
     [
-      "Icon Motors Group of Framingham",
+      "Preston Motor Automotive Group",
       11
     ],
     [
-      "Preston Motor Automotive Group",
+      "Icon Motors Group of Framingham",
       11
     ],
     [
@@ -60,6 +56,10 @@
       6
     ],
     [
+      "Performance Automotive Network",
+      5
+    ],
+    [
       "Russ Darrow Group, Inc.",
       5
     ],
@@ -68,7 +68,7 @@
       5
     ],
     [
-      "Capital Chevrolet Inc.",
+      " Joshua Tree Chrysler Dodge Jeep Ram",
       5
     ],
     [
@@ -88,6 +88,14 @@
       4
     ],
     [
+      "Renny Bettan",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
       "Haldeman Lexus of Princeton",
       3
     ],
@@ -96,7 +104,7 @@
       3
     ],
     [
-      "Audi Cape Fear",
+      "Moses Auto Group",
       3
     ],
     [
@@ -108,23 +116,15 @@
       3
     ],
     [
-      "Renny Bettan",
+      "H&K Chevrolet Family Auto",
       3
-    ],
-    [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Ideal Cars",
-      2
-    ],
-    [
-      "Victory Automotive Group",
-      2
     ],
     [
       "Quantrell Auto Group",
+      2
+    ],
+    [
+      "Ideal Cars",
       2
     ],
     [
@@ -132,7 +132,11 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Victory Automotive Group",
+      2
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
@@ -148,10 +152,6 @@
       1
     ],
     [
-      "Davidson Auto Group",
-      1
-    ],
-    [
       "World Car Auto Group",
       1
     ],
@@ -160,7 +160,7 @@
       1
     ],
     [
-      "Performance Automotive Network",
+      "DealerVision.com",
       1
     ],
     [
