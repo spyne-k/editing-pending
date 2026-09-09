@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T02:42:22.652Z",
+  "fetchedAt": "2026-09-09T02:53:16.728Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -24,10 +24,6 @@
       1
     ],
     [
-      "Vatland Auto Group",
-      1
-    ],
-    [
       "Jidd Motors Mitsubishi",
       1
     ],
@@ -45,6 +41,10 @@
     ],
     [
       "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ]
   ]
