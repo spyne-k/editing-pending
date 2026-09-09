@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T00:41:50.945Z",
+  "fetchedAt": "2026-09-09T00:56:27.575Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      18
+      21
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -29,6 +29,10 @@
     ],
     [
       "Countryside Mitsubishi",
+      2
+    ],
+    [
+      "Your Choice Auto LLC",
       2
     ],
     [
@@ -45,6 +49,10 @@
     ],
     [
       "Jidd Motors Mitsubishi",
+      1
+    ],
+    [
+      "Smartlot Solutions",
       1
     ],
     [
