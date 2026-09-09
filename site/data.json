@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T21:51:18.225Z",
+  "fetchedAt": "2026-09-09T21:59:51.552Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      224
+      236
     ],
     [
       "Asbury Automotive Management L.L.C",
-      66
+      72
     ],
     [
       "Greenway Automotive Group",
-      56
+      59
     ],
     [
       "Gettel Automotive Group",
-      24
+      26
     ],
     [
       "Preston Motor Automotive Group",
@@ -64,6 +64,10 @@
       3
     ],
     [
+      "ZT Automotive",
+      3
+    ],
+    [
       "Renny Bettan",
       3
     ],
@@ -76,16 +80,20 @@
       3
     ],
     [
-      "ZT Automotive",
-      2
+      "Jim Schmidt Automotive",
+      3
     ],
     [
       "Quantrell Auto Group",
       2
     ],
     [
-      "Jim Schmidt Automotive",
-      2
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
     ],
     [
       "Davidson Auto Group",
@@ -100,19 +108,7 @@
       1
     ],
     [
-      "Prestige Auto Sales",
-      1
-    ],
-    [
       "Performance Automotive Network",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Rochester Toyota",
       1
     ]
   ]
