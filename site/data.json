@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T08:26:54.849Z",
+  "fetchedAt": "2026-09-09T08:40:43.161Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      71
-    ],
-    [
-      "KASS Bladel-Reusel BV",
-      31
+      41
     ],
     [
       "Asbury Automotive Management L.L.C",
-      17
+      19
     ],
     [
       "Hammond Cars",
@@ -49,10 +45,6 @@
     ],
     [
       "Toronto Honda",
-      1
-    ],
-    [
-      "Rawian Oy",
       1
     ],
     [
