@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T14:30:07.953Z",
+  "fetchedAt": "2026-09-09T14:46:20.423Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,19 @@
   "rows": [
     [
       null,
-      20
+      27
     ],
     [
       "Asbury Automotive Management L.L.C",
-      7
+      10
     ],
     [
       "Rawian Oy",
       6
+    ],
+    [
+      "Bergstrom Automotive",
+      5
     ],
     [
       "Quantrell Auto Group",
@@ -34,10 +38,6 @@
     [
       "Elite Auto Marketing Solutions",
       3
-    ],
-    [
-      "Bergstrom Automotive",
-      1
     ]
   ]
 }
