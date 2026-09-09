@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T19:33:11.362Z",
+  "fetchedAt": "2026-09-09T19:42:41.867Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      174
+      149
     ],
     [
       "Asbury Automotive Management L.L.C",
-      82
-    ],
-    [
-      "Rawian Oy",
-      36
+      91
     ],
     [
       "Toronto Honda",
@@ -62,6 +58,10 @@
     [
       "Elite Auto Marketing Solutions",
       3
+    ],
+    [
+      "Moses Auto Group",
+      2
     ],
     [
       "Cornhusker Auto Center",
