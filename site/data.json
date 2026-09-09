@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T07:17:09.777Z",
+  "fetchedAt": "2026-09-09T07:32:15.484Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      70
+      69
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -33,7 +33,7 @@
     ],
     [
       "Hammond Cars",
-      4
+      5
     ],
     [
       "Altawkilat",
@@ -53,14 +53,6 @@
     ],
     [
       "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Ferris Chevrolet, Inc",
-      1
-    ],
-    [
-      "Davidson Auto Group",
       1
     ],
     [
