@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T05:01:52.234Z",
+  "fetchedAt": "2026-09-09T05:17:52.576Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      22
+      20
     ],
     [
       "Hammond Cars",
-      5
+      6
     ],
     [
       "Expert Auto Group",
@@ -32,19 +32,11 @@
       2
     ],
     [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
+      "Greenway Automotive Group",
+      2
     ],
     [
       "Graff Auto Campus",
-      1
-    ],
-    [
-      "McCurley Dealerships",
       1
     ],
     [
@@ -56,15 +48,7 @@
       1
     ],
     [
-      "Capital Chevrolet Inc.",
-      1
-    ],
-    [
       "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "International Auto Sales",
       1
     ],
     [
