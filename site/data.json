@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T04:26:43.640Z",
+  "fetchedAt": "2026-09-09T04:40:56.587Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      26
+      27
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -32,7 +32,7 @@
       2
     ],
     [
-      "Gettel Automotive Group",
+      "Cornhusker Auto Center",
       2
     ],
     [
@@ -64,6 +64,10 @@
       1
     ],
     [
+      "Capital Chevrolet Inc.",
+      1
+    ],
+    [
       "IM Marketplace GmBH",
       1
     ],
@@ -80,7 +84,7 @@
       1
     ],
     [
-      "Autmotive Marketing Solution - Main",
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
