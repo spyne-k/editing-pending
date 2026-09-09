@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T06:46:46.125Z",
+  "fetchedAt": "2026-09-09T06:59:10.806Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      60
+      64
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -37,6 +37,10 @@
     ],
     [
       "Hammond Cars",
+      3
+    ],
+    [
+      "Altawkilat",
       2
     ],
     [
@@ -44,7 +48,7 @@
       2
     ],
     [
-      "Post Oak Toyota",
+      "Toronto Honda",
       1
     ],
     [
@@ -69,6 +73,10 @@
     ],
     [
       "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
       1
     ],
     [
