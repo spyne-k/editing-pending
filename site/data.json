@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T04:40:56.587Z",
+  "fetchedAt": "2026-09-09T04:52:49.831Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      27
+      29
     ],
     [
       "Bud Clary Chevrolet, INC",
       5
+    ],
+    [
+      "Hammond Cars",
+      4
     ],
     [
       "Expert Auto Group",
@@ -38,10 +42,6 @@
     [
       "RBM Automotive Group",
       2
-    ],
-    [
-      "Hammond Cars",
-      1
     ],
     [
       "DealerVision.com",
@@ -81,10 +81,6 @@
     ],
     [
       "Elite Auto Marketing Solutions",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
