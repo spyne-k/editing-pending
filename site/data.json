@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T03:02:45.848Z",
+  "fetchedAt": "2026-09-09T03:19:54.484Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,26 @@
   "rows": [
     [
       null,
-      9
+      14
     ],
     [
-      "Greenway Automotive Group",
+      "Expert Auto Group",
+      4
+    ],
+    [
+      "Midwest Auto Group",
       2
     ],
     [
       "Jenkins Auto Group",
-      1
+      2
+    ],
+    [
+      "Charlie Clark Hyundai",
+      2
     ],
     [
       "Ferris Chevrolet, Inc",
-      1
-    ],
-    [
-      "Jidd Motors Mitsubishi",
-      1
-    ],
-    [
-      "Smartlot Solutions",
       1
     ],
     [
