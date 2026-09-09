@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T15:54:20.990Z",
+  "fetchedAt": "2026-09-09T16:04:43.094Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,22 @@
   "rows": [
     [
       null,
-      81
+      93
     ],
     [
       "Asbury Automotive Management L.L.C",
-      52
+      66
     ],
     [
       "Bergstrom Automotive",
       8
     ],
     [
-      "Jenkins Auto Group",
-      7
+      "Speedway Car Sales",
+      5
     ],
     [
       "Quantrell Auto Group",
-      3
-    ],
-    [
-      "Speedway Car Sales",
       3
     ],
     [
@@ -48,7 +44,15 @@
       2
     ],
     [
+      "Cornhusker Auto Center",
+      2
+    ],
+    [
       "Rochester Toyota",
+      1
+    ],
+    [
+      "DealerVision.com",
       1
     ],
     [
