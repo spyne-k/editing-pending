@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T17:12:28.977Z",
+  "fetchedAt": "2026-09-09T17:27:07.667Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      138
+      134
     ],
     [
       "Asbury Automotive Management L.L.C",
-      90
+      91
     ],
     [
       "Toronto Honda",
@@ -30,10 +30,6 @@
     [
       "Bergstrom Automotive",
       8
-    ],
-    [
-      "Rawian Oy",
-      7
     ],
     [
       "Speedway Car Sales",
@@ -53,6 +49,10 @@
     ],
     [
       "Cornhusker Auto Center",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
       2
     ],
     [
