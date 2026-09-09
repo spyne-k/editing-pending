@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T16:04:43.094Z",
+  "fetchedAt": "2026-09-09T16:22:52.607Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      93
+      123
     ],
     [
       "Asbury Automotive Management L.L.C",
-      66
+      81
+    ],
+    [
+      "Rawian Oy",
+      14
     ],
     [
       "Bergstrom Automotive",
@@ -32,7 +36,7 @@
       5
     ],
     [
-      "Quantrell Auto Group",
+      "Greenway Automotive Group",
       3
     ],
     [
@@ -40,7 +44,7 @@
       3
     ],
     [
-      "Rawian Oy",
+      "Jenkins Auto Group",
       2
     ],
     [
@@ -61,6 +65,10 @@
     ],
     [
       "Performance Automotive Network",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
       1
     ]
   ]
