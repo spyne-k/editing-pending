@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T10:54:05.895Z",
+  "fetchedAt": "2026-09-09T11:04:19.705Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      22
+      23
     ],
     [
       "Hammond Cars",
@@ -42,6 +42,10 @@
     [
       "Covert Auto Group",
       2
+    ],
+    [
+      "Sithari Cars Limited",
+      1
     ],
     [
       "Pritchard Companies",
