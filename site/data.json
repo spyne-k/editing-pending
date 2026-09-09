@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T21:41:52.092Z",
+  "fetchedAt": "2026-09-09T21:51:18.225Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      250
+      224
     ],
     [
       "Asbury Automotive Management L.L.C",
-      97
+      66
     ],
     [
       "Greenway Automotive Group",
@@ -29,7 +29,7 @@
     ],
     [
       "Gettel Automotive Group",
-      23
+      24
     ],
     [
       "Preston Motor Automotive Group",
@@ -56,6 +56,10 @@
       4
     ],
     [
+      "Elite Auto Marketing Solutions",
+      4
+    ],
+    [
       "Moses Auto Group",
       3
     ],
@@ -64,7 +68,11 @@
       3
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Capital Chevrolet Inc.",
       3
     ],
     [
@@ -72,15 +80,7 @@
       2
     ],
     [
-      "Teton solutions Group",
-      2
-    ],
-    [
       "Quantrell Auto Group",
-      2
-    ],
-    [
-      "Capital Chevrolet Inc.",
       2
     ],
     [
@@ -88,19 +88,11 @@
       2
     ],
     [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
-      1
-    ],
-    [
       "Davidson Auto Group",
+      1
+    ],
+    [
+      "Wallingford Auto Park, Inc.",
       1
     ],
     [
@@ -108,7 +100,19 @@
       1
     ],
     [
+      "Prestige Auto Sales",
+      1
+    ],
+    [
       "Performance Automotive Network",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Rochester Toyota",
       1
     ]
   ]
