@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T05:31:41.764Z",
+  "fetchedAt": "2026-09-09T05:44:53.448Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,19 @@
   "rows": [
     [
       null,
-      15
+      19
     ],
     [
       "Expert Auto Group",
       4
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      3
+    ],
+    [
+      "Prestige Auto Sales",
+      2
     ],
     [
       "RBM Automotive Group",
@@ -37,10 +45,6 @@
     ],
     [
       "Ferris Chevrolet, Inc",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
       1
     ],
     [
