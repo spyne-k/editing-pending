@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T14:14:02.950Z",
+  "fetchedAt": "2026-09-09T14:30:07.953Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,10 +17,14 @@
   "rows": [
     [
       null,
-      13
+      20
     ],
     [
-      "Bergstrom Automotive",
+      "Asbury Automotive Management L.L.C",
+      7
+    ],
+    [
+      "Rawian Oy",
       6
     ],
     [
@@ -32,7 +36,7 @@
       3
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Bergstrom Automotive",
       1
     ]
   ]
