@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T04:52:49.831Z",
+  "fetchedAt": "2026-09-09T05:01:52.234Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,31 +17,23 @@
   "rows": [
     [
       null,
-      29
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      5
+      22
     ],
     [
       "Hammond Cars",
-      4
+      5
     ],
     [
       "Expert Auto Group",
       4
     ],
     [
-      "ZT Automotive",
-      2
-    ],
-    [
-      "Cornhusker Auto Center",
-      2
-    ],
-    [
       "RBM Automotive Group",
       2
+    ],
+    [
+      "Post Oak Toyota",
+      1
     ],
     [
       "DealerVision.com",
