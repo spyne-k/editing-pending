@@ -1,7 +1,59 @@
 {
-  "fetchedAt": "2026-09-09T15:27:13.954Z",
+  "fetchedAt": "2026-09-09T15:42:49.628Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
-  "columns": [],
-  "rows": []
+  "columns": [
+    {
+      "name": "name",
+      "displayName": "name",
+      "baseType": "type/Text"
+    },
+    {
+      "name": "total_images",
+      "displayName": "total_images",
+      "baseType": "type/BigInteger"
+    }
+  ],
+  "rows": [
+    [
+      null,
+      66
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      39
+    ],
+    [
+      "Bergstrom Automotive",
+      8
+    ],
+    [
+      "Jenkins Auto Group",
+      6
+    ],
+    [
+      "Quantrell Auto Group",
+      3
+    ],
+    [
+      "Speedway Car Sales",
+      3
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      3
+    ],
+    [
+      "Rawian Oy",
+      2
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ]
+  ]
 }
