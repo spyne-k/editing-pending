@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T06:07:38.664Z",
+  "fetchedAt": "2026-09-09T06:28:49.971Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      19
+      52
+    ],
+    [
+      "KASS Bladel-Reusel BV",
+      31
     ],
     [
       "Ryan Buick GMC Cadillac",
-      3
+      4
     ],
     [
       "Greenway Automotive Group",
@@ -38,6 +42,10 @@
     [
       "RBM Automotive Group",
       2
+    ],
+    [
+      "Jenkins Auto Group",
+      1
     ],
     [
       "Graff Auto Campus",
