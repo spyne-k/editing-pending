@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T08:10:34.675Z",
+  "fetchedAt": "2026-09-09T08:26:54.849Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      66
+      71
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -25,7 +25,7 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      15
+      17
     ],
     [
       "Hammond Cars",
@@ -52,7 +52,19 @@
       1
     ],
     [
+      "Rawian Oy",
+      1
+    ],
+    [
       "Jenkins Auto Group",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Quantrell Auto Group",
       1
     ]
   ]
