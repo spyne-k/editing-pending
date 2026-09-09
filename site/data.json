@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T23:44:11.911Z",
+  "fetchedAt": "2026-09-09T23:52:38.678Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      378
+      399
     ],
     [
       "Asbury Automotive Management L.L.C",
-      135
+      138
     ],
     [
       "Greenway Automotive Group",
-      73
+      80
     ],
     [
       "Bergstrom Automotive",
-      23
+      24
     ],
     [
       "ZT Automotive",
@@ -40,12 +40,20 @@
       13
     ],
     [
+      "Icon Motors Group of Framingham",
+      11
+    ],
+    [
       "Preston Motor Automotive Group",
       11
     ],
     [
-      "Icon Motors Group of Framingham",
-      11
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      8
+    ],
+    [
+      "Van Horn Automotive Group",
+      7
     ],
     [
       "Brandon Steven Motors",
@@ -56,6 +64,10 @@
       6
     ],
     [
+      "Speedway Car Sales",
+      5
+    ],
+    [
       "Performance Automotive Network",
       5
     ],
@@ -64,15 +76,7 @@
       5
     ],
     [
-      "Speedway Car Sales",
-      5
-    ],
-    [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
-      5
-    ],
-    [
-      "Rohrich Automotive Group",
+      "Starling Auto Group",
       4
     ],
     [
@@ -80,15 +84,15 @@
       4
     ],
     [
+      "Rohrich Automotive Group",
+      4
+    ],
+    [
       "Covert Auto Group",
       4
     ],
     [
-      "Van Horn Automotive Group",
-      4
-    ],
-    [
-      "Renny Bettan",
+      "Teton solutions Group",
       3
     ],
     [
@@ -96,15 +100,7 @@
       3
     ],
     [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Moses Auto Group",
+      "Renny Bettan",
       3
     ],
     [
@@ -112,7 +108,11 @@
       3
     ],
     [
-      "Starling Auto Group",
+      "Haldeman Lexus of Princeton",
+      3
+    ],
+    [
+      "Moses Auto Group",
       3
     ],
     [
@@ -124,15 +124,15 @@
       2
     ],
     [
+      "Victory Automotive Group",
+      2
+    ],
+    [
       "Ideal Cars",
       2
     ],
     [
       "Impex Auto Sales",
-      2
-    ],
-    [
-      "Victory Automotive Group",
       2
     ],
     [
@@ -152,6 +152,10 @@
       1
     ],
     [
+      "Capital Chevrolet Inc.",
+      1
+    ],
+    [
       "World Car Auto Group",
       1
     ],
@@ -164,7 +168,15 @@
       1
     ],
     [
+      "Louyet Re-used",
+      1
+    ],
+    [
       "Rochester Toyota",
+      1
+    ],
+    [
+      "Novacti",
       1
     ],
     [
@@ -172,7 +184,7 @@
       1
     ],
     [
-      "Novacti",
+      "Bob King",
       1
     ]
   ]
