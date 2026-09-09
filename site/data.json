@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T09:34:41.110Z",
+  "fetchedAt": "2026-09-09T09:47:46.175Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      54
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      20
+      35
     ],
     [
       "Jenkins Auto Group",
@@ -53,6 +49,10 @@
     ],
     [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
       1
     ]
   ]
