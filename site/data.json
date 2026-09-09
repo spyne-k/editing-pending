@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T09:19:48.941Z",
+  "fetchedAt": "2026-09-09T09:34:41.110Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      53
+      54
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -25,7 +25,7 @@
     ],
     [
       "Jenkins Auto Group",
-      12
+      15
     ],
     [
       "Hammond Cars",
@@ -44,19 +44,15 @@
       2
     ],
     [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
       "Covert Auto Group",
       1
     ],
     [
       "Pritchard Companies",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ]
   ]
