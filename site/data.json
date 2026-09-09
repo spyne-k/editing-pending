@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T16:58:24.076Z",
+  "fetchedAt": "2026-09-09T17:12:28.977Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      125
+      138
     ],
     [
       "Asbury Automotive Management L.L.C",
-      81
+      90
     ],
     [
       "Toronto Honda",
-      12
+      13
     ],
     [
       "Bergstrom Automotive",
@@ -33,7 +33,7 @@
     ],
     [
       "Rawian Oy",
-      6
+      7
     ],
     [
       "Speedway Car Sales",
@@ -45,6 +45,10 @@
     ],
     [
       "Elite Auto Marketing Solutions",
+      3
+    ],
+    [
+      "Bob Johnson Automotive Group",
       3
     ],
     [
@@ -65,10 +69,6 @@
     ],
     [
       "Performance Automotive Network",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
       1
     ]
   ]
