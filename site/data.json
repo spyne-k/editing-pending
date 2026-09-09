@@ -1,55 +1,7 @@
 {
-  "fetchedAt": "2026-09-09T15:11:07.345Z",
+  "fetchedAt": "2026-09-09T15:27:13.954Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
-  "columns": [
-    {
-      "name": "name",
-      "displayName": "name",
-      "baseType": "type/Text"
-    },
-    {
-      "name": "total_images",
-      "displayName": "total_images",
-      "baseType": "type/BigInteger"
-    }
-  ],
-  "rows": [
-    [
-      null,
-      40
-    ],
-    [
-      "Rawian Oy",
-      16
-    ],
-    [
-      "Bergstrom Automotive",
-      8
-    ],
-    [
-      "Performance Automotive Network",
-      4
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      4
-    ],
-    [
-      "Quantrell Auto Group",
-      3
-    ],
-    [
-      "Elite Auto Marketing Solutions",
-      3
-    ],
-    [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ]
-  ]
+  "columns": [],
+  "rows": []
 }
