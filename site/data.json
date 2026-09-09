@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T02:13:25.365Z",
+  "fetchedAt": "2026-09-09T02:28:41.726Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      20
-    ],
-    [
-      "Elite Auto Marketing Solutions",
-      8
+      14
     ],
     [
       "Hammond Cars",
@@ -34,6 +30,10 @@
     [
       "Starling Auto Group",
       2
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      1
     ],
     [
       "Vatland Auto Group",
@@ -53,6 +53,10 @@
     ],
     [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
