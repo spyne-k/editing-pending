@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T13:20:08.809Z",
+  "fetchedAt": "2026-09-09T13:34:58.015Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,16 +16,12 @@
   ],
   "rows": [
     [
-      null,
-      4
-    ],
-    [
       "Elite Auto Marketing Solutions",
       3
     ],
     [
-      "Greenway Automotive Group",
-      1
+      null,
+      3
     ]
   ]
 }
