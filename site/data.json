@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T04:25:49.162Z",
+  "fetchedAt": "2026-09-10T04:40:37.201Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      317
+      332
     ],
     [
       "Yoder Family of Companies",
       49
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      17
     ],
     [
       "ZT Automotive",
@@ -56,23 +60,23 @@
       10
     ],
     [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
-      8
-    ],
-    [
       "Russ Darrow Group, Inc.",
       8
     ],
     [
-      "Brandon Steven Motors",
-      7
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      8
     ],
     [
       "Wiz Leasing Inc",
       7
     ],
     [
-      "Pritchard Companies",
+      "Brandon Steven Motors",
+      7
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
@@ -80,7 +84,11 @@
       6
     ],
     [
-      "Amato Hyundai Of Glendale",
+      "DealerVision.com",
+      6
+    ],
+    [
+      "Pritchard Companies",
       6
     ],
     [
@@ -88,15 +96,7 @@
       6
     ],
     [
-      "Elite Auto Marketing Solutions",
-      6
-    ],
-    [
       "Performance Automotive Network",
-      5
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       5
     ],
     [
@@ -104,11 +104,7 @@
       5
     ],
     [
-      "DealerVision.com",
-      4
-    ],
-    [
-      "Covert Auto Group",
+      "Asbury Automotive Management L.L.C",
       4
     ],
     [
@@ -116,11 +112,7 @@
       4
     ],
     [
-      "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Capital Chevrolet Inc.",
+      "Median Media LLC",
       4
     ],
     [
@@ -128,19 +120,19 @@
       4
     ],
     [
-      "Median Media LLC",
+      "Capital Chevrolet Inc.",
       4
     ],
     [
-      "Renny Bettan",
-      3
+      "Covert Auto Group",
+      4
     ],
     [
-      "Bob King",
-      3
+      "Rohrich Automotive Group",
+      4
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Moses Auto Group",
       3
     ],
     [
@@ -148,15 +140,7 @@
       3
     ],
     [
-      "Audi Cape Fear",
-      3
-    ],
-    [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
+      "Elite Auto Marketing Solutions",
       3
     ],
     [
@@ -168,7 +152,23 @@
       3
     ],
     [
+      "Bob King",
+      3
+    ],
+    [
+      "Zink Motor Company",
+      3
+    ],
+    [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Car Central",
       3
     ],
     [
@@ -176,15 +176,27 @@
       3
     ],
     [
+      "H&K Chevrolet Family Auto",
+      3
+    ],
+    [
+      "Renny Bettan",
+      3
+    ],
+    [
       "Quantrell Auto Group",
       2
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Impex Auto Sales",
       2
     ],
     [
-      "Zink Motor Company",
+      "Victory Automotive Group",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
       2
     ],
     [
@@ -196,27 +208,19 @@
       2
     ],
     [
-      "Victory Automotive Group",
-      2
-    ],
-    [
-      "Impex Auto Sales",
-      2
-    ],
-    [
       "Ideal Cars",
       2
     ],
     [
-      "Davidson Auto Group",
+      "RBM Automotive Group",
+      1
+    ],
+    [
+      "Louyet Re-used",
       1
     ],
     [
       "Wallingford Auto Park, Inc.",
-      1
-    ],
-    [
-      "RBM Automotive Group",
       1
     ],
     [
@@ -228,15 +232,7 @@
       1
     ],
     [
-      "Starling Chevrolet",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
+      "Davidson Auto Group",
       1
     ],
     [
@@ -244,11 +240,19 @@
       1
     ],
     [
-      "Louyet Re-used",
+      "Starling Chevrolet",
       1
     ],
     [
       "Rochester Toyota",
+      1
+    ],
+    [
+      "Novacti",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
@@ -257,10 +261,6 @@
     ],
     [
       "Bob Johnson Automotive Group",
-      1
-    ],
-    [
-      "Novacti",
       1
     ],
     [
