@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T21:22:55.522Z",
+  "fetchedAt": "2026-09-10T21:33:09.281Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,19 @@
   "rows": [
     [
       null,
-      209
+      230
     ],
     [
       "Asbury Automotive Management L.L.C",
-      77
+      78
     ],
     [
       "Rim Revolution LLC",
       19
+    ],
+    [
+      "DealerVision.com",
+      13
     ],
     [
       "Greenway Automotive Group",
@@ -44,7 +48,7 @@
       6
     ],
     [
-      "DealerVision.com",
+      "Charlie Clark Hyundai",
       5
     ],
     [
@@ -56,19 +60,7 @@
       5
     ],
     [
-      "Starling Chevrolet",
-      4
-    ],
-    [
       "Moses Auto Group",
-      4
-    ],
-    [
-      "Alliance Cars Limited",
-      4
-    ],
-    [
-      "Charlie Clark Hyundai",
       4
     ],
     [
@@ -80,11 +72,23 @@
       4
     ],
     [
-      "S&L Motors, Pulaski WI",
-      3
+      "Volvo of Princeton Inc",
+      4
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Starling Chevrolet",
+      4
+    ],
+    [
+      "NorthTown Automotive",
+      4
+    ],
+    [
+      "Alliance Cars Limited",
+      4
+    ],
+    [
+      "Blasius Buick GMC",
       3
     ],
     [
@@ -92,7 +96,7 @@
       3
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "Capital Chevrolet Inc.",
       3
     ],
     [
@@ -100,11 +104,19 @@
       3
     ],
     [
-      "Capital Chevrolet Inc.",
+      "C.A. Larsen Automobiler A/S",
       3
     ],
     [
-      "Lee Group",
+      "Bob Johnson Automotive Group",
+      3
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      3
+    ],
+    [
+      "greenway auto group 2",
       2
     ],
     [
@@ -112,19 +124,7 @@
       2
     ],
     [
-      "greenway auto group 2",
-      2
-    ],
-    [
       "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Blasius Buick GMC",
-      2
-    ],
-    [
-      "Yemm Auto",
       2
     ],
     [
@@ -132,19 +132,15 @@
       2
     ],
     [
-      "Toronto Honda",
-      1
+      "Lee Group",
+      2
+    ],
+    [
+      "Yemm Auto",
+      2
     ],
     [
       "Speedway Car Sales",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Faircy Automotive",
       1
     ],
     [
@@ -152,11 +148,23 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
       "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "ZT Automotive",
       1
     ],
     [
@@ -169,6 +177,14 @@
     ],
     [
       "Northpoint Toyota _ Australia",
+      1
+    ],
+    [
+      "Autoplex 2000 and All Star Buick GMC truck",
+      1
+    ],
+    [
+      "EV Car Company",
       1
     ],
     [
