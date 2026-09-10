@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T22:58:32.117Z",
+  "fetchedAt": "2026-09-10T23:11:06.062Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      290
+      298
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -28,11 +28,15 @@
       18
     ],
     [
-      "NorthTown Automotive",
-      9
+      "Preston Motor Automotive Group",
+      13
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "LUXURY IMPORTS",
+      10
+    ],
+    [
+      "NorthTown Automotive",
       9
     ],
     [
@@ -40,15 +44,11 @@
       7
     ],
     [
-      "LUXURY IMPORTS",
-      6
+      "Your Choice Auto LLC",
+      7
     ],
     [
       "Performance Automotive Network",
-      6
-    ],
-    [
-      "Preston Motor Automotive Group",
       6
     ],
     [
@@ -72,27 +72,15 @@
       5
     ],
     [
-      "Volvo of Princeton Inc",
-      4
-    ],
-    [
-      "Moses Auto Group",
-      4
-    ],
-    [
-      "Apex Automotive Group",
-      4
-    ],
-    [
-      "MyCar: Trucktown",
-      4
-    ],
-    [
       "Alliance Cars Limited",
       4
     ],
     [
       "Bergstrom Automotive",
+      4
+    ],
+    [
+      "Moses Auto Group",
       4
     ],
     [
@@ -104,15 +92,23 @@
       4
     ],
     [
-      "Kian Motors INC",
+      "MyCar: Trucktown",
+      4
+    ],
+    [
+      "Volvo of Princeton Inc",
+      4
+    ],
+    [
+      "Apex Automotive Group",
+      4
+    ],
+    [
+      "Starling Chevrolet",
       3
     ],
     [
-      "Auto Reum",
-      3
-    ],
-    [
-      "North Park Lincoln",
+      "Capital Chevrolet Inc.",
       3
     ],
     [
@@ -124,7 +120,23 @@
       3
     ],
     [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "North Park Lincoln",
+      3
+    ],
+    [
       "C.A. Larsen Automobiler A/S",
+      3
+    ],
+    [
+      "Auto Reum",
+      3
+    ],
+    [
+      "Kian Motors INC",
       3
     ],
     [
@@ -132,31 +144,7 @@
       3
     ],
     [
-      "Capital Chevrolet Inc.",
-      3
-    ],
-    [
-      "Starling Chevrolet",
-      3
-    ],
-    [
-      "Toronto Honda",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "greenway auto group 2",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
+      "McLeod Auto Sales",
       2
     ],
     [
@@ -164,27 +152,11 @@
       2
     ],
     [
-      "Brandon Steven Motors",
+      "Olson Chevrolet",
       2
     ],
     [
-      "MEI Inc",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Lee Group",
-      2
-    ],
-    [
-      "McLeod Auto Sales",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "greenway auto group 2",
       2
     ],
     [
@@ -192,11 +164,27 @@
       2
     ],
     [
-      "Speedway Car Sales",
-      1
+      "Brandon Steven Motors",
+      2
     ],
     [
-      "Janssen Kuenle CDJR",
+      "Toronto Honda",
+      2
+    ],
+    [
+      "Lee Group",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
@@ -204,7 +192,19 @@
       1
     ],
     [
+      "Mondial car Sarl",
+      1
+    ],
+    [
       "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "New Deal Pre-Owned Autos",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -216,7 +216,7 @@
       1
     ],
     [
-      "EV Car Company",
+      "4 Season Motors LLC",
       1
     ],
     [
@@ -224,7 +224,7 @@
       1
     ],
     [
-      "Kempton Chevrolet",
+      "EV Car Company",
       1
     ],
     [
@@ -232,11 +232,15 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Speedway Car Sales",
       1
     ],
     [
       "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Kempton Chevrolet",
       1
     ],
     [
@@ -245,10 +249,6 @@
     ],
     [
       "Car Castle",
-      1
-    ],
-    [
-      "Bob King",
       1
     ],
     [
@@ -264,15 +264,15 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Bob King",
       1
     ],
     [
-      "4 Season Motors LLC",
+      "Janssen Kuenle CDJR",
       1
     ],
     [
-      "Mondial car Sarl",
+      "Cornhusker Auto Center",
       1
     ],
     [
