@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T20:26:22.536Z",
+  "fetchedAt": "2026-09-10T20:38:59.147Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,30 @@
   "rows": [
     [
       null,
-      176
+      185
     ],
     [
       "Asbury Automotive Management L.L.C",
-      75
+      77
     ],
     [
       "Greenway Automotive Group",
-      9
+      10
     ],
     [
       "Van Horn Automotive Group",
       8
     ],
     [
-      "Sansone Jr's Auto Group",
-      6
+      "Rim Revolution LLC",
+      8
     ],
     [
       "Olympic Hyundai Vancouver",
+      6
+    ],
+    [
+      "Sansone Jr's Auto Group",
       6
     ],
     [
@@ -52,7 +56,7 @@
       5
     ],
     [
-      "MyCar: Trucktown",
+      "Starling Chevrolet",
       4
     ],
     [
@@ -60,15 +64,11 @@
       4
     ],
     [
-      "Moses Auto Group",
+      "Alliance Cars Limited",
       4
     ],
     [
-      "Starling Chevrolet",
-      4
-    ],
-    [
-      "Rim Revolution LLC",
+      "MyCar: Trucktown",
       4
     ],
     [
@@ -76,7 +76,11 @@
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Moses Auto Group",
+      4
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       3
     ],
     [
@@ -84,16 +88,16 @@
       3
     ],
     [
-      "Autoplex 2000 and All Star Buick GMC truck",
-      3
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      3
-    ],
-    [
       "Capital Chevrolet Inc.",
       3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
     ],
     [
       "Your Choice Auto LLC",
@@ -104,7 +108,7 @@
       2
     ],
     [
-      "Yemm Auto",
+      "North Park Lincoln",
       2
     ],
     [
@@ -112,15 +116,19 @@
       2
     ],
     [
-      "Gettel Automotive Group",
+      "Yemm Auto",
       2
     ],
     [
-      "North Park Lincoln",
-      2
+      "World Car Auto Group",
+      1
     ],
     [
       "Wood Motor Company",
+      1
+    ],
+    [
+      "Toronto Honda",
       1
     ],
     [
@@ -128,24 +136,16 @@
       1
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Icon Motors Group of Framingham",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
       "Northpoint Toyota _ Australia",
       1
     ],
     [
-      "carvago2",
-      0
+      "Bob King",
+      1
+    ],
+    [
+      "Flexcar",
+      1
     ]
   ]
 }
