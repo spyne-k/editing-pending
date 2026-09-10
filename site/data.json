@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T03:33:16.986Z",
+  "fetchedAt": "2026-09-10T03:46:32.447Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      314
+      324
     ],
     [
       "Asbury Automotive Management L.L.C",
-      61
+      62
+    ],
+    [
+      "Yoder Family of Companies",
+      16
     ],
     [
       "ZT Automotive",
@@ -52,10 +56,6 @@
       11
     ],
     [
-      "Yoder Family of Companies",
-      11
-    ],
-    [
       "Olson Chevrolet",
       10
     ],
@@ -64,12 +64,20 @@
       8
     ],
     [
-      "Brandon Steven Motors",
-      7
+      "Russ Darrow Group, Inc.",
+      8
     ],
     [
       "Wiz Leasing Inc",
       7
+    ],
+    [
+      "Brandon Steven Motors",
+      7
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      6
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -80,31 +88,23 @@
       6
     ],
     [
-      "Russ Darrow Group, Inc.",
-      6
-    ],
-    [
       "Pritchard Companies",
       6
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
-      "Speedway Car Sales",
-      5
     ],
     [
       "Performance Automotive Network",
       5
     ],
     [
-      "Median Media LLC",
-      4
+      "Speedway Car Sales",
+      5
     ],
     [
       "Rohrich Automotive Group",
+      4
+    ],
+    [
+      "Median Media LLC",
       4
     ],
     [
@@ -112,7 +112,7 @@
       4
     ],
     [
-      "Starling Auto Group",
+      "Covert Auto Group",
       4
     ],
     [
@@ -120,15 +120,35 @@
       4
     ],
     [
-      "Covert Auto Group",
+      "Starling Auto Group",
       4
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Haldeman Lexus of Princeton",
+      3
     ],
     [
       "Renny Bettan",
       3
     ],
     [
-      "Bob King",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       3
     ],
     [
@@ -140,31 +160,23 @@
       3
     ],
     [
-      "Audi Cape Fear",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      3
-    ],
-    [
       "H&K Chevrolet Family Auto",
       3
     ],
     [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
       "Ideal Cars",
+      2
+    ],
+    [
+      "Impex Auto Sales",
       2
     ],
     [
@@ -176,19 +188,19 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Simmons-Rockwell Automotive Dealerships",
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
+      "Courtesy Chevy of Tucson",
+      1
     ],
     [
-      "Impex Auto Sales",
-      2
+      "RBM Automotive Group",
+      1
     ],
     [
-      "Louyet Re-used",
+      "ROCHESTER VOLKSWAGEN",
       1
     ],
     [
@@ -200,11 +212,11 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Davidson Auto Group",
       1
     ],
     [
-      "RBM Automotive Group",
+      "Louyet Re-used",
       1
     ],
     [
@@ -212,19 +224,11 @@
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "ROCHESTER VOLKSWAGEN",
-      1
-    ],
-    [
       "World Car Auto Group",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
