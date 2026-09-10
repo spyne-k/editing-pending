@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T09:05:24.976Z",
+  "fetchedAt": "2026-09-10T09:22:19.672Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      170
+      173
     ],
     [
       "Bob Johnson Automotive Group",
@@ -32,15 +32,15 @@
       10
     ],
     [
+      "Asbury Automotive Management L.L.C",
+      9
+    ],
+    [
       "Jenkins Auto Group",
       9
     ],
     [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Blasius Buick GMC",
       6
     ],
     [
@@ -48,11 +48,15 @@
       6
     ],
     [
-      "Blasius Buick GMC",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
+      "Pritchard Companies",
       6
     ],
     [
@@ -60,7 +64,7 @@
       6
     ],
     [
-      "Pritchard Companies",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
     ],
     [
@@ -76,19 +80,19 @@
       5
     ],
     [
-      "Graff Auto Campus",
-      5
-    ],
-    [
       "Speedway Car Sales",
       5
     ],
     [
-      "Altawkilat",
+      "Graff Auto Campus",
+      5
+    ],
+    [
+      "Rohrich Automotive Group",
       4
     ],
     [
-      "Wiz Leasing Inc",
+      "Giant Auto Warehouse",
       4
     ],
     [
@@ -96,7 +100,15 @@
       4
     ],
     [
-      "Rohrich Automotive Group",
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Wiz Leasing Inc",
+      4
+    ],
+    [
+      "Altawkilat",
       4
     ],
     [
@@ -108,23 +120,7 @@
       4
     ],
     [
-      "Covert Auto Group",
-      4
-    ],
-    [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
-      "Greenway Automotive Group",
-      3
-    ],
-    [
       "Flexcar",
-      3
-    ],
-    [
-      "Van Horn Automotive Group",
       3
     ],
     [
@@ -132,23 +128,19 @@
       3
     ],
     [
-      "Apex Automotive Group",
-      3
-    ],
-    [
       "Faircy Automotive",
       3
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Greenway Automotive Group",
       3
     ],
     [
-      "World Car Auto Group",
-      1
+      "Apex Automotive Group",
+      3
     ],
     [
-      "Beadle Ford, INC.",
+      "Starling Auto Group",
       1
     ],
     [
@@ -173,6 +165,10 @@
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
