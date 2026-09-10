@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T04:10:01.112Z",
+  "fetchedAt": "2026-09-10T04:25:49.162Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      278
+      317
     ],
     [
       "Yoder Family of Companies",
-      28
+      49
     ],
     [
       "ZT Automotive",
@@ -56,19 +56,19 @@
       10
     ],
     [
-      "Russ Darrow Group, Inc.",
-      8
-    ],
-    [
       " Joshua Tree Chrysler Dodge Jeep Ram",
       8
     ],
     [
-      "Wiz Leasing Inc",
-      7
+      "Russ Darrow Group, Inc.",
+      8
     ],
     [
       "Brandon Steven Motors",
+      7
+    ],
+    [
+      "Wiz Leasing Inc",
       7
     ],
     [
@@ -80,6 +80,10 @@
       6
     ],
     [
+      "Amato Hyundai Of Glendale",
+      6
+    ],
+    [
       "S&L Motors, Pulaski WI",
       6
     ],
@@ -88,23 +92,27 @@
       6
     ],
     [
+      "Performance Automotive Network",
+      5
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      5
+    ],
+    [
       "Speedway Car Sales",
       5
     ],
     [
-      "Performance Automotive Network",
-      5
+      "DealerVision.com",
+      4
     ],
     [
       "Covert Auto Group",
       4
     ],
     [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Starling Auto Group",
+      "Cornhusker Auto Center",
       4
     ],
     [
@@ -116,40 +124,12 @@
       4
     ],
     [
-      "Cornhusker Auto Center",
+      "Starling Auto Group",
       4
     ],
     [
-      "H&K Chevrolet Family Auto",
-      3
-    ],
-    [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      3
-    ],
-    [
-      "Auto X-Change Inc",
-      3
-    ],
-    [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "Audi Cape Fear",
-      3
+      "Median Media LLC",
+      4
     ],
     [
       "Renny Bettan",
@@ -160,23 +140,51 @@
       3
     ],
     [
-      "Victory Automotive Group",
-      2
+      "H&K Chevrolet Family Auto",
+      3
     ],
     [
-      "Ideal Cars",
-      2
+      "Haldeman Lexus of Princeton",
+      3
     ],
     [
-      "DealerVision.com",
-      2
+      "Audi Cape Fear",
+      3
     ],
     [
-      "Impex Auto Sales",
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      3
+    ],
+    [
+      "Auto X-Change Inc",
+      3
+    ],
+    [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Quantrell Auto Group",
       2
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Zink Motor Company",
       2
     ],
     [
@@ -188,11 +196,19 @@
       2
     ],
     [
-      "Quantrell Auto Group",
+      "Victory Automotive Group",
       2
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "Ideal Cars",
+      2
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
@@ -212,7 +228,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "Starling Chevrolet",
       1
     ],
     [
