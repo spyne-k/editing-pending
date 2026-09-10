@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T09:57:49.114Z",
+  "fetchedAt": "2026-09-10T10:12:52.689Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -36,6 +36,10 @@
       9
     ],
     [
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
@@ -60,14 +64,6 @@
       6
     ],
     [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
-      "Speedway Car Sales",
-      5
-    ],
-    [
       "Performance Automotive Network",
       5
     ],
@@ -81,6 +77,10 @@
     ],
     [
       "Graff Auto Campus",
+      5
+    ],
+    [
+      "Speedway Car Sales",
       5
     ],
     [
@@ -132,15 +132,15 @@
       3
     ],
     [
+      "Jim Schmidt Automotive",
+      2
+    ],
+    [
       "Starling Chevrolet",
       1
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Teton solutions Group",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -172,11 +172,7 @@
       1
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "World Car Auto Group",
       1
     ],
     [
