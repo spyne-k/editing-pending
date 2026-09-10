@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T05:17:18.444Z",
+  "fetchedAt": "2026-09-10T05:30:43.088Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      346
+      345
     ],
     [
       "Yoder Family of Companies",
@@ -44,11 +44,15 @@
       13
     ],
     [
+      "Jenkins Auto Group",
+      12
+    ],
+    [
       "Preston Motor Automotive Group",
       12
     ],
     [
-      "Jenkins Auto Group",
+      "Russ Darrow Group, Inc.",
       12
     ],
     [
@@ -61,23 +65,23 @@
     ],
     [
       "DealerVision.com",
-      9
+      10
     ],
     [
       " Joshua Tree Chrysler Dodge Jeep Ram",
       8
     ],
     [
-      "Russ Darrow Group, Inc.",
-      8
+      "Wiz Leasing Inc",
+      7
     ],
     [
       "Brandon Steven Motors",
       7
     ],
     [
-      "Wiz Leasing Inc",
-      7
+      "S&L Motors, Pulaski WI",
+      6
     ],
     [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
@@ -88,19 +92,11 @@
       6
     ],
     [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
     ],
     [
-      "Graff Auto Campus",
-      5
-    ],
-    [
-      "Car Central",
+      "Performance Automotive Network",
       5
     ],
     [
@@ -108,27 +104,11 @@
       5
     ],
     [
-      "Performance Automotive Network",
+      "Graff Auto Campus",
       5
     ],
     [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Jim Schmidt Automotive",
-      4
-    ],
-    [
-      "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Starling Auto Group",
-      4
-    ],
-    [
-      "Cornhusker Auto Center",
+      "Impex Auto Sales",
       4
     ],
     [
@@ -136,11 +116,27 @@
       4
     ],
     [
-      "Impex Auto Sales",
+      "Cornhusker Auto Center",
+      4
+    ],
+    [
+      "Jim Schmidt Automotive",
       4
     ],
     [
       "Covert Auto Group",
+      4
+    ],
+    [
+      "Median Media LLC",
+      4
+    ],
+    [
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Rohrich Automotive Group",
       4
     ],
     [
@@ -156,11 +152,11 @@
       3
     ],
     [
-      "Auto X-Change Inc",
+      "Teton solutions Group",
       3
     ],
     [
-      "Teton solutions Group",
+      "Haldeman Lexus of Princeton",
       3
     ],
     [
@@ -173,10 +169,6 @@
     ],
     [
       "Moses Auto Group",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
       3
     ],
     [
@@ -196,6 +188,10 @@
       2
     ],
     [
+      "Blasius Buick GMC",
+      2
+    ],
+    [
       "Quantrell Auto Group",
       2
     ],
@@ -212,19 +208,19 @@
       1
     ],
     [
-      "ROCHESTER VOLKSWAGEN",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
       "Starling Chevrolet",
       1
     ],
     [
       "World Car Auto Group",
+      1
+    ],
+    [
+      "Beadle Ford, INC.",
+      1
+    ],
+    [
+      "Butler Lexus of South Atlanta",
       1
     ],
     [
