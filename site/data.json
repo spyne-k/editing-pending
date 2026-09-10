@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T15:30:27.335Z",
+  "fetchedAt": "2026-09-10T15:44:39.675Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      80
+      84
     ],
     [
       "Bergstrom Automotive",
       7
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      6
     ],
     [
       "Yemm Auto",
@@ -44,6 +40,10 @@
       5
     ],
     [
+      "Greenway Automotive Group",
+      5
+    ],
+    [
       "Moses Auto Group",
       4
     ],
@@ -56,7 +56,7 @@
       4
     ],
     [
-      "Greenway Automotive Group",
+      "Median Media LLC",
       4
     ],
     [
@@ -64,19 +64,27 @@
       4
     ],
     [
-      "Median Media LLC",
+      "Jenkins Auto Group",
       4
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
     ],
     [
       "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "Gettel Automotive Group",
+      "Bob Johnson Automotive Group",
+      3
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      3
+    ],
+    [
+      "The Used Car Guys GMBH",
+      3
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       2
     ],
     [
@@ -84,16 +92,12 @@
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Gettel Automotive Group",
       2
     ],
     [
       "Blasius South",
       2
-    ],
-    [
-      "World Car Auto Group",
-      1
     ],
     [
       "Starling Chevrolet",
@@ -104,11 +108,11 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Puente Hills Mitsubishi",
       1
     ],
     [
-      "Jenkins Auto Group",
+      "World Car Auto Group",
       1
     ],
     [
@@ -116,7 +120,7 @@
       1
     ],
     [
-      "North Park Lincoln",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -124,15 +128,11 @@
       1
     ],
     [
-      "The Used Car Guys GMBH",
+      "North Park Lincoln",
       1
     ],
     [
       "carvago2",
-      0
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       0
     ]
   ]
