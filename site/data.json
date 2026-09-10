@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T13:55:15.695Z",
+  "fetchedAt": "2026-09-10T14:06:17.394Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      81
+      85
     ],
     [
       "Asbury Automotive Management L.L.C",
-      13
+      16
     ],
     [
       "Bergstrom Automotive",
@@ -48,10 +48,6 @@
       4
     ],
     [
-      "Greenway Automotive Group",
-      4
-    ],
-    [
       "Median Media LLC",
       4
     ],
@@ -64,6 +60,10 @@
       4
     ],
     [
+      "Greenway Automotive Group",
+      4
+    ],
+    [
       "Flexcar",
       3
     ],
@@ -72,23 +72,23 @@
       3
     ],
     [
+      "Graff Auto Campus",
+      3
+    ],
+    [
       "Bob Johnson Automotive Group",
       3
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
     ],
     [
       "Capital Chevrolet Inc.",
       2
     ],
     [
-      "Jim Schmidt Automotive",
-      2
-    ],
-    [
       "World Car Auto Group",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -100,11 +100,7 @@
       1
     ],
     [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Lee Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
