@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T23:22:27.683Z",
+  "fetchedAt": "2026-09-10T23:31:15.914Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      308
+      305
     ],
     [
       "Asbury Automotive Management L.L.C",
-      95
+      103
     ],
     [
       "Yoder Family of Companies",
@@ -36,10 +36,6 @@
       11
     ],
     [
-      "NorthTown Automotive",
-      9
-    ],
-    [
       "Olympic Hyundai Vancouver",
       7
     ],
@@ -48,19 +44,19 @@
       7
     ],
     [
-      "Performance Automotive Network",
-      6
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
       "World Car Auto Group",
       6
     ],
     [
+      "Performance Automotive Network",
+      6
+    ],
+    [
       "Sansone Jr's Auto Group",
+      6
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       6
     ],
     [
@@ -72,27 +68,11 @@
       5
     ],
     [
-      "MyCar: Trucktown",
-      4
-    ],
-    [
       "Bergstrom Automotive",
       4
     ],
     [
-      "Apex Automotive Group",
-      4
-    ],
-    [
-      "Altawkilat",
-      4
-    ],
-    [
-      "Wood Motor Company",
-      4
-    ],
-    [
-      "Alliance Cars Limited",
+      "Rim Revolution LLC",
       4
     ],
     [
@@ -100,11 +80,27 @@
       4
     ],
     [
+      "Altawkilat",
+      4
+    ],
+    [
+      "MyCar: Trucktown",
+      4
+    ],
+    [
+      "Wood Motor Company",
+      4
+    ],
+    [
       "Volvo of Princeton Inc",
       4
     ],
     [
-      "Blasius Buick GMC",
+      "Apex Automotive Group",
+      4
+    ],
+    [
+      "Starling Chevrolet",
       3
     ],
     [
@@ -112,31 +108,11 @@
       3
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
-      "Auto Reum",
-      3
-    ],
-    [
-      "North Park Lincoln",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      3
-    ],
-    [
-      "C.A. Larsen Automobiler A/S",
-      3
-    ],
-    [
-      "Starling Chevrolet",
+      "McCurley Dealerships",
       3
     ],
     [
@@ -144,15 +120,35 @@
       3
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Jenkins Auto Group",
       3
     ],
     [
-      "greenway auto group 2",
-      2
+      "C.A. Larsen Automobiler A/S",
+      3
     ],
     [
-      "Expert Auto Group",
+      "North Park Lincoln",
+      3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      3
+    ],
+    [
+      "Auto Reum",
+      3
+    ],
+    [
+      "Flexcar",
+      3
+    ],
+    [
+      "Lockwood Motors, Inc.",
       2
     ],
     [
@@ -160,19 +156,7 @@
       2
     ],
     [
-      "Car Central",
-      2
-    ],
-    [
-      "Lee Group",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Toronto Honda",
+      "greenway auto group 2",
       2
     ],
     [
@@ -180,19 +164,23 @@
       2
     ],
     [
-      "McCurley Dealerships",
+      "Expert Auto Group",
       2
     ],
     [
-      "Flexcar",
+      "Brandon Steven Motors",
       2
     ],
     [
-      "Rim Revolution LLC",
+      "Car Central",
       2
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Toronto Honda",
+      2
+    ],
+    [
+      "Lee Group",
       2
     ],
     [
@@ -204,43 +192,7 @@
       1
     ],
     [
-      "Eastern Digital",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Velocity Auto Haus",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "New Deal Pre-Owned Autos",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "4 Season Motors LLC",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
+      "Kempton Chevrolet",
       1
     ],
     [
@@ -248,11 +200,31 @@
       1
     ],
     [
-      "Car Hop Auto Sales & Finance",
+      "Janssen Kuenle CDJR",
       1
     ],
     [
-      "Janssen Kuenle CDJR",
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Velocity Auto Haus",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "New Deal Pre-Owned Autos",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Faircy Automotive",
       1
     ],
     [
@@ -260,7 +232,27 @@
       1
     ],
     [
-      "Kempton Chevrolet",
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "4 Season Motors LLC",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Eastern Digital",
+      1
+    ],
+    [
+      "Moffitt's Ford",
+      1
+    ],
+    [
+      "Car Castle",
       1
     ],
     [
@@ -276,19 +268,19 @@
       1
     ],
     [
-      "Moffitt's Ford",
-      1
-    ],
-    [
-      "Car Castle",
-      1
-    ],
-    [
       "Bob King",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ]
   ]
