@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T23:11:06.062Z",
+  "fetchedAt": "2026-09-10T23:22:27.683Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      298
+      308
     ],
     [
       "Asbury Automotive Management L.L.C",
-      94
+      95
     ],
     [
       "Yoder Family of Companies",
@@ -29,11 +29,11 @@
     ],
     [
       "Preston Motor Automotive Group",
-      13
+      14
     ],
     [
       "LUXURY IMPORTS",
-      10
+      11
     ],
     [
       "NorthTown Automotive",
@@ -52,15 +52,15 @@
       6
     ],
     [
-      "Sansone Jr's Auto Group",
-      6
-    ],
-    [
       "S&L Motors, Pulaski WI",
       6
     ],
     [
       "World Car Auto Group",
+      6
+    ],
+    [
+      "Sansone Jr's Auto Group",
       6
     ],
     [
@@ -72,7 +72,7 @@
       5
     ],
     [
-      "Alliance Cars Limited",
+      "MyCar: Trucktown",
       4
     ],
     [
@@ -80,7 +80,7 @@
       4
     ],
     [
-      "Moses Auto Group",
+      "Apex Automotive Group",
       4
     ],
     [
@@ -92,7 +92,11 @@
       4
     ],
     [
-      "MyCar: Trucktown",
+      "Alliance Cars Limited",
+      4
+    ],
+    [
+      "Moses Auto Group",
       4
     ],
     [
@@ -100,39 +104,7 @@
       4
     ],
     [
-      "Apex Automotive Group",
-      4
-    ],
-    [
-      "Starling Chevrolet",
-      3
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      3
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      3
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "North Park Lincoln",
-      3
-    ],
-    [
-      "C.A. Larsen Automobiler A/S",
-      3
-    ],
-    [
-      "Auto Reum",
+      "Blasius Buick GMC",
       3
     ],
     [
@@ -140,11 +112,43 @@
       3
     ],
     [
-      "Blasius Buick GMC",
+      "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "McLeod Auto Sales",
+      "Auto Reum",
+      3
+    ],
+    [
+      "North Park Lincoln",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      3
+    ],
+    [
+      "C.A. Larsen Automobiler A/S",
+      3
+    ],
+    [
+      "Starling Chevrolet",
+      3
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      3
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      3
+    ],
+    [
+      "greenway auto group 2",
       2
     ],
     [
@@ -156,11 +160,11 @@
       2
     ],
     [
-      "greenway auto group 2",
+      "Car Central",
       2
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Lee Group",
       2
     ],
     [
@@ -172,27 +176,35 @@
       2
     ],
     [
-      "Lee Group",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Car Central",
+      "McLeod Auto Sales",
       2
     ],
     [
       "McCurley Dealerships",
+      2
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Rim Revolution LLC",
+      2
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      2
+    ],
+    [
+      "Performance Auto Group",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Wharton Ford",
       1
     ],
     [
-      "Mondial car Sarl",
+      "Eastern Digital",
       1
     ],
     [
@@ -200,15 +212,15 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Davidson Auto Group",
       1
     ],
     [
-      "Rim Revolution LLC",
+      "Velocity Auto Haus",
       1
     ],
     [
-      "Performance Auto Group",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -216,7 +228,7 @@
       1
     ],
     [
-      "4 Season Motors LLC",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -224,7 +236,7 @@
       1
     ],
     [
-      "EV Car Company",
+      "4 Season Motors LLC",
       1
     ],
     [
@@ -232,7 +244,7 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Mondial car Sarl",
       1
     ],
     [
@@ -240,15 +252,15 @@
       1
     ],
     [
+      "Janssen Kuenle CDJR",
+      1
+    ],
+    [
+      "EV Car Company",
+      1
+    ],
+    [
       "Kempton Chevrolet",
-      1
-    ],
-    [
-      "Moffitt's Ford",
-      1
-    ],
-    [
-      "Car Castle",
       1
     ],
     [
@@ -264,19 +276,19 @@
       1
     ],
     [
+      "Moffitt's Ford",
+      1
+    ],
+    [
+      "Car Castle",
+      1
+    ],
+    [
       "Bob King",
       1
     ],
     [
-      "Janssen Kuenle CDJR",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "Flexcar",
+      "Speedway Car Sales",
       1
     ]
   ]
