@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T12:30:03.539Z",
+  "fetchedAt": "2026-09-10T12:49:13.213Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,18 @@
   "rows": [
     [
       null,
-      129
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      25
+      98
     ],
     [
       "Rawian Oy",
       16
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "S&L Motors, Pulaski WI",
       6
     ],
     [
@@ -48,23 +44,15 @@
       5
     ],
     [
+      "Impex Auto Sales",
+      5
+    ],
+    [
       "Yemm Auto",
       5
     ],
     [
-      "Graff Auto Campus",
-      5
-    ],
-    [
-      "Impex Auto Sales",
-      4
-    ],
-    [
       "Moses Auto Group",
-      4
-    ],
-    [
-      "Greenway Automotive Group",
       4
     ],
     [
@@ -84,7 +72,11 @@
       4
     ],
     [
-      "Flexcar",
+      "Greenway Automotive Group",
+      4
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       3
     ],
     [
@@ -92,7 +84,7 @@
       3
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Flexcar",
       3
     ],
     [
@@ -108,11 +100,11 @@
       1
     ],
     [
-      "Starling Auto Group",
+      "Great Lakes Auto Group",
       1
     ],
     [
-      "Great Lakes Auto Group",
+      "Starling Auto Group",
       1
     ],
     [
@@ -120,19 +112,11 @@
       1
     ],
     [
-      "Louyet Re-used",
-      1
-    ],
-    [
-      "INERCIKAR SA",
+      "Lee Group",
       1
     ],
     [
       "Bob Johnson Automotive Group",
-      1
-    ],
-    [
-      "World Car Auto Group",
       1
     ],
     [
