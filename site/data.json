@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T14:59:16.332Z",
+  "fetchedAt": "2026-09-10T15:15:18.856Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,15 @@
   "rows": [
     [
       null,
-      124
+      113
     ],
     [
       "Asbury Automotive Management L.L.C",
-      26
-    ],
-    [
-      "Rawian Oy",
-      9
-    ],
-    [
-      "Flexcar",
-      8
+      31
     ],
     [
       "Gettel Automotive Group",
-      7
+      9
     ],
     [
       "Bergstrom Automotive",
@@ -44,10 +36,6 @@
       6
     ],
     [
-      "Graff Auto Campus",
-      5
-    ],
-    [
       "Yemm Auto",
       5
     ],
@@ -56,19 +44,15 @@
       5
     ],
     [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
-      "Greenway Automotive Group",
-      4
+      "Graff Auto Campus",
+      5
     ],
     [
       "Moses Auto Group",
       4
     ],
     [
-      "Hawthorne Auto Square",
+      "Altawkilat",
       4
     ],
     [
@@ -76,7 +60,11 @@
       4
     ],
     [
-      "Altawkilat",
+      "Giant Auto Warehouse",
+      4
+    ],
+    [
+      "Greenway Automotive Group",
       4
     ],
     [
@@ -88,7 +76,11 @@
       3
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Blasius South",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
       2
     ],
     [
@@ -96,11 +88,11 @@
       2
     ],
     [
-      "Starling Chevrolet",
-      1
+      "Ryan Buick GMC Cadillac",
+      2
     ],
     [
-      "Georgia Auto World",
+      "World Car Auto Group",
       1
     ],
     [
@@ -108,7 +100,7 @@
       1
     ],
     [
-      "Blasius Buick GMC",
+      "Starling Chevrolet",
       1
     ],
     [
@@ -116,23 +108,11 @@
       1
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Enkae Prestige Motors Ltd",
-      1
-    ],
-    [
       "Amigo Auto Group, Inc.",
       1
     ],
     [
-      "Northpoint Toyota _ Australia",
-      1
-    ],
-    [
-      "Sell Em All Motors",
+      "Enkae Prestige Motors Ltd",
       1
     ],
     [
@@ -141,6 +121,18 @@
     ],
     [
       "North Park Lincoln",
+      1
+    ],
+    [
+      "Northpoint Toyota _ Australia",
+      1
+    ],
+    [
+      "Rawian Oy",
+      1
+    ],
+    [
+      "Bob King",
       1
     ],
     [
