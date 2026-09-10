@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T09:35:40.899Z",
+  "fetchedAt": "2026-09-10T09:48:30.179Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      161
+      173
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      15
     ],
     [
       "Icon Motors Group of Framingham",
@@ -28,12 +32,16 @@
       10
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      10
-    ],
-    [
       "Jenkins Auto Group",
       9
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      7
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      6
     ],
     [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
@@ -41,6 +49,10 @@
     ],
     [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
+    ],
+    [
+      "Gettel Automotive Group",
       6
     ],
     [
@@ -52,27 +64,11 @@
       6
     ],
     [
-      "Gettel Automotive Group",
-      6
-    ],
-    [
       "Capital Chevrolet Inc.",
       6
     ],
     [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
-      "Speedway Car Sales",
-      5
-    ],
-    [
       "Performance Automotive Network",
-      5
-    ],
-    [
-      "Car Central",
       5
     ],
     [
@@ -80,12 +76,16 @@
       5
     ],
     [
+      "Car Central",
+      5
+    ],
+    [
       "Graff Auto Campus",
       5
     ],
     [
-      "Impex Auto Sales",
-      4
+      "Speedway Car Sales",
+      5
     ],
     [
       "Altawkilat",
@@ -100,11 +100,15 @@
       4
     ],
     [
+      "Giant Auto Warehouse",
+      4
+    ],
+    [
       "Rohrich Automotive Group",
       4
     ],
     [
-      "Giant Auto Warehouse",
+      "Impex Auto Sales",
       4
     ],
     [
@@ -112,7 +116,7 @@
       4
     ],
     [
-      "Flexcar",
+      "Apex Automotive Group",
       3
     ],
     [
@@ -120,20 +124,16 @@
       3
     ],
     [
-      "Apex Automotive Group",
+      "Faircy Automotive",
       3
     ],
     [
-      "Faircy Automotive",
+      "Flexcar",
       3
     ],
     [
       "Greenway Automotive Group",
       3
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      2
     ],
     [
       "Starling Chevrolet",
@@ -145,6 +145,14 @@
     ],
     [
       "Starling Auto Group",
+      1
+    ],
+    [
+      "INERCIKAR SA",
+      1
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
@@ -160,7 +168,7 @@
       1
     ],
     [
-      "INERCIKAR SA",
+      "Bob Johnson Automotive Group",
       1
     ],
     [
@@ -168,7 +176,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Yoder Family of Companies",
       1
     ],
     [
