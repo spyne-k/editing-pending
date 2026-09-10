@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T06:58:59.584Z",
+  "fetchedAt": "2026-09-10T07:15:51.682Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,22 @@
   "rows": [
     [
       null,
-      269
+      281
     ],
     [
       "Yoder Family of Companies",
-      49
+      46
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      21
     ],
     [
       "Preston Motor Automotive Group",
       18
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "DealerVision.com",
       13
     ],
     [
@@ -44,16 +48,24 @@
       11
     ],
     [
-      "DealerVision.com",
-      11
-    ],
-    [
       "Olson Chevrolet",
       10
     ],
     [
+      "Charlie Clark Hyundai",
+      7
+    ],
+    [
       "Wiz Leasing Inc",
       7
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      6
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
     ],
     [
       "Blasius Buick GMC",
@@ -61,10 +73,6 @@
     ],
     [
       "Pritchard Companies",
-      6
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
@@ -76,15 +84,11 @@
       6
     ],
     [
-      "Charlie Clark Hyundai",
+      "Gettel Automotive Group",
       6
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
-      "Speedway Car Sales",
+      "Performance Automotive Network",
       5
     ],
     [
@@ -96,19 +100,15 @@
       5
     ],
     [
-      "Performance Automotive Network",
+      "Speedway Car Sales",
       5
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      5
-    ],
-    [
-      "Rohrich Automotive Group",
-      4
     ],
     [
       "Covert Auto Group",
+      4
+    ],
+    [
+      "Cornhusker Auto Center",
       4
     ],
     [
@@ -116,7 +116,11 @@
       4
     ],
     [
-      "Cornhusker Auto Center",
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Rohrich Automotive Group",
       4
     ],
     [
@@ -128,8 +132,8 @@
       4
     ],
     [
-      "Starling Auto Group",
-      4
+      "Greenway Automotive Group",
+      3
     ],
     [
       "Bob King",
@@ -140,15 +144,7 @@
       3
     ],
     [
-      "Moses Auto Group",
-      3
-    ],
-    [
       "Faircy Automotive",
-      3
-    ],
-    [
-      "Greenway Automotive Group",
       3
     ],
     [
@@ -156,15 +152,15 @@
       3
     ],
     [
-      "Hondru Auto Group(US)",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
-      2
+      "Moses Auto Group",
+      3
     ],
     [
       "Quantrell Auto Group",
+      2
+    ],
+    [
+      "Hondru Auto Group(US)",
       2
     ],
     [
@@ -172,7 +168,19 @@
       2
     ],
     [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
       "Alliance Automotive of Westchester LLC dba White P",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -180,7 +188,11 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Impex Auto Sales",
+      1
+    ],
+    [
+      "INERCIKAR SA",
       1
     ],
     [
