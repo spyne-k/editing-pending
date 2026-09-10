@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T16:20:47.874Z",
+  "fetchedAt": "2026-09-10T16:33:22.358Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      98
+      110
     ],
     [
       "Asbury Automotive Management L.L.C",
       28
+    ],
+    [
+      "Davidson Auto Group",
+      11
     ],
     [
       "Bergstrom Automotive",
@@ -60,10 +64,6 @@
       4
     ],
     [
-      "S&L Motors, Pulaski WI",
-      3
-    ],
-    [
       "Bud Clary Chevrolet, INC",
       3
     ],
@@ -72,7 +72,15 @@
       3
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
       2
     ],
     [
@@ -80,23 +88,11 @@
       2
     ],
     [
-      "Gettel Automotive Group",
+      "Ryan Buick GMC Cadillac",
       2
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
       "Starling Chevrolet",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Starling Auto Group",
       1
     ],
     [
@@ -104,15 +100,15 @@
       1
     ],
     [
-      "Great Lakes Auto Group",
+      "Starling Auto Group",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
       "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
       1
     ],
     [
@@ -121,6 +117,10 @@
     ],
     [
       "Northpoint Toyota _ Australia",
+      1
+    ],
+    [
+      "Graff Auto Campus",
       1
     ],
     [
