@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T10:53:26.753Z",
+  "fetchedAt": "2026-09-10T11:03:19.413Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,10 +17,14 @@
   "rows": [
     [
       null,
-      115
+      118
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Asbury Automotive Management L.L.C",
+      10
+    ],
+    [
+      "Gettel Automotive Group",
       6
     ],
     [
@@ -32,23 +36,19 @@
       6
     ],
     [
-      "Gettel Automotive Group",
-      6
-    ],
-    [
       "Pritchard Companies",
       6
     ],
     [
-      "Capital Chevrolet Inc.",
+      "S&L Motors, Pulaski WI",
       6
     ],
     [
-      "Performance Automotive Network",
+      "Car Central",
       5
     ],
     [
-      "Car Central",
+      "Performance Automotive Network",
       5
     ],
     [
@@ -64,11 +64,11 @@
       5
     ],
     [
-      "Impex Auto Sales",
+      "Covert Auto Group",
       4
     ],
     [
-      "Greenway Automotive Group",
+      "Impex Auto Sales",
       4
     ],
     [
@@ -76,7 +76,7 @@
       4
     ],
     [
-      "Wiz Leasing Inc",
+      "Greenway Automotive Group",
       4
     ],
     [
@@ -84,20 +84,16 @@
       4
     ],
     [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
       "Rohrich Automotive Group",
       4
     ],
     [
-      "Covert Auto Group",
+      "Giant Auto Warehouse",
       4
     ],
     [
-      "Apex Automotive Group",
-      3
+      "Wiz Leasing Inc",
+      4
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -108,12 +104,20 @@
       3
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      2
+      "Apex Automotive Group",
+      3
     ],
     [
       "Jim Schmidt Automotive",
       2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "World Car Auto Group",
+      1
     ],
     [
       "Starling Chevrolet",
@@ -124,11 +128,11 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "INERCIKAR SA",
       1
     ],
     [
@@ -140,15 +144,7 @@
       1
     ],
     [
-      "INERCIKAR SA",
-      1
-    ],
-    [
       "Bob Johnson Automotive Group",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
       1
     ],
     [
