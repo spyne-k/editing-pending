@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T05:54:17.563Z",
+  "fetchedAt": "2026-09-10T06:06:43.195Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      349
+      353
     ],
     [
       "Yoder Family of Companies",
@@ -25,11 +25,11 @@
     ],
     [
       "ZT Automotive",
-      23
+      26
     ],
     [
       "Asbury Automotive Management L.L.C",
-      17
+      19
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -64,11 +64,15 @@
       10
     ],
     [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
-      8
+      "DealerVision.com",
+      10
     ],
     [
       "Brandon Steven Motors",
+      8
+    ],
+    [
+      " Joshua Tree Chrysler Dodge Jeep Ram",
       8
     ],
     [
@@ -80,6 +84,14 @@
       6
     ],
     [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
+    ],
+    [
+      "Blasius Buick GMC",
+      6
+    ],
+    [
       "Pritchard Companies",
       6
     ],
@@ -88,19 +100,7 @@
       6
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
       "Speedway Car Sales",
-      5
-    ],
-    [
-      "DealerVision.com",
-      5
-    ],
-    [
-      "Graff Auto Campus",
       5
     ],
     [
@@ -108,7 +108,7 @@
       5
     ],
     [
-      "Blasius Buick GMC",
+      "Graff Auto Campus",
       5
     ],
     [
@@ -140,11 +140,11 @@
       4
     ],
     [
-      "Impex Auto Sales",
+      "Cornhusker Auto Center",
       4
     ],
     [
-      "Cornhusker Auto Center",
+      "Impex Auto Sales",
       4
     ],
     [
@@ -152,11 +152,15 @@
       3
     ],
     [
+      "Bob King",
+      3
+    ],
+    [
       "Moses Auto Group",
       3
     ],
     [
-      "Haldeman Lexus of Princeton",
+      "H&K Chevrolet Family Auto",
       3
     ],
     [
@@ -168,27 +172,15 @@
       3
     ],
     [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      3
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
       3
     ],
     [
-      "Quantrell Auto Group",
-      2
+      "Gettel Automotive Group",
+      3
     ],
     [
-      "Hondru Auto Group(US)",
+      "Quantrell Auto Group",
       2
     ],
     [
@@ -200,19 +192,11 @@
       2
     ],
     [
-      "Starling Chevrolet",
-      1
+      "Hondru Auto Group(US)",
+      2
     ],
     [
       "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -220,7 +204,7 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Alliance Automotive of Westchester LLC dba White P",
       1
     ],
     [
@@ -228,11 +212,7 @@
       1
     ],
     [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "Novacti",
+      "Charlie Clark Hyundai",
       1
     ],
     [
