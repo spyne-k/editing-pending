@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T16:45:44.398Z",
+  "fetchedAt": "2026-09-10T16:55:19.304Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      121
+      127
     ],
     [
       "Asbury Automotive Management L.L.C",
-      34
+      37
     ],
     [
       "Davidson Auto Group",
@@ -30,6 +30,10 @@
     [
       "Bergstrom Automotive",
       7
+    ],
+    [
+      "Sansone Jr's Auto Group",
+      6
     ],
     [
       "Yemm Auto",
@@ -68,10 +72,6 @@
       3
     ],
     [
-      "Sansone Jr's Auto Group",
-      3
-    ],
-    [
       "Gettel Automotive Group",
       3
     ],
@@ -100,11 +100,11 @@
       2
     ],
     [
-      "World Car Auto Group",
+      "Starling Chevrolet",
       1
     ],
     [
-      "Starling Chevrolet",
+      "World Car Auto Group",
       1
     ],
     [
