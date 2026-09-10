@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T17:21:00.519Z",
+  "fetchedAt": "2026-09-10T17:32:18.827Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      157
+      153
     ],
     [
       "Asbury Automotive Management L.L.C",
-      64
+      74
     ],
     [
       "Davidson Auto Group",
@@ -32,19 +32,15 @@
       7
     ],
     [
-      "Van Horn Automotive Group",
-      6
-    ],
-    [
       "Sansone Jr's Auto Group",
       6
     ],
     [
-      "Yemm Auto",
-      5
+      "Van Horn Automotive Group",
+      6
     ],
     [
-      "Rawian Oy",
+      "Greenway Automotive Group",
       5
     ],
     [
@@ -52,11 +48,11 @@
       5
     ],
     [
-      "Greenway Automotive Group",
-      5
+      "Jenkins Auto Group",
+      4
     ],
     [
-      "ZT Automotive",
+      "Gettel Automotive Group",
       4
     ],
     [
@@ -64,15 +60,7 @@
       4
     ],
     [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
-      "Gettel Automotive Group",
+      "ZT Automotive",
       4
     ],
     [
@@ -88,12 +76,20 @@
       3
     ],
     [
+      "Graff Auto Campus",
+      2
+    ],
+    [
       "Russ Darrow Group, Inc.",
       2
     ],
     [
-      "Graff Auto Campus",
-      2
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
     ],
     [
       "greenway auto group 2",
@@ -104,15 +100,7 @@
       1
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
       "Starling Auto Group",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -124,15 +112,15 @@
       1
     ],
     [
-      "North Park Lincoln",
-      1
-    ],
-    [
       "Icon Motors Group of Framingham",
       1
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Flexcar",
       1
     ],
     [
