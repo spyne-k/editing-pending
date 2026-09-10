@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T07:31:35.162Z",
+  "fetchedAt": "2026-09-10T07:45:57.631Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      264
+      276
     ],
     [
       "Asbury Automotive Management L.L.C",
-      41
+      56
     ],
     [
       "Preston Motor Automotive Group",
@@ -32,16 +32,12 @@
       13
     ],
     [
+      "Charlie Clark Hyundai",
+      12
+    ],
+    [
       "Russ Darrow Group, Inc.",
       12
-    ],
-    [
-      "Jenkins Auto Group",
-      12
-    ],
-    [
-      "Charlie Clark Hyundai",
-      11
     ],
     [
       "Icon Motors Group of Framingham",
@@ -56,14 +52,6 @@
       7
     ],
     [
-      "Capital Chevrolet Inc.",
-      6
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
-    ],
-    [
       "Gettel Automotive Group",
       6
     ],
@@ -72,11 +60,19 @@
       6
     ],
     [
+      "Pritchard Companies",
+      6
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      6
+    ],
+    [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
     ],
     [
-      "Pritchard Companies",
+      "Capital Chevrolet Inc.",
       6
     ],
     [
@@ -88,11 +84,11 @@
       5
     ],
     [
-      "Graff Auto Campus",
+      "Car Central",
       5
     ],
     [
-      "Car Central",
+      "Yemm Auto",
       5
     ],
     [
@@ -100,15 +96,11 @@
       5
     ],
     [
-      "Altawkilat",
-      4
+      "Graff Auto Campus",
+      5
     ],
     [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Giant Auto Warehouse",
+      "Cornhusker Auto Center",
       4
     ],
     [
@@ -116,19 +108,19 @@
       4
     ],
     [
-      "Cornhusker Auto Center",
-      4
-    ],
-    [
-      "Impex Auto Sales",
-      4
-    ],
-    [
-      "Starling Auto Group",
-      4
-    ],
-    [
       "Covert Auto Group",
+      4
+    ],
+    [
+      "Giant Auto Warehouse",
+      4
+    ],
+    [
+      "Median Media LLC",
+      4
+    ],
+    [
+      "Altawkilat",
       4
     ],
     [
@@ -136,15 +128,19 @@
       4
     ],
     [
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Impex Auto Sales",
+      4
+    ],
+    [
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
       "Teton solutions Group",
-      3
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      3
-    ],
-    [
-      "Bob King",
       3
     ],
     [
@@ -152,19 +148,23 @@
       3
     ],
     [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
       "Faircy Automotive",
       3
     ],
     [
-      "Hondru Auto Group(US)",
-      2
+      "H&K Chevrolet Family Auto",
+      3
     ],
     [
       "Quantrell Auto Group",
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Hondru Auto Group(US)",
       2
     ],
     [
@@ -172,15 +172,11 @@
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      1
-    ],
-    [
-      "INERCIKAR SA",
-      1
-    ],
-    [
       "World Car Auto Group",
+      1
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
       1
     ],
     [
@@ -188,15 +184,27 @@
       1
     ],
     [
-      "Butler Lexus of South Atlanta",
-      1
-    ],
-    [
       "Amigo Auto Group, Inc.",
       1
     ],
     [
+      "Louyet Re-used",
+      1
+    ],
+    [
+      "Butler Lexus of South Atlanta",
+      1
+    ],
+    [
+      "Moses Auto Group",
+      1
+    ],
+    [
       "Keffer Inc.",
+      1
+    ],
+    [
+      "INERCIKAR SA",
       1
     ],
     [
