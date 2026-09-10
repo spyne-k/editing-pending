@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T20:38:59.147Z",
+  "fetchedAt": "2026-09-10T20:49:27.935Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      185
+      204
     ],
     [
       "Asbury Automotive Management L.L.C",
-      77
+      78
+    ],
+    [
+      "Rim Revolution LLC",
+      11
     ],
     [
       "Greenway Automotive Group",
@@ -29,10 +33,6 @@
     ],
     [
       "Van Horn Automotive Group",
-      8
-    ],
-    [
-      "Rim Revolution LLC",
       8
     ],
     [
@@ -44,7 +44,15 @@
       6
     ],
     [
+      "Flexcar",
+      5
+    ],
+    [
       "Bob Johnson Automotive Group",
+      5
+    ],
+    [
+      "DealerVision.com",
       5
     ],
     [
@@ -56,7 +64,7 @@
       5
     ],
     [
-      "Starling Chevrolet",
+      "MyCar: Trucktown",
       4
     ],
     [
@@ -68,7 +76,7 @@
       4
     ],
     [
-      "MyCar: Trucktown",
+      "Moses Auto Group",
       4
     ],
     [
@@ -76,7 +84,7 @@
       4
     ],
     [
-      "Moses Auto Group",
+      "Starling Chevrolet",
       4
     ],
     [
@@ -84,11 +92,11 @@
       3
     ],
     [
-      "DealerVision.com",
+      "Auto Reum",
       3
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Russ Darrow Group, Inc.",
       3
     ],
     [
@@ -96,20 +104,8 @@
       3
     ],
     [
-      "Russ Darrow Group, Inc.",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "greenway auto group 2",
-      2
-    ],
-    [
-      "North Park Lincoln",
-      2
+      "Capital Chevrolet Inc.",
+      3
     ],
     [
       "Lee Group",
@@ -120,15 +116,27 @@
       2
     ],
     [
-      "World Car Auto Group",
-      1
+      "greenway auto group 2",
+      2
+    ],
+    [
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "North Park Lincoln",
+      2
     ],
     [
       "Wood Motor Company",
       1
     ],
     [
-      "Toronto Honda",
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "ZT Automotive",
       1
     ],
     [
@@ -136,7 +144,15 @@
       1
     ],
     [
-      "Northpoint Toyota _ Australia",
+      "C.A. Larsen Automobiler A/S",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Car Castle",
       1
     ],
     [
@@ -144,7 +160,15 @@
       1
     ],
     [
-      "Flexcar",
+      "Northpoint Toyota _ Australia",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Speedway Car Sales",
       1
     ]
   ]
