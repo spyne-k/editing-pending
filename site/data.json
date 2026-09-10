@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T15:44:39.675Z",
+  "fetchedAt": "2026-09-10T15:54:12.607Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      84
+      97
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      15
     ],
     [
       "Bergstrom Automotive",
@@ -32,11 +36,11 @@
       5
     ],
     [
-      "Performance Automotive Network",
+      "Graff Auto Campus",
       5
     ],
     [
-      "Graff Auto Campus",
+      "Performance Automotive Network",
       5
     ],
     [
@@ -76,12 +80,16 @@
       3
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "The Used Car Guys GMBH",
       3
     ],
     [
-      "The Used Car Guys GMBH",
-      3
+      "Blasius South",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
+      2
     ],
     [
       "Russ Darrow Group, Inc.",
@@ -92,19 +100,7 @@
       2
     ],
     [
-      "Gettel Automotive Group",
-      2
-    ],
-    [
-      "Blasius South",
-      2
-    ],
-    [
-      "Starling Chevrolet",
-      1
-    ],
-    [
-      "Starling Auto Group",
+      "World Car Auto Group",
       1
     ],
     [
@@ -112,19 +108,27 @@
       1
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
       "Great Lakes Auto Group",
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Starling Auto Group",
+      1
+    ],
+    [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "Bill Cole AutoMall Bluefield",
       1
     ],
     [
       "Northpoint Toyota _ Australia",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
