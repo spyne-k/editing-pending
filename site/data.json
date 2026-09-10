@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T00:55:43.034Z",
+  "fetchedAt": "2026-09-10T01:07:45.702Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      333
+      306
     ],
     [
       "Asbury Automotive Management L.L.C",
-      143
+      107
     ],
     [
       "ZT Automotive",
-      21
+      24
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -40,11 +40,11 @@
       11
     ],
     [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
-      8
+      "Van Horn Automotive Group",
+      9
     ],
     [
-      "Van Horn Automotive Group",
+      " Joshua Tree Chrysler Dodge Jeep Ram",
       8
     ],
     [
@@ -60,15 +60,19 @@
       6
     ],
     [
+      "Greenway Automotive Group",
+      6
+    ],
+    [
+      "Pritchard Companies",
+      6
+    ],
+    [
       "Russ Darrow Group, Inc.",
       6
     ],
     [
       "Performance Automotive Network",
-      5
-    ],
-    [
-      "Greenway Automotive Group",
       5
     ],
     [
@@ -85,10 +89,6 @@
     ],
     [
       "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Pritchard Companies",
       4
     ],
     [
@@ -116,15 +116,15 @@
       3
     ],
     [
-      "Auto X-Change Inc",
-      3
-    ],
-    [
       "Audi Cape Fear",
       3
     ],
     [
       "Median Media LLC",
+      3
+    ],
+    [
+      "Auto X-Change Inc",
       3
     ],
     [
@@ -156,15 +156,19 @@
       2
     ],
     [
-      "Victory Automotive Group",
-      2
-    ],
-    [
       "Quantrell Auto Group",
       2
     ],
     [
+      "Victory Automotive Group",
+      2
+    ],
+    [
       "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -184,6 +188,10 @@
       1
     ],
     [
+      "Davidson Auto Group",
+      1
+    ],
+    [
       "DealerVision.com",
       1
     ],
@@ -192,15 +200,15 @@
       1
     ],
     [
-      "Davidson Auto Group",
-      1
-    ],
-    [
       "Louyet Re-used",
       1
     ],
     [
       "Novacti",
+      1
+    ],
+    [
+      "Autmotive Marketing Solution - Main",
       1
     ],
     [
