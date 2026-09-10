@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T07:45:57.631Z",
+  "fetchedAt": "2026-09-10T07:56:26.105Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      276
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      56
+      217
     ],
     [
       "Preston Motor Automotive Group",
@@ -52,10 +48,6 @@
       7
     ],
     [
-      "Gettel Automotive Group",
-      6
-    ],
-    [
       "Blasius Buick GMC",
       6
     ],
@@ -64,15 +56,11 @@
       6
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
       "Capital Chevrolet Inc.",
+      6
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
@@ -80,11 +68,15 @@
       6
     ],
     [
-      "Performance Automotive Network",
-      5
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
     ],
     [
-      "Car Central",
+      "Gettel Automotive Group",
+      6
+    ],
+    [
+      "Graff Auto Campus",
       5
     ],
     [
@@ -96,11 +88,15 @@
       5
     ],
     [
-      "Graff Auto Campus",
+      "Car Central",
       5
     ],
     [
-      "Cornhusker Auto Center",
+      "Performance Automotive Network",
+      5
+    ],
+    [
+      "Giant Auto Warehouse",
       4
     ],
     [
@@ -108,19 +104,23 @@
       4
     ],
     [
-      "Covert Auto Group",
-      4
-    ],
-    [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
       "Median Media LLC",
       4
     ],
     [
+      "Cornhusker Auto Center",
+      4
+    ],
+    [
       "Altawkilat",
+      4
+    ],
+    [
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Impex Auto Sales",
       4
     ],
     [
@@ -132,11 +132,7 @@
       4
     ],
     [
-      "Impex Auto Sales",
-      4
-    ],
-    [
-      "Van Horn Automotive Group",
+      "Greenway Automotive Group",
       3
     ],
     [
@@ -144,15 +140,7 @@
       3
     ],
     [
-      "Greenway Automotive Group",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Faircy Automotive",
+      "Van Horn Automotive Group",
       3
     ],
     [
@@ -160,23 +148,27 @@
       3
     ],
     [
-      "Quantrell Auto Group",
-      2
-    ],
-    [
-      "Hondru Auto Group(US)",
-      2
+      "Faircy Automotive",
+      3
     ],
     [
       "Ideal Cars",
       2
     ],
     [
-      "World Car Auto Group",
+      "Quantrell Auto Group",
+      2
+    ],
+    [
+      "Flexcar",
       1
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
@@ -192,11 +184,11 @@
       1
     ],
     [
-      "Butler Lexus of South Atlanta",
+      "Moses Auto Group",
       1
     ],
     [
-      "Moses Auto Group",
+      "Butler Lexus of South Atlanta",
       1
     ],
     [
@@ -205,6 +197,10 @@
     ],
     [
       "INERCIKAR SA",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
       1
     ],
     [
