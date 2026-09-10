@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T17:06:33.361Z",
+  "fetchedAt": "2026-09-10T17:21:00.519Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      133
+      157
     ],
     [
       "Asbury Automotive Management L.L.C",
-      43
+      64
     ],
     [
       "Davidson Auto Group",
@@ -30,6 +30,10 @@
     [
       "Bergstrom Automotive",
       7
+    ],
+    [
+      "Van Horn Automotive Group",
+      6
     ],
     [
       "Sansone Jr's Auto Group",
@@ -68,11 +72,11 @@
       4
     ],
     [
-      "S&L Motors, Pulaski WI",
-      3
+      "Gettel Automotive Group",
+      4
     ],
     [
-      "Gettel Automotive Group",
+      "S&L Motors, Pulaski WI",
       3
     ],
     [
@@ -80,16 +84,8 @@
       3
     ],
     [
-      "Van Horn Automotive Group",
-      3
-    ],
-    [
       "Bob Johnson Automotive Group",
       3
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      2
     ],
     [
       "Russ Darrow Group, Inc.",
@@ -98,6 +94,10 @@
     [
       "Graff Auto Campus",
       2
+    ],
+    [
+      "greenway auto group 2",
+      1
     ],
     [
       "Starling Chevrolet",
@@ -109,10 +109,6 @@
     ],
     [
       "Starling Auto Group",
-      1
-    ],
-    [
-      "Puente Hills Mitsubishi",
       1
     ],
     [
@@ -129,6 +125,10 @@
     ],
     [
       "North Park Lincoln",
+      1
+    ],
+    [
+      "Icon Motors Group of Framingham",
       1
     ],
     [
