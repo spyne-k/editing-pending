@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T17:43:57.312Z",
+  "fetchedAt": "2026-09-10T17:53:30.867Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      154
+      170
     ],
     [
       "Asbury Automotive Management L.L.C",
-      80
+      89
+    ],
+    [
+      "Gettel Automotive Group",
+      8
     ],
     [
       "Bergstrom Automotive",
@@ -29,10 +33,6 @@
     ],
     [
       "Van Horn Automotive Group",
-      6
-    ],
-    [
-      "Gettel Automotive Group",
       6
     ],
     [
@@ -57,6 +57,10 @@
     ],
     [
       "Jenkins Auto Group",
+      4
+    ],
+    [
+      "Olympic Hyundai Vancouver",
       4
     ],
     [
@@ -101,6 +105,10 @@
     ],
     [
       "Starling Auto Group",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
