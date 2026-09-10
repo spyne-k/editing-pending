@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T18:49:54.372Z",
+  "fetchedAt": "2026-09-10T18:59:00.173Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      162
+      166
     ],
     [
       "Asbury Automotive Management L.L.C",
-      57
+      60
     ],
     [
       "Gettel Automotive Group",
@@ -72,6 +72,10 @@
       4
     ],
     [
+      "Russ Darrow Group, Inc.",
+      4
+    ],
+    [
       "Starling Chevrolet",
       4
     ],
@@ -81,10 +85,6 @@
     ],
     [
       "Bob Johnson Automotive Group",
-      3
-    ],
-    [
-      "Russ Darrow Group, Inc.",
       3
     ],
     [
