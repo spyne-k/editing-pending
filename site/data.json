@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T07:56:26.105Z",
+  "fetchedAt": "2026-09-10T08:09:47.553Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      217
+      241
     ],
     [
       "Preston Motor Automotive Group",
       18
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      17
     ],
     [
       "DealerVision.com",
@@ -44,8 +48,24 @@
       10
     ],
     [
-      "Wiz Leasing Inc",
-      7
+      "Bob Johnson Automotive Group",
+      9
+    ],
+    [
+      "Jenkins Auto Group",
+      9
+    ],
+    [
+      "Gettel Automotive Group",
+      6
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      6
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
     ],
     [
       "Blasius Buick GMC",
@@ -60,31 +80,15 @@
       6
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
-    ],
-    [
       "S&L Motors, Pulaski WI",
       6
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
-      "Gettel Automotive Group",
-      6
-    ],
-    [
-      "Graff Auto Campus",
+      "Speedway Car Sales",
       5
     ],
     [
       "Yemm Auto",
-      5
-    ],
-    [
-      "Speedway Car Sales",
       5
     ],
     [
@@ -96,19 +100,15 @@
       5
     ],
     [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
-      "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Median Media LLC",
-      4
+      "Graff Auto Campus",
+      5
     ],
     [
       "Cornhusker Auto Center",
+      4
+    ],
+    [
+      "Impex Auto Sales",
       4
     ],
     [
@@ -120,7 +120,15 @@
       4
     ],
     [
-      "Impex Auto Sales",
+      "Giant Auto Warehouse",
+      4
+    ],
+    [
+      "Rohrich Automotive Group",
+      4
+    ],
+    [
+      "Median Media LLC",
       4
     ],
     [
@@ -136,11 +144,7 @@
       3
     ],
     [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Van Horn Automotive Group",
+      "Faircy Automotive",
       3
     ],
     [
@@ -148,19 +152,19 @@
       3
     ],
     [
-      "Faircy Automotive",
+      "Flexcar",
       3
     ],
     [
-      "Ideal Cars",
-      2
+      "Van Horn Automotive Group",
+      3
     ],
     [
-      "Quantrell Auto Group",
-      2
+      "Teton solutions Group",
+      3
     ],
     [
-      "Flexcar",
+      "INERCIKAR SA",
       1
     ],
     [
@@ -168,15 +172,11 @@
       1
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
       "Beadle Ford, INC.",
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Butler Lexus of South Atlanta",
       1
     ],
     [
@@ -188,23 +188,15 @@
       1
     ],
     [
-      "Butler Lexus of South Atlanta",
-      1
-    ],
-    [
-      "Keffer Inc.",
-      1
-    ],
-    [
-      "INERCIKAR SA",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
