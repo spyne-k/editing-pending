@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T21:33:09.281Z",
+  "fetchedAt": "2026-09-10T21:44:05.989Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      230
+      242
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -36,8 +36,16 @@
       10
     ],
     [
-      "Van Horn Automotive Group",
+      "Yemm Auto",
       8
+    ],
+    [
+      "Van Horn Automotive Group",
+      7
+    ],
+    [
+      "NorthTown Automotive",
+      7
     ],
     [
       "Olympic Hyundai Vancouver",
@@ -48,16 +56,24 @@
       6
     ],
     [
-      "Charlie Clark Hyundai",
-      5
-    ],
-    [
       "Performance Automotive Network",
       5
     ],
     [
       "Starling Auto Group",
       5
+    ],
+    [
+      "Charlie Clark Hyundai",
+      5
+    ],
+    [
+      "Alliance Cars Limited",
+      4
+    ],
+    [
+      "Volvo of Princeton Inc",
+      4
     ],
     [
       "Moses Auto Group",
@@ -72,27 +88,7 @@
       4
     ],
     [
-      "Volvo of Princeton Inc",
-      4
-    ],
-    [
-      "Starling Chevrolet",
-      4
-    ],
-    [
-      "NorthTown Automotive",
-      4
-    ],
-    [
-      "Alliance Cars Limited",
-      4
-    ],
-    [
-      "Blasius Buick GMC",
-      3
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Auto Reum",
       3
     ],
     [
@@ -100,7 +96,11 @@
       3
     ],
     [
-      "Auto Reum",
+      "Russ Darrow Group, Inc.",
+      3
+    ],
+    [
+      "Blasius Buick GMC",
       3
     ],
     [
@@ -108,11 +108,15 @@
       3
     ],
     [
+      "S&L Motors, Pulaski WI",
+      3
+    ],
+    [
       "Bob Johnson Automotive Group",
       3
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Starling Chevrolet",
       3
     ],
     [
@@ -128,6 +132,10 @@
       2
     ],
     [
+      "Expert Auto Group",
+      2
+    ],
+    [
       "North Park Lincoln",
       2
     ],
@@ -136,8 +144,8 @@
       2
     ],
     [
-      "Yemm Auto",
-      2
+      "4 Season Motors LLC",
+      1
     ],
     [
       "Speedway Car Sales",
@@ -148,11 +156,19 @@
       1
     ],
     [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
       "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Performance Auto Group",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
@@ -168,6 +184,10 @@
       1
     ],
     [
+      "EV Car Company",
+      1
+    ],
+    [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       1
     ],
@@ -176,15 +196,11 @@
       1
     ],
     [
-      "Northpoint Toyota _ Australia",
-      1
-    ],
-    [
       "Autoplex 2000 and All Star Buick GMC truck",
       1
     ],
     [
-      "EV Car Company",
+      "Olson Chevrolet",
       1
     ],
     [
