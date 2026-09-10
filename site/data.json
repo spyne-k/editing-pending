@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T10:42:46.958Z",
+  "fetchedAt": "2026-09-10T10:53:26.753Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,14 @@
   "rows": [
     [
       null,
-      126
-    ],
-    [
-      "Yoder Family of Companies",
-      7
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      6
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
+      115
     ],
     [
       "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
@@ -52,8 +40,8 @@
       6
     ],
     [
-      "Graff Auto Campus",
-      5
+      "Capital Chevrolet Inc.",
+      6
     ],
     [
       "Performance Automotive Network",
@@ -68,27 +56,19 @@
       5
     ],
     [
+      "Graff Auto Campus",
+      5
+    ],
+    [
       "Speedway Car Sales",
       5
     ],
     [
-      "Rohrich Automotive Group",
+      "Impex Auto Sales",
       4
     ],
     [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Wiz Leasing Inc",
-      4
-    ],
-    [
-      "Covert Auto Group",
+      "Greenway Automotive Group",
       4
     ],
     [
@@ -96,7 +76,23 @@
       4
     ],
     [
-      "Impex Auto Sales",
+      "Wiz Leasing Inc",
+      4
+    ],
+    [
+      "Median Media LLC",
+      4
+    ],
+    [
+      "Giant Auto Warehouse",
+      4
+    ],
+    [
+      "Rohrich Automotive Group",
+      4
+    ],
+    [
+      "Covert Auto Group",
       4
     ],
     [
@@ -104,23 +100,23 @@
       3
     ],
     [
-      "Flexcar",
-      3
-    ],
-    [
       "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "Greenway Automotive Group",
+      "Flexcar",
       3
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
     ],
     [
       "Jim Schmidt Automotive",
       2
     ],
     [
-      "World Car Auto Group",
+      "Starling Chevrolet",
       1
     ],
     [
@@ -128,11 +124,7 @@
       1
     ],
     [
-      "Starling Chevrolet",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "World Car Auto Group",
       1
     ],
     [
@@ -156,7 +148,7 @@
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
