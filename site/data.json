@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T19:22:48.044Z",
+  "fetchedAt": "2026-09-10T19:31:25.746Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -21,7 +21,7 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      71
+      73
     ],
     [
       "Gettel Automotive Group",
@@ -29,14 +29,10 @@
     ],
     [
       "Russ Darrow Group, Inc.",
-      8
+      9
     ],
     [
       "Van Horn Automotive Group",
-      8
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
       8
     ],
     [
@@ -72,15 +68,15 @@
       4
     ],
     [
+      "Jenkins Auto Group",
+      4
+    ],
+    [
       "ZT Automotive",
       4
     ],
     [
       "Altawkilat",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
       4
     ],
     [
@@ -92,19 +88,11 @@
       3
     ],
     [
+      "Capital Chevrolet Inc.",
+      3
+    ],
+    [
       "Flexcar",
-      2
-    ],
-    [
-      "Moses Auto Group",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Yemm Auto",
       2
     ],
     [
@@ -117,18 +105,22 @@
     ],
     [
       "North Park Lincoln",
-      1
+      2
+    ],
+    [
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Yemm Auto",
+      2
+    ],
+    [
+      "Moses Auto Group",
+      2
     ],
     [
       "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Janssen Auto Group",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -136,7 +128,23 @@
       1
     ],
     [
+      "Janssen Auto Group",
+      1
+    ],
+    [
       "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
@@ -148,10 +156,6 @@
       1
     ],
     [
-      "World Car Auto Group",
-      1
-    ],
-    [
       "Icon Motors Group of Framingham",
       1
     ],
@@ -160,7 +164,7 @@
       1
     ],
     [
-      "McCurley Dealerships",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
