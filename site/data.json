@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T00:02:35.608Z",
+  "fetchedAt": "2026-09-10T00:25:13.136Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      331
+      347
     ],
     [
       "Asbury Automotive Management L.L.C",
-      140
+      142
     ],
     [
       "Bergstrom Automotive",
@@ -48,12 +48,20 @@
       8
     ],
     [
+      "Brandon Steven Motors",
+      7
+    ],
+    [
       "Van Horn Automotive Group",
       7
     ],
     [
-      "Brandon Steven Motors",
+      "Wiz Leasing Inc",
       7
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      6
     ],
     [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
@@ -64,19 +72,15 @@
       5
     ],
     [
-      "Russ Darrow Group, Inc.",
-      5
-    ],
-    [
       "Speedway Car Sales",
       5
     ],
     [
-      "Covert Auto Group",
+      "Starling Auto Group",
       4
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Covert Auto Group",
       4
     ],
     [
@@ -84,35 +88,15 @@
       4
     ],
     [
-      "Starling Auto Group",
+      "Elite Auto Marketing Solutions",
       4
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
-      "Audi Cape Fear",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Moses Auto Group",
-      3
+      "Capital Chevrolet Inc.",
+      4
     ],
     [
       "Teton solutions Group",
-      3
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -120,20 +104,36 @@
       3
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Haldeman Lexus of Princeton",
       3
     ],
     [
-      "Quantrell Auto Group",
-      2
+      "Jim Schmidt Automotive",
+      3
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
+      "Audi Cape Fear",
+      3
     ],
     [
-      "Ideal Cars",
-      2
+      "Pritchard Companies",
+      3
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Median Media LLC",
+      3
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      3
     ],
     [
       "Impex Auto Sales",
@@ -144,19 +144,19 @@
       2
     ],
     [
-      "Courtesy Chevy of Tucson",
-      1
+      "Quantrell Auto Group",
+      2
+    ],
+    [
+      "Ideal Cars",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
     ],
     [
       "RBM Automotive Group",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Pritchard Companies",
       1
     ],
     [
@@ -164,7 +164,19 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
@@ -176,10 +188,6 @@
       1
     ],
     [
-      "Rochester Toyota",
-      1
-    ],
-    [
       "Novacti",
       1
     ],
@@ -188,7 +196,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ]
   ]
