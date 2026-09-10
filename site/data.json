@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T04:40:37.201Z",
+  "fetchedAt": "2026-09-10T04:52:44.233Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      332
+      341
     ],
     [
       "Yoder Family of Companies",
       49
     ],
     [
-      "Amato Hyundai Of Glendale",
-      17
+      "ZT Automotive",
+      19
     ],
     [
-      "ZT Automotive",
-      15
+      "Amato Hyundai Of Glendale",
+      17
     ],
     [
       "Yemm Auto",
@@ -44,11 +44,11 @@
       13
     ],
     [
-      "Preston Motor Automotive Group",
+      "Jenkins Auto Group",
       12
     ],
     [
-      "Jenkins Auto Group",
+      "Preston Motor Automotive Group",
       12
     ],
     [
@@ -60,12 +60,16 @@
       10
     ],
     [
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      8
+    ],
+    [
       "Russ Darrow Group, Inc.",
       8
     ],
     [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
-      8
+      "Asbury Automotive Management L.L.C",
+      7
     ],
     [
       "Wiz Leasing Inc",
@@ -74,6 +78,14 @@
     [
       "Brandon Steven Motors",
       7
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
+      "Pritchard Companies",
+      6
     ],
     [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
@@ -88,36 +100,16 @@
       6
     ],
     [
-      "Pritchard Companies",
-      6
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
-      "Performance Automotive Network",
-      5
-    ],
-    [
       "Speedway Car Sales",
       5
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      4
+      "Car Central",
+      5
     ],
     [
-      "Cornhusker Auto Center",
-      4
-    ],
-    [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Starling Auto Group",
-      4
+      "Performance Automotive Network",
+      5
     ],
     [
       "Capital Chevrolet Inc.",
@@ -132,43 +124,27 @@
       4
     ],
     [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Elite Auto Marketing Solutions",
-      3
-    ],
-    [
-      "Auto X-Change Inc",
-      3
-    ],
-    [
       "Jim Schmidt Automotive",
-      3
+      4
+    ],
+    [
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Cornhusker Auto Center",
+      4
+    ],
+    [
+      "Median Media LLC",
+      4
+    ],
+    [
+      "Impex Auto Sales",
+      4
     ],
     [
       "Bob King",
-      3
-    ],
-    [
-      "Zink Motor Company",
-      3
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      3
-    ],
-    [
-      "Audi Cape Fear",
-      3
-    ],
-    [
-      "Car Central",
       3
     ],
     [
@@ -176,27 +152,47 @@
       3
     ],
     [
-      "H&K Chevrolet Family Auto",
-      3
-    ],
-    [
       "Renny Bettan",
       3
     ],
     [
-      "Quantrell Auto Group",
-      2
+      "Haldeman Lexus of Princeton",
+      3
     ],
     [
-      "Impex Auto Sales",
-      2
+      "Auto X-Change Inc",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Zink Motor Company",
+      3
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      3
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      3
     ],
     [
       "Victory Automotive Group",
       2
     ],
     [
-      "Gettel Automotive Group",
+      "Quantrell Auto Group",
       2
     ],
     [
@@ -204,19 +200,11 @@
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
       "Ideal Cars",
       2
     ],
     [
-      "RBM Automotive Group",
-      1
-    ],
-    [
-      "Louyet Re-used",
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
@@ -224,7 +212,19 @@
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "RBM Automotive Group",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Novacti",
       1
     ],
     [
@@ -236,19 +236,11 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Louyet Re-used",
       1
     ],
     [
       "Starling Chevrolet",
-      1
-    ],
-    [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "Novacti",
       1
     ],
     [
@@ -261,6 +253,10 @@
     ],
     [
       "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ],
     [
