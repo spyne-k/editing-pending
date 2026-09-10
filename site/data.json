@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T02:52:06.244Z",
+  "fetchedAt": "2026-09-10T03:00:55.572Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,19 @@
   "rows": [
     [
       null,
-      297
+      315
     ],
     [
       "Asbury Automotive Management L.L.C",
-      53
+      56
     ],
     [
       "Yemm Auto",
       15
+    ],
+    [
+      "Van Horn Automotive Group",
+      13
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -52,8 +56,8 @@
       10
     ],
     [
-      "Van Horn Automotive Group",
-      9
+      "Yoder Family of Companies",
+      10
     ],
     [
       "Greenway Automotive Group",
@@ -72,19 +76,19 @@
       7
     ],
     [
-      "Elite Auto Marketing Solutions",
-      6
-    ],
-    [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Elite Auto Marketing Solutions",
       6
     ],
     [
       "Pritchard Companies",
+      6
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       6
     ],
     [
@@ -124,19 +128,7 @@
       4
     ],
     [
-      "Renny Bettan",
-      3
-    ],
-    [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
-      "Audi Cape Fear",
+      "Moses Auto Group",
       3
     ],
     [
@@ -148,7 +140,7 @@
       3
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Charlie Clark Hyundai",
       3
     ],
     [
@@ -156,11 +148,27 @@
       3
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Teton solutions Group",
       3
     ],
     [
-      "Moses Auto Group",
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "Renny Bettan",
+      3
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "H&K Chevrolet Family Auto",
       3
     ],
     [
@@ -168,19 +176,7 @@
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Ideal Cars",
-      2
-    ],
-    [
-      "Impex Auto Sales",
-      2
-    ],
-    [
-      "Charlie Clark Hyundai",
+      "Victory Automotive Group",
       2
     ],
     [
@@ -188,23 +184,19 @@
       2
     ],
     [
-      "Victory Automotive Group",
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "Ideal Cars",
       2
     ],
     [
       "ROCHESTER VOLKSWAGEN",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "RBM Automotive Group",
-      1
-    ],
-    [
-      "World Car Auto Group",
       1
     ],
     [
@@ -216,7 +208,11 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "RBM Automotive Group",
+      1
+    ],
+    [
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
@@ -224,11 +220,19 @@
       1
     ],
     [
+      "Louyet Re-used",
+      1
+    ],
+    [
       "Davidson Auto Group",
       1
     ],
     [
-      "Louyet Re-used",
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
