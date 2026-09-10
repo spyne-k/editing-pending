@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T02:10:37.918Z",
+  "fetchedAt": "2026-09-10T02:26:31.287Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      322
+      265
     ],
     [
       "Asbury Automotive Management L.L.C",
-      114
+      48
     ],
     [
       "Yemm Auto",
@@ -52,11 +52,11 @@
       8
     ],
     [
-      "Wiz Leasing Inc",
+      "Brandon Steven Motors",
       7
     ],
     [
-      "Brandon Steven Motors",
+      "Wiz Leasing Inc",
       7
     ],
     [
@@ -76,16 +76,12 @@
       6
     ],
     [
-      "Performance Automotive Network",
-      5
-    ],
-    [
       "Speedway Car Sales",
       5
     ],
     [
-      "Covert Auto Group",
-      4
+      "Performance Automotive Network",
+      5
     ],
     [
       "Elite Auto Marketing Solutions",
@@ -100,7 +96,15 @@
       4
     ],
     [
+      "Cornhusker Auto Center",
+      4
+    ],
+    [
       "Starling Auto Group",
+      4
+    ],
+    [
+      "ZT Automotive",
       4
     ],
     [
@@ -108,7 +112,15 @@
       4
     ],
     [
-      "Bob King",
+      "S&L Motors, Pulaski WI",
+      4
+    ],
+    [
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -116,15 +128,15 @@
       3
     ],
     [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      3
-    ],
-    [
       "Moses Auto Group",
+      3
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "Haldeman Lexus of Princeton",
       3
     ],
     [
@@ -132,19 +144,15 @@
       3
     ],
     [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "Cornhusker Auto Center",
-      3
-    ],
-    [
       "Renny Bettan",
+      3
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "Teton solutions Group",
       3
     ],
     [
@@ -156,7 +164,15 @@
       2
     ],
     [
+      "Ideal Cars",
+      2
+    ],
+    [
       "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Impex Auto Sales",
       2
     ],
     [
@@ -165,14 +181,6 @@
     ],
     [
       "Charlie Clark Hyundai",
-      2
-    ],
-    [
-      "Ideal Cars",
-      2
-    ],
-    [
-      "Impex Auto Sales",
       2
     ],
     [
@@ -188,23 +196,11 @@
       1
     ],
     [
-      "Wallingford Auto Park, Inc.",
-      1
-    ],
-    [
       "Amigo Auto Group, Inc.",
       1
     ],
     [
-      "ROCHESTER VOLKSWAGEN",
-      1
-    ],
-    [
-      "Louyet Re-used",
-      1
-    ],
-    [
-      "World Car Auto Group",
+      "Wallingford Auto Park, Inc.",
       1
     ],
     [
@@ -212,7 +208,23 @@
       1
     ],
     [
+      "ROCHESTER VOLKSWAGEN",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
       "Novacti",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Louyet Re-used",
       1
     ],
     [
@@ -224,8 +236,8 @@
       1
     ],
     [
-      "Davidson Auto Group",
-      1
+      "carvago2",
+      0
     ]
   ]
 }
