@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T18:03:52.224Z",
+  "fetchedAt": "2026-09-10T18:21:55.066Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,27 @@
   "rows": [
     [
       null,
-      174
+      198
     ],
     [
       "Asbury Automotive Management L.L.C",
-      89
+      90
+    ],
+    [
+      "Rawian Oy",
+      10
     ],
     [
       "Gettel Automotive Group",
+      9
+    ],
+    [
+      "Van Horn Automotive Group",
       8
     ],
     [
       "Bergstrom Automotive",
       7
-    ],
-    [
-      "Van Horn Automotive Group",
-      6
     ],
     [
       "Olympic Hyundai Vancouver",
@@ -60,6 +64,10 @@
       4
     ],
     [
+      "MyCar: Trucktown",
+      4
+    ],
+    [
       "Jenkins Auto Group",
       4
     ],
@@ -72,6 +80,10 @@
       3
     ],
     [
+      "Starling Auto Group",
+      3
+    ],
+    [
       "S&L Motors, Pulaski WI",
       3
     ],
@@ -80,11 +92,11 @@
       2
     ],
     [
-      "Your Choice Auto LLC",
+      "Roanoke Motors Inc",
       2
     ],
     [
-      "Starling Auto Group",
+      "Your Choice Auto LLC",
       2
     ],
     [
@@ -96,11 +108,19 @@
       2
     ],
     [
-      "Starling Chevrolet",
+      "Yemm Auto",
+      2
+    ],
+    [
+      "greenway auto group 2",
       1
     ],
     [
       "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Janssen Auto Group",
       1
     ],
     [
@@ -116,15 +136,15 @@
       1
     ],
     [
+      "North Park Lincoln",
+      1
+    ],
+    [
       "Bill Cole AutoMall Bluefield",
       1
     ],
     [
       "Northpoint Toyota _ Australia",
-      1
-    ],
-    [
-      "North Park Lincoln",
       1
     ],
     [
@@ -136,7 +156,7 @@
       1
     ],
     [
-      "greenway auto group 2",
+      "Starling Chevrolet",
       1
     ],
     [
