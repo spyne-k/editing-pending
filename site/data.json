@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T18:59:00.173Z",
+  "fetchedAt": "2026-09-10T19:11:55.701Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,22 @@
   "rows": [
     [
       null,
-      166
+      183
     ],
     [
       "Asbury Automotive Management L.L.C",
-      60
+      70
     ],
     [
       "Gettel Automotive Group",
-      9
+      10
     ],
     [
       "Van Horn Automotive Group",
+      8
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       8
     ],
     [
@@ -37,6 +41,10 @@
     ],
     [
       "Olympic Hyundai Vancouver",
+      6
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       6
     ],
     [
@@ -72,10 +80,6 @@
       4
     ],
     [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
       "Starling Chevrolet",
       4
     ],
@@ -88,10 +92,6 @@
       3
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
       "greenway auto group 2",
       2
     ],
@@ -101,10 +101,6 @@
     ],
     [
       "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Graff Auto Campus",
       2
     ],
     [
@@ -133,6 +129,10 @@
     ],
     [
       "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
       1
     ],
     [
