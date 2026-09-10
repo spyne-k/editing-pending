@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T02:26:31.287Z",
+  "fetchedAt": "2026-09-10T02:40:09.226Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      265
+      292
     ],
     [
       "Asbury Automotive Management L.L.C",
-      48
+      53
     ],
     [
       "Yemm Auto",
@@ -30,6 +30,14 @@
     [
       "Bud Clary Chevrolet, INC",
       13
+    ],
+    [
+      "ZT Automotive",
+      12
+    ],
+    [
+      "Jenkins Auto Group",
+      11
     ],
     [
       "Icon Motors Group of Framingham",
@@ -45,6 +53,10 @@
     ],
     [
       "Van Horn Automotive Group",
+      9
+    ],
+    [
+      "Greenway Automotive Group",
       9
     ],
     [
@@ -64,15 +76,11 @@
       6
     ],
     [
-      "Greenway Automotive Group",
+      "Russ Darrow Group, Inc.",
       6
     ],
     [
       "Pritchard Companies",
-      6
-    ],
-    [
-      "Russ Darrow Group, Inc.",
       6
     ],
     [
@@ -84,11 +92,11 @@
       5
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Median Media LLC",
       4
     ],
     [
-      "Median Media LLC",
+      "Elite Auto Marketing Solutions",
       4
     ],
     [
@@ -104,10 +112,6 @@
       4
     ],
     [
-      "ZT Automotive",
-      4
-    ],
-    [
       "Capital Chevrolet Inc.",
       4
     ],
@@ -118,6 +122,34 @@
     [
       "Covert Auto Group",
       4
+    ],
+    [
+      "Renny Bettan",
+      3
+    ],
+    [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Haldeman Lexus of Princeton",
+      3
+    ],
+    [
+      "Auto X-Change Inc",
+      3
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
     ],
     [
       "Jim Schmidt Automotive",
@@ -132,39 +164,7 @@
       3
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Auto X-Change Inc",
-      3
-    ],
-    [
-      "Renny Bettan",
-      3
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      3
-    ],
-    [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Audi Cape Fear",
-      3
-    ],
-    [
       "Quantrell Auto Group",
-      2
-    ],
-    [
-      "Ideal Cars",
       2
     ],
     [
@@ -172,11 +172,11 @@
       2
     ],
     [
-      "Impex Auto Sales",
+      "Ideal Cars",
       2
     ],
     [
-      "DealerVision.com",
+      "Impex Auto Sales",
       2
     ],
     [
@@ -184,8 +184,16 @@
       2
     ],
     [
+      "DealerVision.com",
+      2
+    ],
+    [
       "Victory Automotive Group",
       2
+    ],
+    [
+      "ROCHESTER VOLKSWAGEN",
+      1
     ],
     [
       "Courtesy Chevy of Tucson",
@@ -196,7 +204,7 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "World Car Auto Group",
       1
     ],
     [
@@ -208,11 +216,7 @@
       1
     ],
     [
-      "ROCHESTER VOLKSWAGEN",
-      1
-    ],
-    [
-      "World Car Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
