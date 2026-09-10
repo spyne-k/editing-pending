@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T19:59:28.097Z",
+  "fetchedAt": "2026-09-10T20:13:04.759Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,23 @@
   "rows": [
     [
       null,
-      185
+      181
     ],
     [
       "Asbury Automotive Management L.L.C",
       75
     ],
     [
-      "ZT Automotive",
-      11
-    ],
-    [
       "Car Central",
-      8
+      11
     ],
     [
       "Van Horn Automotive Group",
       8
+    ],
+    [
+      "Greenway Automotive Group",
+      6
     ],
     [
       "Olympic Hyundai Vancouver",
@@ -52,10 +52,6 @@
       5
     ],
     [
-      "Greenway Automotive Group",
-      5
-    ],
-    [
       "Starling Auto Group",
       5
     ],
@@ -68,6 +64,10 @@
       4
     ],
     [
+      "Moses Auto Group",
+      4
+    ],
+    [
       "Altawkilat",
       4
     ],
@@ -76,7 +76,7 @@
       4
     ],
     [
-      "Capital Chevrolet Inc.",
+      "DealerVision.com",
       3
     ],
     [
@@ -84,11 +84,15 @@
       3
     ],
     [
+      "Capital Chevrolet Inc.",
+      3
+    ],
+    [
       "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "Moses Auto Group",
+      "Toronto Honda",
       3
     ],
     [
@@ -104,23 +108,11 @@
       2
     ],
     [
-      "Toronto Honda",
-      2
-    ],
-    [
       "Yemm Auto",
       2
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "Apex Automotive Group",
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -128,15 +120,11 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Janssen Auto Group",
-      1
-    ],
-    [
       "World Car Auto Group",
+      1
+    ],
+    [
+      "Faircy Automotive",
       1
     ],
     [
@@ -144,7 +132,7 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -157,6 +145,10 @@
     ],
     [
       "Icon Motors Group of Framingham",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
