@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T11:46:12.852Z",
+  "fetchedAt": "2026-09-10T11:55:16.287Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      122
+      128
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      17
     ],
     [
       "Rawian Oy",
       16
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      12
     ],
     [
       "S&L Motors, Pulaski WI",
@@ -109,6 +109,10 @@
     ],
     [
       "Starling Chevrolet",
+      1
+    ],
+    [
+      "Capital Chevrolet Inc.",
       1
     ],
     [
