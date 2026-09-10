@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T01:46:05.715Z",
+  "fetchedAt": "2026-09-10T01:56:52.305Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      310
+      321
     ],
     [
       "Asbury Automotive Management L.L.C",
-      111
+      113
     ],
     [
       "Yemm Auto",
@@ -38,6 +38,10 @@
     [
       "Preston Motor Automotive Group",
       11
+    ],
+    [
+      "Olson Chevrolet",
+      10
     ],
     [
       "Van Horn Automotive Group",
@@ -108,7 +112,7 @@
       3
     ],
     [
-      "Audi Cape Fear",
+      "H&K Chevrolet Family Auto",
       3
     ],
     [
@@ -116,15 +120,11 @@
       3
     ],
     [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
       "Moses Auto Group",
-      3
-    ],
-    [
-      "Renny Bettan",
-      3
-    ],
-    [
-      "Teton solutions Group",
       3
     ],
     [
@@ -132,7 +132,7 @@
       3
     ],
     [
-      "Cornhusker Auto Center",
+      "Teton solutions Group",
       3
     ],
     [
@@ -140,19 +140,27 @@
       3
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Cornhusker Auto Center",
       3
     ],
     [
-      "Victory Automotive Group",
-      2
+      "Renny Bettan",
+      3
     ],
     [
-      "DealerVision.com",
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Quantrell Auto Group",
       2
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "DealerVision.com",
       2
     ],
     [
@@ -164,24 +172,12 @@
       2
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
       "Impex Auto Sales",
       2
     ],
     [
-      "Quantrell Auto Group",
+      "Victory Automotive Group",
       2
-    ],
-    [
-      "ROCHESTER VOLKSWAGEN",
-      1
     ],
     [
       "Courtesy Chevy of Tucson",
@@ -192,19 +188,23 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
       "Wallingford Auto Park, Inc.",
       1
     ],
     [
-      "World Car Auto Group",
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "ROCHESTER VOLKSWAGEN",
       1
     ],
     [
       "Louyet Re-used",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
