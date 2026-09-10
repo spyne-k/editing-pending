@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T12:09:06.673Z",
+  "fetchedAt": "2026-09-10T12:30:03.539Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,30 @@
   "rows": [
     [
       null,
-      125
+      129
     ],
     [
       "Asbury Automotive Management L.L.C",
-      24
+      25
     ],
     [
       "Rawian Oy",
       16
     ],
     [
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
-      "Pritchard Companies",
+      "Bergstrom Automotive",
       6
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Pritchard Companies",
       6
     ],
     [
@@ -50,10 +54,6 @@
     [
       "Graff Auto Campus",
       5
-    ],
-    [
-      "Covert Auto Group",
-      4
     ],
     [
       "Impex Auto Sales",
@@ -96,6 +96,10 @@
       3
     ],
     [
+      "Capital Chevrolet Inc.",
+      2
+    ],
+    [
       "Jim Schmidt Automotive",
       2
     ],
@@ -104,19 +108,15 @@
       1
     ],
     [
-      "Capital Chevrolet Inc.",
-      1
-    ],
-    [
       "Starling Auto Group",
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Great Lakes Auto Group",
       1
     ],
     [
-      "Great Lakes Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
