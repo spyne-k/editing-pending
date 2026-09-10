@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T08:42:21.712Z",
+  "fetchedAt": "2026-09-10T08:54:28.460Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,11 @@
   "rows": [
     [
       null,
-      220
+      202
     ],
     [
       "Asbury Automotive Management L.L.C",
-      27
-    ],
-    [
-      "DealerVision.com",
-      13
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      12
+      32
     ],
     [
       "Bob Johnson Automotive Group",
@@ -48,7 +40,7 @@
       9
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Gettel Automotive Group",
       6
     ],
     [
@@ -56,11 +48,7 @@
       6
     ],
     [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
-      "Pritchard Companies",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
     ],
     [
@@ -68,19 +56,23 @@
       6
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Pritchard Companies",
       6
     ],
     [
-      "Gettel Automotive Group",
+      "Capital Chevrolet Inc.",
       6
     ],
     [
-      "Car Central",
-      5
+      "S&L Motors, Pulaski WI",
+      6
     ],
     [
       "Performance Automotive Network",
+      5
+    ],
+    [
+      "Car Central",
       5
     ],
     [
@@ -96,6 +88,14 @@
       5
     ],
     [
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Impex Auto Sales",
+      4
+    ],
+    [
       "Rohrich Automotive Group",
       4
     ],
@@ -108,7 +108,7 @@
       4
     ],
     [
-      "Covert Auto Group",
+      "Jim Schmidt Automotive",
       4
     ],
     [
@@ -120,15 +120,11 @@
       4
     ],
     [
-      "Impex Auto Sales",
-      4
+      "Greenway Automotive Group",
+      3
     ],
     [
-      "Jim Schmidt Automotive",
-      4
-    ],
-    [
-      "Flexcar",
+      "Van Horn Automotive Group",
       3
     ],
     [
@@ -140,31 +136,23 @@
       3
     ],
     [
+      "Flexcar",
+      3
+    ],
+    [
       "H&K Chevrolet Family Auto",
       3
     ],
     [
-      "Greenway Automotive Group",
-      3
-    ],
-    [
-      "Van Horn Automotive Group",
-      3
-    ],
-    [
-      "Beadle Ford, INC.",
-      1
+      "Apex Automotive Group",
+      2
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
-      "Butler Lexus of South Atlanta",
+      "World Car Auto Group",
       1
     ],
     [
@@ -172,7 +160,15 @@
       1
     ],
     [
+      "Butler Lexus of South Atlanta",
+      1
+    ],
+    [
       "Moses Auto Group",
+      1
+    ],
+    [
+      "Beadle Ford, INC.",
       1
     ],
     [
@@ -184,7 +180,7 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
