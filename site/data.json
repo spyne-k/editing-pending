@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T20:57:47.153Z",
+  "fetchedAt": "2026-09-10T21:11:03.714Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      221
+      227
     ],
     [
       "Asbury Automotive Management L.L.C",
       78
     ],
     [
-      "Rim Revolution LLC",
-      15
+      "Flexcar",
+      16
     ],
     [
-      "Flexcar",
-      11
+      "Rim Revolution LLC",
+      15
     ],
     [
       "Greenway Automotive Group",
@@ -40,16 +40,16 @@
       8
     ],
     [
-      "Sansone Jr's Auto Group",
-      6
+      "Jenkins Auto Group",
+      7
     ],
     [
       "Olympic Hyundai Vancouver",
       6
     ],
     [
-      "Bob Johnson Automotive Group",
-      5
+      "Sansone Jr's Auto Group",
+      6
     ],
     [
       "Performance Automotive Network",
@@ -64,11 +64,7 @@
       5
     ],
     [
-      "Altawkilat",
-      4
-    ],
-    [
-      "MyCar: Trucktown",
+      "Alliance Cars Limited",
       4
     ],
     [
@@ -76,11 +72,11 @@
       4
     ],
     [
-      "Jenkins Auto Group",
+      "Altawkilat",
       4
     ],
     [
-      "Alliance Cars Limited",
+      "MyCar: Trucktown",
       4
     ],
     [
@@ -92,11 +88,7 @@
       3
     ],
     [
-      "Russ Darrow Group, Inc.",
-      3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "C.A. Larsen Automobiler A/S",
       3
     ],
     [
@@ -104,11 +96,11 @@
       3
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Bob Johnson Automotive Group",
       3
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "Russ Darrow Group, Inc.",
       3
     ],
     [
@@ -116,15 +108,19 @@
       3
     ],
     [
-      "greenway auto group 2",
-      2
+      "Capital Chevrolet Inc.",
+      3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
     ],
     [
       "Your Choice Auto LLC",
       2
     ],
     [
-      "Lee Group",
+      "greenway auto group 2",
       2
     ],
     [
@@ -132,23 +128,15 @@
       2
     ],
     [
+      "Lee Group",
+      2
+    ],
+    [
       "North Park Lincoln",
       2
     ],
     [
-      "Wood Motor Company",
-      1
-    ],
-    [
       "Car Castle",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Bob King",
       1
     ],
     [
@@ -164,11 +152,15 @@
       1
     ],
     [
+      "Toronto Honda",
+      1
+    ],
+    [
       "Cornhusker Auto Center",
       1
     ],
     [
-      "Toronto Honda",
+      "Wood Motor Company",
       1
     ],
     [
@@ -181,6 +173,14 @@
     ],
     [
       "ZT Automotive",
+      1
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ]
   ]
