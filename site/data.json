@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T11:55:16.287Z",
+  "fetchedAt": "2026-09-10T12:09:06.673Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,18 @@
   "rows": [
     [
       null,
-      128
+      125
     ],
     [
       "Asbury Automotive Management L.L.C",
-      17
+      24
     ],
     [
       "Rawian Oy",
       16
     ],
     [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
-    ],
-    [
-      "Blasius Buick GMC",
       6
     ],
     [
@@ -44,11 +36,11 @@
       6
     ],
     [
-      "Performance Automotive Network",
-      5
+      "S&L Motors, Pulaski WI",
+      6
     ],
     [
-      "Car Central",
+      "Performance Automotive Network",
       5
     ],
     [
@@ -58,6 +50,10 @@
     [
       "Graff Auto Campus",
       5
+    ],
+    [
+      "Covert Auto Group",
+      4
     ],
     [
       "Impex Auto Sales",
@@ -88,8 +84,8 @@
       4
     ],
     [
-      "Covert Auto Group",
-      4
+      "Flexcar",
+      3
     ],
     [
       "Russ Darrow Group, Inc.",
@@ -97,10 +93,6 @@
     ],
     [
       "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Flexcar",
       3
     ],
     [
@@ -120,11 +112,11 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Great Lakes Auto Group",
       1
     ],
     [
@@ -137,6 +129,10 @@
     ],
     [
       "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
