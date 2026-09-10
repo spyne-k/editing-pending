@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T14:49:21.882Z",
+  "fetchedAt": "2026-09-10T14:59:16.332Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,34 @@
   "rows": [
     [
       null,
-      110
+      124
     ],
     [
       "Asbury Automotive Management L.L.C",
       26
     ],
     [
-      "Bergstrom Automotive",
-      7
+      "Rawian Oy",
+      9
+    ],
+    [
+      "Flexcar",
+      8
     ],
     [
       "Gettel Automotive Group",
-      6
+      7
+    ],
+    [
+      "Bergstrom Automotive",
+      7
     ],
     [
       "S&L Motors, Pulaski WI",
       6
     ],
     [
-      "Flexcar",
-      5
-    ],
-    [
       "Graff Auto Campus",
-      5
-    ],
-    [
-      "Performance Automotive Network",
       5
     ],
     [
@@ -52,16 +52,8 @@
       5
     ],
     [
-      "Moses Auto Group",
-      4
-    ],
-    [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Rawian Oy",
-      4
+      "Performance Automotive Network",
+      5
     ],
     [
       "Giant Auto Warehouse",
@@ -69,6 +61,18 @@
     ],
     [
       "Greenway Automotive Group",
+      4
+    ],
+    [
+      "Moses Auto Group",
+      4
+    ],
+    [
+      "Hawthorne Auto Square",
+      4
+    ],
+    [
+      "Median Media LLC",
       4
     ],
     [
@@ -84,11 +88,11 @@
       3
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Ryan Buick GMC Cadillac",
       2
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Russ Darrow Group, Inc.",
       2
     ],
     [
@@ -96,11 +100,11 @@
       1
     ],
     [
-      "Starling Auto Group",
+      "Georgia Auto World",
       1
     ],
     [
-      "ZT Automotive",
+      "Starling Auto Group",
       1
     ],
     [
@@ -109,6 +113,10 @@
     ],
     [
       "Great Lakes Auto Group",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
@@ -132,7 +140,7 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "North Park Lincoln",
       1
     ],
     [
