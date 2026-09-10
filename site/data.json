@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T21:11:03.714Z",
+  "fetchedAt": "2026-09-10T21:22:55.522Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,15 @@
   "rows": [
     [
       null,
-      227
+      209
     ],
     [
       "Asbury Automotive Management L.L.C",
-      78
-    ],
-    [
-      "Flexcar",
-      16
+      77
     ],
     [
       "Rim Revolution LLC",
-      15
+      19
     ],
     [
       "Greenway Automotive Group",
@@ -40,10 +36,6 @@
       8
     ],
     [
-      "Jenkins Auto Group",
-      7
-    ],
-    [
       "Olympic Hyundai Vancouver",
       6
     ],
@@ -52,11 +44,11 @@
       6
     ],
     [
-      "Performance Automotive Network",
+      "DealerVision.com",
       5
     ],
     [
-      "DealerVision.com",
+      "Performance Automotive Network",
       5
     ],
     [
@@ -64,11 +56,19 @@
       5
     ],
     [
-      "Alliance Cars Limited",
+      "Starling Chevrolet",
       4
     ],
     [
       "Moses Auto Group",
+      4
+    ],
+    [
+      "Alliance Cars Limited",
+      4
+    ],
+    [
+      "Charlie Clark Hyundai",
       4
     ],
     [
@@ -80,19 +80,7 @@
       4
     ],
     [
-      "Starling Chevrolet",
-      4
-    ],
-    [
-      "Auto Reum",
-      3
-    ],
-    [
-      "C.A. Larsen Automobiler A/S",
-      3
-    ],
-    [
-      "Charlie Clark Hyundai",
+      "S&L Motors, Pulaski WI",
       3
     ],
     [
@@ -104,7 +92,11 @@
       3
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "C.A. Larsen Automobiler A/S",
+      3
+    ],
+    [
+      "Auto Reum",
       3
     ],
     [
@@ -112,11 +104,11 @@
       3
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      3
+      "Lee Group",
+      2
     ],
     [
-      "Your Choice Auto LLC",
+      "Wood Motor Company",
       2
     ],
     [
@@ -124,11 +116,15 @@
       2
     ],
     [
-      "Yemm Auto",
+      "Your Choice Auto LLC",
       2
     ],
     [
-      "Lee Group",
+      "Blasius Buick GMC",
+      2
+    ],
+    [
+      "Yemm Auto",
       2
     ],
     [
@@ -136,15 +132,7 @@
       2
     ],
     [
-      "Car Castle",
-      1
-    ],
-    [
-      "Blasius Buick GMC",
-      1
-    ],
-    [
-      "Faircy Automotive",
+      "Toronto Honda",
       1
     ],
     [
@@ -152,23 +140,15 @@
       1
     ],
     [
-      "Toronto Honda",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Faircy Automotive",
       1
     ],
     [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      1
-    ],
-    [
-      "Northpoint Toyota _ Australia",
+      "World Car Auto Group",
       1
     ],
     [
@@ -176,11 +156,27 @@
       1
     ],
     [
-      "Bob King",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "World Car Auto Group",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "Dobbs Equity Partners, LLC",
+      1
+    ],
+    [
+      "Northpoint Toyota _ Australia",
+      1
+    ],
+    [
+      "Car Castle",
+      1
+    ],
+    [
+      "Bob King",
       1
     ]
   ]
