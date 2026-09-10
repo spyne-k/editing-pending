@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T15:54:12.607Z",
+  "fetchedAt": "2026-09-10T16:04:40.372Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      97
+      98
     ],
     [
       "Asbury Automotive Management L.L.C",
-      15
+      20
     ],
     [
       "Bergstrom Automotive",
@@ -33,10 +33,6 @@
     ],
     [
       "Rawian Oy",
-      5
-    ],
-    [
-      "Graff Auto Campus",
       5
     ],
     [
@@ -72,10 +68,6 @@
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
       "Bob Johnson Automotive Group",
       3
     ],
@@ -84,11 +76,11 @@
       3
     ],
     [
-      "Blasius South",
-      2
+      "Bud Clary Chevrolet, INC",
+      3
     ],
     [
-      "Gettel Automotive Group",
+      "Ryan Buick GMC Cadillac",
       2
     ],
     [
@@ -96,19 +88,15 @@
       2
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Gettel Automotive Group",
       2
     ],
     [
-      "World Car Auto Group",
-      1
+      "Blasius South",
+      2
     ],
     [
-      "Puente Hills Mitsubishi",
-      1
-    ],
-    [
-      "Great Lakes Auto Group",
+      "Starling Chevrolet",
       1
     ],
     [
@@ -116,7 +104,23 @@
       1
     ],
     [
-      "Starling Chevrolet",
+      "Puente Hills Mitsubishi",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Great Lakes Auto Group",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
       1
     ],
     [
@@ -125,10 +129,6 @@
     ],
     [
       "Northpoint Toyota _ Australia",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
       1
     ],
     [
