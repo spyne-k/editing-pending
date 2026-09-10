@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T16:55:19.304Z",
+  "fetchedAt": "2026-09-10T17:06:33.361Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      127
+      133
     ],
     [
       "Asbury Automotive Management L.L.C",
-      37
+      43
     ],
     [
       "Davidson Auto Group",
