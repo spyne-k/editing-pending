@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T20:13:04.759Z",
+  "fetchedAt": "2026-09-10T20:26:22.536Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,26 @@
   "rows": [
     [
       null,
-      181
+      176
     ],
     [
       "Asbury Automotive Management L.L.C",
       75
     ],
     [
-      "Car Central",
-      11
+      "Greenway Automotive Group",
+      9
     ],
     [
       "Van Horn Automotive Group",
       8
     ],
     [
-      "Greenway Automotive Group",
+      "Sansone Jr's Auto Group",
       6
     ],
     [
       "Olympic Hyundai Vancouver",
-      6
-    ],
-    [
-      "Sansone Jr's Auto Group",
       6
     ],
     [
@@ -56,7 +52,7 @@
       5
     ],
     [
-      "Starling Chevrolet",
+      "MyCar: Trucktown",
       4
     ],
     [
@@ -68,15 +64,27 @@
       4
     ],
     [
+      "Starling Chevrolet",
+      4
+    ],
+    [
+      "Rim Revolution LLC",
+      4
+    ],
+    [
       "Altawkilat",
       4
     ],
     [
-      "MyCar: Trucktown",
-      4
+      "Bud Clary Chevrolet, INC",
+      3
     ],
     [
       "DealerVision.com",
+      3
+    ],
+    [
+      "Autoplex 2000 and All Star Buick GMC truck",
       3
     ],
     [
@@ -88,14 +96,6 @@
       3
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Toronto Honda",
-      3
-    ],
-    [
       "Your Choice Auto LLC",
       2
     ],
@@ -104,23 +104,23 @@
       2
     ],
     [
-      "North Park Lincoln",
-      2
-    ],
-    [
       "Yemm Auto",
       2
     ],
     [
-      "Rohrich Automotive Group",
-      1
+      "Lee Group",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "North Park Lincoln",
+      2
     ],
     [
       "Wood Motor Company",
-      1
-    ],
-    [
-      "World Car Auto Group",
       1
     ],
     [
@@ -128,19 +128,7 @@
       1
     ],
     [
-      "McCurley Dealerships",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Bill Cole AutoMall Bluefield",
-      1
-    ],
-    [
-      "Northpoint Toyota _ Australia",
+      "World Car Auto Group",
       1
     ],
     [
@@ -148,11 +136,11 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Northpoint Toyota _ Australia",
       1
     ],
     [
