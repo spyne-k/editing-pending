@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T02:40:09.226Z",
+  "fetchedAt": "2026-09-10T02:52:06.244Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      292
+      297
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -32,12 +32,12 @@
       13
     ],
     [
-      "ZT Automotive",
+      "Jenkins Auto Group",
       12
     ],
     [
-      "Jenkins Auto Group",
-      11
+      "ZT Automotive",
+      12
     ],
     [
       "Icon Motors Group of Framingham",
@@ -72,6 +72,10 @@
       7
     ],
     [
+      "Elite Auto Marketing Solutions",
+      6
+    ],
+    [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
     ],
@@ -84,6 +88,10 @@
       6
     ],
     [
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
       "Speedway Car Sales",
       5
     ],
@@ -93,10 +101,6 @@
     ],
     [
       "Median Media LLC",
-      4
-    ],
-    [
-      "Elite Auto Marketing Solutions",
       4
     ],
     [
@@ -113,10 +117,6 @@
     ],
     [
       "Capital Chevrolet Inc.",
-      4
-    ],
-    [
-      "S&L Motors, Pulaski WI",
       4
     ],
     [
