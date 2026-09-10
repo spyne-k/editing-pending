@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T23:52:38.678Z",
+  "fetchedAt": "2026-09-10T00:02:35.608Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,15 @@
   "rows": [
     [
       null,
-      399
+      331
     ],
     [
       "Asbury Automotive Management L.L.C",
-      138
-    ],
-    [
-      "Greenway Automotive Group",
-      80
+      140
     ],
     [
       "Bergstrom Automotive",
-      24
+      27
     ],
     [
       "ZT Automotive",
@@ -64,10 +60,6 @@
       6
     ],
     [
-      "Speedway Car Sales",
-      5
-    ],
-    [
       "Performance Automotive Network",
       5
     ],
@@ -76,7 +68,11 @@
       5
     ],
     [
-      "Starling Auto Group",
+      "Speedway Car Sales",
+      5
+    ],
+    [
+      "Covert Auto Group",
       4
     ],
     [
@@ -88,23 +84,15 @@
       4
     ],
     [
-      "Covert Auto Group",
+      "Starling Auto Group",
       4
     ],
     [
-      "Teton solutions Group",
+      "Bob King",
       3
     ],
     [
       "Audi Cape Fear",
-      3
-    ],
-    [
-      "Renny Bettan",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -116,6 +104,22 @@
       3
     ],
     [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      3
+    ],
+    [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
+      "Renny Bettan",
+      3
+    ],
+    [
       "H&K Chevrolet Family Auto",
       3
     ],
@@ -124,7 +128,7 @@
       2
     ],
     [
-      "Victory Automotive Group",
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
@@ -136,15 +140,11 @@
       2
     ],
     [
-      "Davidson Auto Group",
-      1
+      "Victory Automotive Group",
+      2
     ],
     [
-      "Wallingford Auto Park, Inc.",
-      1
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
@@ -152,11 +152,15 @@
       1
     ],
     [
-      "Capital Chevrolet Inc.",
+      "DealerVision.com",
       1
     ],
     [
-      "World Car Auto Group",
+      "Pritchard Companies",
+      1
+    ],
+    [
+      "Wallingford Auto Park, Inc.",
       1
     ],
     [
@@ -164,11 +168,11 @@
       1
     ],
     [
-      "DealerVision.com",
+      "Louyet Re-used",
       1
     ],
     [
-      "Louyet Re-used",
+      "World Car Auto Group",
       1
     ],
     [
@@ -184,7 +188,7 @@
       1
     ],
     [
-      "Bob King",
+      "Davidson Auto Group",
       1
     ]
   ]
