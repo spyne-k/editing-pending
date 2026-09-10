@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T23:31:15.914Z",
+  "fetchedAt": "2026-09-10T23:41:18.048Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      305
+      302
     ],
     [
       "Asbury Automotive Management L.L.C",
-      103
-    ],
-    [
-      "Yoder Family of Companies",
-      18
+      105
     ],
     [
       "Preston Motor Automotive Group",
@@ -36,11 +32,19 @@
       11
     ],
     [
-      "Olympic Hyundai Vancouver",
-      7
+      "Volvo of Princeton Inc",
+      8
+    ],
+    [
+      "Apex Automotive Group",
+      8
     ],
     [
       "Your Choice Auto LLC",
+      8
+    ],
+    [
+      "Olympic Hyundai Vancouver",
       7
     ],
     [
@@ -68,14 +72,6 @@
       5
     ],
     [
-      "Bergstrom Automotive",
-      4
-    ],
-    [
-      "Rim Revolution LLC",
-      4
-    ],
-    [
       "Moses Auto Group",
       4
     ],
@@ -84,7 +80,15 @@
       4
     ],
     [
+      "Bergstrom Automotive",
+      4
+    ],
+    [
       "MyCar: Trucktown",
+      4
+    ],
+    [
+      "Rim Revolution LLC",
       4
     ],
     [
@@ -92,19 +96,11 @@
       4
     ],
     [
-      "Volvo of Princeton Inc",
-      4
-    ],
-    [
-      "Apex Automotive Group",
-      4
-    ],
-    [
       "Starling Chevrolet",
       3
     ],
     [
-      "Kian Motors INC",
+      "North Park Lincoln",
       3
     ],
     [
@@ -112,23 +108,19 @@
       3
     ],
     [
-      "McCurley Dealerships",
-      3
-    ],
-    [
       "Bob Johnson Automotive Group",
       3
     ],
     [
-      "Jenkins Auto Group",
+      "MP auto Sales LLC DBA Carizona",
       3
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "McCurley Dealerships",
       3
     ],
     [
-      "North Park Lincoln",
+      "Flexcar",
       3
     ],
     [
@@ -140,27 +132,23 @@
       3
     ],
     [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Kian Motors INC",
+      3
+    ],
+    [
       "Auto Reum",
       3
     ],
     [
-      "Flexcar",
-      3
-    ],
-    [
-      "Lockwood Motors, Inc.",
+      "Davidson Auto Group",
       2
     ],
     [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "greenway auto group 2",
-      2
-    ],
-    [
-      "McLeod Auto Sales",
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -168,7 +156,7 @@
       2
     ],
     [
-      "Brandon Steven Motors",
+      "greenway auto group 2",
       2
     ],
     [
@@ -176,7 +164,11 @@
       2
     ],
     [
-      "Toronto Honda",
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -184,27 +176,23 @@
       2
     ],
     [
-      "Performance Auto Group",
-      1
+      "Olson Chevrolet",
+      2
     ],
     [
-      "Wharton Ford",
-      1
+      "Lockwood Motors, Inc.",
+      2
     ],
     [
-      "Kempton Chevrolet",
-      1
+      "Toronto Honda",
+      2
     ],
     [
-      "Mondial car Sarl",
-      1
+      "McLeod Auto Sales",
+      2
     ],
     [
-      "Janssen Kuenle CDJR",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
+      "Speedway Car Sales",
       1
     ],
     [
@@ -212,15 +200,31 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Janssen Kuenle CDJR",
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "EV Car Company",
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Eastern Digital",
+      1
+    ],
+    [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Wharton Ford",
+      1
+    ],
+    [
+      "Performance Auto Group",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -228,7 +232,7 @@
       1
     ],
     [
-      "EV Car Company",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -244,15 +248,11 @@
       1
     ],
     [
-      "Eastern Digital",
-      1
-    ],
-    [
-      "Moffitt's Ford",
-      1
-    ],
-    [
       "Car Castle",
+      1
+    ],
+    [
+      "Mondial car Sarl",
       1
     ],
     [
@@ -268,11 +268,7 @@
       1
     ],
     [
-      "Bob King",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Kempton Chevrolet",
       1
     ],
     [
@@ -280,7 +276,11 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "Moffitt's Ford",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
       1
     ]
   ]
