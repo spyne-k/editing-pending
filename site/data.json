@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T16:04:40.372Z",
+  "fetchedAt": "2026-09-10T16:20:47.874Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -21,7 +21,7 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      20
+      28
     ],
     [
       "Bergstrom Automotive",
@@ -44,10 +44,6 @@
       5
     ],
     [
-      "Moses Auto Group",
-      4
-    ],
-    [
       "ZT Automotive",
       4
     ],
@@ -60,23 +56,19 @@
       4
     ],
     [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
       "Jenkins Auto Group",
       4
     ],
     [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
-      "The Used Car Guys GMBH",
+      "S&L Motors, Pulaski WI",
       3
     ],
     [
       "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Bob Johnson Automotive Group",
       3
     ],
     [
@@ -92,11 +84,15 @@
       2
     ],
     [
-      "Blasius South",
-      2
+      "World Car Auto Group",
+      1
     ],
     [
       "Starling Chevrolet",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
@@ -105,10 +101,6 @@
     ],
     [
       "Puente Hills Mitsubishi",
-      1
-    ],
-    [
-      "World Car Auto Group",
       1
     ],
     [
@@ -133,6 +125,10 @@
     ],
     [
       "North Park Lincoln",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ],
     [
