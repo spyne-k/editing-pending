@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T19:31:25.746Z",
+  "fetchedAt": "2026-09-10T19:42:16.437Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,15 @@
   "rows": [
     [
       null,
-      191
+      188
     ],
     [
       "Asbury Automotive Management L.L.C",
-      73
-    ],
-    [
-      "Gettel Automotive Group",
-      10
+      74
     ],
     [
       "Russ Darrow Group, Inc.",
-      9
+      12
     ],
     [
       "Van Horn Automotive Group",
@@ -64,14 +60,6 @@
       5
     ],
     [
-      "Starling Chevrolet",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
       "ZT Automotive",
       4
     ],
@@ -84,7 +72,15 @@
       4
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Jenkins Auto Group",
+      4
+    ],
+    [
+      "Starling Chevrolet",
+      4
+    ],
+    [
+      "Moses Auto Group",
       3
     ],
     [
@@ -92,8 +88,8 @@
       3
     ],
     [
-      "Flexcar",
-      2
+      "S&L Motors, Pulaski WI",
+      3
     ],
     [
       "greenway auto group 2",
@@ -104,11 +100,11 @@
       2
     ],
     [
-      "North Park Lincoln",
+      "Your Choice Auto LLC",
       2
     ],
     [
-      "Your Choice Auto LLC",
+      "North Park Lincoln",
       2
     ],
     [
@@ -116,19 +112,15 @@
       2
     ],
     [
-      "Moses Auto Group",
+      "Car Central",
       2
     ],
     [
-      "Rohrich Automotive Group",
-      1
+      "Flexcar",
+      2
     ],
     [
       "Speedway Car Sales",
-      1
-    ],
-    [
-      "Janssen Auto Group",
       1
     ],
     [
@@ -136,15 +128,27 @@
       1
     ],
     [
-      "Toronto Honda",
-      1
-    ],
-    [
       "World Car Auto Group",
       1
     ],
     [
+      "Janssen Auto Group",
+      1
+    ],
+    [
       "McCurley Dealerships",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Toronto Honda",
       1
     ],
     [
@@ -161,10 +165,6 @@
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
       1
     ],
     [
