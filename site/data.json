@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T09:48:30.179Z",
+  "fetchedAt": "2026-09-10T09:57:49.114Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      173
+      167
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -36,23 +36,11 @@
       9
     ],
     [
-      "Russ Darrow Group, Inc.",
-      7
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
-      "Gettel Automotive Group",
       6
     ],
     [
@@ -64,15 +52,23 @@
       6
     ],
     [
+      "Gettel Automotive Group",
+      6
+    ],
+    [
       "Capital Chevrolet Inc.",
       6
     ],
     [
-      "Performance Automotive Network",
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
+      "Speedway Car Sales",
       5
     ],
     [
-      "Yemm Auto",
+      "Performance Automotive Network",
       5
     ],
     [
@@ -80,12 +76,16 @@
       5
     ],
     [
+      "Yemm Auto",
+      5
+    ],
+    [
       "Graff Auto Campus",
       5
     ],
     [
-      "Speedway Car Sales",
-      5
+      "Impex Auto Sales",
+      4
     ],
     [
       "Altawkilat",
@@ -100,15 +100,11 @@
       4
     ],
     [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
       "Rohrich Automotive Group",
       4
     ],
     [
-      "Impex Auto Sales",
+      "Giant Auto Warehouse",
       4
     ],
     [
@@ -116,7 +112,7 @@
       4
     ],
     [
-      "Apex Automotive Group",
+      "Flexcar",
       3
     ],
     [
@@ -124,11 +120,11 @@
       3
     ],
     [
-      "Faircy Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
-      "Flexcar",
+      "Faircy Automotive",
       3
     ],
     [
@@ -144,19 +140,19 @@
       1
     ],
     [
-      "Starling Auto Group",
-      1
-    ],
-    [
-      "INERCIKAR SA",
-      1
-    ],
-    [
       "Teton solutions Group",
       1
     ],
     [
+      "Starling Auto Group",
+      1
+    ],
+    [
       "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Yoder Family of Companies",
       1
     ],
     [
@@ -168,6 +164,10 @@
       1
     ],
     [
+      "INERCIKAR SA",
+      1
+    ],
+    [
       "Bob Johnson Automotive Group",
       1
     ],
@@ -176,7 +176,7 @@
       1
     ],
     [
-      "Yoder Family of Companies",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
