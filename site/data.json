@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T05:30:43.088Z",
+  "fetchedAt": "2026-09-10T05:44:13.995Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      345
+      354
     ],
     [
       "Yoder Family of Companies",
@@ -28,31 +28,31 @@
       23
     ],
     [
-      "Amato Hyundai Of Glendale",
+      "Asbury Automotive Management L.L.C",
       17
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      15
+      "Amato Hyundai Of Glendale",
+      17
     ],
     [
       "Yemm Auto",
       15
     ],
     [
+      "Preston Motor Automotive Group",
+      14
+    ],
+    [
       "Bud Clary Chevrolet, INC",
       13
     ],
     [
-      "Jenkins Auto Group",
-      12
-    ],
-    [
-      "Preston Motor Automotive Group",
-      12
-    ],
-    [
       "Russ Darrow Group, Inc.",
+      12
+    ],
+    [
+      "Jenkins Auto Group",
       12
     ],
     [
@@ -68,15 +68,15 @@
       10
     ],
     [
+      "Brandon Steven Motors",
+      8
+    ],
+    [
       " Joshua Tree Chrysler Dodge Jeep Ram",
       8
     ],
     [
       "Wiz Leasing Inc",
-      7
-    ],
-    [
-      "Brandon Steven Motors",
       7
     ],
     [
@@ -96,23 +96,23 @@
       6
     ],
     [
-      "Performance Automotive Network",
-      5
-    ],
-    [
-      "Speedway Car Sales",
-      5
-    ],
-    [
       "Graff Auto Campus",
       5
     ],
     [
-      "Impex Auto Sales",
+      "Performance Automotive Network",
+      5
+    ],
+    [
+      "Car Central",
+      5
+    ],
+    [
+      "Jim Schmidt Automotive",
       4
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Starling Auto Group",
       4
     ],
     [
@@ -120,11 +120,7 @@
       4
     ],
     [
-      "Jim Schmidt Automotive",
-      4
-    ],
-    [
-      "Covert Auto Group",
+      "Capital Chevrolet Inc.",
       4
     ],
     [
@@ -132,7 +128,11 @@
       4
     ],
     [
-      "Starling Auto Group",
+      "Impex Auto Sales",
+      4
+    ],
+    [
+      "Covert Auto Group",
       4
     ],
     [
@@ -141,6 +141,10 @@
     ],
     [
       "Gettel Automotive Group",
+      3
+    ],
+    [
+      "Speedway Car Sales",
       3
     ],
     [
@@ -156,10 +160,6 @@
       3
     ],
     [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
       "Audi Cape Fear",
       3
     ],
@@ -169,6 +169,14 @@
     ],
     [
       "Moses Auto Group",
+      3
+    ],
+    [
+      "Haldeman Lexus of Princeton",
+      3
+    ],
+    [
+      "Blasius Buick GMC",
       3
     ],
     [
@@ -185,10 +193,6 @@
     ],
     [
       "Faircy Automotive",
-      2
-    ],
-    [
-      "Blasius Buick GMC",
       2
     ],
     [
