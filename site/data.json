@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T19:11:55.701Z",
+  "fetchedAt": "2026-09-10T19:22:48.044Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,19 @@
   "rows": [
     [
       null,
-      183
+      191
     ],
     [
       "Asbury Automotive Management L.L.C",
-      70
+      71
     ],
     [
       "Gettel Automotive Group",
       10
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      8
     ],
     [
       "Van Horn Automotive Group",
@@ -44,12 +48,12 @@
       6
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Sansone Jr's Auto Group",
       6
     ],
     [
-      "Sansone Jr's Auto Group",
-      6
+      "Bob Johnson Automotive Group",
+      5
     ],
     [
       "Performance Automotive Network",
@@ -64,6 +68,10 @@
       5
     ],
     [
+      "Starling Chevrolet",
+      4
+    ],
+    [
       "ZT Automotive",
       4
     ],
@@ -72,15 +80,11 @@
       4
     ],
     [
-      "MyCar: Trucktown",
-      4
-    ],
-    [
       "Jenkins Auto Group",
       4
     ],
     [
-      "Starling Chevrolet",
+      "MyCar: Trucktown",
       4
     ],
     [
@@ -88,15 +92,11 @@
       3
     ],
     [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
-      "greenway auto group 2",
+      "Flexcar",
       2
     ],
     [
-      "Roanoke Motors Inc",
+      "Moses Auto Group",
       2
     ],
     [
@@ -108,27 +108,15 @@
       2
     ],
     [
-      "Flexcar",
+      "greenway auto group 2",
       2
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      1
+      "Roanoke Motors Inc",
+      2
     ],
     [
-      "Janssen Auto Group",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "McCurley Dealerships",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
+      "North Park Lincoln",
       1
     ],
     [
@@ -136,7 +124,19 @@
       1
     ],
     [
-      "North Park Lincoln",
+      "Janssen Auto Group",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -148,11 +148,19 @@
       1
     ],
     [
+      "World Car Auto Group",
+      1
+    ],
+    [
       "Icon Motors Group of Framingham",
       1
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
