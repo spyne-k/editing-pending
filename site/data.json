@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T22:17:47.799Z",
+  "fetchedAt": "2026-09-10T22:30:37.892Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -21,18 +21,14 @@
     ],
     [
       "Asbury Automotive Management L.L.C",
-      80
-    ],
-    [
-      "DealerVision.com",
-      13
+      85
     ],
     [
       "Van Horn Automotive Group",
       11
     ],
     [
-      "Greenway Automotive Group",
+      "Yoder Family of Companies",
       10
     ],
     [
@@ -44,6 +40,10 @@
       7
     ],
     [
+      "Russ Darrow Group, Inc.",
+      6
+    ],
+    [
       "Performance Automotive Network",
       6
     ],
@@ -52,12 +52,8 @@
       6
     ],
     [
-      "Russ Darrow Group, Inc.",
-      6
-    ],
-    [
       "S&L Motors, Pulaski WI",
-      5
+      6
     ],
     [
       "Starling Auto Group",
@@ -66,10 +62,6 @@
     [
       "Charlie Clark Hyundai",
       5
-    ],
-    [
-      "Alliance Cars Limited",
-      4
     ],
     [
       "Moses Auto Group",
@@ -88,11 +80,11 @@
       4
     ],
     [
-      "C.A. Larsen Automobiler A/S",
-      3
+      "Alliance Cars Limited",
+      4
     ],
     [
-      "World Car Auto Group",
+      "Starling Chevrolet",
       3
     ],
     [
@@ -100,7 +92,11 @@
       3
     ],
     [
-      "Blasius Buick GMC",
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Bob Johnson Automotive Group",
       3
     ],
     [
@@ -112,39 +108,23 @@
       3
     ],
     [
-      "Bob Johnson Automotive Group",
+      "C.A. Larsen Automobiler A/S",
       3
     ],
     [
-      "Starling Chevrolet",
+      "Blasius Buick GMC",
       3
-    ],
-    [
-      "greenway auto group 2",
-      2
     ],
     [
       "Expert Auto Group",
       2
     ],
     [
-      "Olson Chevrolet",
+      "McLeod Auto Sales",
       2
     ],
     [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Lee Group",
+      "Jenkins Auto Group",
       2
     ],
     [
@@ -152,11 +132,43 @@
       2
     ],
     [
-      "Speedway Car Sales",
-      1
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "greenway auto group 2",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      2
+    ],
+    [
+      "Lee Group",
+      2
     ],
     [
       "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
@@ -172,7 +184,7 @@
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Toronto Honda",
       1
     ],
     [
@@ -188,7 +200,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "4 Season Motors LLC",
       1
     ],
     [
@@ -196,15 +208,15 @@
       1
     ],
     [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Kempton Chevrolet",
-      1
-    ],
-    [
       "EV Car Company",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Car Castle",
       1
     ],
     [
@@ -220,16 +232,20 @@
       1
     ],
     [
-      "4 Season Motors LLC",
-      1
-    ],
-    [
-      "Car Castle",
-      1
-    ],
-    [
       "Bob King",
       1
+    ],
+    [
+      "Kempton Chevrolet",
+      1
+    ],
+    [
+      "MEI Inc",
+      1
+    ],
+    [
+      "LUXURY IMPORTS",
+      0
     ]
   ]
 }
