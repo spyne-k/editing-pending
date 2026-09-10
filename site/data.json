@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T12:59:56.603Z",
+  "fetchedAt": "2026-09-10T13:16:54.139Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      93
+      103
     ],
     [
       "Rawian Oy",
-      16
+      26
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
+      "Asbury Automotive Management L.L.C",
+      7
     ],
     [
       "S&L Motors, Pulaski WI",
@@ -36,20 +36,16 @@
       6
     ],
     [
-      "Pritchard Companies",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
-    ],
-    [
-      "Performance Automotive Network",
-      5
     ],
     [
       "Yemm Auto",
       5
     ],
     [
-      "Moses Auto Group",
-      4
+      "Performance Automotive Network",
+      5
     ],
     [
       "Altawkilat",
@@ -61,6 +57,10 @@
     ],
     [
       "Median Media LLC",
+      4
+    ],
+    [
+      "Moses Auto Group",
       4
     ],
     [
@@ -76,7 +76,7 @@
       3
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Bob Johnson Automotive Group",
       3
     ],
     [
@@ -92,15 +92,7 @@
       2
     ],
     [
-      "Starling Chevrolet",
-      1
-    ],
-    [
-      "Great Lakes Auto Group",
-      1
-    ],
-    [
-      "Starling Auto Group",
+      "Lee Group",
       1
     ],
     [
@@ -108,11 +100,15 @@
       1
     ],
     [
-      "Lee Group",
+      "Starling Chevrolet",
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Starling Auto Group",
+      1
+    ],
+    [
+      "Great Lakes Auto Group",
       1
     ],
     [
