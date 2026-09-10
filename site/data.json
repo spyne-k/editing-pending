@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T13:16:54.139Z",
+  "fetchedAt": "2026-09-10T13:30:17.550Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,18 @@
   "rows": [
     [
       null,
-      103
+      119
     ],
     [
       "Rawian Oy",
-      26
+      38
     ],
     [
       "Asbury Automotive Management L.L.C",
-      7
+      8
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
@@ -36,16 +36,20 @@
       6
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "S&L Motors, Pulaski WI",
       6
+    ],
+    [
+      "Performance Automotive Network",
+      5
     ],
     [
       "Yemm Auto",
       5
     ],
     [
-      "Performance Automotive Network",
-      5
+      "Moses Auto Group",
+      4
     ],
     [
       "Altawkilat",
@@ -60,10 +64,6 @@
       4
     ],
     [
-      "Moses Auto Group",
-      4
-    ],
-    [
       "Giant Auto Warehouse",
       4
     ],
@@ -72,15 +72,15 @@
       4
     ],
     [
+      "Flexcar",
+      3
+    ],
+    [
       "Bud Clary Chevrolet, INC",
       3
     ],
     [
       "Bob Johnson Automotive Group",
-      3
-    ],
-    [
-      "Flexcar",
       3
     ],
     [
@@ -92,15 +92,11 @@
       2
     ],
     [
-      "Lee Group",
-      1
+      "Graff Auto Campus",
+      2
     ],
     [
-      "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
-      "Starling Chevrolet",
+      "World Car Auto Group",
       1
     ],
     [
@@ -109,6 +105,18 @@
     ],
     [
       "Great Lakes Auto Group",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Lee Group",
+      1
+    ],
+    [
+      "Starling Chevrolet",
       1
     ],
     [
