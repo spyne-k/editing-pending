@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T14:06:17.394Z",
+  "fetchedAt": "2026-09-10T14:21:50.527Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      85
+      94
     ],
     [
       "Asbury Automotive Management L.L.C",
-      16
+      23
     ],
     [
       "Bergstrom Automotive",
@@ -32,11 +32,15 @@
       6
     ],
     [
+      "Yemm Auto",
+      5
+    ],
+    [
       "Performance Automotive Network",
       5
     ],
     [
-      "Yemm Auto",
+      "Graff Auto Campus",
       5
     ],
     [
@@ -64,7 +68,7 @@
       4
     ],
     [
-      "Flexcar",
+      "Bob Johnson Automotive Group",
       3
     ],
     [
@@ -72,20 +76,12 @@
       3
     ],
     [
-      "Graff Auto Campus",
-      3
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
       "Russ Darrow Group, Inc.",
       2
     ],
     [
-      "Capital Chevrolet Inc.",
-      2
+      "Starling Chevrolet",
+      1
     ],
     [
       "World Car Auto Group",
@@ -93,6 +89,10 @@
     ],
     [
       "Starling Auto Group",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -104,11 +104,23 @@
       1
     ],
     [
+      "Enkae Prestige Motors Ltd",
+      1
+    ],
+    [
+      "Sell Em All Motors",
+      1
+    ],
+    [
       "Northpoint Toyota _ Australia",
       1
     ],
     [
-      "Starling Chevrolet",
+      "Jenkins Auto Group",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
