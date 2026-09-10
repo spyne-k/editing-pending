@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T07:15:51.682Z",
+  "fetchedAt": "2026-09-10T07:31:35.162Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      281
-    ],
-    [
-      "Yoder Family of Companies",
-      46
+      264
     ],
     [
       "Asbury Automotive Management L.L.C",
-      21
+      41
     ],
     [
       "Preston Motor Automotive Group",
@@ -36,12 +32,16 @@
       13
     ],
     [
+      "Russ Darrow Group, Inc.",
+      12
+    ],
+    [
       "Jenkins Auto Group",
       12
     ],
     [
-      "Russ Darrow Group, Inc.",
-      12
+      "Charlie Clark Hyundai",
+      11
     ],
     [
       "Icon Motors Group of Framingham",
@@ -52,35 +52,15 @@
       10
     ],
     [
-      "Charlie Clark Hyundai",
-      7
-    ],
-    [
       "Wiz Leasing Inc",
       7
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
-      "Blasius Buick GMC",
-      6
-    ],
-    [
-      "Pritchard Companies",
-      6
     ],
     [
       "Capital Chevrolet Inc.",
       6
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
@@ -88,11 +68,23 @@
       6
     ],
     [
-      "Performance Automotive Network",
-      5
+      "Blasius Buick GMC",
+      6
     ],
     [
-      "Car Central",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
+    ],
+    [
+      "Pritchard Companies",
+      6
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
+      "Performance Automotive Network",
       5
     ],
     [
@@ -100,27 +92,15 @@
       5
     ],
     [
+      "Car Central",
+      5
+    ],
+    [
       "Speedway Car Sales",
       5
     ],
     [
-      "Covert Auto Group",
-      4
-    ],
-    [
-      "Cornhusker Auto Center",
-      4
-    ],
-    [
-      "Jim Schmidt Automotive",
-      4
-    ],
-    [
-      "Starling Auto Group",
-      4
-    ],
-    [
-      "Rohrich Automotive Group",
+      "Altawkilat",
       4
     ],
     [
@@ -128,23 +108,35 @@
       4
     ],
     [
-      "Altawkilat",
+      "Giant Auto Warehouse",
       4
     ],
     [
-      "Greenway Automotive Group",
-      3
+      "Rohrich Automotive Group",
+      4
     ],
     [
-      "Bob King",
-      3
+      "Cornhusker Auto Center",
+      4
+    ],
+    [
+      "Impex Auto Sales",
+      4
+    ],
+    [
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Jim Schmidt Automotive",
+      4
     ],
     [
       "Teton solutions Group",
-      3
-    ],
-    [
-      "Faircy Automotive",
       3
     ],
     [
@@ -152,19 +144,23 @@
       3
     ],
     [
-      "Moses Auto Group",
+      "Bob King",
       3
     ],
     [
-      "Quantrell Auto Group",
-      2
+      "Greenway Automotive Group",
+      3
+    ],
+    [
+      "Faircy Automotive",
+      3
     ],
     [
       "Hondru Auto Group(US)",
       2
     ],
     [
-      "Ideal Cars",
+      "Quantrell Auto Group",
       2
     ],
     [
@@ -172,23 +168,11 @@
       2
     ],
     [
-      "World Car Auto Group",
-      1
+      "Ideal Cars",
+      2
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
-      "Butler Lexus of South Atlanta",
-      1
-    ],
-    [
-      "Impex Auto Sales",
       1
     ],
     [
@@ -196,7 +180,23 @@
       1
     ],
     [
+      "World Car Auto Group",
+      1
+    ],
+    [
       "Beadle Ford, INC.",
+      1
+    ],
+    [
+      "Butler Lexus of South Atlanta",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Keffer Inc.",
       1
     ],
     [
