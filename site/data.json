@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T03:00:55.572Z",
+  "fetchedAt": "2026-09-10T03:18:39.570Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      315
+      308
     ],
     [
       "Asbury Automotive Management L.L.C",
-      56
+      59
     ],
     [
       "Yemm Auto",
@@ -29,7 +29,7 @@
     ],
     [
       "Van Horn Automotive Group",
-      13
+      14
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -37,6 +37,10 @@
     ],
     [
       "Jenkins Auto Group",
+      12
+    ],
+    [
+      "Preston Motor Automotive Group",
       12
     ],
     [
@@ -48,20 +52,12 @@
       11
     ],
     [
-      "Preston Motor Automotive Group",
-      11
-    ],
-    [
-      "Olson Chevrolet",
-      10
-    ],
-    [
       "Yoder Family of Companies",
       10
     ],
     [
-      "Greenway Automotive Group",
-      9
+      "Olson Chevrolet",
+      10
     ],
     [
       " Joshua Tree Chrysler Dodge Jeep Ram",
@@ -76,19 +72,19 @@
       7
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
       "Elite Auto Marketing Solutions",
       6
     ],
     [
-      "Pritchard Companies",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
     ],
     [
       "Russ Darrow Group, Inc.",
+      6
+    ],
+    [
+      "Pritchard Companies",
       6
     ],
     [
@@ -128,31 +124,7 @@
       4
     ],
     [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Auto X-Change Inc",
-      3
-    ],
-    [
-      "Charlie Clark Hyundai",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Audi Cape Fear",
+      "Renny Bettan",
       3
     ],
     [
@@ -160,7 +132,27 @@
       3
     ],
     [
-      "Renny Bettan",
+      "Auto X-Change Inc",
+      3
+    ],
+    [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Haldeman Lexus of Princeton",
+      3
+    ],
+    [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Moses Auto Group",
       3
     ],
     [
@@ -170,6 +162,10 @@
     [
       "H&K Chevrolet Family Auto",
       3
+    ],
+    [
+      "Ideal Cars",
+      2
     ],
     [
       "Quantrell Auto Group",
@@ -192,11 +188,7 @@
       2
     ],
     [
-      "Ideal Cars",
-      2
-    ],
-    [
-      "ROCHESTER VOLKSWAGEN",
+      "Louyet Re-used",
       1
     ],
     [
@@ -208,11 +200,11 @@
       1
     ],
     [
-      "RBM Automotive Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "RBM Automotive Group",
       1
     ],
     [
@@ -220,11 +212,11 @@
       1
     ],
     [
-      "Louyet Re-used",
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
-      "Davidson Auto Group",
+      "ROCHESTER VOLKSWAGEN",
       1
     ],
     [
@@ -232,7 +224,7 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Davidson Auto Group",
       1
     ],
     [
