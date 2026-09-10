@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T08:54:28.460Z",
+  "fetchedAt": "2026-09-10T09:05:24.976Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      202
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      32
+      170
     ],
     [
       "Bob Johnson Automotive Group",
@@ -40,7 +36,7 @@
       9
     ],
     [
-      "Gettel Automotive Group",
+      "S&L Motors, Pulaski WI",
       6
     ],
     [
@@ -48,7 +44,7 @@
       6
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Capital Chevrolet Inc.",
       6
     ],
     [
@@ -56,23 +52,23 @@
       6
     ],
     [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
+    ],
+    [
+      "Gettel Automotive Group",
+      6
+    ],
+    [
       "Pritchard Companies",
       6
     ],
     [
-      "Capital Chevrolet Inc.",
-      6
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
-      "Performance Automotive Network",
+      "Car Central",
       5
     ],
     [
-      "Car Central",
+      "Performance Automotive Network",
       5
     ],
     [
@@ -80,35 +76,15 @@
       5
     ],
     [
-      "Speedway Car Sales",
-      5
-    ],
-    [
       "Graff Auto Campus",
       5
     ],
     [
-      "Covert Auto Group",
-      4
+      "Speedway Car Sales",
+      5
     ],
     [
-      "Impex Auto Sales",
-      4
-    ],
-    [
-      "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Giant Auto Warehouse",
-      4
-    ],
-    [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Jim Schmidt Automotive",
+      "Altawkilat",
       4
     ],
     [
@@ -116,11 +92,35 @@
       4
     ],
     [
-      "Altawkilat",
+      "Median Media LLC",
+      4
+    ],
+    [
+      "Rohrich Automotive Group",
+      4
+    ],
+    [
+      "Impex Auto Sales",
+      4
+    ],
+    [
+      "Jim Schmidt Automotive",
+      4
+    ],
+    [
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Giant Auto Warehouse",
       4
     ],
     [
       "Greenway Automotive Group",
+      3
+    ],
+    [
+      "Flexcar",
       3
     ],
     [
@@ -132,11 +132,11 @@
       3
     ],
     [
-      "Faircy Automotive",
+      "Apex Automotive Group",
       3
     ],
     [
-      "Flexcar",
+      "Faircy Automotive",
       3
     ],
     [
@@ -144,19 +144,15 @@
       3
     ],
     [
-      "Apex Automotive Group",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      1
-    ],
-    [
       "World Car Auto Group",
       1
     ],
     [
-      "Louyet Re-used",
+      "Beadle Ford, INC.",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -164,11 +160,11 @@
       1
     ],
     [
-      "Moses Auto Group",
+      "Louyet Re-used",
       1
     ],
     [
-      "Beadle Ford, INC.",
+      "Moses Auto Group",
       1
     ],
     [
@@ -177,10 +173,6 @@
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
       1
     ],
     [
