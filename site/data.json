@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T22:30:37.892Z",
+  "fetchedAt": "2026-09-10T22:41:29.112Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,31 +17,31 @@
   "rows": [
     [
       null,
-      243
+      270
     ],
     [
       "Asbury Automotive Management L.L.C",
-      85
-    ],
-    [
-      "Van Horn Automotive Group",
-      11
+      87
     ],
     [
       "Yoder Family of Companies",
-      10
+      18
+    ],
+    [
+      "Van Horn Automotive Group",
+      13
     ],
     [
       "NorthTown Automotive",
       9
     ],
     [
-      "Olympic Hyundai Vancouver",
+      "Russ Darrow Group, Inc.",
       7
     ],
     [
-      "Russ Darrow Group, Inc.",
-      6
+      "Olympic Hyundai Vancouver",
+      7
     ],
     [
       "Performance Automotive Network",
@@ -49,6 +49,10 @@
     ],
     [
       "Sansone Jr's Auto Group",
+      6
+    ],
+    [
+      "LUXURY IMPORTS",
       6
     ],
     [
@@ -80,15 +84,15 @@
       4
     ],
     [
+      "Apex Automotive Group",
+      4
+    ],
+    [
       "Alliance Cars Limited",
       4
     ],
     [
       "Starling Chevrolet",
-      3
-    ],
-    [
-      "Capital Chevrolet Inc.",
       3
     ],
     [
@@ -112,8 +116,20 @@
       3
     ],
     [
+      "Wood Motor Company",
+      3
+    ],
+    [
       "Blasius Buick GMC",
       3
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      3
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      2
     ],
     [
       "Expert Auto Group",
@@ -136,7 +152,7 @@
       2
     ],
     [
-      "Olson Chevrolet",
+      "MEI Inc",
       2
     ],
     [
@@ -144,15 +160,11 @@
       2
     ],
     [
+      "Olson Chevrolet",
+      2
+    ],
+    [
       "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Lockwood Motors, Inc.",
       2
     ],
     [
@@ -164,7 +176,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "EV Car Company",
       1
     ],
     [
@@ -184,7 +196,7 @@
       1
     ],
     [
-      "Toronto Honda",
+      "Davidson Auto Group",
       1
     ],
     [
@@ -200,7 +212,11 @@
       1
     ],
     [
-      "4 Season Motors LLC",
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
       1
     ],
     [
@@ -208,15 +224,15 @@
       1
     ],
     [
-      "EV Car Company",
-      1
-    ],
-    [
-      "Speedway Car Sales",
+      "4 Season Motors LLC",
       1
     ],
     [
       "Car Castle",
+      1
+    ],
+    [
+      "Bob King",
       1
     ],
     [
@@ -232,7 +248,7 @@
       1
     ],
     [
-      "Bob King",
+      "Speedway Car Sales",
       1
     ],
     [
@@ -240,12 +256,8 @@
       1
     ],
     [
-      "MEI Inc",
+      "Flexcar",
       1
-    ],
-    [
-      "LUXURY IMPORTS",
-      0
     ]
   ]
 }
