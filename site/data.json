@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T05:44:13.995Z",
+  "fetchedAt": "2026-09-10T05:54:17.563Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      354
+      349
     ],
     [
       "Yoder Family of Companies",
@@ -48,11 +48,11 @@
       13
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Jenkins Auto Group",
       12
     ],
     [
-      "Jenkins Auto Group",
+      "Russ Darrow Group, Inc.",
       12
     ],
     [
@@ -64,24 +64,16 @@
       10
     ],
     [
-      "DealerVision.com",
-      10
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      8
     ],
     [
       "Brandon Steven Motors",
       8
     ],
     [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
-      8
-    ],
-    [
       "Wiz Leasing Inc",
       7
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      6
     ],
     [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
@@ -92,8 +84,20 @@
       6
     ],
     [
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
+    ],
+    [
+      "Speedway Car Sales",
+      5
+    ],
+    [
+      "DealerVision.com",
+      5
     ],
     [
       "Graff Auto Campus",
@@ -104,8 +108,24 @@
       5
     ],
     [
+      "Blasius Buick GMC",
+      5
+    ],
+    [
       "Car Central",
       5
+    ],
+    [
+      "Rohrich Automotive Group",
+      4
+    ],
+    [
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      4
     ],
     [
       "Jim Schmidt Automotive",
@@ -113,14 +133,6 @@
     ],
     [
       "Starling Auto Group",
-      4
-    ],
-    [
-      "Cornhusker Auto Center",
-      4
-    ],
-    [
-      "Capital Chevrolet Inc.",
       4
     ],
     [
@@ -132,39 +144,11 @@
       4
     ],
     [
-      "Covert Auto Group",
+      "Cornhusker Auto Center",
       4
-    ],
-    [
-      "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
-      "Speedway Car Sales",
-      3
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      3
     ],
     [
       "Elite Auto Marketing Solutions",
-      3
-    ],
-    [
-      "Teton solutions Group",
-      3
-    ],
-    [
-      "Audi Cape Fear",
-      3
-    ],
-    [
-      "Renny Bettan",
       3
     ],
     [
@@ -176,7 +160,19 @@
       3
     ],
     [
-      "Blasius Buick GMC",
+      "Renny Bettan",
+      3
+    ],
+    [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
+      3
+    ],
+    [
+      "H&K Chevrolet Family Auto",
       3
     ],
     [
@@ -184,8 +180,12 @@
       3
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       3
+    ],
+    [
+      "Quantrell Auto Group",
+      2
     ],
     [
       "Hondru Auto Group(US)",
@@ -196,23 +196,27 @@
       2
     ],
     [
-      "Quantrell Auto Group",
-      2
-    ],
-    [
-      "Victory Automotive Group",
-      2
-    ],
-    [
       "Ideal Cars",
       2
+    ],
+    [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
       1
     ],
     [
-      "Starling Chevrolet",
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "Butler Lexus of South Atlanta",
       1
     ],
     [
@@ -221,14 +225,6 @@
     ],
     [
       "Beadle Ford, INC.",
-      1
-    ],
-    [
-      "Butler Lexus of South Atlanta",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
       1
     ],
     [
