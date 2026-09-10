@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T18:36:07.965Z",
+  "fetchedAt": "2026-09-10T18:49:54.372Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      168
+      162
     ],
     [
       "Asbury Automotive Management L.L.C",
-      54
+      57
     ],
     [
       "Gettel Automotive Group",
@@ -37,10 +37,6 @@
     ],
     [
       "Olympic Hyundai Vancouver",
-      6
-    ],
-    [
-      "Davidson Auto Group",
       6
     ],
     [
@@ -72,19 +68,19 @@
       4
     ],
     [
-      "Rawian Oy",
-      4
-    ],
-    [
       "Jenkins Auto Group",
       4
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Starling Chevrolet",
+      4
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       3
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Bob Johnson Automotive Group",
       3
     ],
     [
@@ -92,12 +88,8 @@
       3
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Bud Clary Chevrolet, INC",
       3
-    ],
-    [
-      "Flexcar",
-      2
     ],
     [
       "greenway auto group 2",
@@ -116,11 +108,11 @@
       2
     ],
     [
-      "KAR Auto Group",
+      "Yemm Auto",
       2
     ],
     [
-      "Yemm Auto",
+      "Flexcar",
       2
     ],
     [
@@ -161,10 +153,6 @@
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Starling Chevrolet",
       1
     ],
     [
