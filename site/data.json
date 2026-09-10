@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T19:42:16.437Z",
+  "fetchedAt": "2026-09-10T19:50:37.830Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      188
+      197
     ],
     [
       "Asbury Automotive Management L.L.C",
-      74
+      77
     ],
     [
       "Russ Darrow Group, Inc.",
@@ -48,6 +48,10 @@
       5
     ],
     [
+      "Car Central",
+      5
+    ],
+    [
       "Performance Automotive Network",
       5
     ],
@@ -58,6 +62,14 @@
     [
       "Starling Auto Group",
       5
+    ],
+    [
+      "Starling Chevrolet",
+      4
+    ],
+    [
+      "Jenkins Auto Group",
+      4
     ],
     [
       "ZT Automotive",
@@ -72,18 +84,6 @@
       4
     ],
     [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
-      "Starling Chevrolet",
-      4
-    ],
-    [
-      "Moses Auto Group",
-      3
-    ],
-    [
       "Capital Chevrolet Inc.",
       3
     ],
@@ -92,15 +92,19 @@
       3
     ],
     [
-      "greenway auto group 2",
-      2
+      "Bud Clary Chevrolet, INC",
+      3
     ],
     [
-      "Roanoke Motors Inc",
-      2
+      "Moses Auto Group",
+      3
     ],
     [
       "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "greenway auto group 2",
       2
     ],
     [
@@ -112,19 +116,27 @@
       2
     ],
     [
-      "Car Central",
+      "Flexcar",
       2
     ],
     [
-      "Flexcar",
-      2
+      "Ryan Buick GMC Cadillac",
+      1
     ],
     [
       "Speedway Car Sales",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Janssen Auto Group",
       1
     ],
     [
@@ -132,7 +144,11 @@
       1
     ],
     [
-      "Janssen Auto Group",
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Apex Automotive Group",
       1
     ],
     [
@@ -141,14 +157,6 @@
     ],
     [
       "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Toronto Honda",
       1
     ],
     [
