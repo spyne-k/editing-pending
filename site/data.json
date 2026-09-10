@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T01:07:45.702Z",
+  "fetchedAt": "2026-09-10T01:22:02.207Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      306
+      321
     ],
     [
       "Asbury Automotive Management L.L.C",
-      107
+      108
     ],
     [
       "ZT Automotive",
-      24
+      25
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -38,6 +38,10 @@
     [
       "Preston Motor Automotive Group",
       11
+    ],
+    [
+      "Yemm Auto",
+      10
     ],
     [
       "Van Horn Automotive Group",
@@ -120,11 +124,11 @@
       3
     ],
     [
-      "Median Media LLC",
+      "Auto X-Change Inc",
       3
     ],
     [
-      "Auto X-Change Inc",
+      "Median Media LLC",
       3
     ],
     [
@@ -133,6 +137,10 @@
     ],
     [
       "Teton solutions Group",
+      3
+    ],
+    [
+      "Cornhusker Auto Center",
       3
     ],
     [
@@ -145,6 +153,10 @@
     ],
     [
       "Ideal Cars",
+      2
+    ],
+    [
+      "DealerVision.com",
       2
     ],
     [
@@ -168,10 +180,6 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
       "Courtesy Chevy of Tucson",
       1
     ],
@@ -189,10 +197,6 @@
     ],
     [
       "Davidson Auto Group",
-      1
-    ],
-    [
-      "DealerVision.com",
       1
     ],
     [
