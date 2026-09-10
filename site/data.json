@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T13:30:17.550Z",
+  "fetchedAt": "2026-09-10T13:44:22.297Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,34 @@
   "rows": [
     [
       null,
-      119
-    ],
-    [
-      "Rawian Oy",
-      38
+      86
     ],
     [
       "Asbury Automotive Management L.L.C",
-      8
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
+      13
     ],
     [
       "Bergstrom Automotive",
-      6
+      7
     ],
     [
       "S&L Motors, Pulaski WI",
       6
     ],
     [
-      "Performance Automotive Network",
-      5
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      6
     ],
     [
       "Yemm Auto",
       5
     ],
     [
-      "Moses Auto Group",
-      4
+      "Performance Automotive Network",
+      5
     ],
     [
       "Altawkilat",
-      4
-    ],
-    [
-      "Wiz Leasing Inc",
       4
     ],
     [
@@ -64,7 +52,15 @@
       4
     ],
     [
+      "Rawian Oy",
+      4
+    ],
+    [
       "Giant Auto Warehouse",
+      4
+    ],
+    [
+      "Moses Auto Group",
       4
     ],
     [
@@ -72,15 +68,15 @@
       4
     ],
     [
-      "Flexcar",
-      3
-    ],
-    [
       "Bud Clary Chevrolet, INC",
       3
     ],
     [
       "Bob Johnson Automotive Group",
+      3
+    ],
+    [
+      "Flexcar",
       3
     ],
     [
@@ -92,11 +88,19 @@
       2
     ],
     [
-      "Graff Auto Campus",
-      2
+      "Lee Group",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
     ],
     [
       "World Car Auto Group",
+      1
+    ],
+    [
+      "Starling Chevrolet",
       1
     ],
     [
@@ -108,15 +112,7 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
-      "Lee Group",
-      1
-    ],
-    [
-      "Starling Chevrolet",
+      "Northpoint Toyota _ Australia",
       1
     ],
     [
