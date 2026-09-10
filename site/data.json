@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T22:02:47.689Z",
+  "fetchedAt": "2026-09-10T22:17:47.799Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,46 @@
   "rows": [
     [
       null,
-      235
+      243
     ],
     [
       "Asbury Automotive Management L.L.C",
-      78
+      80
     ],
     [
       "DealerVision.com",
       13
     ],
     [
+      "Van Horn Automotive Group",
+      11
+    ],
+    [
       "Greenway Automotive Group",
       10
     ],
     [
-      "Van Horn Automotive Group",
-      9
-    ],
-    [
       "NorthTown Automotive",
-      8
-    ],
-    [
-      "ZT Automotive",
-      7
+      9
     ],
     [
       "Olympic Hyundai Vancouver",
       7
     ],
     [
+      "Performance Automotive Network",
+      6
+    ],
+    [
       "Sansone Jr's Auto Group",
       6
     ],
     [
-      "Performance Automotive Network",
+      "Russ Darrow Group, Inc.",
+      6
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       5
     ],
     [
@@ -84,11 +88,7 @@
       4
     ],
     [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
-      "S&L Motors, Pulaski WI",
+      "C.A. Larsen Automobiler A/S",
       3
     ],
     [
@@ -96,7 +96,7 @@
       3
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Capital Chevrolet Inc.",
       3
     ],
     [
@@ -104,15 +104,11 @@
       3
     ],
     [
-      "Capital Chevrolet Inc.",
-      3
-    ],
-    [
-      "C.A. Larsen Automobiler A/S",
-      3
-    ],
-    [
       "Auto Reum",
+      3
+    ],
+    [
+      "Kian Motors INC",
       3
     ],
     [
@@ -128,27 +124,7 @@
       2
     ],
     [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
       "Expert Auto Group",
-      2
-    ],
-    [
-      "North Park Lincoln",
-      2
-    ],
-    [
-      "Lee Group",
       2
     ],
     [
@@ -156,8 +132,24 @@
       2
     ],
     [
-      "4 Season Motors LLC",
-      1
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Lee Group",
+      2
+    ],
+    [
+      "North Park Lincoln",
+      2
     ],
     [
       "Speedway Car Sales",
@@ -180,7 +172,23 @@
       1
     ],
     [
+      "Jenkins Auto Group",
+      1
+    ],
+    [
       "Faircy Automotive",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
@@ -189,6 +197,10 @@
     ],
     [
       "Toronto Honda",
+      1
+    ],
+    [
+      "Kempton Chevrolet",
       1
     ],
     [
@@ -205,6 +217,10 @@
     ],
     [
       "Autoplex 2000 and All Star Buick GMC truck",
+      1
+    ],
+    [
+      "4 Season Motors LLC",
       1
     ],
     [
