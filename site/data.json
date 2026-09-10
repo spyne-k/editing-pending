@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T21:53:19.405Z",
+  "fetchedAt": "2026-09-10T22:02:47.689Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      245
+      235
     ],
     [
       "Asbury Automotive Management L.L.C",
       78
-    ],
-    [
-      "Rim Revolution LLC",
-      19
     ],
     [
       "DealerVision.com",
@@ -36,11 +32,19 @@
       10
     ],
     [
+      "Van Horn Automotive Group",
+      9
+    ],
+    [
       "NorthTown Automotive",
       8
     ],
     [
-      "Van Horn Automotive Group",
+      "ZT Automotive",
+      7
+    ],
+    [
+      "Olympic Hyundai Vancouver",
       7
     ],
     [
@@ -48,15 +52,7 @@
       6
     ],
     [
-      "Olympic Hyundai Vancouver",
-      6
-    ],
-    [
       "Performance Automotive Network",
-      5
-    ],
-    [
-      "Charlie Clark Hyundai",
       5
     ],
     [
@@ -64,19 +60,11 @@
       5
     ],
     [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
-      "MyCar: Trucktown",
-      4
+      "Charlie Clark Hyundai",
+      5
     ],
     [
       "Alliance Cars Limited",
-      4
-    ],
-    [
-      "Altawkilat",
       4
     ],
     [
@@ -84,8 +72,40 @@
       4
     ],
     [
+      "Altawkilat",
+      4
+    ],
+    [
+      "MyCar: Trucktown",
+      4
+    ],
+    [
       "Volvo of Princeton Inc",
       4
+    ],
+    [
+      "Jenkins Auto Group",
+      4
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      3
+    ],
+    [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      3
+    ],
+    [
+      "Blasius Buick GMC",
+      3
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      3
     ],
     [
       "C.A. Larsen Automobiler A/S",
@@ -96,31 +116,11 @@
       3
     ],
     [
-      "Blasius Buick GMC",
-      3
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      3
-    ],
-    [
-      "ZT Automotive",
-      3
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      3
-    ],
-    [
       "Bob Johnson Automotive Group",
       3
     ],
     [
       "Starling Chevrolet",
-      3
-    ],
-    [
-      "S&L Motors, Pulaski WI",
       3
     ],
     [
@@ -164,15 +164,11 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Cornhusker Auto Center",
       1
     ],
     [
       "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
       1
     ],
     [
