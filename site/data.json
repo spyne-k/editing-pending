@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T08:27:11.826Z",
+  "fetchedAt": "2026-09-10T08:42:21.712Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      235
+      220
     ],
     [
       "Asbury Automotive Management L.L.C",
-      24
-    ],
-    [
-      "Preston Motor Automotive Group",
-      18
+      27
     ],
     [
       "DealerVision.com",
@@ -37,7 +33,7 @@
     ],
     [
       "Bob Johnson Automotive Group",
-      11
+      12
     ],
     [
       "Icon Motors Group of Framingham",
@@ -52,11 +48,23 @@
       9
     ],
     [
-      "Pritchard Companies",
+      "Capital Chevrolet Inc.",
       6
     ],
     [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      6
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      6
+    ],
+    [
+      "Pritchard Companies",
+      6
+    ],
+    [
+      "Blasius Buick GMC",
       6
     ],
     [
@@ -68,23 +76,7 @@
       6
     ],
     [
-      "Blasius Buick GMC",
-      6
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      6
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      6
-    ],
-    [
-      "Yemm Auto",
-      5
-    ],
-    [
-      "Graff Auto Campus",
+      "Car Central",
       5
     ],
     [
@@ -92,7 +84,7 @@
       5
     ],
     [
-      "Car Central",
+      "Yemm Auto",
       5
     ],
     [
@@ -100,12 +92,8 @@
       5
     ],
     [
-      "Altawkilat",
-      4
-    ],
-    [
-      "Median Media LLC",
-      4
+      "Graff Auto Campus",
+      5
     ],
     [
       "Rohrich Automotive Group",
@@ -116,15 +104,23 @@
       4
     ],
     [
-      "Cornhusker Auto Center",
-      4
-    ],
-    [
-      "Impex Auto Sales",
+      "Median Media LLC",
       4
     ],
     [
       "Covert Auto Group",
+      4
+    ],
+    [
+      "Wiz Leasing Inc",
+      4
+    ],
+    [
+      "Altawkilat",
+      4
+    ],
+    [
+      "Impex Auto Sales",
       4
     ],
     [
@@ -136,15 +132,15 @@
       3
     ],
     [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
       "Faircy Automotive",
       3
     ],
     [
       "H&K Chevrolet Family Auto",
-      3
-    ],
-    [
-      "Teton solutions Group",
       3
     ],
     [
@@ -154,10 +150,6 @@
     [
       "Van Horn Automotive Group",
       3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
     ],
     [
       "Beadle Ford, INC.",
