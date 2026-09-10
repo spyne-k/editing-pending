@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T12:49:13.213Z",
+  "fetchedAt": "2026-09-10T12:59:56.603Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      98
+      93
     ],
     [
       "Rawian Oy",
@@ -41,10 +41,6 @@
     ],
     [
       "Performance Automotive Network",
-      5
-    ],
-    [
-      "Impex Auto Sales",
       5
     ],
     [
