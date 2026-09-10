@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T17:32:18.827Z",
+  "fetchedAt": "2026-09-10T17:43:57.312Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,38 @@
   "rows": [
     [
       null,
-      153
+      154
     ],
     [
       "Asbury Automotive Management L.L.C",
-      74
-    ],
-    [
-      "Davidson Auto Group",
-      11
+      80
     ],
     [
       "Bergstrom Automotive",
       7
     ],
     [
-      "Sansone Jr's Auto Group",
-      6
-    ],
-    [
       "Van Horn Automotive Group",
       6
     ],
     [
-      "Greenway Automotive Group",
-      5
+      "Gettel Automotive Group",
+      6
+    ],
+    [
+      "Sansone Jr's Auto Group",
+      6
     ],
     [
       "Performance Automotive Network",
       5
     ],
     [
-      "Jenkins Auto Group",
-      4
+      "Greenway Automotive Group",
+      5
     ],
     [
-      "Gettel Automotive Group",
+      "ZT Automotive",
       4
     ],
     [
@@ -60,7 +56,7 @@
       4
     ],
     [
-      "ZT Automotive",
+      "Jenkins Auto Group",
       4
     ],
     [
@@ -76,7 +72,7 @@
       3
     ],
     [
-      "Graff Auto Campus",
+      "Your Choice Auto LLC",
       2
     ],
     [
@@ -84,15 +80,15 @@
       2
     ],
     [
-      "North Park Lincoln",
-      1
+      "Graff Auto Campus",
+      2
     ],
     [
-      "Amigo Auto Group, Inc.",
-      1
+      "Flexcar",
+      2
     ],
     [
-      "greenway auto group 2",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -100,7 +96,19 @@
       1
     ],
     [
+      "greenway auto group 2",
+      1
+    ],
+    [
       "Starling Auto Group",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
@@ -117,10 +125,6 @@
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Flexcar",
       1
     ],
     [
