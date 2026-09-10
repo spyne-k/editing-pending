@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T00:25:13.136Z",
+  "fetchedAt": "2026-09-10T00:42:01.895Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      347
+      323
     ],
     [
       "Asbury Automotive Management L.L.C",
       142
-    ],
-    [
-      "Bergstrom Automotive",
-      27
     ],
     [
       "ZT Automotive",
@@ -48,15 +44,15 @@
       8
     ],
     [
-      "Brandon Steven Motors",
-      7
-    ],
-    [
       "Van Horn Automotive Group",
       7
     ],
     [
       "Wiz Leasing Inc",
+      7
+    ],
+    [
+      "Brandon Steven Motors",
       7
     ],
     [
@@ -68,16 +64,12 @@
       6
     ],
     [
-      "Performance Automotive Network",
-      5
-    ],
-    [
       "Speedway Car Sales",
       5
     ],
     [
-      "Starling Auto Group",
-      4
+      "Performance Automotive Network",
+      5
     ],
     [
       "Covert Auto Group",
@@ -92,36 +84,16 @@
       4
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Pritchard Companies",
       4
     ],
     [
-      "Teton solutions Group",
-      3
+      "Starling Auto Group",
+      4
     ],
     [
-      "Renny Bettan",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "Audi Cape Fear",
-      3
-    ],
-    [
-      "Pritchard Companies",
-      3
-    ],
-    [
-      "Moses Auto Group",
-      3
+      "Capital Chevrolet Inc.",
+      4
     ],
     [
       "Median Media LLC",
@@ -132,19 +104,39 @@
       3
     ],
     [
+      "Haldeman Lexus of Princeton",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Renny Bettan",
+      3
+    ],
+    [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
       "H&K Chevrolet Family Auto",
       3
     ],
     [
-      "Impex Auto Sales",
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
-      "Victory Automotive Group",
-      2
-    ],
-    [
-      "Quantrell Auto Group",
+      "Charlie Clark Hyundai",
       2
     ],
     [
@@ -152,15 +144,19 @@
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
+      "Impex Auto Sales",
       2
     ],
     [
-      "RBM Automotive Group",
-      1
+      "Quantrell Auto Group",
+      2
     ],
     [
-      "Wallingford Auto Park, Inc.",
+      "Victory Automotive Group",
+      2
+    ],
+    [
+      "Louyet Re-used",
       1
     ],
     [
@@ -168,7 +164,19 @@
       1
     ],
     [
+      "RBM Automotive Group",
+      1
+    ],
+    [
       "DealerVision.com",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Wallingford Auto Park, Inc.",
       1
     ],
     [
@@ -180,11 +188,7 @@
       1
     ],
     [
-      "Louyet Re-used",
-      1
-    ],
-    [
-      "World Car Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -193,10 +197,6 @@
     ],
     [
       "Bob Johnson Automotive Group",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
       1
     ]
   ]
