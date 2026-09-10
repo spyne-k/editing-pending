@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T01:22:02.207Z",
+  "fetchedAt": "2026-09-10T01:32:56.661Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      321
+      306
     ],
     [
       "Asbury Automotive Management L.L.C",
-      108
+      110
     ],
     [
-      "ZT Automotive",
-      25
+      "Yemm Auto",
+      15
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -40,10 +40,6 @@
       11
     ],
     [
-      "Yemm Auto",
-      10
-    ],
-    [
       "Van Horn Automotive Group",
       9
     ],
@@ -52,11 +48,11 @@
       8
     ],
     [
-      "Brandon Steven Motors",
+      "Wiz Leasing Inc",
       7
     ],
     [
-      "Wiz Leasing Inc",
+      "Brandon Steven Motors",
       7
     ],
     [
@@ -92,6 +88,10 @@
       4
     ],
     [
+      "Median Media LLC",
+      4
+    ],
+    [
       "Rohrich Automotive Group",
       4
     ],
@@ -104,7 +104,15 @@
       4
     ],
     [
-      "Jim Schmidt Automotive",
+      "Bob King",
+      3
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      3
+    ],
+    [
+      "Haldeman Lexus of Princeton",
       3
     ],
     [
@@ -116,23 +124,7 @@
       3
     ],
     [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Audi Cape Fear",
-      3
-    ],
-    [
       "Auto X-Change Inc",
-      3
-    ],
-    [
-      "Median Media LLC",
-      3
-    ],
-    [
-      "H&K Chevrolet Family Auto",
       3
     ],
     [
@@ -140,19 +132,19 @@
       3
     ],
     [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
       "Cornhusker Auto Center",
       3
     ],
     [
-      "Bob King",
+      "Audi Cape Fear",
       3
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Ideal Cars",
+      "Quantrell Auto Group",
       2
     ],
     [
@@ -160,7 +152,7 @@
       2
     ],
     [
-      "Impex Auto Sales",
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
@@ -168,16 +160,16 @@
       2
     ],
     [
-      "Quantrell Auto Group",
+      "Ideal Cars",
+      2
+    ],
+    [
+      "Impex Auto Sales",
       2
     ],
     [
       "Victory Automotive Group",
       2
-    ],
-    [
-      "Amigo Auto Group, Inc.",
-      1
     ],
     [
       "Courtesy Chevy of Tucson",
@@ -188,7 +180,7 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -196,15 +188,23 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "ROCHESTER VOLKSWAGEN",
       1
     ],
     [
-      "Rochester Toyota",
+      "World Car Auto Group",
       1
     ],
     [
       "Louyet Re-used",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "Rochester Toyota",
       1
     ],
     [
@@ -217,6 +217,10 @@
     ],
     [
       "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ]
   ]
