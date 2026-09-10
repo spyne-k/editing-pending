@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T22:41:29.112Z",
+  "fetchedAt": "2026-09-10T22:50:14.155Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      270
+      269
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -28,35 +28,31 @@
       18
     ],
     [
-      "Van Horn Automotive Group",
-      13
-    ],
-    [
       "NorthTown Automotive",
       9
     ],
     [
       "Russ Darrow Group, Inc.",
-      7
+      8
     ],
     [
       "Olympic Hyundai Vancouver",
       7
     ],
     [
-      "Performance Automotive Network",
-      6
-    ],
-    [
       "Sansone Jr's Auto Group",
       6
     ],
     [
-      "LUXURY IMPORTS",
+      "S&L Motors, Pulaski WI",
       6
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Performance Automotive Network",
+      6
+    ],
+    [
+      "LUXURY IMPORTS",
       6
     ],
     [
@@ -66,6 +62,18 @@
     [
       "Charlie Clark Hyundai",
       5
+    ],
+    [
+      "World Car Auto Group",
+      5
+    ],
+    [
+      "Wood Motor Company",
+      4
+    ],
+    [
+      "Volvo of Princeton Inc",
+      4
     ],
     [
       "Moses Auto Group",
@@ -80,7 +88,7 @@
       4
     ],
     [
-      "Volvo of Princeton Inc",
+      "Alliance Cars Limited",
       4
     ],
     [
@@ -88,19 +96,15 @@
       4
     ],
     [
-      "Alliance Cars Limited",
-      4
-    ],
-    [
-      "Starling Chevrolet",
+      "Capital Chevrolet Inc.",
       3
     ],
     [
-      "World Car Auto Group",
+      "Blasius Buick GMC",
       3
     ],
     [
-      "Bob Johnson Automotive Group",
+      "North Park Lincoln",
       3
     ],
     [
@@ -116,23 +120,15 @@
       3
     ],
     [
-      "Wood Motor Company",
+      "Starling Chevrolet",
       3
     ],
     [
-      "Blasius Buick GMC",
+      "Bob Johnson Automotive Group",
       3
     ],
     [
-      "Capital Chevrolet Inc.",
-      3
-    ],
-    [
-      "Lockwood Motors, Inc.",
-      2
-    ],
-    [
-      "Expert Auto Group",
+      "Jenkins Auto Group",
       2
     ],
     [
@@ -140,11 +136,19 @@
       2
     ],
     [
-      "Jenkins Auto Group",
+      "Toronto Honda",
       2
     ],
     [
-      "North Park Lincoln",
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      2
+    ],
+    [
+      "Lee Group",
       2
     ],
     [
@@ -152,7 +156,7 @@
       2
     ],
     [
-      "MEI Inc",
+      "Car Central",
       2
     ],
     [
@@ -168,15 +172,27 @@
       2
     ],
     [
-      "Lee Group",
+      "MEI Inc",
       2
     ],
     [
-      "Cornhusker Auto Center",
+      "Expert Auto Group",
+      2
+    ],
+    [
+      "Speedway Car Sales",
       1
     ],
     [
-      "EV Car Company",
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "4 Season Motors LLC",
+      1
+    ],
+    [
+      "Kempton Chevrolet",
       1
     ],
     [
@@ -184,7 +200,7 @@
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Janssen Kuenle CDJR",
       1
     ],
     [
@@ -196,7 +212,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -212,7 +228,7 @@
       1
     ],
     [
-      "Toronto Honda",
+      "Mondial car Sarl",
       1
     ],
     [
@@ -224,15 +240,11 @@
       1
     ],
     [
-      "4 Season Motors LLC",
+      "EV Car Company",
       1
     ],
     [
-      "Car Castle",
-      1
-    ],
-    [
-      "Bob King",
+      "Moffitt's Ford",
       1
     ],
     [
@@ -248,11 +260,11 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Car Castle",
       1
     ],
     [
-      "Kempton Chevrolet",
+      "Bob King",
       1
     ],
     [
