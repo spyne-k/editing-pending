@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T06:06:43.195Z",
+  "fetchedAt": "2026-09-10T06:28:00.957Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      353
+      317
     ],
     [
       "Yoder Family of Companies",
@@ -28,20 +28,12 @@
       26
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      19
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      17
-    ],
-    [
       "Yemm Auto",
       15
     ],
     [
       "Preston Motor Automotive Group",
-      14
+      15
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -60,16 +52,12 @@
       11
     ],
     [
+      "DealerVision.com",
+      11
+    ],
+    [
       "Olson Chevrolet",
       10
-    ],
-    [
-      "DealerVision.com",
-      10
-    ],
-    [
-      "Brandon Steven Motors",
-      8
     ],
     [
       " Joshua Tree Chrysler Dodge Jeep Ram",
@@ -80,19 +68,7 @@
       7
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
       "Blasius Buick GMC",
-      6
-    ],
-    [
-      "Pritchard Companies",
       6
     ],
     [
@@ -100,7 +76,19 @@
       6
     ],
     [
-      "Speedway Car Sales",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      6
+    ],
+    [
+      "Pritchard Companies",
+      6
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
+    ],
+    [
+      "Car Central",
       5
     ],
     [
@@ -108,19 +96,35 @@
       5
     ],
     [
+      "Speedway Car Sales",
+      5
+    ],
+    [
       "Graff Auto Campus",
       5
     ],
     [
-      "Car Central",
-      5
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Cornhusker Auto Center",
+      4
     ],
     [
       "Rohrich Automotive Group",
       4
     ],
     [
-      "Covert Auto Group",
+      "Median Media LLC",
+      4
+    ],
+    [
+      "Impex Auto Sales",
       4
     ],
     [
@@ -132,31 +136,11 @@
       4
     ],
     [
-      "Starling Auto Group",
-      4
-    ],
-    [
-      "Median Media LLC",
-      4
-    ],
-    [
-      "Cornhusker Auto Center",
-      4
-    ],
-    [
-      "Impex Auto Sales",
-      4
-    ],
-    [
-      "Elite Auto Marketing Solutions",
+      "Asbury Automotive Management L.L.C",
       3
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
-      "Moses Auto Group",
+      "Faircy Automotive",
       3
     ],
     [
@@ -164,15 +148,11 @@
       3
     ],
     [
-      "Renny Bettan",
-      3
-    ],
-    [
       "Teton solutions Group",
       3
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Greenway Automotive Group",
       3
     ],
     [
@@ -180,11 +160,31 @@
       3
     ],
     [
-      "Quantrell Auto Group",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "Renny Bettan",
+      3
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      3
+    ],
+    [
+      "Moses Auto Group",
+      3
+    ],
+    [
+      "Bob King",
+      3
+    ],
+    [
+      "Hondru Auto Group(US)",
       2
     ],
     [
-      "Faircy Automotive",
+      "Quantrell Auto Group",
       2
     ],
     [
@@ -192,15 +192,7 @@
       2
     ],
     [
-      "Hondru Auto Group(US)",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Butler Lexus of South Atlanta",
+      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -212,11 +204,11 @@
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "Van Horn Automotive Group",
       1
     ],
     [
-      "Autmotive Marketing Solution - Main",
+      "Butler Lexus of South Atlanta",
       1
     ],
     [
