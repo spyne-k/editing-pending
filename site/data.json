@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T06:45:32.231Z",
+  "fetchedAt": "2026-09-10T06:58:59.584Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,15 @@
   "rows": [
     [
       null,
-      320
+      269
     ],
     [
       "Yoder Family of Companies",
       49
     ],
     [
-      "ZT Automotive",
-      26
-    ],
-    [
       "Preston Motor Automotive Group",
       18
-    ],
-    [
-      "Yemm Auto",
-      15
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -60,24 +52,8 @@
       10
     ],
     [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
-      8
-    ],
-    [
       "Wiz Leasing Inc",
       7
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      6
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      6
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
     ],
     [
       "Blasius Buick GMC",
@@ -88,7 +64,7 @@
       6
     ],
     [
-      "Charlie Clark Hyundai",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
@@ -100,7 +76,15 @@
       6
     ],
     [
-      "Graff Auto Campus",
+      "Charlie Clark Hyundai",
+      6
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
+    ],
+    [
+      "Speedway Car Sales",
       5
     ],
     [
@@ -108,11 +92,15 @@
       5
     ],
     [
+      "Graff Auto Campus",
+      5
+    ],
+    [
       "Performance Automotive Network",
       5
     ],
     [
-      "Speedway Car Sales",
+      "Asbury Automotive Management L.L.C",
       5
     ],
     [
@@ -128,7 +116,7 @@
       4
     ],
     [
-      "Starling Auto Group",
+      "Cornhusker Auto Center",
       4
     ],
     [
@@ -136,15 +124,15 @@
       4
     ],
     [
-      "Cornhusker Auto Center",
+      "Altawkilat",
       4
     ],
     [
-      "Moses Auto Group",
-      3
+      "Starling Auto Group",
+      4
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Bob King",
       3
     ],
     [
@@ -152,19 +140,19 @@
       3
     ],
     [
+      "Moses Auto Group",
+      3
+    ],
+    [
       "Faircy Automotive",
       3
     ],
     [
-      "H&K Chevrolet Family Auto",
-      3
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
       "Greenway Automotive Group",
+      3
+    ],
+    [
+      "H&K Chevrolet Family Auto",
       3
     ],
     [
@@ -180,10 +168,6 @@
       2
     ],
     [
-      "Audi Cape Fear",
-      2
-    ],
-    [
       "Ideal Cars",
       2
     ],
@@ -192,11 +176,11 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Butler Lexus of South Atlanta",
       1
     ],
     [
-      "Butler Lexus of South Atlanta",
+      "World Car Auto Group",
       1
     ],
     [
