@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T20:49:27.935Z",
+  "fetchedAt": "2026-09-10T20:57:47.153Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      204
+      221
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -25,6 +25,10 @@
     ],
     [
       "Rim Revolution LLC",
+      15
+    ],
+    [
+      "Flexcar",
       11
     ],
     [
@@ -36,23 +40,15 @@
       8
     ],
     [
-      "Olympic Hyundai Vancouver",
-      6
-    ],
-    [
       "Sansone Jr's Auto Group",
       6
     ],
     [
-      "Flexcar",
-      5
+      "Olympic Hyundai Vancouver",
+      6
     ],
     [
       "Bob Johnson Automotive Group",
-      5
-    ],
-    [
-      "DealerVision.com",
       5
     ],
     [
@@ -60,11 +56,23 @@
       5
     ],
     [
+      "DealerVision.com",
+      5
+    ],
+    [
       "Starling Auto Group",
       5
     ],
     [
+      "Altawkilat",
+      4
+    ],
+    [
       "MyCar: Trucktown",
+      4
+    ],
+    [
+      "Moses Auto Group",
       4
     ],
     [
@@ -76,20 +84,8 @@
       4
     ],
     [
-      "Moses Auto Group",
-      4
-    ],
-    [
-      "Altawkilat",
-      4
-    ],
-    [
       "Starling Chevrolet",
       4
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      3
     ],
     [
       "Auto Reum",
@@ -104,16 +100,20 @@
       3
     ],
     [
+      "Charlie Clark Hyundai",
+      3
+    ],
+    [
       "Capital Chevrolet Inc.",
       3
     ],
     [
-      "Lee Group",
-      2
+      "C.A. Larsen Automobiler A/S",
+      3
     ],
     [
-      "Yemm Auto",
-      2
+      "S&L Motors, Pulaski WI",
+      3
     ],
     [
       "greenway auto group 2",
@@ -121,6 +121,14 @@
     ],
     [
       "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Lee Group",
+      2
+    ],
+    [
+      "Yemm Auto",
       2
     ],
     [
@@ -132,19 +140,7 @@
       1
     ],
     [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "C.A. Larsen Automobiler A/S",
+      "Car Castle",
       1
     ],
     [
@@ -152,15 +148,23 @@
       1
     ],
     [
-      "Car Castle",
-      1
-    ],
-    [
       "Bob King",
       1
     ],
     [
-      "Northpoint Toyota _ Australia",
+      "Blasius Buick GMC",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -168,7 +172,15 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "Northpoint Toyota _ Australia",
+      1
+    ],
+    [
+      "ZT Automotive",
       1
     ]
   ]
