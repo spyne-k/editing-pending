@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T23:41:18.048Z",
+  "fetchedAt": "2026-09-10T23:49:51.509Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      302
+      321
     ],
     [
       "Asbury Automotive Management L.L.C",
-      105
+      129
     ],
     [
       "Preston Motor Automotive Group",
@@ -44,15 +44,15 @@
       8
     ],
     [
-      "Olympic Hyundai Vancouver",
-      7
-    ],
-    [
       "World Car Auto Group",
       6
     ],
     [
       "Performance Automotive Network",
+      6
+    ],
+    [
+      "MyCar: Trucktown",
       6
     ],
     [
@@ -76,15 +76,15 @@
       4
     ],
     [
+      "MP auto Sales LLC DBA Carizona",
+      4
+    ],
+    [
       "Altawkilat",
       4
     ],
     [
       "Bergstrom Automotive",
-      4
-    ],
-    [
-      "MyCar: Trucktown",
       4
     ],
     [
@@ -112,10 +112,6 @@
       3
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
-      3
-    ],
-    [
       "McCurley Dealerships",
       3
     ],
@@ -125,10 +121,6 @@
     ],
     [
       "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Capital Chevrolet Inc.",
       3
     ],
     [
@@ -148,11 +140,15 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Toronto Honda",
       2
     ],
     [
       "Expert Auto Group",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
       2
     ],
     [
@@ -164,7 +160,7 @@
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "Lee Group",
       2
     ],
     [
@@ -172,7 +168,7 @@
       2
     ],
     [
-      "Lee Group",
+      "Russ Darrow Group, Inc.",
       2
     ],
     [
@@ -180,11 +176,15 @@
       2
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Kempton Chevrolet",
       2
     ],
     [
-      "Toronto Honda",
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Lockwood Motors, Inc.",
       2
     ],
     [
@@ -192,15 +192,11 @@
       2
     ],
     [
-      "Speedway Car Sales",
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
-      "Velocity Auto Haus",
-      1
-    ],
-    [
-      "Janssen Kuenle CDJR",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -208,11 +204,11 @@
       1
     ],
     [
-      "Eastern Digital",
+      "Velocity Auto Haus",
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "Eastern Digital",
       1
     ],
     [
@@ -220,11 +216,11 @@
       1
     ],
     [
-      "Performance Auto Group",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
@@ -232,7 +228,7 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "4 Season Motors LLC",
       1
     ],
     [
@@ -240,7 +236,7 @@
       1
     ],
     [
-      "4 Season Motors LLC",
+      "Mondial car Sarl",
       1
     ],
     [
@@ -249,10 +245,6 @@
     ],
     [
       "Car Castle",
-      1
-    ],
-    [
-      "Mondial car Sarl",
       1
     ],
     [
@@ -268,11 +260,7 @@
       1
     ],
     [
-      "Kempton Chevrolet",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
+      "Janssen Kuenle CDJR",
       1
     ],
     [
@@ -280,7 +268,11 @@
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Performance Auto Group",
       1
     ]
   ]
