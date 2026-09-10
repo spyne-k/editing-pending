@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T18:21:55.066Z",
+  "fetchedAt": "2026-09-10T18:36:07.965Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      198
+      168
     ],
     [
       "Asbury Automotive Management L.L.C",
-      90
-    ],
-    [
-      "Rawian Oy",
-      10
+      54
     ],
     [
       "Gettel Automotive Group",
@@ -44,6 +40,10 @@
       6
     ],
     [
+      "Davidson Auto Group",
+      6
+    ],
+    [
       "Sansone Jr's Auto Group",
       6
     ],
@@ -53,6 +53,10 @@
     ],
     [
       "Greenway Automotive Group",
+      5
+    ],
+    [
+      "Starling Auto Group",
       5
     ],
     [
@@ -68,6 +72,10 @@
       4
     ],
     [
+      "Rawian Oy",
+      4
+    ],
+    [
       "Jenkins Auto Group",
       4
     ],
@@ -80,7 +88,7 @@
       3
     ],
     [
-      "Starling Auto Group",
+      "Russ Darrow Group, Inc.",
       3
     ],
     [
@@ -92,6 +100,10 @@
       2
     ],
     [
+      "greenway auto group 2",
+      2
+    ],
+    [
       "Roanoke Motors Inc",
       2
     ],
@@ -100,20 +112,16 @@
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Graff Auto Campus",
       2
     ],
     [
-      "Graff Auto Campus",
+      "KAR Auto Group",
       2
     ],
     [
       "Yemm Auto",
       2
-    ],
-    [
-      "greenway auto group 2",
-      1
     ],
     [
       "Ryan Buick GMC Cadillac",
