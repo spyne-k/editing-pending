@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T19:50:37.830Z",
+  "fetchedAt": "2026-09-10T19:59:28.097Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,23 @@
   "rows": [
     [
       null,
-      197
+      185
     ],
     [
       "Asbury Automotive Management L.L.C",
-      77
+      75
     ],
     [
-      "Russ Darrow Group, Inc.",
-      12
+      "ZT Automotive",
+      11
+    ],
+    [
+      "Car Central",
+      8
     ],
     [
       "Van Horn Automotive Group",
       8
-    ],
-    [
-      "Bergstrom Automotive",
-      7
     ],
     [
       "Olympic Hyundai Vancouver",
@@ -45,10 +45,6 @@
     ],
     [
       "Bob Johnson Automotive Group",
-      5
-    ],
-    [
-      "Car Central",
       5
     ],
     [
@@ -69,10 +65,6 @@
     ],
     [
       "Jenkins Auto Group",
-      4
-    ],
-    [
-      "ZT Automotive",
       4
     ],
     [
@@ -112,11 +104,11 @@
       2
     ],
     [
-      "Yemm Auto",
+      "Toronto Honda",
       2
     ],
     [
-      "Flexcar",
+      "Yemm Auto",
       2
     ],
     [
@@ -128,11 +120,15 @@
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "Apex Automotive Group",
       1
     ],
     [
       "Wood Motor Company",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -141,14 +137,6 @@
     ],
     [
       "World Car Auto Group",
-      1
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Apex Automotive Group",
       1
     ],
     [
