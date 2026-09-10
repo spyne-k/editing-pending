@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T14:21:50.527Z",
+  "fetchedAt": "2026-09-10T14:35:38.961Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      94
+      103
     ],
     [
       "Asbury Automotive Management L.L.C",
-      23
+      26
     ],
     [
       "Bergstrom Automotive",
@@ -36,11 +36,15 @@
       5
     ],
     [
+      "Graff Auto Campus",
+      5
+    ],
+    [
       "Performance Automotive Network",
       5
     ],
     [
-      "Graff Auto Campus",
+      "Gettel Automotive Group",
       5
     ],
     [
@@ -80,11 +84,11 @@
       2
     ],
     [
-      "Starling Chevrolet",
-      1
+      "Northside Auto Sales",
+      2
     ],
     [
-      "World Car Auto Group",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -92,7 +96,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Starling Chevrolet",
       1
     ],
     [
@@ -100,7 +104,7 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "World Car Auto Group",
       1
     ],
     [
@@ -108,7 +112,7 @@
       1
     ],
     [
-      "Sell Em All Motors",
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -116,11 +120,11 @@
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Sell Em All Motors",
       1
     ],
     [
-      "North Park Lincoln",
+      "Jenkins Auto Group",
       1
     ],
     [
