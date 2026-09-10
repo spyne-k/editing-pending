@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T05:01:28.054Z",
+  "fetchedAt": "2026-09-10T05:17:18.444Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      342
+      346
     ],
     [
       "Yoder Family of Companies",
@@ -25,19 +25,19 @@
     ],
     [
       "ZT Automotive",
-      19
+      23
     ],
     [
       "Amato Hyundai Of Glendale",
       17
     ],
     [
-      "Yemm Auto",
+      "Asbury Automotive Management L.L.C",
       15
     ],
     [
-      "Van Horn Automotive Group",
-      14
+      "Yemm Auto",
+      15
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -60,8 +60,8 @@
       10
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      10
+      "DealerVision.com",
+      9
     ],
     [
       " Joshua Tree Chrysler Dodge Jeep Ram",
@@ -72,19 +72,15 @@
       8
     ],
     [
-      "Wiz Leasing Inc",
-      7
-    ],
-    [
-      "DealerVision.com",
-      7
-    ],
-    [
       "Brandon Steven Motors",
       7
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Wiz Leasing Inc",
+      7
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       6
     ],
     [
@@ -96,15 +92,15 @@
       6
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       6
     ],
     [
-      "Car Central",
+      "Graff Auto Campus",
       5
     ],
     [
-      "Performance Automotive Network",
+      "Car Central",
       5
     ],
     [
@@ -112,27 +108,11 @@
       5
     ],
     [
-      "Starling Auto Group",
-      4
+      "Performance Automotive Network",
+      5
     ],
     [
       "Median Media LLC",
-      4
-    ],
-    [
-      "Covert Auto Group",
-      4
-    ],
-    [
-      "Cornhusker Auto Center",
-      4
-    ],
-    [
-      "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Capital Chevrolet Inc.",
       4
     ],
     [
@@ -140,27 +120,31 @@
       4
     ],
     [
+      "Rohrich Automotive Group",
+      4
+    ],
+    [
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Cornhusker Auto Center",
+      4
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      4
+    ],
+    [
       "Impex Auto Sales",
       4
     ],
     [
-      "Elite Auto Marketing Solutions",
-      3
+      "Covert Auto Group",
+      4
     ],
     [
-      "Audi Cape Fear",
-      3
-    ],
-    [
-      "Auto X-Change Inc",
-      3
-    ],
-    [
-      "Renny Bettan",
-      3
-    ],
-    [
-      "Teton solutions Group",
+      "Gettel Automotive Group",
       3
     ],
     [
@@ -168,7 +152,23 @@
       3
     ],
     [
-      "Haldeman Lexus of Princeton",
+      "Elite Auto Marketing Solutions",
+      3
+    ],
+    [
+      "Auto X-Change Inc",
+      3
+    ],
+    [
+      "Teton solutions Group",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Renny Bettan",
       3
     ],
     [
@@ -176,7 +176,7 @@
       3
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Haldeman Lexus of Princeton",
       3
     ],
     [
@@ -184,11 +184,11 @@
       3
     ],
     [
-      "Quantrell Auto Group",
-      2
+      "H&K Chevrolet Family Auto",
+      3
     ],
     [
-      "Gettel Automotive Group",
+      "Hondru Auto Group(US)",
       2
     ],
     [
@@ -196,7 +196,7 @@
       2
     ],
     [
-      "Ideal Cars",
+      "Quantrell Auto Group",
       2
     ],
     [
@@ -204,11 +204,11 @@
       2
     ],
     [
-      "Starling Chevrolet",
-      1
+      "Ideal Cars",
+      2
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "Alliance Automotive of Westchester LLC dba White P",
       1
     ],
     [
@@ -220,15 +220,15 @@
       1
     ],
     [
+      "Starling Chevrolet",
+      1
+    ],
+    [
       "World Car Auto Group",
       1
     ],
     [
       "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
-      "Louyet Re-used",
       1
     ],
     [
