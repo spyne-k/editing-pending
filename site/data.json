@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T00:42:01.895Z",
+  "fetchedAt": "2026-09-10T00:55:43.034Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      323
+      333
     ],
     [
       "Asbury Automotive Management L.L.C",
-      142
+      143
     ],
     [
       "ZT Automotive",
@@ -45,6 +45,10 @@
     ],
     [
       "Van Horn Automotive Group",
+      8
+    ],
+    [
+      "Brandon Steven Motors",
       7
     ],
     [
@@ -52,23 +56,23 @@
       7
     ],
     [
-      "Brandon Steven Motors",
-      7
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      6
     ],
     [
       "Russ Darrow Group, Inc.",
       6
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      6
-    ],
-    [
-      "Speedway Car Sales",
+      "Performance Automotive Network",
       5
     ],
     [
-      "Performance Automotive Network",
+      "Greenway Automotive Group",
+      5
+    ],
+    [
+      "Speedway Car Sales",
       5
     ],
     [
@@ -76,11 +80,11 @@
       4
     ],
     [
-      "Rohrich Automotive Group",
+      "Elite Auto Marketing Solutions",
       4
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Rohrich Automotive Group",
       4
     ],
     [
@@ -96,27 +100,7 @@
       4
     ],
     [
-      "Median Media LLC",
-      3
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
-      "Haldeman Lexus of Princeton",
-      3
-    ],
-    [
-      "Audi Cape Fear",
-      3
-    ],
-    [
-      "Renny Bettan",
-      3
-    ],
-    [
-      "Teton solutions Group",
+      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -124,7 +108,23 @@
       3
     ],
     [
-      "Jim Schmidt Automotive",
+      "Renny Bettan",
+      3
+    ],
+    [
+      "Haldeman Lexus of Princeton",
+      3
+    ],
+    [
+      "Auto X-Change Inc",
+      3
+    ],
+    [
+      "Audi Cape Fear",
+      3
+    ],
+    [
+      "Median Media LLC",
       3
     ],
     [
@@ -132,11 +132,15 @@
       3
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
+      "Teton solutions Group",
+      3
     ],
     [
-      "Charlie Clark Hyundai",
+      "Bob King",
+      3
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
@@ -148,7 +152,7 @@
       2
     ],
     [
-      "Quantrell Auto Group",
+      "Charlie Clark Hyundai",
       2
     ],
     [
@@ -156,7 +160,11 @@
       2
     ],
     [
-      "Louyet Re-used",
+      "Quantrell Auto Group",
+      2
+    ],
+    [
+      "Amigo Auto Group, Inc.",
       1
     ],
     [
@@ -168,15 +176,15 @@
       1
     ],
     [
-      "DealerVision.com",
-      1
-    ],
-    [
       "World Car Auto Group",
       1
     ],
     [
       "Wallingford Auto Park, Inc.",
+      1
+    ],
+    [
+      "DealerVision.com",
       1
     ],
     [
@@ -188,7 +196,7 @@
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Louyet Re-used",
       1
     ],
     [
