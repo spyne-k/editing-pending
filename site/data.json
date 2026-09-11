@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T08:55:59.475Z",
+  "fetchedAt": "2026-09-11T09:07:59.975Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      172
+      200
     ],
     [
       "Asbury Automotive Management L.L.C",
-      22
+      51
     ],
     [
       "Russ Darrow Group, Inc.",
@@ -84,15 +84,15 @@
       4
     ],
     [
+      "Drivemax USA",
+      3
+    ],
+    [
       "McCurley Dealerships",
       3
     ],
     [
       "LuxuryMotorCars",
-      3
-    ],
-    [
-      "Drivemax USA",
       3
     ],
     [
@@ -124,11 +124,11 @@
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
+      "Rohrich Automotive Group",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
@@ -136,11 +136,11 @@
       2
     ],
     [
-      "Lexus of Lehigh Valley",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       2
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Lexus of Lehigh Valley",
       2
     ],
     [
@@ -168,7 +168,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -184,11 +184,11 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Soave Automotive Group",
       1
     ],
     [
@@ -204,15 +204,15 @@
       1
     ],
     [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
       "Cornhusker Auto Center",
       1
     ],
     [
       "Generation Nissan",
-      1
-    ],
-    [
-      "Rawian Oy",
       1
     ],
     [
@@ -224,11 +224,11 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "Renny Bettan",
       1
     ],
     [
-      "Renny Bettan",
+      "autokuva_nobg",
       1
     ],
     [
@@ -244,10 +244,6 @@
       1
     ],
     [
-      "Frontier Auto Sales and Service",
-      1
-    ],
-    [
       "Twin Pine Ford",
       1
     ],
@@ -260,7 +256,7 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Ryan Buick GMC Cadillac",
       1
     ]
   ]
