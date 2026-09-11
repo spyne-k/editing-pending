@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T16:06:55.953Z",
+  "fetchedAt": "2026-09-11T16:22:58.779Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      60
+      64
     ],
     [
-      "Toronto Honda",
-      6
+      "Impex Auto Sales",
+      9
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -36,7 +36,7 @@
       4
     ],
     [
-      "Van Horn Automotive Group",
+      "Davidson Auto Group",
       3
     ],
     [
@@ -44,15 +44,15 @@
       2
     ],
     [
-      "Teton solutions Group",
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "ZT Automotive",
       2
     ],
     [
       "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Car Central",
       2
     ],
     [
@@ -72,7 +72,7 @@
       2
     ],
     [
-      "ZT Automotive",
+      "Car Central",
       2
     ],
     [
@@ -80,12 +80,12 @@
       2
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Teton solutions Group",
       2
     ],
     [
-      "Gettel Automotive Group",
-      1
+      "Simmons-Rockwell Automotive Dealerships",
+      2
     ],
     [
       "Generation Nissan",
@@ -108,7 +108,15 @@
       1
     ],
     [
+      "Mt Orab Chevy",
+      1
+    ],
+    [
       "Capital Chevrolet Inc.",
+      1
+    ],
+    [
+      "ROCHESTER VOLKSWAGEN",
       1
     ],
     [
@@ -116,11 +124,7 @@
       1
     ],
     [
-      "Glass Capital CDJR",
-      1
-    ],
-    [
-      "Mt Orab Chevy",
+      "Autos of Forney",
       1
     ],
     [
@@ -136,10 +140,6 @@
       1
     ],
     [
-      "INERCIKAR SA",
-      1
-    ],
-    [
       "Bob King",
       1
     ],
@@ -148,7 +148,7 @@
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Long Automotive Group",
       1
     ],
     [
