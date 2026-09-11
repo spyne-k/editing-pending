@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T12:22:47.119Z",
+  "fetchedAt": "2026-09-11T12:39:42.824Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      174
+      172
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -28,8 +28,8 @@
       19
     ],
     [
-      "Mark Miller Subaru, Inc.",
-      7
+      "Rawian Oy",
+      12
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
@@ -40,15 +40,11 @@
       5
     ],
     [
-      "Wood Motor Company",
-      5
-    ],
-    [
-      "North Park Lincoln",
+      "Flexcar",
       4
     ],
     [
-      "Flexcar",
+      "North Park Lincoln",
       4
     ],
     [
@@ -60,10 +56,6 @@
       4
     ],
     [
-      "Northstar Kia",
-      3
-    ],
-    [
       "McCurley Dealerships",
       3
     ],
@@ -72,12 +64,8 @@
       3
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
+      "Northstar Kia",
+      3
     ],
     [
       "Car Central",
@@ -100,6 +88,10 @@
       2
     ],
     [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
       "Rohrich Automotive Group",
       2
     ],
@@ -108,23 +100,23 @@
       2
     ],
     [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
       "Bud Clary Chevrolet, INC",
       2
     ],
     [
-      "Davidson Auto Group",
+      "Kempton Chevrolet",
       2
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "Pdx Wheels, Steals & Deals",
       1
     ],
     [
@@ -132,27 +124,7 @@
       1
     ],
     [
-      "Starling Chevrolet",
-      1
-    ],
-    [
-      "Midway Dodge",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "Lockwood Motors, Inc.",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -160,19 +132,19 @@
       1
     ],
     [
+      "Enterprise Motor Group",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      1
+    ],
+    [
       "Soave Automotive Group",
-      1
-    ],
-    [
-      "Dorsett Automotive",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
       1
     ],
     [
@@ -180,23 +152,11 @@
       1
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "ZT Automotive",
       1
     ],
     [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "autokuva_nobg",
-      1
-    ],
-    [
-      "Lexus Of Orland",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
+      "Dorsett Automotive",
       1
     ],
     [
@@ -204,7 +164,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Bergstrom Automotive",
       1
     ],
     [
@@ -212,7 +172,39 @@
       1
     ],
     [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "autokuva_nobg",
+      1
+    ],
+    [
+      "Midway Dodge",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Lexus Of Orland",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
       "Mt Orab Chevy",
+      1
+    ],
+    [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
