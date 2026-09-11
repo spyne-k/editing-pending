@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T10:12:01.174Z",
+  "fetchedAt": "2026-09-11T10:27:26.051Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      205
+      173
     ],
     [
       "Asbury Automotive Management L.L.C",
-      90
+      60
     ],
     [
       "Mark Miller Subaru, Inc.",
@@ -52,14 +52,6 @@
       4
     ],
     [
-      "Altawkilat",
-      4
-    ],
-    [
-      "North Park Lincoln",
-      4
-    ],
-    [
       "Rim Revolution LLC",
       4
     ],
@@ -68,19 +60,15 @@
       4
     ],
     [
+      "North Park Lincoln",
+      4
+    ],
+    [
       "Moffitt's Ford",
       4
     ],
     [
-      "Northstar Kia",
-      3
-    ],
-    [
       "McCurley Dealerships",
-      3
-    ],
-    [
-      "Ferris Chevrolet, Inc",
       3
     ],
     [
@@ -88,7 +76,19 @@
       3
     ],
     [
-      "Car Central",
+      "Northstar Kia",
+      3
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      3
+    ],
+    [
+      "VW of Duluth",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -104,19 +104,7 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
       "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "Davidson Auto Group",
       2
     ],
     [
@@ -124,15 +112,27 @@
       2
     ],
     [
-      "VW of Duluth",
+      "Faircy Automotive",
       2
     ],
     [
-      "Brandon Steven Motors",
+      "Car Central",
       2
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Sansone Jr's Auto Group",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -140,15 +140,15 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Forrester Lincoln",
       1
     ],
     [
-      "Emerald Motors",
+      "autokuva_nobg",
       1
     ],
     [
-      "Soave Automotive Group",
+      "Starling Chevrolet",
       1
     ],
     [
@@ -156,7 +156,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "ZT Automotive",
       1
     ],
     [
@@ -168,7 +168,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -176,7 +176,7 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Emerald Motors",
       1
     ],
     [
@@ -200,7 +200,7 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "Soave Automotive Group",
       1
     ],
     [
@@ -212,11 +212,11 @@
       1
     ],
     [
-      "Starling Chevrolet",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "ZT Automotive",
+      "Teton solutions Group",
       1
     ],
     [
@@ -224,7 +224,7 @@
       1
     ],
     [
-      "Forrester Lincoln",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
