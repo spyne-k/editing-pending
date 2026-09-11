@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T00:59:58.154Z",
+  "fetchedAt": "2026-09-11T01:14:37.016Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      313
+      310
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -36,15 +36,15 @@
       11
     ],
     [
+      "Volvo of Princeton Inc",
+      8
+    ],
+    [
       "Your Choice Auto LLC",
       8
     ],
     [
       "Apex Automotive Group",
-      8
-    ],
-    [
-      "Volvo of Princeton Inc",
       8
     ],
     [
@@ -68,15 +68,11 @@
       5
     ],
     [
-      "County Ford",
-      5
-    ],
-    [
       "Charlie Clark Hyundai",
       5
     ],
     [
-      "Altawkilat",
+      "Rim Revolution LLC",
       4
     ],
     [
@@ -84,15 +80,27 @@
       4
     ],
     [
+      "Altawkilat",
+      4
+    ],
+    [
+      "DealerVision.com",
+      4
+    ],
+    [
       "Integrity Auto Sales",
       4
     ],
     [
-      "Rim Revolution LLC",
-      4
+      "Flexcar",
+      3
     ],
     [
-      "Northstar Kia",
+      "McCurley Dealerships",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
       3
     ],
     [
@@ -104,15 +112,7 @@
       3
     ],
     [
-      "DealerVision.com",
-      3
-    ],
-    [
-      "Flexcar",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
+      "Northstar Kia",
       3
     ],
     [
@@ -120,16 +120,8 @@
       3
     ],
     [
-      "McCurley Dealerships",
+      "Hatimi Auto LLC",
       3
-    ],
-    [
-      "greenway auto group 2",
-      2
-    ],
-    [
-      "Sithari Cars Limited",
-      2
     ],
     [
       "Car Central",
@@ -140,7 +132,31 @@
       2
     ],
     [
+      "Expert Auto Group",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Kempton Chevrolet",
+      2
+    ],
+    [
       "Yoder Family of Companies",
+      2
+    ],
+    [
+      "greenway auto group 2",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -152,35 +168,31 @@
       2
     ],
     [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
       "Davidson Auto Group",
       2
     ],
     [
-      "Expert Auto Group",
-      2
+      "Cornhusker Auto Center",
+      1
     ],
     [
       "Hewlett Volkswagen, LP",
       1
     ],
     [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
       "Velocity Auto Haus",
+      1
+    ],
+    [
+      "EV Car Company",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
@@ -192,11 +204,7 @@
       1
     ],
     [
-      "Wharton Ford",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
+      "H&K Chevrolet Family Auto",
       1
     ],
     [
@@ -204,23 +212,11 @@
       1
     ],
     [
-      "Eastern Digital",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "EV Car Company",
-      1
-    ],
-    [
       "Car Hop Auto Sales & Finance",
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Eastern Digital",
       1
     ],
     [
@@ -232,11 +228,11 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Wharton Ford",
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "Speedway Car Sales",
       1
     ]
   ]
