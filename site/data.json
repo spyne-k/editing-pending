@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T16:22:58.779Z",
+  "fetchedAt": "2026-09-11T16:36:11.593Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      64
+      71
     ],
     [
       "Impex Auto Sales",
       9
+    ],
+    [
+      "LUXURY IMPORTS",
+      4
     ],
     [
       "Amato Hyundai Of Glendale",
@@ -36,19 +40,19 @@
       4
     ],
     [
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
       "Davidson Auto Group",
       3
     ],
     [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
       "Flexcar",
-      2
-    ],
-    [
-      "Gettel Automotive Group",
-      2
-    ],
-    [
-      "ZT Automotive",
       2
     ],
     [
@@ -64,7 +68,7 @@
       2
     ],
     [
-      "Wood Motor Company",
+      "Car Central",
       2
     ],
     [
@@ -72,7 +76,7 @@
       2
     ],
     [
-      "Car Central",
+      "Wood Motor Company",
       2
     ],
     [
@@ -80,19 +84,19 @@
       2
     ],
     [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "ZT Automotive",
+      2
+    ],
+    [
       "Teton solutions Group",
-      2
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      2
-    ],
-    [
-      "Generation Nissan",
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Generation Nissan",
       1
     ],
     [
@@ -100,15 +104,15 @@
       1
     ],
     [
-      "Apex Automotive Group",
+      "Long Automotive Group",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
       1
     ],
     [
       "Rochester Toyota",
-      1
-    ],
-    [
-      "Mt Orab Chevy",
       1
     ],
     [
@@ -124,7 +128,7 @@
       1
     ],
     [
-      "Autos of Forney",
+      "Mt Orab Chevy",
       1
     ],
     [
@@ -136,7 +140,15 @@
       1
     ],
     [
+      "Toronto Honda",
+      1
+    ],
+    [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Autos of Forney",
       1
     ],
     [
@@ -148,12 +160,8 @@
       1
     ],
     [
-      "Long Automotive Group",
+      "Beadle Ford, INC.",
       1
-    ],
-    [
-      "LUXURY IMPORTS",
-      0
     ]
   ]
 }
