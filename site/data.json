@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T13:34:04.747Z",
+  "fetchedAt": "2026-09-11T13:46:39.067Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      163
+      167
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -29,11 +29,15 @@
     ],
     [
       "Gettel Automotive Group",
-      7
+      8
     ],
     [
       "Worldwide Motors LTD dba Paragon Acura",
       5
+    ],
+    [
+      "Jim Schmidt Automotive",
+      4
     ],
     [
       "Starling Auto Group",
@@ -60,19 +64,19 @@
       3
     ],
     [
-      "Greenway Automotive Group",
-      3
-    ],
-    [
       "McCurley Dealerships",
       3
     ],
     [
-      "Northstar Kia",
+      "Greenway Automotive Group",
       3
     ],
     [
-      "Jim Schmidt Automotive",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "Northstar Kia",
       3
     ],
     [
@@ -89,10 +93,6 @@
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
       2
     ],
     [
@@ -128,6 +128,10 @@
       1
     ],
     [
+      "Davidson Auto Group",
+      1
+    ],
+    [
       "Volvo of Princeton Inc",
       1
     ],
@@ -140,11 +144,11 @@
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "White Bear Lincoln",
       1
     ],
     [
-      "White Bear Lincoln",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
