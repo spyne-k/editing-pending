@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T04:41:21.635Z",
+  "fetchedAt": "2026-09-11T04:52:32.989Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      242
+      248
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -48,27 +48,27 @@
       9
     ],
     [
-      "Apex Automotive Group",
-      8
-    ],
-    [
       "Volvo of Princeton Inc",
       8
     ],
     [
-      "Kian Motors INC",
-      7
+      "Apex Automotive Group",
+      8
     ],
     [
       "Russ Darrow Group, Inc.",
       7
     ],
     [
-      "World Car Auto Group",
-      6
+      "Lexus Of Orland",
+      7
     ],
     [
-      "Lexus Of Orland",
+      "Kian Motors INC",
+      7
+    ],
+    [
+      "World Car Auto Group",
       6
     ],
     [
@@ -80,15 +80,11 @@
       5
     ],
     [
-      "Flexcar",
-      4
-    ],
-    [
       "Rim Revolution LLC",
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Flexcar",
       4
     ],
     [
@@ -96,11 +92,15 @@
       4
     ],
     [
-      "West Mitsubishi",
-      3
+      "McLeod Auto Sales",
+      4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Bud Clary Chevrolet, INC",
+      4
+    ],
+    [
+      "Wood Motor Company",
       3
     ],
     [
@@ -108,11 +108,7 @@
       3
     ],
     [
-      "Northstar Kia",
-      3
-    ],
-    [
-      "Wood Motor Company",
+      "West Mitsubishi",
       3
     ],
     [
@@ -120,51 +116,19 @@
       3
     ],
     [
+      "Northstar Kia",
+      3
+    ],
+    [
       "greenway auto group 2",
       3
     ],
     [
-      "McLeod Auto Sales",
-      2
+      "Simmons-Rockwell Automotive Dealerships",
+      3
     ],
     [
       "Volvo Cars Palm Springs",
-      2
-    ],
-    [
-      "Lexus of Merrillville",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Midway Dodge",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Toyota of Massapequa",
       2
     ],
     [
@@ -172,11 +136,59 @@
       2
     ],
     [
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Midway Dodge",
+      2
+    ],
+    [
+      "Lexus of Merrillville",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "Toyota of Massapequa",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "4 Season Motors LLC",
+      1
+    ],
+    [
+      "New Deal Pre-Owned Autos",
+      1
+    ],
+    [
+      "Mount Airy Nissan",
+      1
+    ],
+    [
       "Hewlett Volkswagen, LP",
       1
     ],
     [
-      "Wharton Ford",
+      "Teton solutions Group",
       1
     ],
     [
@@ -192,7 +204,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
@@ -204,7 +216,7 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "ZT Automotive",
       1
     ],
     [
@@ -212,7 +224,7 @@
       1
     ],
     [
-      "4 Season Motors LLC",
+      "Generation Nissan",
       1
     ],
     [
@@ -220,11 +232,11 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Wharton Ford",
       1
     ],
     [
-      "Generation Nissan",
+      "Davis Ford",
       1
     ]
   ]
