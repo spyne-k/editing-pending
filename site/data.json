@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T04:52:32.989Z",
+  "fetchedAt": "2026-09-11T05:03:21.983Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      248
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      35
+      218
     ],
     [
       "AutoGiant USA",
@@ -80,10 +76,6 @@
       5
     ],
     [
-      "Rim Revolution LLC",
-      4
-    ],
-    [
       "Flexcar",
       4
     ],
@@ -92,7 +84,7 @@
       4
     ],
     [
-      "McLeod Auto Sales",
+      "Rim Revolution LLC",
       4
     ],
     [
@@ -100,7 +92,11 @@
       4
     ],
     [
-      "Wood Motor Company",
+      "McLeod Auto Sales",
+      4
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
@@ -108,7 +104,7 @@
       3
     ],
     [
-      "West Mitsubishi",
+      "Northstar Kia",
       3
     ],
     [
@@ -116,7 +112,7 @@
       3
     ],
     [
-      "Northstar Kia",
+      "West Mitsubishi",
       3
     ],
     [
@@ -124,35 +120,11 @@
       3
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Wood Motor Company",
       3
     ],
     [
-      "Volvo Cars Palm Springs",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Midway Dodge",
-      2
-    ],
-    [
-      "Lexus of Merrillville",
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -160,7 +132,19 @@
       2
     ],
     [
-      "Brandon Steven Motors",
+      "Midway Dodge",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
       2
     ],
     [
@@ -168,11 +152,23 @@
       2
     ],
     [
+      "Car Central",
+      2
+    ],
+    [
+      "Lexus of Merrillville",
+      2
+    ],
+    [
       "Davidson Auto Group",
       2
     ],
     [
-      "4 Season Motors LLC",
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Davis Ford",
       1
     ],
     [
@@ -180,7 +176,23 @@
       1
     ],
     [
+      "4 Season Motors LLC",
+      1
+    ],
+    [
       "Mount Airy Nissan",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Clear Auto Dartmouth",
       1
     ],
     [
@@ -188,7 +200,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Perkins Motors",
       1
     ],
     [
@@ -216,7 +228,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "County Ford",
       1
     ],
     [
@@ -228,6 +240,10 @@
       1
     ],
     [
+      "Frontier Auto Sales and Service",
+      1
+    ],
+    [
       "Bob Johnson Automotive Group",
       1
     ],
@@ -236,7 +252,7 @@
       1
     ],
     [
-      "Davis Ford",
+      "Auto Dobrovolny V.M. s.r.o.",
       1
     ]
   ]
