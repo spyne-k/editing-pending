@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T14:25:07.011Z",
+  "fetchedAt": "2026-09-11T14:39:12.665Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      156
+      105
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      60
+      "ZT Automotive",
+      12
     ],
     [
       "Gettel Automotive Group",
@@ -36,6 +36,10 @@
       5
     ],
     [
+      "Jim Schmidt Automotive",
+      4
+    ],
+    [
       "Yemm Auto",
       4
     ],
@@ -44,11 +48,11 @@
       4
     ],
     [
-      "Rim Revolution LLC",
+      "North Park Lincoln",
       4
     ],
     [
-      "North Park Lincoln",
+      "Rim Revolution LLC",
       4
     ],
     [
@@ -56,19 +60,7 @@
       4
     ],
     [
-      "Jim Schmidt Automotive",
-      4
-    ],
-    [
-      "Sansone Jr's Auto Group",
-      3
-    ],
-    [
       "Northstar Kia",
-      3
-    ],
-    [
-      "ZT Automotive",
       3
     ],
     [
@@ -80,7 +72,39 @@
       3
     ],
     [
+      "Sansone Jr's Auto Group",
+      3
+    ],
+    [
+      "AX Auto INC",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "DealerVision.com",
+      2
+    ],
+    [
       "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Turpin Dodge Chrysler Jeep Ram",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Faircy Automotive",
       2
     ],
     [
@@ -92,43 +116,7 @@
       2
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "AX Auto INC",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Turpin Dodge Chrysler Jeep Ram",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Midway Dodge",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -136,39 +124,11 @@
       1
     ],
     [
-      "Glass Capital CDJR",
-      1
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "The Used Car Guys GMBH",
-      1
-    ],
-    [
-      "INERCIKAR SA",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "autokuva_nobg",
-      1
-    ],
-    [
       "Volvo of Princeton Inc",
       1
     ],
     [
-      "Lexus Of Orland",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -176,7 +136,15 @@
       1
     ],
     [
+      "Glass Capital CDJR",
+      1
+    ],
+    [
       "Soave Automotive Group",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
       1
     ],
     [
@@ -184,11 +152,39 @@
       1
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "Generation Nissan",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
+      1
+    ],
+    [
+      "Lexus Of Orland",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Midway Dodge",
       1
     ],
     [
       "Mt Orab Chevy",
+      1
+    ],
+    [
+      "INERCIKAR SA",
+      1
+    ],
+    [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
