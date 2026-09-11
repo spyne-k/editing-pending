@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T13:56:25.877Z",
+  "fetchedAt": "2026-09-11T14:09:41.419Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,27 @@
   "rows": [
     [
       null,
-      168
+      151
     ],
     [
       "Asbury Automotive Management L.L.C",
       60
     ],
     [
-      "Rawian Oy",
-      16
-    ],
-    [
       "Gettel Automotive Group",
       9
     ],
     [
+      "Wood Motor Company",
+      5
+    ],
+    [
       "Worldwide Motors LTD dba Paragon Acura",
       5
+    ],
+    [
+      "Yemm Auto",
+      4
     ],
     [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
@@ -44,11 +48,11 @@
       4
     ],
     [
-      "Yemm Auto",
+      "Starling Auto Group",
       4
     ],
     [
-      "Starling Auto Group",
+      "North Park Lincoln",
       4
     ],
     [
@@ -56,12 +60,12 @@
       4
     ],
     [
-      "Wood Motor Company",
-      4
+      "Sansone Jr's Auto Group",
+      3
     ],
     [
-      "North Park Lincoln",
-      4
+      "ZT Automotive",
+      3
     ],
     [
       "Greenway Automotive Group",
@@ -72,15 +76,11 @@
       3
     ],
     [
-      "Sansone Jr's Auto Group",
-      3
-    ],
-    [
-      "Flexcar",
+      "Rohrich Automotive Group",
       2
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "DealerVision.com",
       2
     ],
     [
@@ -96,10 +96,6 @@
       2
     ],
     [
-      "Turpin Dodge Chrysler Jeep Ram",
-      2
-    ],
-    [
       "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
@@ -108,27 +104,19 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Turpin Dodge Chrysler Jeep Ram",
       2
     ],
     [
-      "DealerVision.com",
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
-      "ZT Automotive",
-      2
-    ],
-    [
-      "Generation Nissan",
+      "Glass Capital CDJR",
       1
     ],
     [
-      "Lexus Of Orland",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
+      "Jenkins Auto Group",
       1
     ],
     [
@@ -136,7 +124,15 @@
       1
     ],
     [
-      "Glass Capital CDJR",
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Generation Nissan",
+      1
+    ],
+    [
+      "Mt Orab Chevy",
       1
     ],
     [
@@ -148,31 +144,11 @@
       1
     ],
     [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
       "Volvo of Princeton Inc",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "White Bear Lincoln",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "Midway Dodge",
-      1
-    ],
-    [
-      "Soave Automotive Group",
-      1
-    ],
-    [
-      "Mt Orab Chevy",
       1
     ],
     [
@@ -180,11 +156,23 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Lexus Of Orland",
+      1
+    ],
+    [
+      "AX Auto INC",
+      1
+    ],
+    [
+      "Soave Automotive Group",
+      1
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
@@ -192,7 +180,7 @@
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Midway Dodge",
       1
     ],
     [
