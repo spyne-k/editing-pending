@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T14:39:12.665Z",
+  "fetchedAt": "2026-09-11T14:51:44.469Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      105
+      101
     ],
     [
       "ZT Automotive",
@@ -28,15 +28,15 @@
       9
     ],
     [
-      "Wood Motor Company",
-      5
-    ],
-    [
       "Worldwide Motors LTD dba Paragon Acura",
       5
     ],
     [
-      "Jim Schmidt Automotive",
+      "Wood Motor Company",
+      5
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       4
     ],
     [
@@ -44,15 +44,11 @@
       4
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      4
-    ],
-    [
-      "North Park Lincoln",
-      4
-    ],
-    [
       "Rim Revolution LLC",
+      4
+    ],
+    [
+      "Toronto Honda",
       4
     ],
     [
@@ -60,15 +56,15 @@
       4
     ],
     [
-      "Northstar Kia",
-      3
+      "Jim Schmidt Automotive",
+      4
+    ],
+    [
+      "North Park Lincoln",
+      4
     ],
     [
       "Greenway Automotive Group",
-      3
-    ],
-    [
-      "Flexcar",
       3
     ],
     [
@@ -76,19 +72,19 @@
       3
     ],
     [
-      "AX Auto INC",
-      2
+      "Flexcar",
+      3
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "DealerVision.com",
+      "Simmons-Rockwell Automotive Dealerships",
       2
     ],
     [
       "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -100,10 +96,6 @@
       2
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
       "Faircy Automotive",
       2
     ],
@@ -112,11 +104,11 @@
       2
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "DealerVision.com",
       2
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Generation Nissan",
       1
     ],
     [
@@ -124,39 +116,7 @@
       1
     ],
     [
-      "Volvo of Princeton Inc",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Glass Capital CDJR",
-      1
-    ],
-    [
-      "Soave Automotive Group",
-      1
-    ],
-    [
-      "The Used Car Guys GMBH",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
+      "Apex Automotive Group",
       1
     ],
     [
@@ -164,11 +124,31 @@
       1
     ],
     [
-      "Toronto Honda",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Glass Capital CDJR",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
+      1
+    ],
+    [
+      "Volvo of Princeton Inc",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Soave Automotive Group",
+      1
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
@@ -180,11 +160,19 @@
       1
     ],
     [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
       "INERCIKAR SA",
       1
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "Icon Motors Group of Framingham",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
