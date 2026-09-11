@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T12:53:21.884Z",
+  "fetchedAt": "2026-09-11T13:02:52.201Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      166
+      169
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -76,19 +76,19 @@
       2
     ],
     [
-      "DealerVision.com",
-      2
-    ],
-    [
       "Yoder Family of Companies",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "DealerVision.com",
       2
     ],
     [
       "Turpin Dodge Chrysler Jeep Ram",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -100,11 +100,15 @@
       2
     ],
     [
+      "Starling Auto Group",
+      2
+    ],
+    [
       "Kempton Chevrolet",
       2
     ],
     [
-      "Starling Chevrolet",
+      "Car Capital LTD",
       1
     ],
     [
@@ -124,7 +128,15 @@
       1
     ],
     [
+      "Soave Automotive Group",
+      1
+    ],
+    [
       "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -132,11 +144,7 @@
       1
     ],
     [
-      "Soave Automotive Group",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
+      "Teton solutions Group",
       1
     ],
     [
@@ -152,11 +160,11 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Generation Nissan",
       1
     ],
     [
-      "Generation Nissan",
+      "ZT Automotive",
       1
     ],
     [
@@ -168,15 +176,11 @@
       1
     ],
     [
-      "ZT Automotive",
+      "autokuva_nobg",
       1
     ],
     [
       "Greenway Automotive Group",
-      1
-    ],
-    [
-      "autokuva_nobg",
       1
     ],
     [
@@ -189,6 +193,10 @@
     ],
     [
       "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      1
+    ],
+    [
+      "Starling Chevrolet",
       1
     ],
     [
