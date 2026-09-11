@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T09:48:36.592Z",
+  "fetchedAt": "2026-09-11T09:57:40.372Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      206
+      199
     ],
     [
       "Asbury Automotive Management L.L.C",
-      74
-    ],
-    [
-      "Starling Auto Group",
-      7
+      84
     ],
     [
       "Mark Miller Subaru, Inc.",
@@ -33,10 +29,6 @@
     ],
     [
       "World Car Auto Group",
-      6
-    ],
-    [
-      "Icon Motors Group of Framingham",
       6
     ],
     [
@@ -60,15 +52,15 @@
       4
     ],
     [
+      "Altawkilat",
+      4
+    ],
+    [
       "North Park Lincoln",
       4
     ],
     [
       "Rim Revolution LLC",
-      4
-    ],
-    [
-      "Altawkilat",
       4
     ],
     [
@@ -80,11 +72,7 @@
       4
     ],
     [
-      "Drivemax USA",
-      3
-    ],
-    [
-      "Auto Exchange Group",
+      "Northstar Kia",
       3
     ],
     [
@@ -100,8 +88,8 @@
       3
     ],
     [
-      "Northstar Kia",
-      3
+      "Car Central",
+      2
     ],
     [
       "Bob Johnson Automotive Group",
@@ -112,27 +100,7 @@
       2
     ],
     [
-      "VW of Duluth",
-      2
-    ],
-    [
       "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "Olson Chevrolet",
       2
     ],
     [
@@ -140,7 +108,11 @@
       2
     ],
     [
-      "Brandon Steven Motors",
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Faircy Automotive",
       2
     ],
     [
@@ -148,35 +120,23 @@
       2
     ],
     [
-      "Hewlett Volkswagen, LP",
-      1
+      "Olson Chevrolet",
+      2
     ],
     [
-      "autokuva_nobg",
-      1
+      "VW of Duluth",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
+      2
     ],
     [
       "New Deal Pre-Owned Autos",
       1
     ],
     [
-      "Emerald Motors",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "Lockwood Motors, Inc.",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
@@ -184,11 +144,47 @@
       1
     ],
     [
-      "Bergstrom Automotive",
+      "Emerald Motors",
       1
     ],
     [
       "Soave Automotive Group",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      1
+    ],
+    [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
@@ -200,19 +196,7 @@
       1
     ],
     [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
+      "autokuva_nobg",
       1
     ],
     [
@@ -220,15 +204,23 @@
       1
     ],
     [
-      "Generation Nissan",
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "ZT Automotive",
       1
     ],
     [
       "Mt Orab Chevy",
-      1
-    ],
-    [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
