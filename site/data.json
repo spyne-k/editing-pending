@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T19:19:13.663Z",
+  "fetchedAt": "2026-09-11T21:46:47.826Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,22 @@
   "rows": [
     [
       null,
-      107
+      110
     ],
     [
       "KASS Bladel-Reusel BV",
       32
     ],
     [
-      "Impex Auto Sales",
+      "Greenway Automotive Group",
       9
-    ],
-    [
-      "Toronto Honda",
-      9
-    ],
-    [
-      "ZT Automotive",
-      5
     ],
     [
       "LUXURY IMPORTS",
+      6
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       5
     ],
     [
@@ -44,19 +40,23 @@
       4
     ],
     [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      4
+    ],
+    [
       "Rim Revolution LLC",
       4
     ],
     [
-      "Teton solutions Group",
+      "Toronto Honda",
       4
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Bob Johnson Automotive Group",
       3
     ],
     [
-      "Rohrich Automotive Group",
+      "Olympic Hyundai Vancouver",
       3
     ],
     [
@@ -64,19 +64,31 @@
       3
     ],
     [
-      "Greenway Automotive Group",
+      "DealerVision.com",
       3
     ],
     [
-      "DealerVision.com",
+      "Flexcar",
       2
     ],
     [
-      "Audi Cape Fear",
+      "Rohrich Automotive Group",
       2
     ],
     [
-      "Olson Chevrolet",
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Euro Motorcars",
+      2
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      2
+    ],
+    [
+      "Performance Auto Group",
       2
     ],
     [
@@ -84,27 +96,31 @@
       2
     ],
     [
-      "Flexcar",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
       "Generation Nissan",
       1
     ],
     [
-      "Mt Orab Chevy",
+      "Watermark Auto Group",
       1
     ],
     [
-      "World Car Auto Group",
+      "AX Auto INC",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Platinum Cars",
+      1
+    ],
+    [
+      "Jim Schmidt Automotive",
       1
     ],
     [
@@ -112,11 +128,7 @@
       1
     ],
     [
-      "Autos of Forney",
-      1
-    ],
-    [
-      "Blasius Buick GMC",
+      "Emerald Motors",
       1
     ],
     [
@@ -128,16 +140,28 @@
       1
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Mt Orab Chevy",
       1
     ],
     [
-      "Autoplex 2000 and All Star Buick GMC truck",
+      "INERCIKAR SA",
       1
     ],
     [
-      "Icon Motors Group of Framingham",
+      "Best Deal Auto Sales, INC.",
       1
+    ],
+    [
+      "MEI Inc",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "carvago2",
+      0
     ]
   ]
 }
