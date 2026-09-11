@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T06:41:32.517Z",
+  "fetchedAt": "2026-09-11T06:55:38.114Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      237
-    ],
-    [
-      "Springfield Luxury Automall",
-      17
+      229
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -32,8 +28,8 @@
       10
     ],
     [
-      "Lexus Of Orland",
-      8
+      "Renny Bettan",
+      10
     ],
     [
       "Volvo of Princeton Inc",
@@ -48,12 +44,16 @@
       8
     ],
     [
-      "Renny Bettan",
+      "Perkins Motors",
       8
     ],
     [
       "Joshua Trownsell",
       8
+    ],
+    [
+      "Kian Motors INC",
+      7
     ],
     [
       "Mark Miller Subaru, Inc.",
@@ -64,15 +64,11 @@
       7
     ],
     [
-      "Perkins Motors",
-      7
-    ],
-    [
-      "Kian Motors INC",
-      7
-    ],
-    [
       "World Car Auto Group",
+      6
+    ],
+    [
+      "Icon Motors Group of Framingham",
       6
     ],
     [
@@ -80,8 +76,20 @@
       5
     ],
     [
+      "Wood Motor Company",
+      5
+    ],
+    [
+      "Hawthorne Auto Square",
+      5
+    ],
+    [
       "Charlie Clark Hyundai",
       5
+    ],
+    [
+      "McLeod Auto Sales",
+      4
     ],
     [
       "Altawkilat",
@@ -104,8 +112,8 @@
       4
     ],
     [
-      "McLeod Auto Sales",
-      4
+      "greenway auto group 2",
+      3
     ],
     [
       "McCurley Dealerships",
@@ -116,19 +124,11 @@
       3
     ],
     [
-      "Icon Motors Group of Framingham",
+      "LuxuryMotorCars",
       3
     ],
     [
       "Post Oak Toyota",
-      3
-    ],
-    [
-      "Wood Motor Company",
-      3
-    ],
-    [
-      "greenway auto group 2",
       3
     ],
     [
@@ -140,19 +140,15 @@
       3
     ],
     [
+      "County Ford",
+      2
+    ],
+    [
       "VW of Duluth",
       2
     ],
     [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "LuxuryMotorCars",
-      2
-    ],
-    [
-      "Olson Chevrolet",
+      "Volvo Cars Palm Springs",
       2
     ],
     [
@@ -160,19 +156,11 @@
       2
     ],
     [
-      "Midway Dodge",
+      "Rohrich Automotive Group",
       2
     ],
     [
       "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Lexus of Merrillville",
       2
     ],
     [
@@ -184,15 +172,23 @@
       2
     ],
     [
-      "County Ford",
+      "S&S Motors",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Olson Chevrolet",
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "Car Central",
+      2
+    ],
+    [
+      "Toyota of Massapequa",
+      2
+    ],
+    [
+      "Davidson Auto Group",
       2
     ],
     [
@@ -204,19 +200,15 @@
       2
     ],
     [
-      "Toyota of Massapequa",
-      2
-    ],
-    [
-      "Clear Auto Dartmouth",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "Auto Exchange Group",
+      "Davis Ford",
       1
     ],
     [
-      "Rawian Oy",
+      "Forrester Lincoln",
       1
     ],
     [
@@ -224,27 +216,11 @@
       1
     ],
     [
-      "4 Season Motors LLC",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
       "ZT Automotive",
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "autokuva_nobg",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
+      "Auto Exchange Group",
       1
     ],
     [
@@ -256,6 +232,46 @@
       1
     ],
     [
+      "Clear Auto Dartmouth",
+      1
+    ],
+    [
+      "autokuva_nobg",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Lexus Of Orland",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      1
+    ],
+    [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "LUXURY IMPORTS",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "NJ Auto Haus",
+      1
+    ],
+    [
+      "Emerald Motors",
+      1
+    ],
+    [
       "H&K Chevrolet Family Auto",
       1
     ],
@@ -264,11 +280,11 @@
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "Teton solutions Group",
       1
     ],
     [
-      "Twin Pine Ford",
+      "Moffitt's Ford",
       1
     ],
     [
@@ -280,11 +296,7 @@
       1
     ],
     [
-      "NJ Auto Haus",
-      1
-    ],
-    [
-      "Davis Ford",
+      "Twin Pine Ford",
       1
     ],
     [
@@ -292,15 +304,15 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
-      "Teton solutions Group",
+      "Rawian Oy",
       1
     ],
     [
-      "LUXURY IMPORTS",
+      "4 Season Motors LLC",
       1
     ]
   ]
