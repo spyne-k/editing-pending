@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T03:21:42.902Z",
+  "fetchedAt": "2026-09-11T03:34:53.043Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      274
+      201
     ],
     [
       "Asbury Automotive Management L.L.C",
-      101
+      25
     ],
     [
       "Springfield Luxury Automall",
-      13
+      16
     ],
     [
       "KASS Bladel-Reusel BV",
