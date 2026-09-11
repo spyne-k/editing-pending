@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T03:57:09.768Z",
+  "fetchedAt": "2026-09-11T04:12:02.972Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      211
+      222
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -29,7 +29,7 @@
     ],
     [
       "Springfield Luxury Automall",
-      16
+      17
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -60,6 +60,10 @@
       7
     ],
     [
+      "Kian Motors INC",
+      7
+    ],
+    [
       "World Car Auto Group",
       6
     ],
@@ -76,11 +80,11 @@
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Altawkilat",
       4
     ],
     [
-      "Altawkilat",
+      "Bud Clary Chevrolet, INC",
       4
     ],
     [
@@ -96,11 +100,11 @@
       3
     ],
     [
-      "Wood Motor Company",
+      "McCurley Dealerships",
       3
     ],
     [
-      "McCurley Dealerships",
+      "Wood Motor Company",
       3
     ],
     [
@@ -112,19 +116,27 @@
       3
     ],
     [
+      "West Mitsubishi",
+      3
+    ],
+    [
       "Brandon Steven Motors",
       2
     ],
     [
-      "Davidson Auto Group",
+      "Volvo Cars Palm Springs",
       2
     ],
     [
-      "Midway Dodge",
+      "Olson Chevrolet",
       2
     ],
     [
       "Car Central",
+      2
+    ],
+    [
+      "Midway Dodge",
       2
     ],
     [
@@ -136,23 +148,19 @@
       2
     ],
     [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Kian Motors INC",
-      2
-    ],
-    [
-      "Volvo Cars Palm Springs",
-      2
-    ],
-    [
       "Rohrich Automotive Group",
       2
     ],
     [
-      "Cornhusker Auto Center",
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "Toyota of Massapequa",
+      2
+    ],
+    [
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
@@ -160,11 +168,11 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "ZT Automotive",
       1
     ],
     [
@@ -176,7 +184,7 @@
       1
     ],
     [
-      "4 Season Motors LLC",
+      "Teton solutions Group",
       1
     ],
     [
@@ -188,7 +196,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -196,7 +204,7 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "4 Season Motors LLC",
       1
     ],
     [
@@ -208,7 +216,7 @@
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "Speedway Car Sales",
       1
     ]
   ]
