@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T04:27:36.517Z",
+  "fetchedAt": "2026-09-11T04:41:21.635Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      235
+      242
     ],
     [
       "Asbury Automotive Management L.L.C",
-      34
+      35
     ],
     [
       "AutoGiant USA",
-      20
+      21
     ],
     [
       "Springfield Luxury Automall",
@@ -48,19 +48,19 @@
       9
     ],
     [
-      "Volvo of Princeton Inc",
-      8
-    ],
-    [
       "Apex Automotive Group",
       8
     ],
     [
-      "Russ Darrow Group, Inc.",
-      7
+      "Volvo of Princeton Inc",
+      8
     ],
     [
       "Kian Motors INC",
+      7
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       7
     ],
     [
@@ -68,19 +68,23 @@
       6
     ],
     [
-      "Charlie Clark Hyundai",
-      5
+      "Lexus Of Orland",
+      6
     ],
     [
       "Starling Auto Group",
       5
     ],
     [
-      "Rim Revolution LLC",
+      "Charlie Clark Hyundai",
+      5
+    ],
+    [
+      "Flexcar",
       4
     ],
     [
-      "Altawkilat",
+      "Rim Revolution LLC",
       4
     ],
     [
@@ -88,11 +92,11 @@
       4
     ],
     [
-      "Flexcar",
+      "Altawkilat",
       4
     ],
     [
-      "Northstar Kia",
+      "West Mitsubishi",
       3
     ],
     [
@@ -100,11 +104,11 @@
       3
     ],
     [
-      "Lexus Of Orland",
+      "McCurley Dealerships",
       3
     ],
     [
-      "McCurley Dealerships",
+      "Northstar Kia",
       3
     ],
     [
@@ -112,27 +116,23 @@
       3
     ],
     [
-      "greenway auto group 2",
-      3
-    ],
-    [
       "Freedom Chevrolet",
       3
     ],
     [
-      "West Mitsubishi",
+      "greenway auto group 2",
       3
     ],
     [
-      "Brandon Steven Motors",
+      "McLeod Auto Sales",
       2
     ],
     [
-      "Toyota of Massapequa",
+      "Volvo Cars Palm Springs",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Lexus of Merrillville",
       2
     ],
     [
@@ -140,11 +140,15 @@
       2
     ],
     [
-      "Car Central",
+      "Rohrich Automotive Group",
       2
     ],
     [
       "Midway Dodge",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -156,27 +160,23 @@
       2
     ],
     [
-      "Volvo Cars Palm Springs",
-      2
-    ],
-    [
       "Davidson Auto Group",
       2
     ],
     [
-      "Lexus of Merrillville",
-      1
+      "Toyota of Massapequa",
+      2
     ],
     [
-      "ZT Automotive",
-      1
+      "Car Central",
+      2
     ],
     [
       "Hewlett Volkswagen, LP",
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Wharton Ford",
       1
     ],
     [
@@ -184,7 +184,7 @@
       1
     ],
     [
-      "Generation Nissan",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -192,7 +192,7 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Teton solutions Group",
       1
     ],
     [
@@ -204,7 +204,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -220,11 +220,11 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "ZT Automotive",
       1
     ],
     [
-      "Wharton Ford",
+      "Generation Nissan",
       1
     ]
   ]
