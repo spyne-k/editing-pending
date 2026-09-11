@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T15:44:28.023Z",
+  "fetchedAt": "2026-09-11T15:55:02.298Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      48
+      47
     ],
     [
       "Toronto Honda",
       6
-    ],
-    [
-      "Jim Schmidt Automotive",
-      4
     ],
     [
       "North Park Lincoln",
@@ -36,15 +32,7 @@
       2
     ],
     [
-      "Teton solutions Group",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "DealerVision.com",
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -52,11 +40,15 @@
       2
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Car Central",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "ZT Automotive",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
@@ -68,7 +60,23 @@
       2
     ],
     [
+      "Teton solutions Group",
+      2
+    ],
+    [
       "Flexcar",
+      2
+    ],
+    [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Apex Automotive Group",
+      1
+    ],
+    [
+      "Bob King",
       1
     ],
     [
@@ -76,31 +84,7 @@
       1
     ],
     [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Volvo of Princeton Inc",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Apex Automotive Group",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "INERCIKAR SA",
+      "Petersen CDJR",
       1
     ],
     [
@@ -108,11 +92,23 @@
       1
     ],
     [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "INERCIKAR SA",
+      1
+    ],
+    [
       "Glass Capital CDJR",
       1
     ],
     [
-      "The Used Car Guys GMBH",
+      "Jenkins Auto Group",
       1
     ],
     [
@@ -124,11 +120,15 @@
       1
     ],
     [
-      "Petersen CDJR",
+      "Rochester Toyota",
       1
     ],
     [
       "Icon Motors Group of Framingham",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
       1
     ],
     [
