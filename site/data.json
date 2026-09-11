@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T01:51:15.612Z",
+  "fetchedAt": "2026-09-11T01:59:36.338Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -40,11 +40,11 @@
       9
     ],
     [
-      "Volvo of Princeton Inc",
+      "Apex Automotive Group",
       8
     ],
     [
-      "Apex Automotive Group",
+      "Volvo of Princeton Inc",
       8
     ],
     [
@@ -52,11 +52,11 @@
       8
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "MP auto Sales LLC DBA Carizona",
       7
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
+      "Russ Darrow Group, Inc.",
       7
     ],
     [
@@ -76,18 +76,6 @@
       5
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
-      "DealerVision.com",
-      4
-    ],
-    [
-      "Rim Revolution LLC",
-      4
-    ],
-    [
       "Flexcar",
       4
     ],
@@ -96,11 +84,23 @@
       4
     ],
     [
-      "Jenkins Auto Group",
-      3
+      "Rim Revolution LLC",
+      4
     ],
     [
-      "McCurley Dealerships",
+      "Bud Clary Chevrolet, INC",
+      4
+    ],
+    [
+      "DealerVision.com",
+      4
+    ],
+    [
+      "AutoGiant USA",
+      4
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
@@ -108,19 +108,11 @@
       3
     ],
     [
-      "Kian Motors INC",
+      "McCurley Dealerships",
       3
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      3
-    ],
-    [
-      "Hatimi Auto LLC",
-      3
-    ],
-    [
-      "Wood Motor Company",
+      "Jenkins Auto Group",
       3
     ],
     [
@@ -128,7 +120,15 @@
       3
     ],
     [
-      "Rohrich Automotive Group",
+      "Wood Motor Company",
+      3
+    ],
+    [
+      "Hatimi Auto LLC",
+      3
+    ],
+    [
+      "Davidson Auto Group",
       2
     ],
     [
@@ -136,27 +136,7 @@
       2
     ],
     [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "greenway auto group 2",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -164,11 +144,27 @@
       2
     ],
     [
-      "Davidson Auto Group",
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
       "Bosstown Motors",
+      2
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "greenway auto group 2",
       2
     ],
     [
@@ -192,39 +188,11 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Mondial car Sarl",
       1
     ],
     [
-      "4 Season Motors LLC",
-      1
-    ],
-    [
-      "Forrester Lincoln",
-      1
-    ],
-    [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
@@ -232,15 +200,47 @@
       1
     ],
     [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "New Deal Pre-Owned Autos",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "4 Season Motors LLC",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "Forrester Lincoln",
+      1
+    ],
+    [
+      "Springfield Luxury Automall",
+      1
+    ],
+    [
       "Bob Johnson Automotive Group",
       1
     ],
     [
-      "Mondial car Sarl",
+      "Generation Nissan",
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Speedway Car Sales",
       1
     ]
   ]
