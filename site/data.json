@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T07:48:46.550Z",
+  "fetchedAt": "2026-09-11T07:57:34.739Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      183
-    ],
-    [
-      "Renny Bettan",
-      10
+      175
     ],
     [
       "Joshua Trownsell",
       8
+    ],
+    [
+      "Kian Motors INC",
+      7
     ],
     [
       "4M Autoplex",
@@ -41,10 +41,6 @@
     ],
     [
       "Russ Darrow Group, Inc.",
-      7
-    ],
-    [
-      "Kian Motors INC",
       7
     ],
     [
@@ -64,11 +60,7 @@
       5
     ],
     [
-      "LUXURY IMPORTS",
-      4
-    ],
-    [
-      "Southbank Dodge Chrysler (1982) Ltd",
+      "Flexcar",
       4
     ],
     [
@@ -76,15 +68,7 @@
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
-      "Moffitt's Ford",
-      4
-    ],
-    [
-      "Flexcar",
+      "Southbank Dodge Chrysler (1982) Ltd",
       4
     ],
     [
@@ -92,31 +76,19 @@
       4
     ],
     [
-      "Ferris Chevrolet, Inc",
-      3
+      "LUXURY IMPORTS",
+      4
     ],
     [
-      "McCurley Dealerships",
-      3
+      "Moffitt's Ford",
+      4
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      4
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
-      3
-    ],
-    [
-      "Northstar Kia",
-      3
-    ],
-    [
-      "Auto Exchange Group",
-      3
-    ],
-    [
-      "LuxuryMotorCars",
-      3
-    ],
-    [
-      "S&S Motors",
       3
     ],
     [
@@ -124,11 +96,71 @@
       3
     ],
     [
+      "Northstar Kia",
+      3
+    ],
+    [
+      "LuxuryMotorCars",
+      3
+    ],
+    [
+      "Auto Exchange Group",
+      3
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      3
+    ],
+    [
+      "S&S Motors",
+      3
+    ],
+    [
+      "McCurley Dealerships",
+      3
+    ],
+    [
       "Drivemax USA",
       3
     ],
     [
-      "Brandon Steven Motors",
+      "Lexus of Lehigh Valley",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Sherwood Ford",
+      2
+    ],
+    [
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "VW of Duluth",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Car Central",
       2
     ],
     [
@@ -140,51 +172,15 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Brandon Steven Motors",
       2
     ],
     [
-      "VW of Duluth",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      2
-    ],
-    [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Sherwood Ford",
-      2
-    ],
-    [
-      "Generation Nissan",
+      "NJ Auto Haus",
       1
     ],
     [
       "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
-      1
-    ],
-    [
-      "4 Season Motors LLC",
       1
     ],
     [
@@ -200,15 +196,15 @@
       1
     ],
     [
-      "Twin Pine Ford",
-      1
-    ],
-    [
-      "Rawian Oy",
-      1
-    ],
-    [
       "Emerald Motors",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -220,10 +216,6 @@
       1
     ],
     [
-      "NJ Auto Haus",
-      1
-    ],
-    [
       "Lockwood Motors, Inc.",
       1
     ],
@@ -232,7 +224,11 @@
       1
     ],
     [
-      "Davis Ford",
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
@@ -240,11 +236,15 @@
       1
     ],
     [
-      "TORSVIKS BIL AB",
+      "Rawian Oy",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "autokuva_nobg",
+      1
+    ],
+    [
+      "Davis Ford",
       1
     ],
     [
@@ -256,11 +256,11 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Magnum Car Sales",
       1
     ],
     [
-      "ZT Automotive",
+      "Twin Pine Ford",
       1
     ],
     [
@@ -280,15 +280,15 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "ZT Automotive",
       1
     ],
     [
-      "Magnum Car Sales",
+      "TORSVIKS BIL AB",
       1
     ],
     [
-      "autokuva_nobg",
+      "4 Season Motors LLC",
       1
     ]
   ]
