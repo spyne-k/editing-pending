@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T09:23:35.007Z",
+  "fetchedAt": "2026-09-11T09:36:37.988Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      196
+      192
     ],
     [
       "Asbury Automotive Management L.L.C",
-      51
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      7
+      59
     ],
     [
       "Starling Auto Group",
@@ -36,11 +32,11 @@
       7
     ],
     [
-      "Icon Motors Group of Framingham",
+      "World Car Auto Group",
       6
     ],
     [
-      "World Car Auto Group",
+      "Icon Motors Group of Framingham",
       6
     ],
     [
@@ -84,15 +80,7 @@
       4
     ],
     [
-      "greenway auto group 2",
-      3
-    ],
-    [
-      "Ferris Chevrolet, Inc",
-      3
-    ],
-    [
-      "Northstar Kia",
+      "Drivemax USA",
       3
     ],
     [
@@ -104,7 +92,7 @@
       3
     ],
     [
-      "Drivemax USA",
+      "Ferris Chevrolet, Inc",
       3
     ],
     [
@@ -112,19 +100,11 @@
       3
     ],
     [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Davidson Auto Group",
-      2
+      "Northstar Kia",
+      3
     ],
     [
       "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Car Central",
       2
     ],
     [
@@ -136,10 +116,6 @@
       2
     ],
     [
-      "Olson Chevrolet",
-      2
-    ],
-    [
       "VW of Duluth",
       2
     ],
@@ -148,7 +124,7 @@
       2
     ],
     [
-      "Brandon Steven Motors",
+      "Car Central",
       2
     ],
     [
@@ -156,47 +132,27 @@
       2
     ],
     [
-      "Lexus of Lehigh Valley",
+      "Olson Chevrolet",
       2
     ],
     [
-      "Soave Automotive Group",
-      1
+      "Rohrich Automotive Group",
+      2
     ],
     [
-      "Cornhusker Auto Center",
-      1
+      "Brandon Steven Motors",
+      2
     ],
     [
-      "Generation Nissan",
-      1
+      "Davidson Auto Group",
+      2
     ],
     [
       "Hewlett Volkswagen, LP",
       1
     ],
     [
-      "Lockwood Motors, Inc.",
-      1
-    ],
-    [
       "autokuva_nobg",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "Twin Pine Ford",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "Renny Bettan",
       1
     ],
     [
@@ -208,6 +164,38 @@
       1
     ],
     [
+      "Renny Bettan",
+      1
+    ],
+    [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Soave Automotive Group",
+      1
+    ],
+    [
       "H&K Chevrolet Family Auto",
       1
     ],
@@ -216,11 +204,11 @@
       1
     ],
     [
-      "Forrester Lincoln",
+      "Teton solutions Group",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -228,7 +216,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -236,7 +224,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Generation Nissan",
       1
     ],
     [
@@ -248,7 +236,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Forrester Lincoln",
       1
     ]
   ]
