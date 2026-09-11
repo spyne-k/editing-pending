@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T10:52:04.035Z",
+  "fetchedAt": "2026-09-11T11:00:34.674Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      175
+      171
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -52,6 +52,10 @@
       4
     ],
     [
+      "North Park Lincoln",
+      4
+    ],
+    [
       "Rim Revolution LLC",
       4
     ],
@@ -60,12 +64,8 @@
       4
     ],
     [
-      "Moffitt's Ford",
-      4
-    ],
-    [
-      "North Park Lincoln",
-      4
+      "Northstar Kia",
+      3
     ],
     [
       "McCurley Dealerships",
@@ -76,24 +76,12 @@
       3
     ],
     [
-      "S&S Motors",
-      3
-    ],
-    [
-      "Northstar Kia",
-      3
-    ],
-    [
       "Ferris Chevrolet, Inc",
       3
     ],
     [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "VW of Duluth",
-      2
+      "S&S Motors",
+      3
     ],
     [
       "Bob Johnson Automotive Group",
@@ -116,15 +104,7 @@
       2
     ],
     [
-      "Olson Chevrolet",
-      2
-    ],
-    [
       "Faircy Automotive",
-      2
-    ],
-    [
-      "Car Central",
       2
     ],
     [
@@ -132,7 +112,23 @@
       2
     ],
     [
-      "Cornhusker Auto Center",
+      "Car Central",
+      2
+    ],
+    [
+      "VW of Duluth",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Flood Auto Group",
       1
     ],
     [
@@ -144,19 +140,15 @@
       1
     ],
     [
-      "Starling Chevrolet",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Forrester Lincoln",
+      "Soave Automotive Group",
       1
     ],
     [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "autokuva_nobg",
+      "Teton solutions Group",
       1
     ],
     [
@@ -164,7 +156,7 @@
       1
     ],
     [
-      "Flood Auto Group",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -172,7 +164,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -180,7 +172,11 @@
       1
     ],
     [
-      "Emerald Motors",
+      "Dorsett Automotive",
+      1
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
@@ -188,7 +184,7 @@
       1
     ],
     [
-      "Soave Automotive Group",
+      "autokuva_nobg",
       1
     ],
     [
@@ -204,7 +200,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Lexus Of Orland",
       1
     ],
     [
@@ -216,11 +212,11 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Forrester Lincoln",
       1
     ],
     [
-      "Generation Nissan",
+      "ZT Automotive",
       1
     ],
     [
@@ -228,7 +224,7 @@
       1
     ],
     [
-      "Lexus Of Orland",
+      "Starling Chevrolet",
       1
     ],
     [
