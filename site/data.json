@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T14:51:44.469Z",
+  "fetchedAt": "2026-09-11T15:00:16.232Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      101
+      96
     ],
     [
       "ZT Automotive",
@@ -44,11 +44,11 @@
       4
     ],
     [
-      "Rim Revolution LLC",
+      "Toronto Honda",
       4
     ],
     [
-      "Toronto Honda",
+      "Rim Revolution LLC",
       4
     ],
     [
@@ -56,19 +56,15 @@
       4
     ],
     [
-      "Jim Schmidt Automotive",
-      4
-    ],
-    [
       "North Park Lincoln",
       4
     ],
     [
-      "Greenway Automotive Group",
-      3
+      "Jim Schmidt Automotive",
+      4
     ],
     [
-      "Sansone Jr's Auto Group",
+      "Greenway Automotive Group",
       3
     ],
     [
@@ -84,19 +80,7 @@
       2
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Turpin Dodge Chrysler Jeep Ram",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Faircy Automotive",
+      "DealerVision.com",
       2
     ],
     [
@@ -104,7 +88,19 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Turpin Dodge Chrysler Jeep Ram",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -112,31 +108,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Apex Automotive Group",
-      1
-    ],
-    [
-      "Lexus Of Orland",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Glass Capital CDJR",
-      1
-    ],
-    [
-      "The Used Car Guys GMBH",
-      1
-    ],
-    [
-      "Volvo of Princeton Inc",
+      "Teton solutions Group",
       1
     ],
     [
@@ -144,15 +116,31 @@
       1
     ],
     [
-      "Soave Automotive Group",
+      "Volvo of Princeton Inc",
       1
     ],
     [
-      "Teton solutions Group",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "Midway Dodge",
+      "Apex Automotive Group",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Glass Capital CDJR",
+      1
+    ],
+    [
+      "Lexus Of Orland",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
       1
     ],
     [
