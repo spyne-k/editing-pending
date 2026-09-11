@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T01:27:26.568Z",
+  "fetchedAt": "2026-09-11T01:40:17.317Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -40,11 +40,11 @@
       9
     ],
     [
-      "Your Choice Auto LLC",
+      "Volvo of Princeton Inc",
       8
     ],
     [
-      "Volvo of Princeton Inc",
+      "Your Choice Auto LLC",
       8
     ],
     [
@@ -76,11 +76,19 @@
       5
     ],
     [
+      "Flexcar",
+      4
+    ],
+    [
       "DealerVision.com",
       4
     ],
     [
       "Rim Revolution LLC",
+      4
+    ],
+    [
+      "Integrity Auto Sales",
       4
     ],
     [
@@ -92,35 +100,7 @@
       4
     ],
     [
-      "Integrity Auto Sales",
-      4
-    ],
-    [
-      "Hatimi Auto LLC",
-      3
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      3
-    ],
-    [
       "Kian Motors INC",
-      3
-    ],
-    [
-      "Northstar Kia",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Flexcar",
-      3
-    ],
-    [
-      "Velocity Auto Haus",
       3
     ],
     [
@@ -128,27 +108,31 @@
       3
     ],
     [
+      "Northstar Kia",
+      3
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Hatimi Auto LLC",
+      3
+    ],
+    [
       "Wood Motor Company",
       3
     ],
     [
-      "greenway auto group 2",
-      2
+      "Velocity Auto Haus",
+      3
     ],
     [
-      "Lockwood Motors, Inc.",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
-      "Car Central",
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -156,19 +140,31 @@
       2
     ],
     [
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
+      "Kempton Chevrolet",
+      2
+    ],
+    [
+      "greenway auto group 2",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
       "Brandon Steven Motors",
       2
     ],
     [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
       "Faircy Automotive",
-      2
-    ],
-    [
-      "Volvo Cars Palm Springs",
       2
     ],
     [
@@ -180,15 +176,11 @@
       2
     ],
     [
-      "Speedway Car Sales",
-      1
+      "Lockwood Motors, Inc.",
+      2
     ],
     [
-      "EV Car Company",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
+      "Generation Nissan",
       1
     ],
     [
@@ -196,15 +188,15 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
-      "Generation Nissan",
+      "Mondial car Sarl",
       1
     ],
     [
-      "Teton solutions Group",
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
@@ -212,31 +204,11 @@
       1
     ],
     [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Wharton Ford",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
       "4 Season Motors LLC",
       1
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      1
-    ],
-    [
-      "Eastern Digital",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
+      "H&K Chevrolet Family Auto",
       1
     ],
     [
@@ -244,7 +216,31 @@
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Wharton Ford",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Speedway Car Sales",
       1
     ]
   ]
