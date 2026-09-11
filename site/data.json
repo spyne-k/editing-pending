@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T03:34:53.043Z",
+  "fetchedAt": "2026-09-11T03:47:31.925Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      201
+      196
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -28,12 +28,12 @@
       16
     ],
     [
-      "KASS Bladel-Reusel BV",
+      "AutoGiant USA",
       12
     ],
     [
-      "AutoGiant USA",
-      11
+      "KASS Bladel-Reusel BV",
+      12
     ],
     [
       "LUXURY IMPORTS",
@@ -44,16 +44,12 @@
       9
     ],
     [
-      "Volvo of Princeton Inc",
-      8
-    ],
-    [
       "Apex Automotive Group",
       8
     ],
     [
-      "Bergstrom Automotive",
-      7
+      "Volvo of Princeton Inc",
+      8
     ],
     [
       "Russ Darrow Group, Inc.",
@@ -64,27 +60,15 @@
       6
     ],
     [
-      "Starling Auto Group",
-      5
-    ],
-    [
       "Charlie Clark Hyundai",
       5
     ],
     [
-      "Flexcar",
-      4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      4
+      "Starling Auto Group",
+      5
     ],
     [
       "DealerVision.com",
-      4
-    ],
-    [
-      "Altawkilat",
       4
     ],
     [
@@ -92,23 +76,23 @@
       4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      3
+      "Bud Clary Chevrolet, INC",
+      4
     ],
     [
-      "McCurley Dealerships",
-      3
+      "Altawkilat",
+      4
+    ],
+    [
+      "Flexcar",
+      4
     ],
     [
       "Northstar Kia",
       3
     ],
     [
-      "Freedom Chevrolet",
-      3
-    ],
-    [
-      "greenway auto group 2",
+      "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
@@ -116,28 +100,16 @@
       3
     ],
     [
-      "Volvo Cars Palm Springs",
-      2
+      "McCurley Dealerships",
+      3
     ],
     [
-      "Rohrich Automotive Group",
-      2
+      "greenway auto group 2",
+      3
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Kian Motors INC",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
+      "Freedom Chevrolet",
+      3
     ],
     [
       "Brandon Steven Motors",
@@ -148,11 +120,39 @@
       2
     ],
     [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
       "Car Central",
       2
     ],
     [
-      "Generation Nissan",
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Kian Motors INC",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -160,11 +160,15 @@
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
@@ -176,10 +180,6 @@
       1
     ],
     [
-      "ZT Automotive",
-      1
-    ],
-    [
       "H&K Chevrolet Family Auto",
       1
     ],
@@ -188,7 +188,7 @@
       1
     ],
     [
-      "Wharton Ford",
+      "ZT Automotive",
       1
     ],
     [
@@ -196,7 +196,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Midway Dodge",
       1
     ],
     [
@@ -204,11 +204,11 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Speedway Car Sales",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Wharton Ford",
       1
     ]
   ]
