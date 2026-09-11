@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T15:16:42.529Z",
+  "fetchedAt": "2026-09-11T15:30:51.505Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,14 @@
   "rows": [
     [
       null,
-      76
-    ],
-    [
-      "ZT Automotive",
-      12
+      58
     ],
     [
       "Worldwide Motors LTD dba Paragon Acura",
+      5
+    ],
+    [
+      "Toronto Honda",
       5
     ],
     [
@@ -36,15 +36,7 @@
       4
     ],
     [
-      "Toronto Honda",
-      4
-    ],
-    [
       "North Park Lincoln",
-      4
-    ],
-    [
-      "Rim Revolution LLC",
       4
     ],
     [
@@ -52,15 +44,7 @@
       4
     ],
     [
-      "Greenway Automotive Group",
-      3
-    ],
-    [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Car Central",
+      "Simmons-Rockwell Automotive Dealerships",
       2
     ],
     [
@@ -68,19 +52,11 @@
       2
     ],
     [
+      "Car Central",
+      2
+    ],
+    [
       "DealerVision.com",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Teton solutions Group",
       2
     ],
     [
@@ -88,15 +64,27 @@
       2
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Rohrich Automotive Group",
       2
     ],
     [
-      "Volvo of Princeton Inc",
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Volvo of Princeton Inc",
       1
     ],
     [
@@ -104,27 +92,11 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Glass Capital CDJR",
-      1
-    ],
-    [
       "Generation Nissan",
       1
     ],
     [
-      "The Used Car Guys GMBH",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
+      "Davidson Auto Group",
       1
     ],
     [
@@ -136,7 +108,23 @@
       1
     ],
     [
+      "Glass Capital CDJR",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
       "Mt Orab Chevy",
+      1
+    ],
+    [
+      "INERCIKAR SA",
       1
     ],
     [
@@ -144,7 +132,7 @@
       1
     ],
     [
-      "INERCIKAR SA",
+      "Flexcar",
       1
     ],
     [
