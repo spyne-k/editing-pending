@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T08:44:34.080Z",
+  "fetchedAt": "2026-09-11T08:55:59.475Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      166
+      172
     ],
     [
       "Asbury Automotive Management L.L.C",
-      8
+      22
     ],
     [
       "Russ Darrow Group, Inc.",
@@ -29,10 +29,6 @@
     ],
     [
       "Starling Auto Group",
-      7
-    ],
-    [
-      "4M Autoplex",
       7
     ],
     [
@@ -48,10 +44,6 @@
       6
     ],
     [
-      "Charlie Clark Hyundai",
-      5
-    ],
-    [
       "Simmons-Rockwell Automotive Dealerships",
       5
     ],
@@ -64,7 +56,15 @@
       5
     ],
     [
-      "Rim Revolution LLC",
+      "Charlie Clark Hyundai",
+      5
+    ],
+    [
+      "Flexcar",
+      4
+    ],
+    [
+      "Moffitt's Ford",
       4
     ],
     [
@@ -76,15 +76,11 @@
       4
     ],
     [
+      "Rim Revolution LLC",
+      4
+    ],
+    [
       "LUXURY IMPORTS",
-      4
-    ],
-    [
-      "Flexcar",
-      4
-    ],
-    [
-      "Moffitt's Ford",
       4
     ],
     [
@@ -92,7 +88,7 @@
       3
     ],
     [
-      "S&S Motors",
+      "LuxuryMotorCars",
       3
     ],
     [
@@ -100,11 +96,11 @@
       3
     ],
     [
-      "LuxuryMotorCars",
+      "Ferris Chevrolet, Inc",
       3
     ],
     [
-      "Auto Exchange Group",
+      "S&S Motors",
       3
     ],
     [
@@ -116,39 +112,23 @@
       3
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "Auto Exchange Group",
       3
-    ],
-    [
-      "VW of Duluth",
-      2
-    ],
-    [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      2
     ],
     [
       "Yoder Family of Companies",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "VW of Duluth",
       2
     ],
     [
       "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -160,7 +140,23 @@
       2
     ],
     [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
       "Olson Chevrolet",
+      2
+    ],
+    [
+      "Davidson Auto Group",
       2
     ],
     [
@@ -168,7 +164,11 @@
       2
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -176,15 +176,7 @@
       1
     ],
     [
-      "Magnum Car Sales",
-      1
-    ],
-    [
-      "New Deal Pre-Owned Autos",
-      1
-    ],
-    [
-      "Midway Dodge",
+      "Forrester Lincoln",
       1
     ],
     [
@@ -192,11 +184,7 @@
       1
     ],
     [
-      "Twin Pine Ford",
-      1
-    ],
-    [
-      "Renny Bettan",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -204,7 +192,11 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
@@ -212,15 +204,15 @@
       1
     ],
     [
-      "Forrester Lincoln",
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
       "Rawian Oy",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -232,11 +224,11 @@
       1
     ],
     [
-      "TORSVIKS BIL AB",
+      "autokuva_nobg",
       1
     ],
     [
-      "Generation Nissan",
+      "Renny Bettan",
       1
     ],
     [
@@ -244,11 +236,11 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Magnum Car Sales",
       1
     ],
     [
-      "Mt Orab Chevy",
+      "Midway Dodge",
       1
     ],
     [
@@ -256,11 +248,11 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Twin Pine Ford",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Mt Orab Chevy",
       1
     ],
     [
@@ -268,7 +260,7 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "New Deal Pre-Owned Autos",
       1
     ]
   ]
