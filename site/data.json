@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T11:00:34.674Z",
+  "fetchedAt": "2026-09-11T11:17:05.128Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      171
+      174
     ],
     [
       "Asbury Automotive Management L.L.C",
       60
     ],
     [
-      "Mark Miller Subaru, Inc.",
-      7
+      "Quantrell Auto Group",
+      12
     ],
     [
-      "World Car Auto Group",
-      6
+      "Mark Miller Subaru, Inc.",
+      7
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
@@ -52,10 +52,6 @@
       4
     ],
     [
-      "North Park Lincoln",
-      4
-    ],
-    [
       "Rim Revolution LLC",
       4
     ],
@@ -64,11 +60,19 @@
       4
     ],
     [
+      "North Park Lincoln",
+      4
+    ],
+    [
+      "McCurley Dealerships",
+      3
+    ],
+    [
       "Northstar Kia",
       3
     ],
     [
-      "McCurley Dealerships",
+      "S&S Motors",
       3
     ],
     [
@@ -76,12 +80,20 @@
       3
     ],
     [
-      "Ferris Chevrolet, Inc",
-      3
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
     ],
     [
-      "S&S Motors",
-      3
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "VW of Duluth",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
     ],
     [
       "Bob Johnson Automotive Group",
@@ -92,15 +104,15 @@
       2
     ],
     [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
       "Yoder Family of Companies",
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
+      "Car Central",
       2
     ],
     [
@@ -112,23 +124,7 @@
       2
     ],
     [
-      "Car Central",
-      2
-    ],
-    [
-      "VW of Duluth",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Flood Auto Group",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -140,15 +136,15 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "autokuva_nobg",
       1
     ],
     [
-      "Soave Automotive Group",
+      "Lexus Of Orland",
       1
     ],
     [
-      "Teton solutions Group",
+      "Forrester Lincoln",
       1
     ],
     [
@@ -156,7 +152,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Generation Nissan",
       1
     ],
     [
@@ -164,7 +160,7 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "ZT Automotive",
       1
     ],
     [
@@ -176,7 +172,7 @@
       1
     ],
     [
-      "Generation Nissan",
+      "Starling Chevrolet",
       1
     ],
     [
@@ -184,7 +180,7 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "Flood Auto Group",
       1
     ],
     [
@@ -200,7 +196,7 @@
       1
     ],
     [
-      "Lexus Of Orland",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -212,19 +208,19 @@
       1
     ],
     [
-      "Forrester Lincoln",
+      "Soave Automotive Group",
       1
     ],
     [
-      "ZT Automotive",
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
       "Mt Orab Chevy",
-      1
-    ],
-    [
-      "Starling Chevrolet",
       1
     ],
     [
