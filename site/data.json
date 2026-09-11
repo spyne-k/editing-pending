@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T07:36:48.632Z",
+  "fetchedAt": "2026-09-11T07:48:46.550Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,38 +17,22 @@
   "rows": [
     [
       null,
-      218
-    ],
-    [
-      "Hawthorne Auto Square",
-      14
+      183
     ],
     [
       "Renny Bettan",
       10
     ],
     [
-      "Volvo of Princeton Inc",
-      8
-    ],
-    [
-      "Auto Dobrovolny V.M. s.r.o.",
-      8
-    ],
-    [
-      "Apex Automotive Group",
-      8
-    ],
-    [
       "Joshua Trownsell",
       8
     ],
     [
-      "Kian Motors INC",
+      "4M Autoplex",
       7
     ],
     [
-      "4M Autoplex",
+      "Starling Auto Group",
       7
     ],
     [
@@ -60,15 +44,15 @@
       7
     ],
     [
-      "World Car Auto Group",
-      6
+      "Kian Motors INC",
+      7
     ],
     [
       "Icon Motors Group of Framingham",
       6
     ],
     [
-      "Starling Auto Group",
+      "World Car Auto Group",
       6
     ],
     [
@@ -80,7 +64,7 @@
       5
     ],
     [
-      "Moffitt's Ford",
+      "LUXURY IMPORTS",
       4
     ],
     [
@@ -92,15 +76,11 @@
       4
     ],
     [
-      "Altawkilat",
-      4
-    ],
-    [
       "Bud Clary Chevrolet, INC",
       4
     ],
     [
-      "LUXURY IMPORTS",
+      "Moffitt's Ford",
       4
     ],
     [
@@ -108,11 +88,11 @@
       4
     ],
     [
-      "greenway auto group 2",
-      3
+      "Altawkilat",
+      4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Ferris Chevrolet, Inc",
       3
     ],
     [
@@ -120,19 +100,7 @@
       3
     ],
     [
-      "Ferris Chevrolet, Inc",
-      3
-    ],
-    [
-      "S&S Motors",
-      3
-    ],
-    [
-      "LuxuryMotorCars",
-      3
-    ],
-    [
-      "Drivemax USA",
+      "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
@@ -144,19 +112,27 @@
       3
     ],
     [
+      "LuxuryMotorCars",
+      3
+    ],
+    [
+      "S&S Motors",
+      3
+    ],
+    [
+      "greenway auto group 2",
+      3
+    ],
+    [
+      "Drivemax USA",
+      3
+    ],
+    [
       "Brandon Steven Motors",
       2
     ],
     [
-      "Sherwood Ford",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Olson Chevrolet",
+      "County Ford",
       2
     ],
     [
@@ -164,7 +140,11 @@
       2
     ],
     [
-      "County Ford",
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "VW of Duluth",
       2
     ],
     [
@@ -180,23 +160,31 @@
       2
     ],
     [
-      "Car Central",
-      2
-    ],
-    [
       "Davidson Auto Group",
       2
     ],
     [
-      "VW of Duluth",
+      "Car Central",
       2
     ],
     [
-      "autokuva_nobg",
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Sherwood Ford",
+      2
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
-      "TORSVIKS BIL AB",
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      1
+    ],
+    [
+      "4 Season Motors LLC",
       1
     ],
     [
@@ -204,19 +192,23 @@
       1
     ],
     [
-      "Magnum Car Sales",
-      1
-    ],
-    [
       "Forrester Lincoln",
       1
     ],
     [
-      "Davis Ford",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Twin Pine Ford",
+      1
+    ],
+    [
+      "Rawian Oy",
+      1
+    ],
+    [
+      "Emerald Motors",
       1
     ],
     [
@@ -228,11 +220,11 @@
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "NJ Auto Haus",
       1
     ],
     [
-      "NJ Auto Haus",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
@@ -240,7 +232,7 @@
       1
     ],
     [
-      "Twin Pine Ford",
+      "Davis Ford",
       1
     ],
     [
@@ -248,11 +240,11 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "TORSVIKS BIL AB",
       1
     ],
     [
-      "Teton solutions Group",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -264,11 +256,11 @@
       1
     ],
     [
-      "Emerald Motors",
+      "Teton solutions Group",
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "ZT Automotive",
       1
     ],
     [
@@ -280,7 +272,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Mt Orab Chevy",
       1
     ],
     [
@@ -288,15 +280,15 @@
       1
     ],
     [
-      "Generation Nissan",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "Rawian Oy",
+      "Magnum Car Sales",
       1
     ],
     [
-      "4 Season Motors LLC",
+      "autokuva_nobg",
       1
     ]
   ]
