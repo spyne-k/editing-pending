@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T15:55:02.298Z",
+  "fetchedAt": "2026-09-11T16:06:55.953Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,38 @@
   "rows": [
     [
       null,
-      47
+      60
     ],
     [
       "Toronto Honda",
       6
     ],
     [
+      "Amato Hyundai Of Glendale",
+      4
+    ],
+    [
+      "Rim Revolution LLC",
+      4
+    ],
+    [
       "North Park Lincoln",
       4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
       "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
       2
     ],
     [
@@ -44,7 +56,7 @@
       2
     ],
     [
-      "ZT Automotive",
+      "DealerVision.com",
       2
     ],
     [
@@ -56,27 +68,23 @@
       2
     ],
     [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "ZT Automotive",
+      2
+    ],
+    [
       "Your Choice Auto LLC",
       2
     ],
     [
-      "Teton solutions Group",
+      "Simmons-Rockwell Automotive Dealerships",
       2
     ],
     [
-      "Flexcar",
-      2
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Apex Automotive Group",
-      1
-    ],
-    [
-      "Bob King",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -84,11 +92,7 @@
       1
     ],
     [
-      "Petersen CDJR",
-      1
-    ],
-    [
-      "Mt Orab Chevy",
+      "Jenkins Auto Group",
       1
     ],
     [
@@ -96,11 +100,19 @@
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Apex Automotive Group",
       1
     ],
     [
-      "INERCIKAR SA",
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      1
+    ],
+    [
+      "Petersen CDJR",
       1
     ],
     [
@@ -108,7 +120,11 @@
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Mt Orab Chevy",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
       1
     ],
     [
@@ -120,7 +136,11 @@
       1
     ],
     [
-      "Rochester Toyota",
+      "INERCIKAR SA",
+      1
+    ],
+    [
+      "Bob King",
       1
     ],
     [
@@ -128,7 +148,7 @@
       1
     ],
     [
-      "The Used Car Guys GMBH",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
