@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T14:09:41.419Z",
+  "fetchedAt": "2026-09-11T14:25:07.011Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      151
+      156
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -48,11 +48,11 @@
       4
     ],
     [
-      "Starling Auto Group",
+      "North Park Lincoln",
       4
     ],
     [
-      "North Park Lincoln",
+      "Starling Auto Group",
       4
     ],
     [
@@ -64,6 +64,10 @@
       3
     ],
     [
+      "Northstar Kia",
+      3
+    ],
+    [
       "ZT Automotive",
       3
     ],
@@ -72,7 +76,7 @@
       3
     ],
     [
-      "Northstar Kia",
+      "Flexcar",
       3
     ],
     [
@@ -80,7 +84,7 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
@@ -89,6 +93,10 @@
     ],
     [
       "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "AX Auto INC",
       2
     ],
     [
@@ -104,23 +112,19 @@
       2
     ],
     [
+      "DealerVision.com",
+      2
+    ],
+    [
       "Turpin Dodge Chrysler Jeep Ram",
       2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Glass Capital CDJR",
-      1
     ],
     [
       "Jenkins Auto Group",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Midway Dodge",
       1
     ],
     [
@@ -128,15 +132,15 @@
       1
     ],
     [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Glass Capital CDJR",
+      1
+    ],
+    [
       "Generation Nissan",
-      1
-    ],
-    [
-      "Mt Orab Chevy",
-      1
-    ],
-    [
-      "autokuva_nobg",
       1
     ],
     [
@@ -144,7 +148,15 @@
       1
     ],
     [
+      "INERCIKAR SA",
+      1
+    ],
+    [
       "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "autokuva_nobg",
       1
     ],
     [
@@ -152,19 +164,15 @@
       1
     ],
     [
-      "INERCIKAR SA",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
       "Lexus Of Orland",
       1
     ],
     [
-      "AX Auto INC",
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -180,7 +188,7 @@
       1
     ],
     [
-      "Midway Dodge",
+      "Mt Orab Chevy",
       1
     ],
     [
