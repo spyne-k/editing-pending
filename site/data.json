@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T09:57:40.372Z",
+  "fetchedAt": "2026-09-11T10:12:01.174Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      199
+      205
     ],
     [
       "Asbury Automotive Management L.L.C",
-      84
+      90
     ],
     [
       "Mark Miller Subaru, Inc.",
@@ -160,11 +160,11 @@
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
@@ -196,11 +196,11 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "Midway Dodge",
       1
     ],
     [
-      "Midway Dodge",
+      "autokuva_nobg",
       1
     ],
     [
