@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T07:08:31.027Z",
+  "fetchedAt": "2026-09-11T07:23:37.700Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      235
+      231
     ],
     [
       "Hawthorne Auto Square",
       14
-    ],
-    [
-      "KASS Bladel-Reusel BV",
-      12
     ],
     [
       "DealerVision.com",
@@ -56,6 +52,10 @@
       7
     ],
     [
+      "4M Autoplex",
+      7
+    ],
+    [
       "Mark Miller Subaru, Inc.",
       7
     ],
@@ -64,11 +64,11 @@
       7
     ],
     [
-      "World Car Auto Group",
+      "Icon Motors Group of Framingham",
       6
     ],
     [
-      "Icon Motors Group of Framingham",
+      "World Car Auto Group",
       6
     ],
     [
@@ -84,7 +84,11 @@
       5
     ],
     [
-      "Altawkilat",
+      "Flexcar",
+      4
+    ],
+    [
+      "McLeod Auto Sales",
       4
     ],
     [
@@ -100,11 +104,7 @@
       4
     ],
     [
-      "Flexcar",
-      4
-    ],
-    [
-      "McLeod Auto Sales",
+      "Altawkilat",
       4
     ],
     [
@@ -112,7 +112,11 @@
       4
     ],
     [
-      "McCurley Dealerships",
+      "LUXURY IMPORTS",
+      4
+    ],
+    [
+      "S&S Motors",
       3
     ],
     [
@@ -124,6 +128,10 @@
       3
     ],
     [
+      "Northstar Kia",
+      3
+    ],
+    [
       "Post Oak Toyota",
       3
     ],
@@ -132,23 +140,23 @@
       3
     ],
     [
-      "greenway auto group 2",
-      3
-    ],
-    [
-      "S&S Motors",
-      3
-    ],
-    [
-      "Northstar Kia",
-      3
-    ],
-    [
       "Ferris Chevrolet, Inc",
       3
     ],
     [
+      "greenway auto group 2",
+      3
+    ],
+    [
+      "McCurley Dealerships",
+      3
+    ],
+    [
       "County Ford",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -160,7 +168,11 @@
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "Car Central",
+      2
+    ],
+    [
+      "VW of Duluth",
       2
     ],
     [
@@ -168,19 +180,15 @@
       2
     ],
     [
-      "Faircy Automotive",
-      2
-    ],
-    [
       "Olson Chevrolet",
       2
     ],
     [
-      "Lexus of Lehigh Valley",
+      "Faircy Automotive",
       2
     ],
     [
-      "Toyota of Massapequa",
+      "Lexus of Lehigh Valley",
       2
     ],
     [
@@ -192,31 +200,19 @@
       2
     ],
     [
-      "VW of Duluth",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Teton solutions Group",
+      "ZT Automotive",
       1
     ],
     [
-      "Forrester Lincoln",
+      "NJ Auto Haus",
       1
     ],
     [
-      "4 Season Motors LLC",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
-      "Rawian Oy",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
@@ -224,7 +220,11 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "Twin Pine Ford",
+      1
+    ],
+    [
+      "Forrester Lincoln",
       1
     ],
     [
@@ -236,11 +236,11 @@
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Davis Ford",
       1
     ],
     [
-      "TORSVIKS BIL AB",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
@@ -248,7 +248,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Magnum Car Sales",
       1
     ],
     [
@@ -256,11 +256,11 @@
       1
     ],
     [
-      "NJ Auto Haus",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "Emerald Motors",
       1
     ],
     [
@@ -272,11 +272,11 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Teton solutions Group",
       1
     ],
     [
-      "Davis Ford",
+      "Rawian Oy",
       1
     ],
     [
@@ -288,7 +288,7 @@
       1
     ],
     [
-      "LUXURY IMPORTS",
+      "autokuva_nobg",
       1
     ],
     [
@@ -296,15 +296,15 @@
       1
     ],
     [
-      "Emerald Motors",
+      "TORSVIKS BIL AB",
       1
     ],
     [
-      "Twin Pine Ford",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "4 Season Motors LLC",
       1
     ]
   ]
