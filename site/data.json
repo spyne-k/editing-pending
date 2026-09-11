@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T04:12:02.972Z",
+  "fetchedAt": "2026-09-11T04:27:36.517Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      222
+      235
     ],
     [
       "Asbury Automotive Management L.L.C",
-      27
+      34
     ],
     [
       "AutoGiant USA",
-      18
+      20
     ],
     [
       "Springfield Luxury Automall",
@@ -48,11 +48,11 @@
       9
     ],
     [
-      "Apex Automotive Group",
+      "Volvo of Princeton Inc",
       8
     ],
     [
-      "Volvo of Princeton Inc",
+      "Apex Automotive Group",
       8
     ],
     [
@@ -100,6 +100,10 @@
       3
     ],
     [
+      "Lexus Of Orland",
+      3
+    ],
+    [
       "McCurley Dealerships",
       3
     ],
@@ -124,7 +128,11 @@
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "Toyota of Massapequa",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -148,7 +156,7 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Volvo Cars Palm Springs",
       2
     ],
     [
@@ -156,11 +164,11 @@
       2
     ],
     [
-      "Toyota of Massapequa",
-      2
+      "Lexus of Merrillville",
+      1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "ZT Automotive",
       1
     ],
     [
@@ -172,7 +180,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
@@ -184,7 +192,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -196,7 +204,7 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Teton solutions Group",
       1
     ],
     [
@@ -212,11 +220,11 @@
       1
     ],
     [
-      "Wharton Ford",
+      "Speedway Car Sales",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Wharton Ford",
       1
     ]
   ]
