@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T16:47:24.959Z",
+  "fetchedAt": "2026-09-11T19:19:13.663Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,30 @@
   "rows": [
     [
       null,
-      79
+      107
+    ],
+    [
+      "KASS Bladel-Reusel BV",
+      32
     ],
     [
       "Impex Auto Sales",
       9
     ],
     [
-      "Van Horn Automotive Group",
-      5
+      "Toronto Honda",
+      9
     ],
     [
-      "Speedway Car Sales",
+      "ZT Automotive",
       5
     ],
     [
       "LUXURY IMPORTS",
-      4
+      5
     ],
     [
-      "Amato Hyundai Of Glendale",
+      "North Park Lincoln",
       4
     ],
     [
@@ -44,12 +48,36 @@
       4
     ],
     [
-      "North Park Lincoln",
+      "Teton solutions Group",
       4
     ],
     [
-      "Davidson Auto Group",
+      "Asbury Automotive Management L.L.C",
       3
+    ],
+    [
+      "Rohrich Automotive Group",
+      3
+    ],
+    [
+      "Wood Motor Company",
+      3
+    ],
+    [
+      "Greenway Automotive Group",
+      3
+    ],
+    [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Audi Cape Fear",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
@@ -60,59 +88,7 @@
       2
     ],
     [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "ZT Automotive",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Gettel Automotive Group",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Beadle Ford, INC.",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Long Automotive Group",
-      1
-    ],
-    [
-      "Teton solutions Group",
+      "Jenkins Auto Group",
       1
     ],
     [
@@ -120,39 +96,19 @@
       1
     ],
     [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      1
-    ],
-    [
-      "ROCHESTER VOLKSWAGEN",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
       "Mt Orab Chevy",
       1
     ],
     [
-      "The Used Car Guys GMBH",
+      "World Car Auto Group",
       1
     ],
     [
-      "Faircy Automotive",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Petersen CDJR",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
@@ -160,15 +116,27 @@
       1
     ],
     [
-      "Bob King",
+      "Blasius Buick GMC",
+      1
+    ],
+    [
+      "Great Lakes Auto Group",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "Autoplex 2000 and All Star Buick GMC truck",
       1
     ],
     [
       "Icon Motors Group of Framingham",
-      1
-    ],
-    [
-      "World Car Auto Group",
       1
     ]
   ]
