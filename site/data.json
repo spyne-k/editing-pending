@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T07:57:34.739Z",
+  "fetchedAt": "2026-09-11T08:12:51.962Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      175
+      187
     ],
     [
-      "Joshua Trownsell",
-      8
+      "Asbury Automotive Management L.L.C",
+      19
     ],
     [
       "Kian Motors INC",
@@ -64,19 +64,11 @@
       4
     ],
     [
-      "Rim Revolution LLC",
-      4
-    ],
-    [
       "Southbank Dodge Chrysler (1982) Ltd",
       4
     ],
     [
-      "Altawkilat",
-      4
-    ],
-    [
-      "LUXURY IMPORTS",
+      "Simmons-Rockwell Automotive Dealerships",
       4
     ],
     [
@@ -88,11 +80,23 @@
       4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Altawkilat",
+      4
+    ],
+    [
+      "Rim Revolution LLC",
+      4
+    ],
+    [
+      "LUXURY IMPORTS",
+      4
+    ],
+    [
+      "Auto Exchange Group",
       3
     ],
     [
-      "greenway auto group 2",
+      "Drivemax USA",
       3
     ],
     [
@@ -100,11 +104,11 @@
       3
     ],
     [
-      "LuxuryMotorCars",
+      "McCurley Dealerships",
       3
     ],
     [
-      "Auto Exchange Group",
+      "LuxuryMotorCars",
       3
     ],
     [
@@ -116,19 +120,11 @@
       3
     ],
     [
-      "McCurley Dealerships",
+      "greenway auto group 2",
       3
     ],
     [
-      "Drivemax USA",
-      3
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -136,19 +132,11 @@
       2
     ],
     [
-      "Faircy Automotive",
+      "Worldwide Motors LTD dba Paragon Acura",
       2
     ],
     [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "VW of Duluth",
-      2
-    ],
-    [
-      "Davidson Auto Group",
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -156,7 +144,7 @@
       2
     ],
     [
-      "Yoder Family of Companies",
+      "Lexus of Lehigh Valley",
       2
     ],
     [
@@ -164,7 +152,7 @@
       2
     ],
     [
-      "County Ford",
+      "Olson Chevrolet",
       2
     ],
     [
@@ -172,23 +160,27 @@
       2
     ],
     [
+      "VW of Duluth",
+      2
+    ],
+    [
+      "County Ford",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
       "Brandon Steven Motors",
       2
     ],
     [
-      "NJ Auto Haus",
-      1
+      "Faircy Automotive",
+      2
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
-      1
-    ],
-    [
-      "New Deal Pre-Owned Autos",
-      1
-    ],
-    [
-      "Forrester Lincoln",
+      "TORSVIKS BIL AB",
       1
     ],
     [
@@ -196,15 +188,11 @@
       1
     ],
     [
-      "Emerald Motors",
+      "4 Season Motors LLC",
       1
     ],
     [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
+      "Forrester Lincoln",
       1
     ],
     [
@@ -216,11 +204,27 @@
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Emerald Motors",
       1
     ],
     [
       "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -232,7 +236,11 @@
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
       1
     ],
     [
@@ -244,23 +252,7 @@
       1
     ],
     [
-      "Davis Ford",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
       "Magnum Car Sales",
-      1
-    ],
-    [
-      "Twin Pine Ford",
       1
     ],
     [
@@ -280,15 +272,19 @@
       1
     ],
     [
+      "Twin Pine Ford",
+      1
+    ],
+    [
       "ZT Automotive",
       1
     ],
     [
-      "TORSVIKS BIL AB",
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
-      "4 Season Motors LLC",
+      "New Deal Pre-Owned Autos",
       1
     ]
   ]
