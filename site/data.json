@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T13:02:52.201Z",
+  "fetchedAt": "2026-09-11T13:20:15.697Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,19 @@
   "rows": [
     [
       null,
-      169
+      160
     ],
     [
       "Asbury Automotive Management L.L.C",
       60
     ],
     [
-      "Quantrell Auto Group",
-      19
-    ],
-    [
       "Rawian Oy",
-      12
+      14
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      5
+      "Gettel Automotive Group",
+      7
     ],
     [
       "Worldwide Motors LTD dba Paragon Acura",
@@ -41,6 +37,14 @@
     ],
     [
       "Flexcar",
+      4
+    ],
+    [
+      "Wood Motor Company",
+      4
+    ],
+    [
+      "Yemm Auto",
       4
     ],
     [
@@ -52,11 +56,15 @@
       4
     ],
     [
-      "Wood Motor Company",
+      "Starling Auto Group",
       4
     ],
     [
       "Northstar Kia",
+      3
+    ],
+    [
+      "Greenway Automotive Group",
       3
     ],
     [
@@ -68,6 +76,10 @@
       3
     ],
     [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
       "Bob Johnson Automotive Group",
       2
     ],
@@ -76,15 +88,7 @@
       2
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
       "DealerVision.com",
-      2
-    ],
-    [
-      "Turpin Dodge Chrysler Jeep Ram",
       2
     ],
     [
@@ -92,15 +96,15 @@
       2
     ],
     [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Turpin Dodge Chrysler Jeep Ram",
+      2
+    ],
+    [
       "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Starling Auto Group",
       2
     ],
     [
@@ -108,11 +112,15 @@
       2
     ],
     [
-      "Car Capital LTD",
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
-      "Flood Auto Group",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -120,71 +128,7 @@
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "White Bear Lincoln",
-      1
-    ],
-    [
-      "Soave Automotive Group",
-      1
-    ],
-    [
       "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Lockwood Motors, Inc.",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Dorsett Automotive",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
-      1
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "Midway Dodge",
-      1
-    ],
-    [
-      "autokuva_nobg",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Lexus Of Orland",
       1
     ],
     [
@@ -192,11 +136,55 @@
       1
     ],
     [
+      "Lockwood Motors, Inc.",
+      1
+    ],
+    [
+      "White Bear Lincoln",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Soave Automotive Group",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Midway Dodge",
+      1
+    ],
+    [
+      "INERCIKAR SA",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "autokuva_nobg",
+      1
+    ],
+    [
+      "Lexus Of Orland",
+      1
+    ],
+    [
       "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
-      "Starling Chevrolet",
+      "Car Hop Auto Sales & Finance",
       1
     ],
     [
