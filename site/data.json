@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T12:00:13.546Z",
+  "fetchedAt": "2026-09-11T12:22:47.119Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      172
+      174
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -44,7 +44,15 @@
       5
     ],
     [
+      "North Park Lincoln",
+      4
+    ],
+    [
       "Flexcar",
+      4
+    ],
+    [
+      "Shelly Motors Ltd",
       4
     ],
     [
@@ -52,19 +60,7 @@
       4
     ],
     [
-      "North Park Lincoln",
-      4
-    ],
-    [
       "Northstar Kia",
-      3
-    ],
-    [
-      "Shelly Motors Ltd",
-      3
-    ],
-    [
-      "Sansone Jr's Auto Group",
       3
     ],
     [
@@ -72,15 +68,19 @@
       3
     ],
     [
+      "Sansone Jr's Auto Group",
+      3
+    ],
+    [
       "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Olson Chevrolet",
       2
     ],
     [
-      "Olson Chevrolet",
+      "Car Central",
       2
     ],
     [
@@ -92,19 +92,23 @@
       2
     ],
     [
-      "Car Central",
-      2
-    ],
-    [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
       "Yoder Family of Companies",
       2
     ],
     [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
       "Faircy Automotive",
+      2
+    ],
+    [
+      "Kempton Chevrolet",
       2
     ],
     [
@@ -116,7 +120,7 @@
       2
     ],
     [
-      "Generation Nissan",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -128,27 +132,7 @@
       1
     ],
     [
-      "autokuva_nobg",
-      1
-    ],
-    [
-      "Lexus Of Orland",
-      1
-    ],
-    [
       "Starling Chevrolet",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Lockwood Motors, Inc.",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
       1
     ],
     [
@@ -156,15 +140,7 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Dorsett Automotive",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -172,11 +148,35 @@
       1
     ],
     [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      1
+    ],
+    [
+      "White Bear Lincoln",
+      1
+    ],
+    [
+      "Soave Automotive Group",
+      1
+    ],
+    [
+      "Dorsett Automotive",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
       "Bergstrom Automotive",
       1
     ],
     [
-      "Flood Auto Group",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -188,11 +188,11 @@
       1
     ],
     [
-      "White Bear Lincoln",
+      "autokuva_nobg",
       1
     ],
     [
-      "World Car Auto Group",
+      "Lexus Of Orland",
       1
     ],
     [
@@ -200,15 +200,15 @@
       1
     ],
     [
-      "Soave Automotive Group",
+      "Generation Nissan",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "ZT Automotive",
       1
     ],
     [
-      "Teton solutions Group",
+      "Flood Auto Group",
       1
     ],
     [
