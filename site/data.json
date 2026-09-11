@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T03:05:47.406Z",
+  "fetchedAt": "2026-09-11T03:21:42.902Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      270
+      274
     ],
     [
       "Asbury Automotive Management L.L.C",
-      100
+      101
+    ],
+    [
+      "Springfield Luxury Automall",
+      13
     ],
     [
       "KASS Bladel-Reusel BV",
       12
-    ],
-    [
-      "Springfield Luxury Automall",
-      11
     ],
     [
       "AutoGiant USA",
@@ -104,6 +104,10 @@
       3
     ],
     [
+      "Freedom Chevrolet",
+      3
+    ],
+    [
       "greenway auto group 2",
       3
     ],
@@ -121,10 +125,6 @@
     ],
     [
       "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Freedom Chevrolet",
       2
     ],
     [
