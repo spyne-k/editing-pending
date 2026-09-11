@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T00:50:07.920Z",
+  "fetchedAt": "2026-09-11T00:59:58.154Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      302
+      313
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -28,12 +28,12 @@
       14
     ],
     [
-      "LUXURY IMPORTS",
-      11
+      "KASS Bladel-Reusel BV",
+      12
     ],
     [
-      "Volvo of Princeton Inc",
-      8
+      "LUXURY IMPORTS",
+      11
     ],
     [
       "Your Choice Auto LLC",
@@ -44,7 +44,15 @@
       8
     ],
     [
+      "Volvo of Princeton Inc",
+      8
+    ],
+    [
       "MP auto Sales LLC DBA Carizona",
+      7
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       7
     ],
     [
@@ -53,10 +61,6 @@
     ],
     [
       "World Car Auto Group",
-      6
-    ],
-    [
-      "Russ Darrow Group, Inc.",
       6
     ],
     [
@@ -72,6 +76,14 @@
       5
     ],
     [
+      "Altawkilat",
+      4
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      4
+    ],
+    [
       "Integrity Auto Sales",
       4
     ],
@@ -80,23 +92,7 @@
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
-      "Moses Auto Group",
-      4
-    ],
-    [
-      "Altawkilat",
-      4
-    ],
-    [
-      "Flexcar",
-      3
-    ],
-    [
-      "DealerVision.com",
+      "Northstar Kia",
       3
     ],
     [
@@ -104,7 +100,19 @@
       3
     ],
     [
-      "Northstar Kia",
+      "Kian Motors INC",
+      3
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Flexcar",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
       3
     ],
     [
@@ -116,19 +124,7 @@
       3
     ],
     [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Kian Motors INC",
-      3
-    ],
-    [
-      "Expert Auto Group",
-      2
-    ],
-    [
-      "Davidson Auto Group",
+      "greenway auto group 2",
       2
     ],
     [
@@ -136,19 +132,19 @@
       2
     ],
     [
+      "Car Central",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
       "Faircy Automotive",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "greenway auto group 2",
-      2
-    ],
-    [
-      "Olson Chevrolet",
       2
     ],
     [
@@ -164,11 +160,19 @@
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "Olson Chevrolet",
       2
     ],
     [
-      "Car Central",
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "Expert Auto Group",
       2
     ],
     [
@@ -188,15 +192,7 @@
       1
     ],
     [
-      "EV Car Company",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "Forrester Lincoln",
+      "Wharton Ford",
       1
     ],
     [
@@ -204,27 +200,7 @@
       1
     ],
     [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Car Castle",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Forrester Lincoln",
       1
     ],
     [
@@ -232,7 +208,35 @@
       1
     ],
     [
-      "Wharton Ford",
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "EV Car Company",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Courtesy Chevy of Tucson",
       1
     ]
   ]
