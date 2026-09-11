@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T12:39:42.824Z",
+  "fetchedAt": "2026-09-11T12:53:21.884Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      172
+      166
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -48,12 +48,16 @@
       4
     ],
     [
-      "Shelly Motors Ltd",
+      "Rim Revolution LLC",
       4
     ],
     [
-      "Rim Revolution LLC",
+      "Wood Motor Company",
       4
+    ],
+    [
+      "Northstar Kia",
+      3
     ],
     [
       "McCurley Dealerships",
@@ -64,14 +68,6 @@
       3
     ],
     [
-      "Northstar Kia",
-      3
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
       "Bob Johnson Automotive Group",
       2
     ],
@@ -80,15 +76,11 @@
       2
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
       "DealerVision.com",
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -96,7 +88,11 @@
       2
     ],
     [
-      "Faircy Automotive",
+      "Turpin Dodge Chrysler Jeep Ram",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
@@ -108,19 +104,11 @@
       2
     ],
     [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Teton solutions Group",
+      "Starling Chevrolet",
       1
     ],
     [
-      "Pdx Wheels, Steals & Deals",
-      1
-    ],
-    [
-      "Forrester Lincoln",
+      "Flood Auto Group",
       1
     ],
     [
@@ -128,11 +116,11 @@
       1
     ],
     [
-      "White Bear Lincoln",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Enterprise Motor Group",
+      "White Bear Lincoln",
       1
     ],
     [
@@ -152,15 +140,11 @@
       1
     ],
     [
-      "ZT Automotive",
-      1
-    ],
-    [
       "Dorsett Automotive",
       1
     ],
     [
-      "Generation Nissan",
+      "Faircy Automotive",
       1
     ],
     [
@@ -168,15 +152,15 @@
       1
     ],
     [
-      "Flood Auto Group",
+      "Teton solutions Group",
       1
     ],
     [
-      "Starling Chevrolet",
+      "Generation Nissan",
       1
     ],
     [
-      "autokuva_nobg",
+      "Car Hop Auto Sales & Finance",
       1
     ],
     [
@@ -184,15 +168,19 @@
       1
     ],
     [
+      "ZT Automotive",
+      1
+    ],
+    [
       "Greenway Automotive Group",
       1
     ],
     [
-      "Lexus Of Orland",
+      "autokuva_nobg",
       1
     ],
     [
-      "Car Hop Auto Sales & Finance",
+      "Lexus Of Orland",
       1
     ],
     [
@@ -201,10 +189,6 @@
     ],
     [
       "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
       1
     ],
     [
