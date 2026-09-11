@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T05:17:28.743Z",
+  "fetchedAt": "2026-09-11T05:30:10.076Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      221
+      226
     ],
     [
       "AutoGiant USA",
@@ -52,7 +52,7 @@
       8
     ],
     [
-      "Kian Motors INC",
+      "Lexus Of Orland",
       7
     ],
     [
@@ -60,7 +60,7 @@
       7
     ],
     [
-      "Lexus Of Orland",
+      "Kian Motors INC",
       7
     ],
     [
@@ -80,10 +80,6 @@
       4
     ],
     [
-      "Altawkilat",
-      4
-    ],
-    [
       "Rim Revolution LLC",
       4
     ],
@@ -92,15 +88,19 @@
       4
     ],
     [
+      "Altawkilat",
+      4
+    ],
+    [
       "McLeod Auto Sales",
       4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Freedom Chevrolet",
       3
     ],
     [
-      "McCurley Dealerships",
+      "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
@@ -108,11 +108,11 @@
       3
     ],
     [
-      "Freedom Chevrolet",
+      "Wood Motor Company",
       3
     ],
     [
-      "West Mitsubishi",
+      "Mark Miller Subaru, Inc.",
       3
     ],
     [
@@ -120,7 +120,11 @@
       3
     ],
     [
-      "Wood Motor Company",
+      "West Mitsubishi",
+      3
+    ],
+    [
+      "McCurley Dealerships",
       3
     ],
     [
@@ -128,15 +132,31 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Davidson Auto Group",
       2
     ],
     [
-      "County Ford",
+      "Car Central",
       2
     ],
     [
       "Midway Dodge",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Lexus of Merrillville",
       2
     ],
     [
@@ -148,7 +168,11 @@
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "County Ford",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -156,23 +180,15 @@
       2
     ],
     [
-      "Car Central",
-      2
+      "Teton solutions Group",
+      1
     ],
     [
-      "Lexus of Merrillville",
-      2
+      "Post Oak Toyota",
+      1
     ],
     [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Davis Ford",
+      "Auto Exchange Group",
       1
     ],
     [
@@ -180,19 +196,11 @@
       1
     ],
     [
-      "4 Season Motors LLC",
-      1
-    ],
-    [
-      "Mount Airy Nissan",
+      "Generation Nissan",
       1
     ],
     [
       "Perkins Motors",
-      1
-    ],
-    [
-      "Teton solutions Group",
       1
     ],
     [
@@ -204,7 +212,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Wharton Ford",
       1
     ],
     [
@@ -212,7 +220,7 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
@@ -220,7 +228,7 @@
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "NJ Auto Haus",
       1
     ],
     [
@@ -232,11 +240,11 @@
       1
     ],
     [
-      "Post Oak Toyota",
+      "Mount Airy Nissan",
       1
     ],
     [
-      "Southbank Dodge Chrysler (1982) Ltd",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -244,7 +252,7 @@
       1
     ],
     [
-      "Generation Nissan",
+      "ZT Automotive",
       1
     ],
     [
@@ -256,7 +264,7 @@
       1
     ],
     [
-      "Wharton Ford",
+      "Davis Ford",
       1
     ],
     [
