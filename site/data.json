@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T09:36:37.988Z",
+  "fetchedAt": "2026-09-11T09:48:36.592Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      192
+      206
     ],
     [
       "Asbury Automotive Management L.L.C",
-      59
+      74
     ],
     [
       "Starling Auto Group",
@@ -60,7 +60,7 @@
       4
     ],
     [
-      "Moffitt's Ford",
+      "North Park Lincoln",
       4
     ],
     [
@@ -72,11 +72,11 @@
       4
     ],
     [
-      "LUXURY IMPORTS",
+      "Bud Clary Chevrolet, INC",
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Moffitt's Ford",
       4
     ],
     [
@@ -112,11 +112,11 @@
       2
     ],
     [
-      "Yoder Family of Companies",
+      "VW of Duluth",
       2
     ],
     [
-      "VW of Duluth",
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -161,10 +161,6 @@
     ],
     [
       "Emerald Motors",
-      1
-    ],
-    [
-      "Renny Bettan",
       1
     ],
     [
@@ -238,6 +234,10 @@
     [
       "Forrester Lincoln",
       1
+    ],
+    [
+      "LUXURY IMPORTS",
+      0
     ]
   ]
 }
