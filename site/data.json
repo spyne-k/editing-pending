@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T07:23:37.700Z",
+  "fetchedAt": "2026-09-11T07:36:48.632Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      231
+      218
     ],
     [
       "Hawthorne Auto Square",
       14
-    ],
-    [
-      "DealerVision.com",
-      10
     ],
     [
       "Renny Bettan",
@@ -64,16 +60,16 @@
       7
     ],
     [
-      "Icon Motors Group of Framingham",
-      6
-    ],
-    [
       "World Car Auto Group",
       6
     ],
     [
+      "Icon Motors Group of Framingham",
+      6
+    ],
+    [
       "Starling Auto Group",
-      5
+      6
     ],
     [
       "Wood Motor Company",
@@ -84,11 +80,7 @@
       5
     ],
     [
-      "Flexcar",
-      4
-    ],
-    [
-      "McLeod Auto Sales",
+      "Moffitt's Ford",
       4
     ],
     [
@@ -100,15 +92,11 @@
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
       "Altawkilat",
       4
     ],
     [
-      "Moffitt's Ford",
+      "Bud Clary Chevrolet, INC",
       4
     ],
     [
@@ -116,7 +104,11 @@
       4
     ],
     [
-      "S&S Motors",
+      "Flexcar",
+      4
+    ],
+    [
+      "greenway auto group 2",
       3
     ],
     [
@@ -124,19 +116,7 @@
       3
     ],
     [
-      "LuxuryMotorCars",
-      3
-    ],
-    [
-      "Northstar Kia",
-      3
-    ],
-    [
-      "Post Oak Toyota",
-      3
-    ],
-    [
-      "Auto Exchange Group",
+      "McCurley Dealerships",
       3
     ],
     [
@@ -144,16 +124,24 @@
       3
     ],
     [
-      "greenway auto group 2",
+      "S&S Motors",
       3
     ],
     [
-      "McCurley Dealerships",
+      "LuxuryMotorCars",
       3
     ],
     [
-      "County Ford",
-      2
+      "Drivemax USA",
+      3
+    ],
+    [
+      "Northstar Kia",
+      3
+    ],
+    [
+      "Auto Exchange Group",
+      3
     ],
     [
       "Brandon Steven Motors",
@@ -164,23 +152,23 @@
       2
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "VW of Duluth",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
+      "Rohrich Automotive Group",
       2
     ],
     [
       "Olson Chevrolet",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "County Ford",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -192,7 +180,7 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Car Central",
       2
     ],
     [
@@ -200,11 +188,15 @@
       2
     ],
     [
-      "ZT Automotive",
+      "VW of Duluth",
+      2
+    ],
+    [
+      "autokuva_nobg",
       1
     ],
     [
-      "NJ Auto Haus",
+      "TORSVIKS BIL AB",
       1
     ],
     [
@@ -212,19 +204,19 @@
       1
     ],
     [
-      "Lambert Buick GMC Inc",
-      1
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "Twin Pine Ford",
+      "Magnum Car Sales",
       1
     ],
     [
       "Forrester Lincoln",
+      1
+    ],
+    [
+      "Davis Ford",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -236,11 +228,11 @@
       1
     ],
     [
-      "Davis Ford",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "NJ Auto Haus",
       1
     ],
     [
@@ -248,7 +240,7 @@
       1
     ],
     [
-      "Magnum Car Sales",
+      "Twin Pine Ford",
       1
     ],
     [
@@ -256,11 +248,11 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "Emerald Motors",
+      "Teton solutions Group",
       1
     ],
     [
@@ -272,11 +264,11 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Emerald Motors",
       1
     ],
     [
-      "Rawian Oy",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -288,7 +280,7 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "ZT Automotive",
       1
     ],
     [
@@ -296,11 +288,11 @@
       1
     ],
     [
-      "TORSVIKS BIL AB",
+      "Generation Nissan",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Rawian Oy",
       1
     ],
     [
