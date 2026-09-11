@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T06:55:38.114Z",
+  "fetchedAt": "2026-09-11T07:08:31.027Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,11 @@
   "rows": [
     [
       null,
-      229
+      235
+    ],
+    [
+      "Hawthorne Auto Square",
+      14
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -41,10 +45,6 @@
     ],
     [
       "Apex Automotive Group",
-      8
-    ],
-    [
-      "Perkins Motors",
       8
     ],
     [
@@ -80,16 +80,8 @@
       5
     ],
     [
-      "Hawthorne Auto Square",
-      5
-    ],
-    [
       "Charlie Clark Hyundai",
       5
-    ],
-    [
-      "McLeod Auto Sales",
-      4
     ],
     [
       "Altawkilat",
@@ -112,8 +104,12 @@
       4
     ],
     [
-      "greenway auto group 2",
-      3
+      "McLeod Auto Sales",
+      4
+    ],
+    [
+      "Moffitt's Ford",
+      4
     ],
     [
       "McCurley Dealerships",
@@ -132,6 +128,18 @@
       3
     ],
     [
+      "Auto Exchange Group",
+      3
+    ],
+    [
+      "greenway auto group 2",
+      3
+    ],
+    [
+      "S&S Motors",
+      3
+    ],
+    [
       "Northstar Kia",
       3
     ],
@@ -144,11 +152,7 @@
       2
     ],
     [
-      "VW of Duluth",
-      2
-    ],
-    [
-      "Volvo Cars Palm Springs",
+      "Sherwood Ford",
       2
     ],
     [
@@ -156,7 +160,7 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Volvo Cars Palm Springs",
       2
     ],
     [
@@ -168,19 +172,11 @@
       2
     ],
     [
-      "Lexus of Lehigh Valley",
-      2
-    ],
-    [
-      "S&S Motors",
-      2
-    ],
-    [
       "Olson Chevrolet",
       2
     ],
     [
-      "Car Central",
+      "Lexus of Lehigh Valley",
       2
     ],
     [
@@ -188,11 +184,19 @@
       2
     ],
     [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
       "Davidson Auto Group",
       2
     ],
     [
-      "Sherwood Ford",
+      "VW of Duluth",
+      2
+    ],
+    [
+      "Car Central",
       2
     ],
     [
@@ -200,11 +204,7 @@
       2
     ],
     [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "Davis Ford",
+      "Teton solutions Group",
       1
     ],
     [
@@ -212,15 +212,11 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "4 Season Motors LLC",
       1
     ],
     [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Auto Exchange Group",
+      "Rawian Oy",
       1
     ],
     [
@@ -228,7 +224,7 @@
       1
     ],
     [
-      "Mount Airy Nissan",
+      "autokuva_nobg",
       1
     ],
     [
@@ -236,15 +232,7 @@
       1
     ],
     [
-      "autokuva_nobg",
-      1
-    ],
-    [
       "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Lexus Of Orland",
       1
     ],
     [
@@ -252,11 +240,15 @@
       1
     ],
     [
+      "TORSVIKS BIL AB",
+      1
+    ],
+    [
       "Courtesy Chevy of Tucson",
       1
     ],
     [
-      "LUXURY IMPORTS",
+      "ZT Automotive",
       1
     ],
     [
@@ -268,7 +260,7 @@
       1
     ],
     [
-      "Emerald Motors",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
@@ -280,11 +272,11 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "Moffitt's Ford",
+      "Davis Ford",
       1
     ],
     [
@@ -296,7 +288,7 @@
       1
     ],
     [
-      "Twin Pine Ford",
+      "LUXURY IMPORTS",
       1
     ],
     [
@@ -304,15 +296,15 @@
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "Emerald Motors",
       1
     ],
     [
-      "Rawian Oy",
+      "Twin Pine Ford",
       1
     ],
     [
-      "4 Season Motors LLC",
+      "New Deal Pre-Owned Autos",
       1
     ]
   ]
