@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T00:38:21.201Z",
+  "fetchedAt": "2026-09-11T00:50:07.920Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -32,15 +32,15 @@
       11
     ],
     [
-      "Apex Automotive Group",
-      8
-    ],
-    [
       "Volvo of Princeton Inc",
       8
     ],
     [
       "Your Choice Auto LLC",
+      8
+    ],
+    [
+      "Apex Automotive Group",
       8
     ],
     [
@@ -56,11 +56,15 @@
       6
     ],
     [
-      "Bob Johnson Automotive Group",
-      5
+      "Russ Darrow Group, Inc.",
+      6
     ],
     [
       "Starling Auto Group",
+      5
+    ],
+    [
+      "County Ford",
       5
     ],
     [
@@ -68,7 +72,15 @@
       5
     ],
     [
+      "Integrity Auto Sales",
+      4
+    ],
+    [
       "Rim Revolution LLC",
+      4
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       4
     ],
     [
@@ -77,14 +89,6 @@
     ],
     [
       "Altawkilat",
-      4
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "Integrity Auto Sales",
       4
     ],
     [
@@ -100,11 +104,15 @@
       3
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Northstar Kia",
       3
     ],
     [
       "Wood Motor Company",
+      3
+    ],
+    [
+      "McCurley Dealerships",
       3
     ],
     [
@@ -116,15 +124,19 @@
       3
     ],
     [
-      "McCurley Dealerships",
-      3
+      "Expert Auto Group",
+      2
     ],
     [
-      "Auto Reum",
-      3
+      "Davidson Auto Group",
+      2
     ],
     [
-      "Brandon Steven Motors",
+      "Sithari Cars Limited",
+      2
+    ],
+    [
+      "Faircy Automotive",
       2
     ],
     [
@@ -132,7 +144,19 @@
       2
     ],
     [
-      "Sithari Cars Limited",
+      "greenway auto group 2",
+      2
+    ],
+    [
+      "Olson Chevrolet",
+      2
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -144,35 +168,11 @@
       2
     ],
     [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "greenway auto group 2",
-      2
-    ],
-    [
-      "Lockwood Motors, Inc.",
-      2
-    ],
-    [
-      "Expert Auto Group",
-      2
-    ],
-    [
       "Car Central",
       2
     ],
     [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Wharton Ford",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -180,19 +180,15 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
       "New Deal Pre-Owned Autos",
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "4 Season Motors LLC",
       1
     ],
     [
-      "4 Season Motors LLC",
+      "EV Car Company",
       1
     ],
     [
@@ -204,15 +200,7 @@
       1
     ],
     [
-      "EV Car Company",
-      1
-    ],
-    [
       "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "County Ford",
       1
     ],
     [
@@ -220,11 +208,15 @@
       1
     ],
     [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
       "H&K Chevrolet Family Auto",
       1
     ],
     [
-      "Northstar Kia",
+      "Car Castle",
       1
     ],
     [
@@ -236,15 +228,11 @@
       1
     ],
     [
-      "Car Castle",
-      1
-    ],
-    [
       "Eastern Digital",
       1
     ],
     [
-      "Janssen Kuenle CDJR",
+      "Wharton Ford",
       1
     ]
   ]
