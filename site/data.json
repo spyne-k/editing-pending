@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T06:25:24.244Z",
+  "fetchedAt": "2026-09-11T06:41:32.517Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      227
+      237
     ],
     [
       "Springfield Luxury Automall",
@@ -32,7 +32,7 @@
       10
     ],
     [
-      "Auto Dobrovolny V.M. s.r.o.",
+      "Lexus Of Orland",
       8
     ],
     [
@@ -40,7 +40,19 @@
       8
     ],
     [
+      "Auto Dobrovolny V.M. s.r.o.",
+      8
+    ],
+    [
       "Apex Automotive Group",
+      8
+    ],
+    [
+      "Renny Bettan",
+      8
+    ],
+    [
+      "Joshua Trownsell",
       8
     ],
     [
@@ -48,19 +60,11 @@
       7
     ],
     [
-      "Perkins Motors",
-      7
-    ],
-    [
       "Russ Darrow Group, Inc.",
       7
     ],
     [
-      "Rawian Oy",
-      7
-    ],
-    [
-      "Lexus Of Orland",
+      "Perkins Motors",
       7
     ],
     [
@@ -80,7 +84,7 @@
       5
     ],
     [
-      "Flexcar",
+      "Altawkilat",
       4
     ],
     [
@@ -96,7 +100,7 @@
       4
     ],
     [
-      "Altawkilat",
+      "Flexcar",
       4
     ],
     [
@@ -104,7 +108,7 @@
       4
     ],
     [
-      "Post Oak Toyota",
+      "McCurley Dealerships",
       3
     ],
     [
@@ -112,7 +116,11 @@
       3
     ],
     [
-      "Northstar Kia",
+      "Icon Motors Group of Framingham",
+      3
+    ],
+    [
+      "Post Oak Toyota",
       3
     ],
     [
@@ -120,27 +128,19 @@
       3
     ],
     [
-      "Renny Bettan",
-      3
-    ],
-    [
       "greenway auto group 2",
       3
     ],
     [
-      "West Mitsubishi",
+      "Northstar Kia",
       3
     ],
     [
-      "McCurley Dealerships",
+      "Ferris Chevrolet, Inc",
       3
     ],
     [
-      "Freedom Chevrolet",
-      3
-    ],
-    [
-      "Brandon Steven Motors",
+      "VW of Duluth",
       2
     ],
     [
@@ -148,7 +148,11 @@
       2
     ],
     [
-      "Midway Dodge",
+      "LuxuryMotorCars",
+      2
+    ],
+    [
+      "Olson Chevrolet",
       2
     ],
     [
@@ -156,7 +160,11 @@
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "Midway Dodge",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -168,10 +176,6 @@
       2
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
       "Faircy Automotive",
       2
     ],
@@ -180,7 +184,7 @@
       2
     ],
     [
-      "Olson Chevrolet",
+      "County Ford",
       2
     ],
     [
@@ -188,11 +192,15 @@
       2
     ],
     [
-      "County Ford",
+      "Volvo Cars Palm Springs",
       2
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "Sherwood Ford",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -200,23 +208,15 @@
       2
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      2
+      "Clear Auto Dartmouth",
+      1
     ],
     [
       "Auto Exchange Group",
       1
     ],
     [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "NJ Auto Haus",
-      1
-    ],
-    [
-      "Clear Auto Dartmouth",
+      "Rawian Oy",
       1
     ],
     [
@@ -228,11 +228,19 @@
       1
     ],
     [
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
       "Courtesy Chevy of Tucson",
       1
     ],
     [
-      "LUXURY IMPORTS",
+      "autokuva_nobg",
       1
     ],
     [
@@ -240,11 +248,11 @@
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "Generation Nissan",
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Mount Airy Nissan",
       1
     ],
     [
@@ -256,11 +264,11 @@
       1
     ],
     [
-      "Mount Airy Nissan",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
-      "Sherwood Ford",
+      "Twin Pine Ford",
       1
     ],
     [
@@ -272,15 +280,7 @@
       1
     ],
     [
-      "Wharton Ford",
-      1
-    ],
-    [
-      "Frontier Auto Sales and Service",
-      1
-    ],
-    [
-      "ZT Automotive",
+      "NJ Auto Haus",
       1
     ],
     [
@@ -288,11 +288,19 @@
       1
     ],
     [
+      "Frontier Auto Sales and Service",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
       "Teton solutions Group",
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "LUXURY IMPORTS",
       1
     ]
   ]
