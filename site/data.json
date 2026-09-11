@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T11:30:16.691Z",
+  "fetchedAt": "2026-09-11T11:42:41.746Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      176
+      171
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -30,10 +30,6 @@
     [
       "Mark Miller Subaru, Inc.",
       7
-    ],
-    [
-      "Charlie Clark Hyundai",
-      5
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
@@ -88,11 +84,11 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Yoder Family of Companies",
       2
     ],
     [
-      "Yoder Family of Companies",
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -116,7 +112,7 @@
       2
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "ZT Automotive",
       1
     ],
     [
@@ -140,7 +136,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Soave Automotive Group",
       1
     ],
     [
@@ -152,7 +148,7 @@
       1
     ],
     [
-      "Soave Automotive Group",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -172,7 +168,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Generation Nissan",
       1
     ],
     [
@@ -188,7 +184,7 @@
       1
     ],
     [
-      "Generation Nissan",
+      "autokuva_nobg",
       1
     ],
     [
@@ -200,11 +196,11 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "Lexus Of Orland",
       1
     ],
     [
-      "Lexus Of Orland",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
