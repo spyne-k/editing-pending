@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T23:58:16.153Z",
+  "fetchedAt": "2026-09-11T00:18:50.819Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,19 @@
   "rows": [
     [
       null,
-      323
+      307
     ],
     [
       "Asbury Automotive Management L.L.C",
       129
     ],
     [
-      "Preston Motor Automotive Group",
+      "MyCar: Trucktown",
       14
     ],
     [
       "LUXURY IMPORTS",
       11
-    ],
-    [
-      "MyCar: Trucktown",
-      10
     ],
     [
       "Volvo of Princeton Inc",
@@ -48,11 +44,15 @@
       8
     ],
     [
+      "MP auto Sales LLC DBA Carizona",
+      7
+    ],
+    [
       "World Car Auto Group",
       6
     ],
     [
-      "Performance Automotive Network",
+      "Bergstrom Automotive",
       6
     ],
     [
@@ -60,8 +60,8 @@
       6
     ],
     [
-      "S&L Motors, Pulaski WI",
-      6
+      "Bob Johnson Automotive Group",
+      5
     ],
     [
       "Starling Auto Group",
@@ -70,14 +70,6 @@
     [
       "Charlie Clark Hyundai",
       5
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
-      4
-    ],
-    [
-      "Bergstrom Automotive",
-      4
     ],
     [
       "Rim Revolution LLC",
@@ -100,31 +92,11 @@
       3
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      3
-    ],
-    [
-      "McCurley Dealerships",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
-      "North Park Lincoln",
-      3
-    ],
-    [
       "Auto Reum",
       3
     ],
     [
-      "Starling Chevrolet",
+      "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
@@ -136,27 +108,31 @@
       3
     ],
     [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Volvo Cars Palm Springs",
-      2
+      "McCurley Dealerships",
+      3
     ],
     [
       "Russ Darrow Group, Inc.",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Starling Chevrolet",
+      3
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Expert Auto Group",
       2
     ],
     [
-      "McLeod Auto Sales",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Kempton Chevrolet",
+      "Davidson Auto Group",
       2
     ],
     [
@@ -164,7 +140,15 @@
       2
     ],
     [
+      "Faircy Automotive",
+      2
+    ],
+    [
       "greenway auto group 2",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -172,11 +156,15 @@
       2
     ],
     [
+      "Lockwood Motors, Inc.",
+      2
+    ],
+    [
       "Brandon Steven Motors",
       2
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Kempton Chevrolet",
       2
     ],
     [
@@ -184,23 +172,23 @@
       2
     ],
     [
-      "Expert Auto Group",
+      "Volvo Cars Palm Springs",
       2
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
     ],
     [
       "Velocity Auto Haus",
       1
     ],
     [
-      "Mondial car Sarl",
+      "Eastern Digital",
       1
     ],
     [
       "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Eastern Digital",
       1
     ],
     [
@@ -216,7 +204,7 @@
       1
     ],
     [
-      "Performance Auto Group",
+      "Forrester Lincoln",
       1
     ],
     [
@@ -224,7 +212,7 @@
       1
     ],
     [
-      "Faircy Automotive",
+      "Janssen Kuenle CDJR",
       1
     ],
     [
@@ -244,10 +232,6 @@
       1
     ],
     [
-      "Moffitt's Ford",
-      1
-    ],
-    [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       1
     ],
@@ -260,11 +244,7 @@
       1
     ],
     [
-      "Janssen Kuenle CDJR",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
+      "Integrity Auto Sales",
       1
     ],
     [
