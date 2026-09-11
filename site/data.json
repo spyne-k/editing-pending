@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T05:03:21.983Z",
+  "fetchedAt": "2026-09-11T05:17:28.743Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      218
+      221
     ],
     [
       "AutoGiant USA",
@@ -52,15 +52,15 @@
       8
     ],
     [
+      "Kian Motors INC",
+      7
+    ],
+    [
       "Russ Darrow Group, Inc.",
       7
     ],
     [
       "Lexus Of Orland",
-      7
-    ],
-    [
-      "Kian Motors INC",
       7
     ],
     [
@@ -132,6 +132,10 @@
       2
     ],
     [
+      "County Ford",
+      2
+    ],
+    [
       "Midway Dodge",
       2
     ],
@@ -184,7 +188,7 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Perkins Motors",
       1
     ],
     [
@@ -200,7 +204,7 @@
       1
     ],
     [
-      "Perkins Motors",
+      "ZT Automotive",
       1
     ],
     [
@@ -228,7 +232,11 @@
       1
     ],
     [
-      "County Ford",
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
       1
     ],
     [
