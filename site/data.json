@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T21:46:47.826Z",
+  "fetchedAt": "2026-09-11T23:33:26.270Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,46 @@
   "rows": [
     [
       null,
-      110
+      197
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      60
     ],
     [
       "KASS Bladel-Reusel BV",
       32
     ],
     [
-      "Greenway Automotive Group",
-      9
+      "Bud Clary Chevrolet, INC",
+      10
+    ],
+    [
+      "Gettel Automotive Group",
+      8
+    ],
+    [
+      "Flexcar",
+      6
     ],
     [
       "LUXURY IMPORTS",
       6
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Bob Johnson Automotive Group",
+      6
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      6
+    ],
+    [
+      "Charlie Clark Hyundai",
+      5
+    ],
+    [
+      "Toronto Honda",
       5
     ],
     [
@@ -40,27 +64,11 @@
       4
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Freedom Chevrolet",
       4
-    ],
-    [
-      "Rim Revolution LLC",
-      4
-    ],
-    [
-      "Toronto Honda",
-      4
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
     ],
     [
       "Olympic Hyundai Vancouver",
-      3
-    ],
-    [
-      "Wood Motor Company",
       3
     ],
     [
@@ -68,11 +76,11 @@
       3
     ],
     [
-      "Flexcar",
+      "Superior Auto, INC",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Rochester Toyota",
       2
     ],
     [
@@ -80,11 +88,7 @@
       2
     ],
     [
-      "Euro Motorcars",
-      2
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
+      "Simmons-Rockwell Automotive Dealerships",
       2
     ],
     [
@@ -92,11 +96,39 @@
       2
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Jim Schmidt Automotive",
       2
     ],
     [
-      "Generation Nissan",
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Euro Motorcars",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Covert Auto Group",
+      2
+    ],
+    [
+      "Novacti",
+      1
+    ],
+    [
+      "Curry Acura",
+      1
+    ],
+    [
+      "Alliance Cars Limited",
+      1
+    ],
+    [
+      "INERCIKAR SA",
       1
     ],
     [
@@ -104,31 +136,15 @@
       1
     ],
     [
-      "AX Auto INC",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
-      "Covert Auto Group",
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Platinum Cars",
-      1
-    ],
-    [
-      "Jim Schmidt Automotive",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Emerald Motors",
+      "Mt Orab Chevy",
       1
     ],
     [
@@ -140,23 +156,39 @@
       1
     ],
     [
-      "Mt Orab Chevy",
+      "Teton solutions Group",
       1
     ],
     [
-      "INERCIKAR SA",
+      "AX Auto INC",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Impex Auto Sales",
+      1
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Emerald Motors",
+      1
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
       "Best Deal Auto Sales, INC.",
-      1
-    ],
-    [
-      "MEI Inc",
-      1
-    ],
-    [
-      "Teton solutions Group",
       1
     ],
     [
