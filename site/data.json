@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T13:46:39.067Z",
+  "fetchedAt": "2026-09-11T13:56:25.877Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      167
+      168
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -25,22 +25,18 @@
     ],
     [
       "Rawian Oy",
-      14
+      16
     ],
     [
       "Gettel Automotive Group",
-      8
+      9
     ],
     [
       "Worldwide Motors LTD dba Paragon Acura",
       5
     ],
     [
-      "Jim Schmidt Automotive",
-      4
-    ],
-    [
-      "Starling Auto Group",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       4
     ],
     [
@@ -52,6 +48,14 @@
       4
     ],
     [
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Jim Schmidt Automotive",
+      4
+    ],
+    [
       "Wood Motor Company",
       4
     ],
@@ -60,19 +64,7 @@
       4
     ],
     [
-      "Sansone Jr's Auto Group",
-      3
-    ],
-    [
-      "McCurley Dealerships",
-      3
-    ],
-    [
       "Greenway Automotive Group",
-      3
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
       3
     ],
     [
@@ -80,7 +72,23 @@
       3
     ],
     [
-      "DealerVision.com",
+      "Sansone Jr's Auto Group",
+      3
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -100,35 +108,43 @@
       2
     ],
     [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      2
-    ],
-    [
       "Rohrich Automotive Group",
       2
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "DealerVision.com",
+      2
+    ],
+    [
+      "ZT Automotive",
+      2
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Lexus Of Orland",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
       "Davidson Auto Group",
+      1
+    ],
+    [
+      "Glass Capital CDJR",
+      1
+    ],
+    [
+      "autokuva_nobg",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
       1
     ],
     [
@@ -140,35 +156,7 @@
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
       "White Bear Lincoln",
-      1
-    ],
-    [
-      "Lockwood Motors, Inc.",
-      1
-    ],
-    [
-      "Soave Automotive Group",
-      1
-    ],
-    [
-      "The Used Car Guys GMBH",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
       1
     ],
     [
@@ -176,19 +164,11 @@
       1
     ],
     [
-      "autokuva_nobg",
-      1
-    ],
-    [
-      "Lexus Of Orland",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
       "Midway Dodge",
+      1
+    ],
+    [
+      "Soave Automotive Group",
       1
     ],
     [
@@ -196,11 +176,23 @@
       1
     ],
     [
+      "INERCIKAR SA",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
+      1
+    ],
+    [
       "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
-      "INERCIKAR SA",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
