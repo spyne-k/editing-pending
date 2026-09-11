@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T01:40:17.317Z",
+  "fetchedAt": "2026-09-11T01:51:15.612Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      323
+      320
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -44,19 +44,19 @@
       8
     ],
     [
-      "Your Choice Auto LLC",
-      8
-    ],
-    [
       "Apex Automotive Group",
       8
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
-      7
+      "Your Choice Auto LLC",
+      8
     ],
     [
       "Russ Darrow Group, Inc.",
+      7
+    ],
+    [
+      "MP auto Sales LLC DBA Carizona",
       7
     ],
     [
@@ -76,7 +76,7 @@
       5
     ],
     [
-      "Flexcar",
+      "Bud Clary Chevrolet, INC",
       4
     ],
     [
@@ -88,7 +88,7 @@
       4
     ],
     [
-      "Integrity Auto Sales",
+      "Flexcar",
       4
     ],
     [
@@ -96,11 +96,7 @@
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
-      "Kian Motors INC",
+      "Jenkins Auto Group",
       3
     ],
     [
@@ -112,11 +108,11 @@
       3
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Kian Motors INC",
       3
     ],
     [
-      "Jenkins Auto Group",
+      "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
@@ -136,10 +132,6 @@
       2
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
       "Volvo Cars Palm Springs",
       2
     ],
@@ -148,11 +140,15 @@
       2
     ],
     [
+      "Olson Chevrolet",
+      2
+    ],
+    [
       "greenway auto group 2",
       2
     ],
     [
-      "Olson Chevrolet",
+      "Faircy Automotive",
       2
     ],
     [
@@ -164,7 +160,7 @@
       2
     ],
     [
-      "Faircy Automotive",
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -172,7 +168,7 @@
       2
     ],
     [
-      "Expert Auto Group",
+      "Bosstown Motors",
       2
     ],
     [
@@ -180,11 +176,11 @@
       2
     ],
     [
-      "Generation Nissan",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "Rochester Auto Mall",
       1
     ],
     [
@@ -192,11 +188,7 @@
       1
     ],
     [
-      "Mondial car Sarl",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
+      "Courtesy Chevy of Tucson",
       1
     ],
     [
@@ -208,23 +200,15 @@
       1
     ],
     [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
       "Forrester Lincoln",
       1
     ],
     [
-      "Car Hop Auto Sales & Finance",
+      "Speedway Car Sales",
       1
     ],
     [
-      "Wharton Ford",
-      1
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "H&K Chevrolet Family Auto",
       1
     ],
     [
@@ -232,15 +216,31 @@
       1
     ],
     [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Generation Nissan",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "Wharton Ford",
+      1
+    ],
+    [
       "Bob Johnson Automotive Group",
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Mondial car Sarl",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Runde Chevrolet, Inc.",
       1
     ]
   ]
