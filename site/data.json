@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T00:18:50.819Z",
+  "fetchedAt": "2026-09-11T00:38:21.201Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      307
+      302
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -32,6 +32,10 @@
       11
     ],
     [
+      "Apex Automotive Group",
+      8
+    ],
+    [
       "Volvo of Princeton Inc",
       8
     ],
@@ -40,23 +44,15 @@
       8
     ],
     [
-      "Apex Automotive Group",
-      8
-    ],
-    [
       "MP auto Sales LLC DBA Carizona",
       7
-    ],
-    [
-      "World Car Auto Group",
-      6
     ],
     [
       "Bergstrom Automotive",
       6
     ],
     [
-      "Sansone Jr's Auto Group",
+      "World Car Auto Group",
       6
     ],
     [
@@ -84,7 +80,11 @@
       4
     ],
     [
-      "Wood Motor Company",
+      "Russ Darrow Group, Inc.",
+      4
+    ],
+    [
+      "Integrity Auto Sales",
       4
     ],
     [
@@ -92,7 +92,7 @@
       3
     ],
     [
-      "Auto Reum",
+      "DealerVision.com",
       3
     ],
     [
@@ -104,6 +104,14 @@
       3
     ],
     [
+      "Wood Motor Company",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
       "Kian Motors INC",
       3
     ],
@@ -112,27 +120,27 @@
       3
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Auto Reum",
       3
     ],
     [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Starling Chevrolet",
-      3
-    ],
-    [
-      "DealerVision.com",
-      3
-    ],
-    [
-      "Expert Auto Group",
+      "Brandon Steven Motors",
       2
     ],
     [
-      "Davidson Auto Group",
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Sithari Cars Limited",
+      2
+    ],
+    [
+      "Kempton Chevrolet",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
       2
     ],
     [
@@ -148,7 +156,11 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Lockwood Motors, Inc.",
+      2
+    ],
+    [
+      "Expert Auto Group",
       2
     ],
     [
@@ -156,27 +168,11 @@
       2
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Davidson Auto Group",
       2
     ],
     [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
-      "Toronto Honda",
-      2
-    ],
-    [
-      "Volvo Cars Palm Springs",
-      2
-    ],
-    [
-      "Cornhusker Auto Center",
+      "Wharton Ford",
       1
     ],
     [
@@ -184,11 +180,7 @@
       1
     ],
     [
-      "Eastern Digital",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -196,7 +188,7 @@
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -204,15 +196,11 @@
       1
     ],
     [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
       "Forrester Lincoln",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "Janssen Kuenle CDJR",
       1
     ],
     [
@@ -220,11 +208,23 @@
       1
     ],
     [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "County Ford",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
       "H&K Chevrolet Family Auto",
       1
     ],
     [
-      "Wharton Ford",
+      "Northstar Kia",
       1
     ],
     [
@@ -236,19 +236,15 @@
       1
     ],
     [
-      "Autoplex 2000 and All Star Buick GMC truck",
-      1
-    ],
-    [
       "Car Castle",
       1
     ],
     [
-      "Integrity Auto Sales",
+      "Eastern Digital",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Janssen Kuenle CDJR",
       1
     ]
   ]
