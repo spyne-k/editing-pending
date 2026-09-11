@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T05:43:28.743Z",
+  "fetchedAt": "2026-09-11T05:53:07.184Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      215
+      224
     ],
     [
       "Springfield Luxury Automall",
       17
     ],
     [
-      "KASS Bladel-Reusel BV",
+      "LUXURY IMPORTS",
       12
     ],
     [
-      "LUXURY IMPORTS",
-      11
+      "KASS Bladel-Reusel BV",
+      12
     ],
     [
       "DealerVision.com",
@@ -48,16 +48,20 @@
       8
     ],
     [
-      "Lexus Of Orland",
-      7
-    ],
-    [
       "Russ Darrow Group, Inc.",
       7
     ],
     [
       "Kian Motors INC",
       7
+    ],
+    [
+      "Lexus Of Orland",
+      7
+    ],
+    [
+      "Mark Miller Subaru, Inc.",
+      6
     ],
     [
       "World Car Auto Group",
@@ -72,15 +76,7 @@
       5
     ],
     [
-      "Flexcar",
-      4
-    ],
-    [
-      "Southbank Dodge Chrysler (1982) Ltd",
-      4
-    ],
-    [
-      "Rim Revolution LLC",
+      "Altawkilat",
       4
     ],
     [
@@ -88,11 +84,19 @@
       4
     ],
     [
-      "Altawkilat",
+      "Rim Revolution LLC",
       4
     ],
     [
-      "Mark Miller Subaru, Inc.",
+      "Perkins Motors",
+      4
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      4
+    ],
+    [
+      "Flexcar",
       4
     ],
     [
@@ -100,15 +104,11 @@
       4
     ],
     [
-      "Freedom Chevrolet",
-      3
+      "Auto Dobrovolny V.M. s.r.o.",
+      4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      3
-    ],
-    [
-      "Northstar Kia",
+      "Post Oak Toyota",
       3
     ],
     [
@@ -120,19 +120,27 @@
       3
     ],
     [
-      "McCurley Dealerships",
-      3
-    ],
-    [
-      "Perkins Motors",
-      3
-    ],
-    [
       "West Mitsubishi",
       3
     ],
     [
-      "Brandon Steven Motors",
+      "Simmons-Rockwell Automotive Dealerships",
+      3
+    ],
+    [
+      "McCurley Dealerships",
+      3
+    ],
+    [
+      "Northstar Kia",
+      3
+    ],
+    [
+      "Freedom Chevrolet",
+      3
+    ],
+    [
+      "Lexus of Merrillville",
       2
     ],
     [
@@ -140,11 +148,11 @@
       2
     ],
     [
-      "Midway Dodge",
+      "Volvo Cars Palm Springs",
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "Midway Dodge",
       2
     ],
     [
@@ -152,11 +160,7 @@
       2
     ],
     [
-      "Lexus of Merrillville",
-      2
-    ],
-    [
-      "County Ford",
+      "Car Central",
       2
     ],
     [
@@ -164,7 +168,15 @@
       2
     ],
     [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
       "Faircy Automotive",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -172,15 +184,7 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Post Oak Toyota",
+      "County Ford",
       2
     ],
     [
@@ -188,7 +192,7 @@
       2
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "Teton solutions Group",
       1
     ],
     [
@@ -196,11 +200,7 @@
       1
     ],
     [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "New Deal Pre-Owned Autos",
+      "Davis Ford",
       1
     ],
     [
@@ -208,15 +208,7 @@
       1
     ],
     [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "4 Season Motors LLC",
-      1
-    ],
-    [
-      "Courtesy Chevy of Tucson",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -224,15 +216,23 @@
       1
     ],
     [
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
       "Runde Chevrolet, Inc.",
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "4 Season Motors LLC",
       1
     ],
     [
@@ -244,11 +244,11 @@
       1
     ],
     [
-      "NJ Auto Haus",
+      "Generation Nissan",
       1
     ],
     [
-      "Mount Airy Nissan",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
@@ -260,7 +260,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Mount Airy Nissan",
       1
     ],
     [
@@ -272,11 +272,15 @@
       1
     ],
     [
-      "Davis Ford",
+      "NJ Auto Haus",
       1
     ],
     [
-      "Auto Dobrovolny V.M. s.r.o.",
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
