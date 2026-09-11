@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T08:12:51.962Z",
+  "fetchedAt": "2026-09-11T08:29:14.628Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,10 @@
   "rows": [
     [
       null,
-      187
+      167
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      19
-    ],
-    [
-      "Kian Motors INC",
+      "Mark Miller Subaru, Inc.",
       7
     ],
     [
@@ -32,15 +28,11 @@
       7
     ],
     [
-      "Starling Auto Group",
-      7
-    ],
-    [
-      "Mark Miller Subaru, Inc.",
-      7
-    ],
-    [
       "Russ Darrow Group, Inc.",
+      7
+    ],
+    [
+      "Starling Auto Group",
       7
     ],
     [
@@ -52,12 +44,24 @@
       6
     ],
     [
+      "Charlie Clark Hyundai",
+      5
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      5
+    ],
+    [
       "Wood Motor Company",
       5
     ],
     [
-      "Charlie Clark Hyundai",
+      "Worldwide Motors LTD dba Paragon Acura",
       5
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      4
     ],
     [
       "Flexcar",
@@ -68,23 +72,7 @@
       4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      4
-    ],
-    [
-      "Moffitt's Ford",
-      4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
       "Altawkilat",
-      4
-    ],
-    [
-      "Rim Revolution LLC",
       4
     ],
     [
@@ -92,27 +80,15 @@
       4
     ],
     [
-      "Auto Exchange Group",
-      3
+      "Moffitt's Ford",
+      4
+    ],
+    [
+      "Rim Revolution LLC",
+      4
     ],
     [
       "Drivemax USA",
-      3
-    ],
-    [
-      "Northstar Kia",
-      3
-    ],
-    [
-      "McCurley Dealerships",
-      3
-    ],
-    [
-      "LuxuryMotorCars",
-      3
-    ],
-    [
-      "Ferris Chevrolet, Inc",
       3
     ],
     [
@@ -120,19 +96,31 @@
       3
     ],
     [
+      "LuxuryMotorCars",
+      3
+    ],
+    [
       "greenway auto group 2",
       3
     ],
     [
-      "Yoder Family of Companies",
-      2
+      "Ferris Chevrolet, Inc",
+      3
     ],
     [
-      "Sherwood Ford",
-      2
+      "Northstar Kia",
+      3
     ],
     [
-      "Worldwide Motors LTD dba Paragon Acura",
+      "Auto Exchange Group",
+      3
+    ],
+    [
+      "McCurley Dealerships",
+      3
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
@@ -140,11 +128,27 @@
       2
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
+      "Lexus of Lehigh Valley",
       2
     ],
     [
-      "Lexus of Lehigh Valley",
+      "Sherwood Ford",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       2
     ],
     [
@@ -156,19 +160,11 @@
       2
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
       "VW of Duluth",
       2
     ],
     [
-      "County Ford",
-      2
-    ],
-    [
-      "Davidson Auto Group",
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -176,15 +172,11 @@
       2
     ],
     [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "TORSVIKS BIL AB",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
@@ -196,7 +188,15 @@
       1
     ],
     [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
       "Clear Auto Dartmouth",
+      1
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
@@ -204,7 +204,7 @@
       1
     ],
     [
-      "Emerald Motors",
+      "Cornhusker Auto Center",
       1
     ],
     [
@@ -216,31 +216,11 @@
       1
     ],
     [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
       "Generation Nissan",
       1
     ],
     [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
@@ -252,23 +232,19 @@
       1
     ],
     [
+      "Renny Bettan",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
       "Magnum Car Sales",
-      1
-    ],
-    [
-      "Modern Classic Motors INC",
-      1
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      1
-    ],
-    [
-      "Mt Orab Chevy",
-      1
-    ],
-    [
-      "Frontier Auto Sales and Service",
       1
     ],
     [
@@ -280,7 +256,31 @@
       1
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "Modern Classic Motors INC",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "TORSVIKS BIL AB",
+      1
+    ],
+    [
+      "Emerald Motors",
+      1
+    ],
+    [
+      "Frontier Auto Sales and Service",
+      1
+    ],
+    [
+      "Midway Dodge",
+      1
+    ],
+    [
+      "Mt Orab Chevy",
       1
     ],
     [
