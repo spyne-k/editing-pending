@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T02:30:17.851Z",
+  "fetchedAt": "2026-09-11T02:44:29.966Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      310
+      282
     ],
     [
       "Asbury Automotive Management L.L.C",
-      129
+      100
     ],
     [
       "MyCar: Trucktown",
@@ -40,6 +40,14 @@
       11
     ],
     [
+      "Springfield Luxury Automall",
+      9
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      9
+    ],
+    [
       "Volvo of Princeton Inc",
       8
     ],
@@ -48,15 +56,11 @@
       8
     ],
     [
-      "Ferris Chevrolet, Inc",
-      8
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Bergstrom Automotive",
       7
     ],
     [
-      "Bergstrom Automotive",
+      "Russ Darrow Group, Inc.",
       7
     ],
     [
@@ -72,7 +76,11 @@
       5
     ],
     [
-      "Springfield Luxury Automall",
+      "Flexcar",
+      4
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       4
     ],
     [
@@ -84,27 +92,15 @@
       4
     ],
     [
-      "Flexcar",
-      4
-    ],
-    [
       "Rim Revolution LLC",
       4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
-      "McCurley Dealerships",
-      3
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
       3
     ],
     [
-      "Hatimi Auto LLC",
+      "McCurley Dealerships",
       3
     ],
     [
@@ -120,6 +116,10 @@
       3
     ],
     [
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
       "Rohrich Automotive Group",
       2
     ],
@@ -128,19 +128,11 @@
       2
     ],
     [
+      "Kian Motors INC",
+      2
+    ],
+    [
       "Olson Chevrolet",
-      2
-    ],
-    [
-      "Car Central",
-      2
-    ],
-    [
-      "Volvo Cars Palm Springs",
-      2
-    ],
-    [
-      "Faircy Automotive",
       2
     ],
     [
@@ -148,7 +140,7 @@
       2
     ],
     [
-      "Rochester Auto Mall",
+      "Faircy Automotive",
       2
     ],
     [
@@ -160,7 +152,11 @@
       2
     ],
     [
-      "Cornhusker Auto Center",
+      "Car Central",
+      2
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
@@ -168,27 +164,19 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
-      1
-    ],
-    [
-      "4 Season Motors LLC",
-      1
-    ],
-    [
       "Courtesy Chevy of Tucson",
       1
     ],
     [
-      "Forrester Lincoln",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
-      "Teton solutions Group",
+      "4 Season Motors LLC",
       1
     ],
     [
@@ -204,7 +192,7 @@
       1
     ],
     [
-      "Generation Nissan",
+      "Wharton Ford",
       1
     ],
     [
@@ -212,7 +200,7 @@
       1
     ],
     [
-      "Wharton Ford",
+      "Teton solutions Group",
       1
     ],
     [
@@ -220,11 +208,11 @@
       1
     ],
     [
-      "Mondial car Sarl",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Speedway Car Sales",
       1
     ]
   ]
