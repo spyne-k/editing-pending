@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T02:44:29.966Z",
+  "fetchedAt": "2026-09-11T02:54:44.879Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      282
+      266
     ],
     [
       "Asbury Automotive Management L.L.C",
       100
-    ],
-    [
-      "MyCar: Trucktown",
-      14
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -41,7 +37,7 @@
     ],
     [
       "Springfield Luxury Automall",
-      9
+      10
     ],
     [
       "Ferris Chevrolet, Inc",
@@ -109,10 +105,6 @@
     ],
     [
       "Wood Motor Company",
-      3
-    ],
-    [
-      "Velocity Auto Haus",
       3
     ],
     [
