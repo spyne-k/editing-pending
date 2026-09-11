@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T05:53:07.184Z",
+  "fetchedAt": "2026-09-11T06:02:59.426Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -25,7 +25,7 @@
     ],
     [
       "LUXURY IMPORTS",
-      12
+      15
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -36,7 +36,7 @@
       10
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "Mark Miller Subaru, Inc.",
       9
     ],
     [
@@ -60,11 +60,11 @@
       7
     ],
     [
-      "Mark Miller Subaru, Inc.",
+      "World Car Auto Group",
       6
     ],
     [
-      "World Car Auto Group",
+      "Perkins Motors",
       6
     ],
     [
@@ -85,10 +85,6 @@
     ],
     [
       "Rim Revolution LLC",
-      4
-    ],
-    [
-      "Perkins Motors",
       4
     ],
     [
@@ -116,11 +112,11 @@
       3
     ],
     [
-      "greenway auto group 2",
+      "West Mitsubishi",
       3
     ],
     [
-      "West Mitsubishi",
+      "greenway auto group 2",
       3
     ],
     [
@@ -128,11 +124,11 @@
       3
     ],
     [
-      "McCurley Dealerships",
+      "Northstar Kia",
       3
     ],
     [
-      "Northstar Kia",
+      "McCurley Dealerships",
       3
     ],
     [
@@ -144,7 +140,7 @@
       2
     ],
     [
-      "Davidson Auto Group",
+      "Toyota of Massapequa",
       2
     ],
     [
@@ -156,6 +152,10 @@
       2
     ],
     [
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
       "Olson Chevrolet",
       2
     ],
@@ -164,19 +164,19 @@
       2
     ],
     [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
       "Rohrich Automotive Group",
       2
     ],
     [
-      "Faircy Automotive",
+      "Yoder Family of Companies",
       2
     ],
     [
       "Brandon Steven Motors",
+      2
+    ],
+    [
+      "Faircy Automotive",
       2
     ],
     [
@@ -188,7 +188,7 @@
       2
     ],
     [
-      "Toyota of Massapequa",
+      "Davidson Auto Group",
       2
     ],
     [
@@ -196,7 +196,7 @@
       1
     ],
     [
-      "Auto Exchange Group",
+      "Clear Auto Dartmouth",
       1
     ],
     [
@@ -204,15 +204,11 @@
       1
     ],
     [
-      "Clear Auto Dartmouth",
-      1
-    ],
-    [
       "Hewlett Volkswagen, LP",
       1
     ],
     [
-      "Wharton Ford",
+      "Auto Exchange Group",
       1
     ],
     [
@@ -228,11 +224,11 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Wharton Ford",
       1
     ],
     [
-      "4 Season Motors LLC",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -244,11 +240,11 @@
       1
     ],
     [
-      "Generation Nissan",
+      "4 Season Motors LLC",
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "Generation Nissan",
       1
     ],
     [
@@ -260,7 +256,7 @@
       1
     ],
     [
-      "Mount Airy Nissan",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
@@ -268,7 +264,7 @@
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Mount Airy Nissan",
       1
     ],
     [
