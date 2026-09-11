@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T11:52:10.264Z",
+  "fetchedAt": "2026-09-11T12:00:13.546Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      170
+      172
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -48,15 +48,19 @@
       4
     ],
     [
-      "North Park Lincoln",
-      4
-    ],
-    [
       "Rim Revolution LLC",
       4
     ],
     [
-      "McCurley Dealerships",
+      "North Park Lincoln",
+      4
+    ],
+    [
+      "Northstar Kia",
+      3
+    ],
+    [
+      "Shelly Motors Ltd",
       3
     ],
     [
@@ -64,11 +68,19 @@
       3
     ],
     [
-      "Northstar Kia",
+      "McCurley Dealerships",
       3
     ],
     [
-      "Car Central",
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Olson Chevrolet",
       2
     ],
     [
@@ -80,15 +92,15 @@
       2
     ],
     [
+      "Car Central",
+      2
+    ],
+    [
+      "Kempton Chevrolet",
+      2
+    ],
+    [
       "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
@@ -104,15 +116,7 @@
       2
     ],
     [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "ZT Automotive",
+      "Generation Nissan",
       1
     ],
     [
@@ -120,19 +124,19 @@
       1
     ],
     [
+      "Forrester Lincoln",
+      1
+    ],
+    [
+      "autokuva_nobg",
+      1
+    ],
+    [
+      "Lexus Of Orland",
+      1
+    ],
+    [
       "Starling Chevrolet",
-      1
-    ],
-    [
-      "Flood Auto Group",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "White Bear Lincoln",
       1
     ],
     [
@@ -140,7 +144,7 @@
       1
     ],
     [
-      "Soave Automotive Group",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
@@ -148,15 +152,15 @@
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Midway Dodge",
       1
     ],
     [
-      "Teton solutions Group",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "ZT Automotive",
       1
     ],
     [
@@ -164,7 +168,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -172,7 +176,7 @@
       1
     ],
     [
-      "Generation Nissan",
+      "Flood Auto Group",
       1
     ],
     [
@@ -184,11 +188,11 @@
       1
     ],
     [
-      "autokuva_nobg",
+      "White Bear Lincoln",
       1
     ],
     [
-      "Midway Dodge",
+      "World Car Auto Group",
       1
     ],
     [
@@ -196,23 +200,19 @@
       1
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Soave Automotive Group",
       1
     ],
     [
-      "Lexus Of Orland",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Teton solutions Group",
       1
     ],
     [
       "Mt Orab Chevy",
-      1
-    ],
-    [
-      "Forrester Lincoln",
       1
     ],
     [
