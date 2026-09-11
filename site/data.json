@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T11:42:41.746Z",
+  "fetchedAt": "2026-09-11T11:52:10.264Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      171
+      170
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -56,10 +56,6 @@
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
       "McCurley Dealerships",
       3
     ],
@@ -72,7 +68,7 @@
       3
     ],
     [
-      "Brandon Steven Motors",
+      "Car Central",
       2
     ],
     [
@@ -100,6 +96,10 @@
       2
     ],
     [
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
       "Davidson Auto Group",
       2
     ],
@@ -108,7 +108,7 @@
       2
     ],
     [
-      "Car Central",
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -132,6 +132,10 @@
       1
     ],
     [
+      "White Bear Lincoln",
+      1
+    ],
+    [
       "Hewlett Volkswagen, LP",
       1
     ],
@@ -148,7 +152,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Teton solutions Group",
       1
     ],
     [
@@ -160,7 +164,7 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -180,11 +184,11 @@
       1
     ],
     [
-      "Midway Dodge",
+      "autokuva_nobg",
       1
     ],
     [
-      "autokuva_nobg",
+      "Midway Dodge",
       1
     ],
     [
