@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T01:59:36.338Z",
+  "fetchedAt": "2026-09-11T02:15:51.597Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      320
+      322
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -32,12 +32,12 @@
       12
     ],
     [
-      "LUXURY IMPORTS",
+      "AutoGiant USA",
       11
     ],
     [
-      "Envision Management Group",
-      9
+      "LUXURY IMPORTS",
+      11
     ],
     [
       "Apex Automotive Group",
@@ -56,12 +56,12 @@
       7
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Bergstrom Automotive",
       7
     ],
     [
-      "Bergstrom Automotive",
-      6
+      "Russ Darrow Group, Inc.",
+      7
     ],
     [
       "World Car Auto Group",
@@ -80,10 +80,6 @@
       4
     ],
     [
-      "Altawkilat",
-      4
-    ],
-    [
       "Rim Revolution LLC",
       4
     ],
@@ -96,8 +92,16 @@
       4
     ],
     [
-      "AutoGiant USA",
+      "Altawkilat",
       4
+    ],
+    [
+      "Hatimi Auto LLC",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
@@ -112,11 +116,11 @@
       3
     ],
     [
-      "Jenkins Auto Group",
+      "Velocity Auto Haus",
       3
     ],
     [
-      "Velocity Auto Haus",
+      "Ferris Chevrolet, Inc",
       3
     ],
     [
@@ -124,35 +128,7 @@
       3
     ],
     [
-      "Hatimi Auto LLC",
-      3
-    ],
-    [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Volvo Cars Palm Springs",
-      2
-    ],
-    [
       "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Olson Chevrolet",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "Bosstown Motors",
       2
     ],
     [
@@ -160,7 +136,7 @@
       2
     ],
     [
-      "Faircy Automotive",
+      "Yoder Family of Companies",
       2
     ],
     [
@@ -168,15 +144,35 @@
       2
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Olson Chevrolet",
       2
     ],
     [
-      "Cornhusker Auto Center",
-      1
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
+      "Bosstown Motors",
+      2
     ],
     [
       "Rochester Auto Mall",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "ZT Automotive",
       1
     ],
     [
@@ -184,27 +180,7 @@
       1
     ],
     [
-      "Courtesy Chevy of Tucson",
-      1
-    ],
-    [
-      "Mondial car Sarl",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "Wharton Ford",
-      1
-    ],
-    [
       "Teton solutions Group",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
       1
     ],
     [
@@ -212,7 +188,15 @@
       1
     ],
     [
-      "Car Hop Auto Sales & Finance",
+      "Courtesy Chevy of Tucson",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
@@ -220,11 +204,27 @@
       1
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Forrester Lincoln",
       1
     ],
     [
-      "Forrester Lincoln",
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Wharton Ford",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Mondial car Sarl",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       1
     ],
     [
