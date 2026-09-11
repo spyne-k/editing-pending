@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T02:54:44.879Z",
+  "fetchedAt": "2026-09-11T03:05:47.406Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      266
+      270
     ],
     [
       "Asbury Automotive Management L.L.C",
@@ -28,16 +28,16 @@
       12
     ],
     [
+      "Springfield Luxury Automall",
+      11
+    ],
+    [
       "AutoGiant USA",
       11
     ],
     [
       "LUXURY IMPORTS",
       11
-    ],
-    [
-      "Springfield Luxury Automall",
-      10
     ],
     [
       "Ferris Chevrolet, Inc",
@@ -104,6 +104,10 @@
       3
     ],
     [
+      "greenway auto group 2",
+      3
+    ],
+    [
       "Wood Motor Company",
       3
     ],
@@ -120,15 +124,15 @@
       2
     ],
     [
+      "Freedom Chevrolet",
+      2
+    ],
+    [
       "Kian Motors INC",
       2
     ],
     [
       "Olson Chevrolet",
-      2
-    ],
-    [
-      "greenway auto group 2",
       2
     ],
     [
