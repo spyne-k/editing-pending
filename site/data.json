@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T03:47:31.925Z",
+  "fetchedAt": "2026-09-11T03:57:09.768Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      196
+      211
     ],
     [
       "Asbury Automotive Management L.L.C",
-      25
+      27
+    ],
+    [
+      "AutoGiant USA",
+      18
     ],
     [
       "Springfield Luxury Automall",
       16
-    ],
-    [
-      "AutoGiant USA",
-      12
     ],
     [
       "KASS Bladel-Reusel BV",
@@ -38,6 +38,10 @@
     [
       "LUXURY IMPORTS",
       11
+    ],
+    [
+      "DealerVision.com",
+      10
     ],
     [
       "Ferris Chevrolet, Inc",
@@ -66,10 +70,6 @@
     [
       "Starling Auto Group",
       5
-    ],
-    [
-      "DealerVision.com",
-      4
     ],
     [
       "Rim Revolution LLC",
@@ -120,7 +120,7 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Midway Dodge",
       2
     ],
     [
@@ -148,8 +148,8 @@
       2
     ],
     [
-      "Courtesy Chevy of Tucson",
-      1
+      "Rohrich Automotive Group",
+      2
     ],
     [
       "Cornhusker Auto Center",
@@ -160,11 +160,11 @@
       1
     ],
     [
-      "New Deal Pre-Owned Autos",
+      "Teton solutions Group",
       1
     ],
     [
-      "Teton solutions Group",
+      "New Deal Pre-Owned Autos",
       1
     ],
     [
@@ -196,7 +196,7 @@
       1
     ],
     [
-      "Midway Dodge",
+      "Speedway Car Sales",
       1
     ],
     [
@@ -204,11 +204,11 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Wharton Ford",
       1
     ],
     [
-      "Wharton Ford",
+      "Courtesy Chevy of Tucson",
       1
     ]
   ]
