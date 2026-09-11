@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T15:00:16.232Z",
+  "fetchedAt": "2026-09-11T15:16:42.529Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,14 @@
   "rows": [
     [
       null,
-      96
+      76
     ],
     [
       "ZT Automotive",
       12
     ],
     [
-      "Gettel Automotive Group",
-      9
-    ],
-    [
       "Worldwide Motors LTD dba Paragon Acura",
-      5
-    ],
-    [
-      "Wood Motor Company",
       5
     ],
     [
@@ -48,15 +40,11 @@
       4
     ],
     [
-      "Rim Revolution LLC",
-      4
-    ],
-    [
-      "Starling Auto Group",
-      4
-    ],
-    [
       "North Park Lincoln",
+      4
+    ],
+    [
+      "Rim Revolution LLC",
       4
     ],
     [
@@ -68,15 +56,15 @@
       3
     ],
     [
-      "Flexcar",
-      3
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Wood Motor Company",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Car Central",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
       2
     ],
     [
@@ -84,11 +72,7 @@
       2
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Faircy Automotive",
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -96,19 +80,27 @@
       2
     ],
     [
-      "Turpin Dodge Chrysler Jeep Ram",
+      "Teton solutions Group",
       2
     ],
     [
-      "Yoder Family of Companies",
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
-      "Generation Nissan",
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Volvo of Princeton Inc",
       1
     ],
     [
-      "Teton solutions Group",
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -116,7 +108,19 @@
       1
     ],
     [
-      "Volvo of Princeton Inc",
+      "Glass Capital CDJR",
+      1
+    ],
+    [
+      "Generation Nissan",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
+      1
+    ],
+    [
+      "Faircy Automotive",
       1
     ],
     [
@@ -128,19 +132,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Glass Capital CDJR",
-      1
-    ],
-    [
-      "Lexus Of Orland",
-      1
-    ],
-    [
-      "The Used Car Guys GMBH",
+      "Petersen CDJR",
       1
     ],
     [
@@ -148,19 +140,11 @@
       1
     ],
     [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
-      "INERCIKAR SA",
-      1
-    ],
-    [
       "Icon Motors Group of Framingham",
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "INERCIKAR SA",
       1
     ],
     [
