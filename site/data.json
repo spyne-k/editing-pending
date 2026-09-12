@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T16:34:14.828Z",
+  "fetchedAt": "2026-09-12T18:42:03.589Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      150
+      129
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -48,14 +48,6 @@
       6
     ],
     [
-      "Sprinkler Used Cars",
-      6
-    ],
-    [
-      "MEI Inc",
-      5
-    ],
-    [
       "Dobbs Equity Partners, LLC",
       5
     ],
@@ -64,16 +56,8 @@
       5
     ],
     [
-      "DealerVision.com",
-      5
-    ],
-    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
       4
-    ],
-    [
-      "Yemm Auto",
-      3
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
@@ -88,11 +72,7 @@
       2
     ],
     [
-      "Hawthorne Auto Square",
-      2
-    ],
-    [
-      "Kian Motors INC",
+      "Greenway Automotive Group",
       2
     ],
     [
@@ -100,11 +80,11 @@
       2
     ],
     [
-      "Mt Orab Chevy",
+      "Auto Park Chrysler Dodge Jeep Ram",
       2
     ],
     [
-      "Lewiston Auto",
+      "Mt Orab Chevy",
       2
     ],
     [
@@ -116,7 +96,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Loyalty Automotive",
       1
     ],
     [
@@ -124,11 +104,11 @@
       1
     ],
     [
-      "Wiz Leasing Inc",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Wiz Leasing Inc",
       1
     ],
     [
@@ -136,7 +116,7 @@
       1
     ],
     [
-      "Kimberly BMW",
+      "Yemm Auto",
       1
     ],
     [
@@ -148,15 +128,15 @@
       1
     ],
     [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Car Central",
+      "Kayser Chevrolet",
       1
     ],
     [
       "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "Kimberly BMW",
       1
     ],
     [
