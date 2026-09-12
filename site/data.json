@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T13:51:03.928Z",
+  "fetchedAt": "2026-09-12T16:34:14.828Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,54 @@
   "rows": [
     [
       null,
-      91
+      150
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      25
     ],
     [
       "IM Marketplace GmBH",
       24
     ],
     [
-      "Amato Hyundai Of Glendale",
-      14
+      "Jim Schmidt Automotive",
+      13
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      11
+      "Gettel Automotive Group",
+      7
+    ],
+    [
+      "Graff Auto Campus",
+      6
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      6
     ],
     [
       "Post Oak Toyota",
       6
     ],
     [
+      "Sprinkler Used Cars",
+      6
+    ],
+    [
+      "MEI Inc",
+      5
+    ],
+    [
       "Dobbs Equity Partners, LLC",
+      5
+    ],
+    [
+      "Speedway Car Sales",
+      5
+    ],
+    [
+      "DealerVision.com",
       5
     ],
     [
@@ -44,19 +72,11 @@
       4
     ],
     [
-      "Gettel Automotive Group",
-      4
+      "Yemm Auto",
+      3
     ],
     [
-      "Jim Schmidt Automotive",
-      2
-    ],
-    [
-      "Mt Orab Chevy",
-      2
-    ],
-    [
-      "Boardman Subaru and Imports",
+      "Simmons-Rockwell Automotive Dealerships",
       2
     ],
     [
@@ -68,8 +88,44 @@
       2
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Hawthorne Auto Square",
       2
+    ],
+    [
+      "Kian Motors INC",
+      2
+    ],
+    [
+      "Boardman Subaru and Imports",
+      2
+    ],
+    [
+      "Mt Orab Chevy",
+      2
+    ],
+    [
+      "Lewiston Auto",
+      2
+    ],
+    [
+      "Generation Nissan",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Al Piemonte",
+      1
+    ],
+    [
+      "Wiz Leasing Inc",
+      1
     ],
     [
       "S&L Motors, Pulaski WI",
@@ -80,11 +136,7 @@
       1
     ],
     [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "Al Piemonte",
+      "Kimberly BMW",
       1
     ],
     [
@@ -96,19 +148,15 @@
       1
     ],
     [
-      "Wiz Leasing Inc",
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Car Central",
       1
     ],
     [
       "Dave Syverson Auto Center",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Kimberly BMW",
       1
     ],
     [
