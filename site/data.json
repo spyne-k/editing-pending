@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T20:58:21.143Z",
+  "fetchedAt": "2026-09-12T22:52:45.883Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,34 @@
   "rows": [
     [
       null,
-      93
+      87
     ],
     [
-      "IM Marketplace GmBH",
-      24
+      "Asbury Automotive Management L.L.C",
+      9
     ],
     [
-      "Gettel Automotive Group",
+      "Diffee Ford Lincoln",
       7
     ],
     [
-      "Post Oak Toyota",
-      6
+      "AX Auto INC",
+      7
     ],
     [
       "Amato Hyundai Of Glendale",
       6
     ],
     [
-      "Dobbs Equity Partners, LLC",
-      5
+      "Post Oak Toyota",
+      6
     ],
     [
       "Graff Auto Campus",
+      5
+    ],
+    [
+      "Dobbs Equity Partners, LLC",
       5
     ],
     [
@@ -52,12 +56,12 @@
       4
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      4
+      "Davidson Auto Group",
+      3
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
-      3
+      "Tropical Used Cars",
+      2
     ],
     [
       "Teton solutions Group",
@@ -68,48 +72,12 @@
       2
     ],
     [
-      "Greenway Automotive Group",
-      2
-    ],
-    [
       "Rohrich Automotive Group",
       2
     ],
     [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Dean Carter Chevrolet",
-      1
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "Lockwood Motors, Inc.",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Loyalty Chevrolet/Cadillac",
-      1
-    ],
-    [
-      "Landers Dodge Chrysler Jeep RAM",
-      1
+      "Greenway Automotive Group",
+      2
     ],
     [
       "Al Piemonte",
@@ -120,7 +88,31 @@
       1
     ],
     [
-      "Dave Syverson Auto Center",
+      "Generation Nissan",
+      1
+    ],
+    [
+      "Dean Carter Chevrolet",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "MyCar: Trucktown",
+      1
+    ],
+    [
+      "Homan Auto Sales Inc",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
       1
     ],
     [
@@ -128,7 +120,35 @@
       1
     ],
     [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "Landers Dodge Chrysler Jeep RAM",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
+      1
+    ],
+    [
       "Kimberly BMW",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "Covert Bee Cave",
       1
     ],
     [
