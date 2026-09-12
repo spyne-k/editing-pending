@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T18:42:03.589Z",
+  "fetchedAt": "2026-09-12T20:58:21.143Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,18 @@
   "rows": [
     [
       null,
-      129
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      25
+      93
     ],
     [
       "IM Marketplace GmBH",
       24
     ],
     [
-      "Jim Schmidt Automotive",
-      13
-    ],
-    [
       "Gettel Automotive Group",
       7
     ],
     [
-      "Graff Auto Campus",
+      "Post Oak Toyota",
       6
     ],
     [
@@ -44,15 +36,11 @@
       6
     ],
     [
-      "Post Oak Toyota",
-      6
-    ],
-    [
       "Dobbs Equity Partners, LLC",
       5
     ],
     [
-      "Speedway Car Sales",
+      "Graff Auto Campus",
       5
     ],
     [
@@ -60,19 +48,19 @@
       4
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      2
+      "Mt Orab Chevy",
+      4
     ],
     [
-      "Rohrich Automotive Group",
-      2
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "Auto Park Chrysler Dodge Jeep Ram",
+      3
     ],
     [
       "Teton solutions Group",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
       2
     ],
     [
@@ -80,35 +68,23 @@
       2
     ],
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      "Greenway Automotive Group",
       2
     ],
     [
-      "Mt Orab Chevy",
+      "Rohrich Automotive Group",
       2
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
-      1
-    ],
-    [
-      "Loyalty Automotive",
-      1
-    ],
-    [
-      "Al Piemonte",
-      1
     ],
     [
       "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "Wiz Leasing Inc",
+      "Dean Carter Chevrolet",
+      1
+    ],
+    [
+      "Generation Nissan",
       1
     ],
     [
@@ -116,7 +92,11 @@
       1
     ],
     [
-      "Yemm Auto",
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -124,11 +104,19 @@
       1
     ],
     [
+      "Loyalty Chevrolet/Cadillac",
+      1
+    ],
+    [
       "Landers Dodge Chrysler Jeep RAM",
       1
     ],
     [
-      "Kayser Chevrolet",
+      "Al Piemonte",
+      1
+    ],
+    [
+      "Wiz Leasing Inc",
       1
     ],
     [
@@ -136,7 +124,19 @@
       1
     ],
     [
+      "Yemm Auto",
+      1
+    ],
+    [
       "Kimberly BMW",
+      1
+    ],
+    [
+      "Autos of Forney",
+      1
+    ],
+    [
+      "Meyer Imports DBA Berwyn Kia",
       1
     ],
     [
