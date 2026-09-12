@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T23:33:26.270Z",
+  "fetchedAt": "2026-09-12T01:28:59.524Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,26 @@
   "rows": [
     [
       null,
-      197
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      60
+      171
     ],
     [
       "KASS Bladel-Reusel BV",
       32
     ],
     [
+      "DealerVision.com",
+      16
+    ],
+    [
       "Bud Clary Chevrolet, INC",
-      10
+      11
     ],
     [
-      "Gettel Automotive Group",
-      8
-    ],
-    [
-      "Flexcar",
-      6
+      "Joshua Trownsell",
+      9
     ],
     [
       "LUXURY IMPORTS",
-      6
-    ],
-    [
-      "Bob Johnson Automotive Group",
       6
     ],
     [
@@ -52,7 +44,15 @@
       6
     ],
     [
+      "Flexcar",
+      6
+    ],
+    [
       "Charlie Clark Hyundai",
+      5
+    ],
+    [
+      "North Park Lincoln",
       5
     ],
     [
@@ -60,27 +60,39 @@
       5
     ],
     [
-      "North Park Lincoln",
+      "Freedom Chevrolet",
       4
     ],
     [
-      "Freedom Chevrolet",
+      "Asbury Automotive Management L.L.C",
       4
+    ],
+    [
+      "Teton solutions Group",
+      3
     ],
     [
       "Olympic Hyundai Vancouver",
       3
     ],
     [
-      "DealerVision.com",
+      "Davidson Auto Group",
       3
     ],
     [
-      "Superior Auto, INC",
+      "Median Media LLC",
+      3
+    ],
+    [
+      "Wood Motor Company",
       2
     ],
     [
-      "Rochester Toyota",
+      "ZT Automotive",
+      2
+    ],
+    [
+      "Greater Chicago Motors",
       2
     ],
     [
@@ -92,19 +104,19 @@
       2
     ],
     [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Superior Auto, INC",
+      2
+    ],
+    [
       "Performance Auto Group",
-      2
-    ],
-    [
-      "Jim Schmidt Automotive",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Euro Motorcars",
       2
     ],
     [
@@ -112,31 +124,43 @@
       2
     ],
     [
+      "Rochester Toyota",
+      2
+    ],
+    [
+      "NorthTown Automotive",
+      2
+    ],
+    [
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
       "Covert Auto Group",
       2
     ],
     [
-      "Novacti",
+      "Euro Motorcars",
+      2
+    ],
+    [
+      "Perkins Motors",
       1
     ],
     [
-      "Curry Acura",
+      "Carter Myers Automotive",
       1
     ],
     [
-      "Alliance Cars Limited",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "INERCIKAR SA",
+      "Emerald Motors",
       1
     ],
     [
-      "Watermark Auto Group",
-      1
-    ],
-    [
-      "Lambert Buick GMC Inc",
+      "Mt Orab Chevy",
       1
     ],
     [
@@ -144,7 +168,11 @@
       1
     ],
     [
-      "Mt Orab Chevy",
+      "Curry Acura",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
       1
     ],
     [
@@ -156,7 +184,11 @@
       1
     ],
     [
-      "Teton solutions Group",
+      "Watermark Auto Group",
+      1
+    ],
+    [
+      "Lambert Buick GMC Inc",
       1
     ],
     [
@@ -164,7 +196,7 @@
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Best Deal Auto Sales, INC.",
       1
     ],
     [
@@ -172,7 +204,7 @@
       1
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "INERCIKAR SA",
       1
     ],
     [
@@ -180,7 +212,7 @@
       1
     ],
     [
-      "Emerald Motors",
+      "Autmotive Marketing Solution - Main",
       1
     ],
     [
@@ -188,12 +220,8 @@
       1
     ],
     [
-      "Best Deal Auto Sales, INC.",
+      "Jim Schmidt Automotive",
       1
-    ],
-    [
-      "carvago2",
-      0
     ]
   ]
 }
