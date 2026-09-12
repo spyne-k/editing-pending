@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T10:56:16.865Z",
+  "fetchedAt": "2026-09-12T13:51:03.928Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,19 @@
   "rows": [
     [
       null,
-      54
+      91
     ],
     [
       "IM Marketplace GmBH",
       24
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      14
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      11
     ],
     [
       "Post Oak Toyota",
@@ -32,15 +40,23 @@
       5
     ],
     [
-      "Gettel Automotive Group",
-      4
-    ],
-    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
       4
     ],
     [
+      "Gettel Automotive Group",
+      4
+    ],
+    [
+      "Jim Schmidt Automotive",
+      2
+    ],
+    [
       "Mt Orab Chevy",
+      2
+    ],
+    [
+      "Boardman Subaru and Imports",
       2
     ],
     [
@@ -48,19 +64,27 @@
       2
     ],
     [
+      "Teton solutions Group",
+      2
+    ],
+    [
       "Simmons-Rockwell Automotive Dealerships",
       2
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      1
     ],
     [
       "Generation Nissan",
       1
     ],
     [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Covert Auto Group",
+      "Al Piemonte",
       1
     ],
     [
@@ -68,7 +92,27 @@
       1
     ],
     [
+      "Landers Dodge Chrysler Jeep RAM",
+      1
+    ],
+    [
+      "Wiz Leasing Inc",
+      1
+    ],
+    [
       "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Kimberly BMW",
+      1
+    ],
+    [
+      "Flexcar",
       1
     ],
     [
