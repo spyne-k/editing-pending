@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T22:52:45.883Z",
+  "fetchedAt": "2026-09-13T00:28:31.210Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,42 @@
   "rows": [
     [
       null,
-      87
+      116
+    ],
+    [
+      "Charlie Clark Hyundai",
+      19
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      10
     ],
     [
       "Asbury Automotive Management L.L.C",
       9
     ],
     [
-      "Diffee Ford Lincoln",
-      7
-    ],
-    [
       "AX Auto INC",
       7
     ],
     [
-      "Amato Hyundai Of Glendale",
-      6
+      "Diffee Ford Lincoln",
+      7
     ],
     [
       "Post Oak Toyota",
       6
     ],
     [
-      "Graff Auto Campus",
-      5
+      "Amato Hyundai Of Glendale",
+      6
     ],
     [
       "Dobbs Equity Partners, LLC",
+      5
+    ],
+    [
+      "Graff Auto Campus",
       5
     ],
     [
@@ -60,19 +68,11 @@
       3
     ],
     [
-      "Tropical Used Cars",
-      2
-    ],
-    [
-      "Teton solutions Group",
-      2
-    ],
-    [
       "Boardman Subaru and Imports",
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "MyCar: Trucktown",
       2
     ],
     [
@@ -80,11 +80,19 @@
       2
     ],
     [
-      "Al Piemonte",
-      1
+      "North Park Lincoln",
+      2
     ],
     [
-      "Wiz Leasing Inc",
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Dean Carter Chevrolet",
       1
     ],
     [
@@ -92,15 +100,11 @@
       1
     ],
     [
-      "Dean Carter Chevrolet",
-      1
-    ],
-    [
       "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "MyCar: Trucktown",
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -116,7 +120,7 @@
       1
     ],
     [
-      "Yemm Auto",
+      "Al Piemonte",
       1
     ],
     [
@@ -132,15 +136,15 @@
       1
     ],
     [
-      "Prestige Auto Sales",
+      "Wiz Leasing Inc",
+      1
+    ],
+    [
+      "Yemm Auto",
       1
     ],
     [
       "Kimberly BMW",
-      1
-    ],
-    [
-      "North Park Lincoln",
       1
     ],
     [
