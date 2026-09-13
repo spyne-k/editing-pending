@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T05:13:47.586Z",
+  "fetchedAt": "2026-09-13T10:18:40.990Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,31 +17,19 @@
   "rows": [
     [
       null,
-      164
-    ],
-    [
-      "Charlie Clark Hyundai",
-      19
-    ],
-    [
-      "AX Auto INC",
-      16
+      116
     ],
     [
       "Seth Wadley Ford of Pauls Valley",
       10
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      9
+      "Amato Hyundai Of Glendale",
+      8
     ],
     [
       "Diffee Ford Lincoln",
       7
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      6
     ],
     [
       "Post Oak Toyota",
@@ -52,20 +40,12 @@
       6
     ],
     [
+      "Performance Automotive Network",
+      5
+    ],
+    [
       "Dobbs Equity Partners, LLC",
       5
-    ],
-    [
-      "Preston Motor Automotive Group",
-      5
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      4
-    ],
-    [
-      "MB Motors",
-      4
     ],
     [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
@@ -80,23 +60,11 @@
       4
     ],
     [
-      "Chl Cars Ltd",
-      3
-    ],
-    [
-      "Performance Automotive Network",
-      3
-    ],
-    [
-      "Lexus Of Orland",
-      3
+      "Ryan Buick GMC Cadillac",
+      4
     ],
     [
       "Northwest Indiana Auto Finance",
-      3
-    ],
-    [
-      "North Park Lincoln",
       3
     ],
     [
@@ -104,7 +72,7 @@
       3
     ],
     [
-      "Graff Auto Campus",
+      "Lexus Of Orland",
       3
     ],
     [
@@ -112,11 +80,15 @@
       3
     ],
     [
-      "MyCar: Trucktown",
-      2
+      "Graff Auto Campus",
+      3
     ],
     [
       "Teton solutions Group",
+      2
+    ],
+    [
+      "Emerald Motors",
       2
     ],
     [
@@ -124,27 +96,27 @@
       2
     ],
     [
+      "MyCar: Trucktown",
+      2
+    ],
+    [
       "Rohrich Automotive Group",
       2
     ],
     [
-      "Benitez Auto Group",
-      2
+      "Flexcar",
+      1
+    ],
+    [
+      "Al-Zayani Trading Company",
+      1
     ],
     [
       "Dean Carter Chevrolet",
       1
     ],
     [
-      "Homan Auto Sales Inc",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Lockwood Motors, Inc.",
+      "Expert Auto Group",
       1
     ],
     [
@@ -152,19 +124,11 @@
       1
     ],
     [
-      "Kimberly BMW",
+      "Roanoke Motors Inc",
       1
     ],
     [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Emerald Motors",
-      1
-    ],
-    [
-      "Landers Dodge Chrysler Jeep RAM",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -172,23 +136,15 @@
       1
     ],
     [
-      "Safy Auto Sales",
+      "Homan Auto Sales Inc",
       1
     ],
     [
-      "Covert Bee Cave",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Bill Cole AutoMall Bluefield",
-      1
-    ],
-    [
-      "Dave Syverson Auto Center",
+      "Autohighway",
       1
     ],
     [
@@ -196,11 +152,11 @@
       1
     ],
     [
-      "Autos of Forney",
+      "Faircy Automotive",
       1
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Landers Dodge Chrysler Jeep RAM",
       1
     ],
     [
@@ -208,11 +164,55 @@
       1
     ],
     [
-      "Meyer Imports DBA Berwyn Kia",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Flexcar",
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Kimberly BMW",
+      1
+    ],
+    [
+      "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "Silsbee Ford",
+      1
+    ],
+    [
+      "Car City INC",
+      1
+    ],
+    [
+      "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "Covert Bee Cave",
+      1
+    ],
+    [
+      "Autos of Forney",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Meyer Imports DBA Berwyn Kia",
       1
     ],
     [
