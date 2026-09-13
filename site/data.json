@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T10:18:40.990Z",
+  "fetchedAt": "2026-09-13T14:28:24.778Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,26 @@
   "rows": [
     [
       null,
-      116
+      121
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
+      "RC Hill Powersports Orlando",
+      36
+    ],
+    [
+      "Graff Auto Campus",
       10
     ],
     [
-      "Amato Hyundai Of Glendale",
+      "Giant Auto Warehouse",
       8
     ],
     [
-      "Diffee Ford Lincoln",
-      7
-    ],
-    [
-      "Post Oak Toyota",
+      "Yoder Family of Companies",
       6
     ],
     [
-      "Brandon Steven Motors",
-      6
-    ],
-    [
-      "Performance Automotive Network",
+      "Impex Auto Sales",
       5
     ],
     [
@@ -48,19 +44,11 @@
       5
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      4
-    ],
-    [
       "Mt Orab Chevy",
       4
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       4
     ],
     [
@@ -72,27 +60,11 @@
       3
     ],
     [
-      "Lexus Of Orland",
-      3
-    ],
-    [
       "Davidson Auto Group",
       3
     ],
     [
-      "Graff Auto Campus",
-      3
-    ],
-    [
-      "Teton solutions Group",
-      2
-    ],
-    [
       "Emerald Motors",
-      2
-    ],
-    [
-      "Boardman Subaru and Imports",
       2
     ],
     [
@@ -100,7 +72,19 @@
       2
     ],
     [
+      "Boardman Subaru and Imports",
+      2
+    ],
+    [
       "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Watermark Auto Group",
       2
     ],
     [
@@ -108,27 +92,7 @@
       1
     ],
     [
-      "Al-Zayani Trading Company",
-      1
-    ],
-    [
-      "Dean Carter Chevrolet",
-      1
-    ],
-    [
-      "Expert Auto Group",
-      1
-    ],
-    [
       "Generation Nissan",
-      1
-    ],
-    [
-      "Roanoke Motors Inc",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -136,11 +100,19 @@
       1
     ],
     [
-      "Homan Auto Sales Inc",
+      "Hawthorne Auto Square",
       1
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Dean Carter Chevrolet",
+      1
+    ],
+    [
+      "Volvo of Princeton Inc",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -148,11 +120,19 @@
       1
     ],
     [
-      "Al Piemonte",
+      "Lockwood Motors, Inc.",
       1
     ],
     [
       "Faircy Automotive",
+      1
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      1
+    ],
+    [
+      "Al Piemonte",
       1
     ],
     [
@@ -164,7 +144,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Dave Syverson Auto Center",
       1
     ],
     [
@@ -176,22 +156,6 @@
       1
     ],
     [
-      "Dave Syverson Auto Center",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Car City INC",
-      1
-    ],
-    [
-      "Springfield Luxury Automall",
-      1
-    ],
-    [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
@@ -200,15 +164,11 @@
       1
     ],
     [
+      "Silsbee Ford",
+      1
+    ],
+    [
       "Covert Bee Cave",
-      1
-    ],
-    [
-      "Autos of Forney",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
       1
     ],
     [
