@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T14:28:24.778Z",
+  "fetchedAt": "2026-09-13T17:33:13.359Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,30 @@
   "rows": [
     [
       null,
-      121
-    ],
-    [
-      "RC Hill Powersports Orlando",
-      36
-    ],
-    [
-      "Graff Auto Campus",
-      10
+      78
     ],
     [
       "Giant Auto Warehouse",
       8
     ],
     [
-      "Yoder Family of Companies",
-      6
+      "Asbury Automotive Management L.L.C",
+      7
     ],
     [
-      "Impex Auto Sales",
-      5
+      "Graff Auto Campus",
+      7
     ],
     [
-      "Dobbs Equity Partners, LLC",
-      5
-    ],
-    [
-      "Mt Orab Chevy",
-      4
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      4
+      "MyCar: Trucktown",
+      3
     ],
     [
       "Northwest Indiana Auto Finance",
+      3
+    ],
+    [
+      "Amato Hyundai Of Glendale",
       3
     ],
     [
@@ -64,11 +52,11 @@
       3
     ],
     [
-      "Emerald Motors",
+      "Gettel Automotive Group",
       2
     ],
     [
-      "MyCar: Trucktown",
+      "Generation Nissan",
       2
     ],
     [
@@ -76,7 +64,11 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "Emerald Motors",
+      2
+    ],
+    [
+      "Globe Automotive",
       2
     ],
     [
@@ -88,15 +80,35 @@
       2
     ],
     [
-      "Flexcar",
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "KAR Auto Group",
       1
     ],
     [
-      "Generation Nissan",
+      "Meyer Imports DBA Berwyn Kia",
       1
     ],
     [
-      "Prestige Auto Sales",
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "5 Star Imports",
+      1
+    ],
+    [
+      "Kimberly BMW",
+      1
+    ],
+    [
+      "Autohighway",
       1
     ],
     [
@@ -116,7 +128,7 @@
       1
     ],
     [
-      "Autohighway",
+      "Al Piemonte",
       1
     ],
     [
@@ -132,10 +144,6 @@
       1
     ],
     [
-      "Al Piemonte",
-      1
-    ],
-    [
       "Landers Dodge Chrysler Jeep RAM",
       1
     ],
@@ -144,15 +152,19 @@
       1
     ],
     [
+      "Silsbee Ford",
+      1
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
       "Dave Syverson Auto Center",
       1
     ],
     [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Kimberly BMW",
+      "Covert Bee Cave",
       1
     ],
     [
@@ -164,15 +176,11 @@
       1
     ],
     [
-      "Silsbee Ford",
+      "Icon Motors Group of Framingham",
       1
     ],
     [
-      "Covert Bee Cave",
-      1
-    ],
-    [
-      "Meyer Imports DBA Berwyn Kia",
+      "Prestige Auto Sales",
       1
     ],
     [
