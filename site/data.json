@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T17:33:13.359Z",
+  "fetchedAt": "2026-09-13T19:42:31.025Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,34 @@
   "rows": [
     [
       null,
-      78
+      75
     ],
     [
       "Giant Auto Warehouse",
       8
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      7
-    ],
-    [
       "Graff Auto Campus",
       7
     ],
     [
-      "MyCar: Trucktown",
-      3
+      "Flexcar",
+      7
     ],
     [
-      "Northwest Indiana Auto Finance",
-      3
+      "Apex Automotive Group",
+      5
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      4
     ],
     [
       "Amato Hyundai Of Glendale",
+      3
+    ],
+    [
+      "MyCar: Trucktown",
       3
     ],
     [
@@ -48,15 +52,11 @@
       3
     ],
     [
-      "Davidson Auto Group",
-      3
-    ],
-    [
-      "Gettel Automotive Group",
+      "Generation Nissan",
       2
     ],
     [
-      "Generation Nissan",
+      "Post Oak Toyota",
       2
     ],
     [
@@ -64,19 +64,11 @@
       2
     ],
     [
-      "Emerald Motors",
-      2
-    ],
-    [
-      "Globe Automotive",
-      2
-    ],
-    [
       "Teton solutions Group",
       2
     ],
     [
-      "Watermark Auto Group",
+      "Gettel Automotive Group",
       2
     ],
     [
@@ -84,23 +76,27 @@
       2
     ],
     [
-      "KAR Auto Group",
-      1
-    ],
-    [
-      "Meyer Imports DBA Berwyn Kia",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
+      "Watermark Auto Group",
+      2
     ],
     [
       "Kayser Chevrolet",
       1
     ],
     [
-      "5 Star Imports",
+      "Prestige Auto Sales",
+      1
+    ],
+    [
+      "Car Central",
+      1
+    ],
+    [
+      "Emerald Motors",
+      1
+    ],
+    [
+      "Covert Bee Cave",
       1
     ],
     [
@@ -108,11 +104,11 @@
       1
     ],
     [
-      "Autohighway",
+      "Al Piemonte",
       1
     ],
     [
-      "Hawthorne Auto Square",
+      "Wiz Leasing Inc",
       1
     ],
     [
@@ -128,10 +124,6 @@
       1
     ],
     [
-      "Al Piemonte",
-      1
-    ],
-    [
       "Lockwood Motors, Inc.",
       1
     ],
@@ -144,19 +136,19 @@
       1
     ],
     [
+      "Olympic Hyundai Vancouver",
+      1
+    ],
+    [
       "Landers Dodge Chrysler Jeep RAM",
       1
     ],
     [
-      "Wiz Leasing Inc",
+      "KAR Auto Group",
       1
     ],
     [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Flexcar",
+      "Yemm Auto",
       1
     ],
     [
@@ -164,23 +156,11 @@
       1
     ],
     [
-      "Covert Bee Cave",
+      "Meyer Imports DBA Berwyn Kia",
       1
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      1
-    ],
-    [
-      "Elite Auto Marketing Solutions",
-      1
-    ],
-    [
-      "Icon Motors Group of Framingham",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
+      "House Chevrolet Co.",
       1
     ],
     [
