@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T00:28:31.210Z",
+  "fetchedAt": "2026-09-13T05:13:47.586Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      116
+      164
     ],
     [
       "Charlie Clark Hyundai",
       19
+    ],
+    [
+      "AX Auto INC",
+      16
     ],
     [
       "Seth Wadley Ford of Pauls Valley",
@@ -32,19 +36,19 @@
       9
     ],
     [
-      "AX Auto INC",
+      "Diffee Ford Lincoln",
       7
     ],
     [
-      "Diffee Ford Lincoln",
-      7
+      "Amato Hyundai Of Glendale",
+      6
     ],
     [
       "Post Oak Toyota",
       6
     ],
     [
-      "Amato Hyundai Of Glendale",
+      "Brandon Steven Motors",
       6
     ],
     [
@@ -52,8 +56,16 @@
       5
     ],
     [
-      "Graff Auto Campus",
+      "Preston Motor Automotive Group",
       5
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      4
+    ],
+    [
+      "MB Motors",
+      4
     ],
     [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
@@ -64,27 +76,43 @@
       4
     ],
     [
+      "Bud Clary Chevrolet, INC",
+      4
+    ],
+    [
+      "Chl Cars Ltd",
+      3
+    ],
+    [
+      "Performance Automotive Network",
+      3
+    ],
+    [
+      "Lexus Of Orland",
+      3
+    ],
+    [
+      "Northwest Indiana Auto Finance",
+      3
+    ],
+    [
+      "North Park Lincoln",
+      3
+    ],
+    [
+      "Greenway Automotive Group",
+      3
+    ],
+    [
+      "Graff Auto Campus",
+      3
+    ],
+    [
       "Davidson Auto Group",
       3
     ],
     [
-      "Boardman Subaru and Imports",
-      2
-    ],
-    [
       "MyCar: Trucktown",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
-      2
-    ],
-    [
-      "North Park Lincoln",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
       2
     ],
     [
@@ -92,19 +120,19 @@
       2
     ],
     [
+      "Boardman Subaru and Imports",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Benitez Auto Group",
+      2
+    ],
+    [
       "Dean Carter Chevrolet",
-      1
-    ],
-    [
-      "Generation Nissan",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
       1
     ],
     [
@@ -112,7 +140,7 @@
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -120,27 +148,7 @@
       1
     ],
     [
-      "Al Piemonte",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Landers Dodge Chrysler Jeep RAM",
-      1
-    ],
-    [
-      "Wiz Leasing Inc",
-      1
-    ],
-    [
-      "Yemm Auto",
+      "Generation Nissan",
       1
     ],
     [
@@ -148,7 +156,23 @@
       1
     ],
     [
-      "Dave Syverson Auto Center",
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Emerald Motors",
+      1
+    ],
+    [
+      "Landers Dodge Chrysler Jeep RAM",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
+      1
+    ],
+    [
+      "Safy Auto Sales",
       1
     ],
     [
@@ -156,7 +180,31 @@
       1
     ],
     [
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Bill Cole AutoMall Bluefield",
+      1
+    ],
+    [
+      "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "Al Piemonte",
+      1
+    ],
+    [
       "Autos of Forney",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "Wiz Leasing Inc",
       1
     ],
     [
