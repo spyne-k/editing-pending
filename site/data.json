@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T19:42:31.025Z",
+  "fetchedAt": "2026-09-13T21:43:14.767Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,23 @@
   "rows": [
     [
       null,
-      75
+      84
     ],
     [
       "Giant Auto Warehouse",
       8
     ],
     [
+      "Flexcar",
+      7
+    ],
+    [
       "Graff Auto Campus",
       7
     ],
     [
-      "Flexcar",
-      7
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      6
     ],
     [
       "Apex Automotive Group",
@@ -40,27 +44,35 @@
       4
     ],
     [
-      "Amato Hyundai Of Glendale",
-      3
-    ],
-    [
-      "MyCar: Trucktown",
-      3
-    ],
-    [
       "Greenway Automotive Group",
       3
     ],
     [
-      "Generation Nissan",
-      2
+      "Amato Hyundai Of Glendale",
+      3
     ],
     [
       "Post Oak Toyota",
       2
     ],
     [
+      "Watermark Auto Group",
+      2
+    ],
+    [
       "Boardman Subaru and Imports",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
       2
     ],
     [
@@ -72,16 +84,12 @@
       2
     ],
     [
-      "Rohrich Automotive Group",
+      "MyCar: Trucktown",
       2
     ],
     [
-      "Watermark Auto Group",
+      "Generation Nissan",
       2
-    ],
-    [
-      "Kayser Chevrolet",
-      1
     ],
     [
       "Prestige Auto Sales",
@@ -96,7 +104,7 @@
       1
     ],
     [
-      "Covert Bee Cave",
+      "House Chevrolet Co.",
       1
     ],
     [
@@ -104,11 +112,7 @@
       1
     ],
     [
-      "Al Piemonte",
-      1
-    ],
-    [
-      "Wiz Leasing Inc",
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -128,6 +132,10 @@
       1
     ],
     [
+      "Al Piemonte",
+      1
+    ],
+    [
       "Faircy Automotive",
       1
     ],
@@ -144,7 +152,7 @@
       1
     ],
     [
-      "KAR Auto Group",
+      "Wiz Leasing Inc",
       1
     ],
     [
@@ -156,11 +164,15 @@
       1
     ],
     [
+      "Covert Bee Cave",
+      1
+    ],
+    [
       "Meyer Imports DBA Berwyn Kia",
       1
     ],
     [
-      "House Chevrolet Co.",
+      "KAR Auto Group",
       1
     ],
     [
