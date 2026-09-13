@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T21:43:14.767Z",
+  "fetchedAt": "2026-09-13T23:34:15.704Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -20,20 +20,16 @@
       84
     ],
     [
+      "Graff Auto Campus",
+      10
+    ],
+    [
       "Giant Auto Warehouse",
       8
     ],
     [
       "Flexcar",
       7
-    ],
-    [
-      "Graff Auto Campus",
-      7
-    ],
-    [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
-      6
     ],
     [
       "Apex Automotive Group",
@@ -44,35 +40,31 @@
       4
     ],
     [
+      "Amato Hyundai Of Glendale",
+      3
+    ],
+    [
+      "MyCar: Trucktown",
+      3
+    ],
+    [
       "Greenway Automotive Group",
       3
     ],
     [
-      "Amato Hyundai Of Glendale",
-      3
+      "Generation Nissan",
+      2
+    ],
+    [
+      "2d5f0eb5f Dellenbach Motors",
+      2
     ],
     [
       "Post Oak Toyota",
       2
     ],
     [
-      "Watermark Auto Group",
-      2
-    ],
-    [
       "Boardman Subaru and Imports",
-      2
-    ],
-    [
-      "Volvo Cars Palm Springs",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
       2
     ],
     [
@@ -84,19 +76,23 @@
       2
     ],
     [
-      "MyCar: Trucktown",
+      "Watermark Auto Group",
       2
     ],
     [
-      "Generation Nissan",
+      "Rohrich Automotive Group",
       2
     ],
     [
-      "Prestige Auto Sales",
+      "Volvo Cars Palm Springs",
+      2
+    ],
+    [
+      "DealerVision.com",
       1
     ],
     [
-      "Car Central",
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -104,7 +100,15 @@
       1
     ],
     [
-      "House Chevrolet Co.",
+      "Car Castle",
+      1
+    ],
+    [
+      "Covert Bee Cave",
+      1
+    ],
+    [
+      "Car Central",
       1
     ],
     [
@@ -112,7 +116,11 @@
       1
     ],
     [
-      "Kayser Chevrolet",
+      "Al Piemonte",
+      1
+    ],
+    [
+      "Wiz Leasing Inc",
       1
     ],
     [
@@ -132,10 +140,6 @@
       1
     ],
     [
-      "Al Piemonte",
-      1
-    ],
-    [
       "Faircy Automotive",
       1
     ],
@@ -144,7 +148,7 @@
       1
     ],
     [
-      "Olympic Hyundai Vancouver",
+      "House Chevrolet Co.",
       1
     ],
     [
@@ -152,7 +156,7 @@
       1
     ],
     [
-      "Wiz Leasing Inc",
+      "KAR Auto Group",
       1
     ],
     [
@@ -164,7 +168,7 @@
       1
     ],
     [
-      "Covert Bee Cave",
+      "Kayser Chevrolet",
       1
     ],
     [
@@ -172,7 +176,7 @@
       1
     ],
     [
-      "KAR Auto Group",
+      "Olympic Hyundai Vancouver",
       1
     ],
     [
