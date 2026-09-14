@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T18:54:40.719Z",
+  "fetchedAt": "2026-09-14T22:13:28.718Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,51 +17,127 @@
   "rows": [
     [
       null,
-      41
+      105
     ],
     [
       "Asbury Automotive Management L.L.C",
-      14
+      28
     ],
     [
-      "Capital Chevrolet Inc.",
-      9
+      "DealerVision.com",
+      10
     ],
     [
-      "Car Central",
+      "Flexcar",
+      8
+    ],
+    [
+      "Toronto Honda",
+      6
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      6
+    ],
+    [
+      "Rim Revolution LLC",
+      6
+    ],
+    [
+      "Bergstrom Automotive",
       5
     ],
     [
-      "Rawian Oy",
+      "Teton solutions Group",
       4
     ],
     [
-      "Jenkins Auto Group",
+      "Russ Darrow Group, Inc.",
+      4
+    ],
+    [
+      "Moses Auto Group",
       3
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Yemm Auto",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
       2
     ],
     [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
       "LUXURY IMPORTS",
-      0
+      2
+    ],
+    [
+      "Jim Schmidt Automotive",
+      2
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "INERCIKAR SA",
+      1
+    ],
+    [
+      "Adams Chevrolet Inc",
+      1
+    ],
+    [
+      "Jeffrey's Auto Exchange",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Pritchard Companies",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "4M Autoplex",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Vatland Auto Group",
+      1
+    ],
+    [
+      "Approval Genie (6929290 Canada Corp.)",
+      1
+    ],
+    [
+      "Volvo Cars Fort Washington",
+      1
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      1
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      1
     ]
   ]
 }
