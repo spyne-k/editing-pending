@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T23:34:15.704Z",
+  "fetchedAt": "2026-09-14T01:34:23.793Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      84
+      87
     ],
     [
       "Graff Auto Campus",
-      10
+      12
     ],
     [
       "Giant Auto Warehouse",
@@ -40,19 +40,23 @@
       4
     ],
     [
-      "Amato Hyundai Of Glendale",
-      3
-    ],
-    [
-      "MyCar: Trucktown",
-      3
+      "Dobbs Equity Partners, LLC",
+      4
     ],
     [
       "Greenway Automotive Group",
       3
     ],
     [
-      "Generation Nissan",
+      "Amato Hyundai Of Glendale",
+      3
+    ],
+    [
+      "Post Oak Toyota",
+      2
+    ],
+    [
+      "Watermark Auto Group",
       2
     ],
     [
@@ -60,23 +64,7 @@
       2
     ],
     [
-      "Post Oak Toyota",
-      2
-    ],
-    [
       "Boardman Subaru and Imports",
-      2
-    ],
-    [
-      "Teton solutions Group",
-      2
-    ],
-    [
-      "Gettel Automotive Group",
-      2
-    ],
-    [
-      "Watermark Auto Group",
       2
     ],
     [
@@ -88,20 +76,24 @@
       2
     ],
     [
-      "DealerVision.com",
-      1
+      "MyCar: Trucktown",
+      2
     ],
     [
-      "Prestige Auto Sales",
-      1
+      "Generation Nissan",
+      2
     ],
     [
-      "Emerald Motors",
-      1
+      "Teton solutions Group",
+      2
     ],
     [
-      "Car Castle",
-      1
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "The Garage",
+      2
     ],
     [
       "Covert Bee Cave",
@@ -112,15 +104,7 @@
       1
     ],
     [
-      "Kimberly BMW",
-      1
-    ],
-    [
-      "Al Piemonte",
-      1
-    ],
-    [
-      "Wiz Leasing Inc",
+      "House Chevrolet Co.",
       1
     ],
     [
@@ -128,7 +112,7 @@
       1
     ],
     [
-      "Volvo of Princeton Inc",
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -148,7 +132,7 @@
       1
     ],
     [
-      "House Chevrolet Co.",
+      "Olympic Hyundai Vancouver",
       1
     ],
     [
@@ -156,15 +140,7 @@
       1
     ],
     [
-      "KAR Auto Group",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Dave Syverson Auto Center",
+      "Kimberly BMW",
       1
     ],
     [
@@ -172,11 +148,27 @@
       1
     ],
     [
+      "Al Piemonte",
+      1
+    ],
+    [
+      "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "Wiz Leasing Inc",
+      1
+    ],
+    [
+      "KAR Auto Group",
+      1
+    ],
+    [
       "Meyer Imports DBA Berwyn Kia",
       1
     ],
     [
-      "Olympic Hyundai Vancouver",
+      "Volvo of Princeton Inc",
       1
     ],
     [
