@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T13:49:46.079Z",
+  "fetchedAt": "2026-09-14T18:54:40.719Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,46 @@
   "rows": [
     [
       null,
-      8
+      41
     ],
     [
-      "Gettel Automotive Group",
+      "Asbury Automotive Management L.L.C",
+      14
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      9
+    ],
+    [
+      "Car Central",
+      5
+    ],
+    [
+      "Rawian Oy",
       4
     ],
     [
-      "ZT Automotive",
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      2
+    ],
+    [
+      "Graff Auto Campus",
       1
     ],
     [
-      "Magnum Car Sales",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "Dubizzle Cars L.L.C",
+      "Preston Motor Automotive Group",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Van Horn Automotive Group",
       1
     ],
     [
