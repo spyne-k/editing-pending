@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T22:13:28.718Z",
+  "fetchedAt": "2026-09-15T00:39:04.458Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,82 +17,90 @@
   "rows": [
     [
       null,
-      105
+      138
     ],
     [
       "Asbury Automotive Management L.L.C",
-      28
+      59
     ],
     [
-      "DealerVision.com",
-      10
+      "MyCar: Trucktown",
+      14
     ],
     [
-      "Flexcar",
-      8
+      "Greenway Automotive Group",
+      9
     ],
     [
-      "Toronto Honda",
+      "Simmons-Rockwell Automotive Dealerships",
       6
     ],
     [
-      "Amato Hyundai Of Glendale",
+      "Beaver County Auto",
       6
     ],
     [
-      "Rim Revolution LLC",
-      6
-    ],
-    [
-      "Bergstrom Automotive",
+      "Performance Automotive Network",
       5
     ],
     [
-      "Teton solutions Group",
+      "Starling Auto Group",
       4
     ],
     [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "Moses Auto Group",
+      "Cornhusker Auto Center",
       3
     ],
     [
-      "Yemm Auto",
+      "Olson Chevrolet",
       3
     ],
     [
-      "Jenkins Auto Group",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      3
+    ],
+    [
+      "Volvo of Princeton Inc",
+      3
+    ],
+    [
+      "Covert Auto Group",
       2
     ],
     [
-      "LUXURY IMPORTS",
+      "Vatland Auto Group",
       2
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      2
+    ],
+    [
+      "Bergstrom Automotive",
+      2
+    ],
+    [
+      "Grand Motorcars",
+      2
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "Your Choice Auto LLC",
+      1
+    ],
+    [
+      "Apex Automotive Group",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
     ],
     [
       "Jim Schmidt Automotive",
-      2
-    ],
-    [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "INERCIKAR SA",
-      1
-    ],
-    [
-      "Adams Chevrolet Inc",
-      1
-    ],
-    [
-      "Jeffrey's Auto Exchange",
-      1
-    ],
-    [
-      "World Car Auto Group",
       1
     ],
     [
@@ -100,15 +108,7 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "4M Autoplex",
+      "Smartlot Solutions",
       1
     ],
     [
@@ -116,28 +116,28 @@
       1
     ],
     [
-      "Vatland Auto Group",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
-      "Approval Genie (6929290 Canada Corp.)",
+      "ICL Autos",
       1
     ],
     [
-      "Volvo Cars Fort Washington",
+      "Hatimi Auto LLC",
       1
     ],
     [
-      "Worldwide Motors LTD dba Paragon Acura",
+      "Kayser Chevrolet",
       1
     ],
     [
-      "Rochester Toyota",
+      "Emerald Motors",
       1
     ],
     [
-      "Bravo Automotive Group, LLC",
-      1
+      "LUXURY IMPORTS",
+      0
     ]
   ]
 }
