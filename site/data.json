@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T10:10:58.181Z",
+  "fetchedAt": "2026-09-15T14:59:57.619Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,26 @@
   "rows": [
     [
       null,
-      21
+      8
     ],
     [
-      "Alpha One Automotive",
-      5
-    ],
-    [
-      "Wood Motor Company",
-      3
-    ],
-    [
-      "Island Auto Sales",
-      3
-    ],
-    [
-      "Covert Bee Cave",
+      "Lewiston Auto",
       2
     ],
     [
-      "Watermark Auto Group",
+      "DealerVision.com",
       2
     ],
     [
-      "Perkins Motors",
+      "Carter Myers Automotive",
+      2
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
-      "KAR Auto Group",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Subaru of Columbia (CMSUB, LLC)",
-      1
-    ],
-    [
-      "Yoder Family of Companies",
-      1
-    ],
-    [
-      "Dobbs Equity Partners, LLC",
+      "Speedway Car Sales",
       1
     ],
     [
