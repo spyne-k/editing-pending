@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T18:51:03.876Z",
+  "fetchedAt": "2026-09-15T21:48:24.858Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,86 @@
   "rows": [
     [
       null,
-      13
+      70
     ],
     [
-      "Rim Revolution LLC",
-      4
+      "Yoder Family of Companies",
+      23
     ],
     [
-      "Wharton Ford",
+      "Teton solutions Group",
+      9
+    ],
+    [
+      "Dave Syverson Auto Center",
+      6
+    ],
+    [
+      "DealerVision.com",
+      5
+    ],
+    [
+      "MyCar: Trucktown",
+      3
+    ],
+    [
+      "Bergstrom Automotive",
+      3
+    ],
+    [
+      "Greenway Automotive Group",
+      3
+    ],
+    [
+      "Yemm Auto",
       2
     ],
     [
-      "VW of Duluth",
-      1
+      "North Park Lincoln",
+      2
     ],
     [
-      "Car Bargain",
-      1
+      "Mark Miller Subaru, Inc.",
+      2
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
     ],
     [
       "District Auto Group",
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "World Car Auto Group",
       1
     ],
     [
-      "Freedom Chevrolet",
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Hondru Auto Group(US)",
+      1
+    ],
+    [
+      "Ramsey Motor Company",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
       1
     ],
     [
       "Vindevers Autohaus of Sylvania",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
       1
     ],
     [
