@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T14:59:57.619Z",
+  "fetchedAt": "2026-09-15T18:51:03.876Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,42 @@
   "rows": [
     [
       null,
-      8
+      13
     ],
     [
-      "Lewiston Auto",
+      "Rim Revolution LLC",
+      4
+    ],
+    [
+      "Wharton Ford",
       2
     ],
     [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Carter Myers Automotive",
-      2
-    ],
-    [
-      "Teton solutions Group",
+      "VW of Duluth",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Car Bargain",
+      1
+    ],
+    [
+      "District Auto Group",
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Freedom Chevrolet",
+      1
+    ],
+    [
+      "Vindevers Autohaus of Sylvania",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
       1
     ],
     [
