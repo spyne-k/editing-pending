@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T16:54:58.903Z",
+  "fetchedAt": "2026-09-16T19:49:16.489Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,63 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      36
-    ],
-    [
-      "ZT Automotive",
-      8
-    ],
-    [
-      "KASS Bladel-Reusel BV",
-      7
-    ],
-    [
-      "DealerVision.com",
-      4
-    ],
-    [
-      "Olson Chevrolet",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "Flexcar",
-      2
-    ],
-    [
-      "Vatland Auto Group",
-      2
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Bapchild Motoring World (Kent) Limited",
-      1
-    ],
-    [
       "Auto Park Chrysler Dodge Jeep Ram",
+      1
+    ],
+    [
+      null,
       1
     ],
     [
