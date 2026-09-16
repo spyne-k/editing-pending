@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T19:49:16.489Z",
+  "fetchedAt": "2026-09-16T22:24:17.788Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,111 @@
   ],
   "rows": [
     [
-      "Auto Park Chrysler Dodge Jeep Ram",
+      null,
+      62
+    ],
+    [
+      "Altawkilat",
+      8
+    ],
+    [
+      "DealerVision.com",
+      7
+    ],
+    [
+      "Flexcar",
+      5
+    ],
+    [
+      "Car Bargain",
+      4
+    ],
+    [
+      "Greenway Automotive Group",
+      4
+    ],
+    [
+      "SI Vallett Auto Sales",
+      3
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      3
+    ],
+    [
+      "Davidson Auto Group",
+      3
+    ],
+    [
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "ZT Automotive",
+      2
+    ],
+    [
+      "ASK Motors",
+      2
+    ],
+    [
+      "Speedway Car Sales",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "Toronto Honda",
       1
     ],
     [
-      null,
+      "Prestige Auto Sales",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Vatland Auto Group",
+      1
+    ],
+    [
+      "Hershey Motors",
+      1
+    ],
+    [
+      "Northside Auto Sales",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Princeton Chevrolet GMC",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Bapchild Motoring World (Kent) Limited",
+      1
+    ],
+    [
+      "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "Icon Motors Group of Framingham",
       1
     ],
     [
