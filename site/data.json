@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T15:04:36.832Z",
+  "fetchedAt": "2026-09-17T18:58:26.028Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,51 +17,59 @@
   "rows": [
     [
       null,
-      46
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      32
+      21
     ],
     [
       "KASS Bladel-Reusel BV",
       4
     ],
     [
-      "Capital Chevrolet Inc.",
-      3
+      "NorthTown Automotive",
+      4
     ],
     [
-      "Flexcar",
-      1
+      "Cornhusker Auto Center",
+      2
     ],
     [
-      "EV Car Company",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
+      "Preston Motor Automotive Group",
+      2
     ],
     [
       "Instacar SA",
       1
     ],
     [
-      "Gwatney Buick GMC",
-      1
-    ],
-    [
-      "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "Yokem Motors LLC DBA Yokem Toyota",
-      1
-    ],
-    [
       "LUXURY IMPORTS",
-      0
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Brandon Steven Motors",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Auto Park Chrysler Dodge Jeep Ram",
+      1
     ]
   ]
 }
