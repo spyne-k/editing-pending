@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T00:43:43.537Z",
+  "fetchedAt": "2026-09-17T05:27:52.749Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,62 @@
   "rows": [
     [
       null,
-      68
+      95
     ],
     [
       "Wood Motor Company",
-      7
+      10
     ],
     [
       "McCurley Dealerships",
       5
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Dave Syverson Auto Center",
+      5
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      5
+    ],
+    [
+      "Starling Auto Group",
+      5
+    ],
+    [
+      "North Park Lincoln",
+      5
+    ],
+    [
+      "Impex Auto Sales",
       4
     ],
     [
-      "Autos of Forney",
+      "ZT Automotive",
       4
     ],
     [
-      "Car Bargain",
-      4
+      "Mt Orab Chevy",
+      3
+    ],
+    [
+      "Olson Chevrolet",
+      3
+    ],
+    [
+      "Northwest Indiana Auto Finance",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
     ],
     [
       "SI Vallett Auto Sales",
       3
     ],
     [
-      "Blasius Buick GMC",
-      3
-    ],
-    [
-      "Northstar Kia",
-      3
-    ],
-    [
-      "Ideal Cars",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
+      "Moses Auto Group",
       2
     ],
     [
@@ -68,51 +80,35 @@
       2
     ],
     [
-      "District Auto Group",
+      "Smartlot Solutions",
       2
     ],
     [
-      "Impex Auto Sales",
+      "Joshua Trownsell",
       2
-    ],
-    [
-      "Starling Auto Group",
-      2
-    ],
-    [
-      "Bergstrom Automotive",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Northside Auto Sales",
-      1
-    ],
-    [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "Janssen Kuenle CDJR",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Covert Bee Cave",
-      1
     ],
     [
       "Davidson Auto Group",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Teton solutions Group",
       1
     ],
     [
-      "Jim Schmidt Automotive",
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "House Chevrolet Co.",
       1
     ],
     [
@@ -120,7 +116,15 @@
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Northside Auto Sales",
+      1
+    ],
+    [
+      "Apex Automotive Group",
       1
     ],
     [
@@ -128,11 +132,35 @@
       1
     ],
     [
-      "Greenway Automotive Group",
+      "Jim Schmidt Automotive",
       1
     ],
     [
-      "Bapchild Motoring World (Kent) Limited",
+      "Wiz Leasing Inc",
+      1
+    ],
+    [
+      "KAR Auto Group",
+      1
+    ],
+    [
+      "County Ford",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Yoder Family of Companies",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Boardman Subaru and Imports",
       1
     ],
     [
@@ -140,19 +168,27 @@
       1
     ],
     [
+      "Duffys Auto",
+      1
+    ],
+    [
+      "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
       "Elite Auto Marketing Solutions",
       1
     ],
     [
-      "Performance Automotive Network",
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ],
     [
-      "Flood Auto Group",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
+      "Covert Bee Cave",
       1
     ],
     [
