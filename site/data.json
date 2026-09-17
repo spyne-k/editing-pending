@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T10:16:58.685Z",
+  "fetchedAt": "2026-09-17T15:04:36.832Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,47 @@
   "rows": [
     [
       null,
-      9
+      46
     ],
     [
       "Asbury Automotive Management L.L.C",
-      6
+      32
     ],
     [
-      "Lambert Buick GMC Inc",
+      "KASS Bladel-Reusel BV",
+      4
+    ],
+    [
+      "Capital Chevrolet Inc.",
       3
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
+      "EV Car Company",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Instacar SA",
+      1
+    ],
+    [
+      "Gwatney Buick GMC",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
+      1
+    ],
+    [
+      "Yokem Motors LLC DBA Yokem Toyota",
+      1
     ],
     [
       "LUXURY IMPORTS",
