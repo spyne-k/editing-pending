@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T22:24:17.788Z",
+  "fetchedAt": "2026-09-17T00:43:43.537Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,26 @@
   "rows": [
     [
       null,
-      62
+      68
     ],
     [
-      "Altawkilat",
-      8
-    ],
-    [
-      "DealerVision.com",
+      "Wood Motor Company",
       7
     ],
     [
-      "Flexcar",
+      "McCurley Dealerships",
       5
     ],
     [
-      "Car Bargain",
+      "Asbury Automotive Management L.L.C",
       4
     ],
     [
-      "Greenway Automotive Group",
+      "Autos of Forney",
+      4
+    ],
+    [
+      "Car Bargain",
       4
     ],
     [
@@ -44,31 +44,31 @@
       3
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Blasius Buick GMC",
       3
     ],
     [
-      "Davidson Auto Group",
+      "Northstar Kia",
       3
+    ],
+    [
+      "Ideal Cars",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
     ],
     [
       "Van Horn Automotive Group",
-      3
-    ],
-    [
-      "ZT Automotive",
       2
     ],
     [
-      "ASK Motors",
+      "Nyle Maxwell CDJR Taylor",
       2
     ],
     [
-      "Speedway Car Sales",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "District Auto Group",
       2
     ],
     [
@@ -76,39 +76,59 @@
       2
     ],
     [
-      "Toronto Honda",
-      1
+      "Starling Auto Group",
+      2
     ],
     [
-      "Prestige Auto Sales",
-      1
+      "Bergstrom Automotive",
+      2
     ],
     [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "Hershey Motors",
-      1
+      "Your Choice Auto LLC",
+      2
     ],
     [
       "Northside Auto Sales",
       1
     ],
     [
-      "Wood Motor Company",
+      "Speedway Car Sales",
       1
     ],
     [
-      "Princeton Chevrolet GMC",
+      "Janssen Kuenle CDJR",
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Covert Bee Cave",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Jim Schmidt Automotive",
+      1
+    ],
+    [
+      "Integrity Auto Sales",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ],
     [
@@ -116,11 +136,23 @@
       1
     ],
     [
-      "Springfield Luxury Automall",
+      "Hershey Motors",
       1
     ],
     [
-      "Icon Motors Group of Framingham",
+      "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Flood Auto Group",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
       1
     ],
     [
