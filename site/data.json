@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T12:21:33.136Z",
+  "fetchedAt": "2026-09-18T16:33:53.453Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,30 @@
   "rows": [
     [
       null,
-      6
+      10
     ],
     [
-      "Kempton Chevrolet",
+      "Greenway Automotive Group",
+      4
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
-      "Lockwood Motors, Inc.",
-      2
-    ],
-    [
-      "MyCar: Trucktown",
+      "Silsbee Ford",
       1
     ],
     [
-      "Dorsett Automotive",
+      "Auto Park Ford Bremen",
+      1
+    ],
+    [
+      "Pritchard Companies",
+      1
+    ],
+    [
+      "Icon Motors Group of Framingham",
       1
     ],
     [
