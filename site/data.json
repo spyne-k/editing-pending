@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T07:36:33.815Z",
+  "fetchedAt": "2026-09-18T12:21:33.136Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,22 @@
   "rows": [
     [
       null,
-      10
+      6
     ],
     [
-      "Performance Automotive Network",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      3
-    ],
-    [
-      "AutoGiant USA",
+      "Kempton Chevrolet",
       2
     ],
     [
-      "MY Naghi",
+      "Lockwood Motors, Inc.",
+      2
+    ],
+    [
+      "MyCar: Trucktown",
       1
     ],
     [
-      "RC Hill Powersports Orlando",
+      "Dorsett Automotive",
       1
     ],
     [
