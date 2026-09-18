@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T19:09:20.089Z",
+  "fetchedAt": "2026-09-18T21:38:59.005Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,26 @@
   "rows": [
     [
       null,
+      50
+    ],
+    [
+      "Sprinkler Used Cars",
       16
     ],
     [
+      "Mark Miller Subaru, Inc.",
+      10
+    ],
+    [
       "Greenway Automotive Group",
+      5
+    ],
+    [
+      "Renny Bettan",
       4
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      4
-    ],
-    [
-      "Auto Park Ford Bremen",
+      "Russ Darrow Group, Inc.",
       2
     ],
     [
@@ -36,8 +44,8 @@
       2
     ],
     [
-      "TORSVIKS BIL AB",
-      1
+      "Van Horn Automotive Group",
+      2
     ],
     [
       "ZT Automotive",
@@ -48,12 +56,32 @@
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "LUXURY IMPORTS",
       1
     ],
     [
-      "LUXURY IMPORTS",
-      0
+      "DealerVision.com",
+      1
+    ],
+    [
+      "District Auto Group",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "Auto Gallery Automotive Group",
+      1
+    ],
+    [
+      "Vindevers Autohaus of Sylvania",
+      1
     ]
   ]
 }
