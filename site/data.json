@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T21:38:59.005Z",
+  "fetchedAt": "2026-09-18T23:34:10.584Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,58 +17,74 @@
   "rows": [
     [
       null,
-      50
+      63
     ],
     [
-      "Sprinkler Used Cars",
-      16
-    ],
-    [
-      "Mark Miller Subaru, Inc.",
-      10
+      "Hawthorne Auto Square",
+      7
     ],
     [
       "Greenway Automotive Group",
-      5
+      6
+    ],
+    [
+      "Dick Dyer & Associates",
+      4
+    ],
+    [
+      "Performance Automotive Network",
+      4
+    ],
+    [
+      "Dave Syverson Auto Center",
+      4
     ],
     [
       "Renny Bettan",
       4
     ],
     [
+      "Car Central",
+      3
+    ],
+    [
+      "Bergstrom Automotive",
+      3
+    ],
+    [
+      "Spangler Subaru",
+      3
+    ],
+    [
+      "Vindevers Autohaus of Sylvania",
+      2
+    ],
+    [
+      "Turn Auto Mall",
+      2
+    ],
+    [
+      "Auto Gallery Automotive Group",
+      2
+    ],
+    [
+      "DealerVision.com",
+      2
+    ],
+    [
       "Russ Darrow Group, Inc.",
       2
     ],
     [
-      "Rim Revolution LLC",
+      "Vatland Auto Group",
       2
     ],
     [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "ZT Automotive",
+      "Charlie Clark Hyundai",
       1
     ],
     [
-      "AutoGiant USA",
-      1
-    ],
-    [
-      "LUXURY IMPORTS",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "District Auto Group",
-      1
-    ],
-    [
-      "Covert Auto Group",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -76,11 +92,43 @@
       1
     ],
     [
-      "Auto Gallery Automotive Group",
+      "Pritchard Companies",
       1
     ],
     [
-      "Vindevers Autohaus of Sylvania",
+      "Diffee Ford Lincoln",
+      1
+    ],
+    [
+      "Lexus of Lehigh Valley",
+      1
+    ],
+    [
+      "Lexus Of Orland",
+      1
+    ],
+    [
+      "LUXURY IMPORTS",
+      1
+    ],
+    [
+      "AutoGiant USA",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Ideal Cars",
+      1
+    ],
+    [
+      "Luxury Auto Plex",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
