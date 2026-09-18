@@ -1,7 +1,171 @@
 {
-  "fetchedAt": "2026-09-17T23:55:08.218Z",
+  "fetchedAt": "2026-09-18T02:38:32.481Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
-  "columns": [],
-  "rows": []
+  "columns": [
+    {
+      "name": "name",
+      "displayName": "name",
+      "baseType": "type/Text"
+    },
+    {
+      "name": "total_images",
+      "displayName": "total_images",
+      "baseType": "type/BigInteger"
+    }
+  ],
+  "rows": [
+    [
+      null,
+      146
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      69
+    ],
+    [
+      "Noblesville Imports",
+      12
+    ],
+    [
+      "Hawthorne Auto Square",
+      6
+    ],
+    [
+      "Northstar Kia",
+      5
+    ],
+    [
+      "Joshua Trownsell",
+      5
+    ],
+    [
+      "Starling Auto Group",
+      4
+    ],
+    [
+      "Autohighway",
+      3
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      3
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Ideal Cars",
+      2
+    ],
+    [
+      "AX Auto INC",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Knapp Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Janssen Kuenle CDJR",
+      1
+    ],
+    [
+      "McCurley Dealerships",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "Loyalty Chevrolet/Cadillac",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Lewiston Auto",
+      1
+    ],
+    [
+      "Bill Cole AutoMall Bluefield",
+      1
+    ],
+    [
+      "Rusnak Auto Group - Mercedes- Benz of Arcadia",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "mears auto group",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Bob King",
+      1
+    ]
+  ]
 }
