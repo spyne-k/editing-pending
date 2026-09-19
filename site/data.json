@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T17:24:56.276Z",
+  "fetchedAt": "2026-09-19T19:26:21.725Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,30 @@
   "rows": [
     [
       null,
-      5
+      16
     ],
     [
-      "Performance Automotive Network",
+      "World Car Auto Group",
+      7
+    ],
+    [
+      "Flexcar",
+      3
+    ],
+    [
+      "IM Marketplace GmBH",
       2
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Icon Motors Group of Framingham",
       2
     ],
     [
-      "Davidson Auto Group",
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
       1
     ],
     [
