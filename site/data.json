@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T11:24:31.618Z",
+  "fetchedAt": "2026-09-19T14:34:50.131Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,38 @@
   "rows": [
     [
       null,
-      3
+      11
     ],
     [
-      "Dorsett Automotive",
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
-      "Dutch Miller Kia Charlotte",
+      "Bergstrom Automotive",
+      2
+    ],
+    [
+      "The Ford Store Morgan Hill",
+      2
+    ],
+    [
+      "Gateway GMC",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Alliance Cars Limited",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
