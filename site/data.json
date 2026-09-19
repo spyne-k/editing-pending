@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T21:35:39.532Z",
+  "fetchedAt": "2026-09-19T23:28:59.217Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,31 @@
   ],
   "rows": [
     [
-      "LUXURY IMPORTS",
-      0
+      null,
+      7
     ],
     [
-      null,
+      "NorthTown Automotive",
+      2
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      2
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "LUXURY IMPORTS",
       0
     ]
   ]
