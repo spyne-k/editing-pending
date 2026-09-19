@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T23:34:10.584Z",
+  "fetchedAt": "2026-09-19T01:31:45.170Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,10 +17,18 @@
   "rows": [
     [
       null,
-      63
+      93
     ],
     [
-      "Hawthorne Auto Square",
+      "DealerVision.com",
+      13
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      9
+    ],
+    [
+      "Wiz Leasing Inc",
       7
     ],
     [
@@ -28,39 +36,51 @@
       6
     ],
     [
-      "Dick Dyer & Associates",
-      4
-    ],
-    [
-      "Performance Automotive Network",
-      4
-    ],
-    [
-      "Dave Syverson Auto Center",
-      4
-    ],
-    [
-      "Renny Bettan",
-      4
-    ],
-    [
       "Car Central",
-      3
+      5
+    ],
+    [
+      "Springfield Luxury Automall",
+      5
     ],
     [
       "Bergstrom Automotive",
+      5
+    ],
+    [
+      "IM Marketplace GmBH",
+      5
+    ],
+    [
+      "Gettel Automotive Group",
+      4
+    ],
+    [
+      "Beaver County Auto",
+      4
+    ],
+    [
+      "AX Auto INC",
+      4
+    ],
+    [
+      "Amigo Auto Group, Inc.",
       3
     ],
     [
-      "Spangler Subaru",
-      3
-    ],
-    [
-      "Vindevers Autohaus of Sylvania",
+      "Jenkins Auto Group",
       2
     ],
     [
-      "Turn Auto Mall",
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Freedom Chevrolet",
+      2
+    ],
+    [
+      "ZT Automotive",
       2
     ],
     [
@@ -68,40 +88,12 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Perkins Motors",
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Bob Johnson Automotive Group",
       2
-    ],
-    [
-      "Vatland Auto Group",
-      2
-    ],
-    [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Starling Chevrolet",
-      1
-    ],
-    [
-      "Pritchard Companies",
-      1
-    ],
-    [
-      "Diffee Ford Lincoln",
-      1
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      1
     ],
     [
       "Lexus Of Orland",
@@ -116,20 +108,32 @@
       1
     ],
     [
-      "ZT Automotive",
+      "Charlie Clark Hyundai",
       1
     ],
     [
-      "Ideal Cars",
+      "Rochester Auto Mall",
       1
     ],
     [
-      "Luxury Auto Plex",
+      "Diffee Ford Lincoln",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Lexus of Lehigh Valley",
       1
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      1
+    ],
+    [
+      "Flood Auto Group",
+      1
+    ],
+    [
+      "carvago2",
+      0
     ]
   ]
 }
