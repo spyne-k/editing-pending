@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T01:31:45.170Z",
+  "fetchedAt": "2026-09-19T06:30:55.839Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,122 +17,42 @@
   "rows": [
     [
       null,
-      93
-    ],
-    [
-      "DealerVision.com",
-      13
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      9
-    ],
-    [
-      "Wiz Leasing Inc",
-      7
-    ],
-    [
-      "Greenway Automotive Group",
-      6
-    ],
-    [
-      "Car Central",
-      5
-    ],
-    [
-      "Springfield Luxury Automall",
-      5
-    ],
-    [
-      "Bergstrom Automotive",
-      5
-    ],
-    [
-      "IM Marketplace GmBH",
-      5
+      16
     ],
     [
       "Gettel Automotive Group",
-      4
+      7
     ],
     [
-      "Beaver County Auto",
-      4
-    ],
-    [
-      "AX Auto INC",
-      4
-    ],
-    [
-      "Amigo Auto Group, Inc.",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
+      "Dean Carter Chevrolet",
       2
     ],
     [
-      "Teton solutions Group",
+      "IM Marketplace GmBH",
       2
     ],
     [
-      "Freedom Chevrolet",
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
-      "ZT Automotive",
-      2
-    ],
-    [
-      "Auto Gallery Automotive Group",
-      2
-    ],
-    [
-      "Perkins Motors",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Lexus Of Orland",
+      "Moffitt's Ford",
       1
     ],
     [
-      "LUXURY IMPORTS",
+      "Countryside Mitsubishi",
       1
     ],
     [
-      "AutoGiant USA",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "Rochester Auto Mall",
-      1
-    ],
-    [
-      "Diffee Ford Lincoln",
-      1
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      1
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      1
-    ],
-    [
-      "Flood Auto Group",
+      "Jidd Motors Mitsubishi",
       1
     ],
     [
       "carvago2",
+      0
+    ],
+    [
+      "LUXURY IMPORTS",
       0
     ]
   ]
