@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T19:26:21.725Z",
+  "fetchedAt": "2026-09-19T21:35:39.532Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,35 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      16
-    ],
-    [
-      "World Car Auto Group",
-      7
-    ],
-    [
-      "Flexcar",
-      3
-    ],
-    [
-      "IM Marketplace GmBH",
-      2
-    ],
-    [
-      "Icon Motors Group of Framingham",
-      2
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
       "LUXURY IMPORTS",
+      0
+    ],
+    [
+      null,
       0
     ]
   ]
