@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T23:28:59.217Z",
+  "fetchedAt": "2026-09-20T01:28:16.852Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,27 +16,11 @@
   ],
   "rows": [
     [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
       null,
-      7
-    ],
-    [
-      "NorthTown Automotive",
-      2
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      2
-    ],
-    [
-      "Bob King",
-      1
-    ],
-    [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "Performance Automotive Network",
       1
     ],
     [
