@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T11:50:49.478Z",
+  "fetchedAt": "2026-09-20T14:55:49.800Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,22 @@
   "rows": [
     [
       null,
-      12
+      17
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      4
+      "MyCar: Trucktown",
+      13
     ],
     [
-      "MB Motors",
-      3
-    ],
-    [
-      "Post Oak Toyota",
+      "Stouffair Motors",
       2
     ],
     [
-      "Euro Motorcars",
+      "Autohighway",
       1
     ],
     [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Dubizzle Cars L.L.C",
       1
     ],
     [
