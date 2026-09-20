@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T06:45:37.793Z",
+  "fetchedAt": "2026-09-20T11:50:49.478Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,11 @@
   "rows": [
     [
       null,
-      23
+      12
     ],
     [
       "Asbury Automotive Management L.L.C",
-      8
-    ],
-    [
-      "Bergstrom Automotive",
-      6
+      4
     ],
     [
       "MB Motors",
@@ -36,15 +32,15 @@
       2
     ],
     [
-      "Sprinkler Used Cars",
-      2
-    ],
-    [
       "Euro Motorcars",
       1
     ],
     [
       "DealerVision.com",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
