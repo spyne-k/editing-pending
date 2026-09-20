@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T14:55:49.800Z",
+  "fetchedAt": "2026-09-20T17:54:24.353Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      17
+      21
     ],
     [
       "MyCar: Trucktown",
       13
+    ],
+    [
+      "Yoder Family of Companies",
+      3
     ],
     [
       "Stouffair Motors",
@@ -32,7 +36,11 @@
       1
     ],
     [
-      "Dubizzle Cars L.L.C",
+      "Sakura Motors London LTD",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
