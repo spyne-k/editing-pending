@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T17:54:24.353Z",
+  "fetchedAt": "2026-09-20T20:02:56.666Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,19 @@
   "rows": [
     [
       null,
-      21
+      35
     ],
     [
       "MyCar: Trucktown",
       13
+    ],
+    [
+      "Flexcar",
+      7
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      6
     ],
     [
       "Yoder Family of Companies",
@@ -33,6 +41,10 @@
     ],
     [
       "Autohighway",
+      1
+    ],
+    [
+      "Apex Automotive Group",
       1
     ],
     [
