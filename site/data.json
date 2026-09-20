@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T20:02:56.666Z",
+  "fetchedAt": "2026-09-20T22:22:30.150Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,30 @@
   "rows": [
     [
       null,
-      35
+      34
     ],
     [
       "MyCar: Trucktown",
-      13
+      25
     ],
     [
-      "Flexcar",
-      7
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      6
-    ],
-    [
-      "Yoder Family of Companies",
+      "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "Stouffair Motors",
+      "Mt Orab Chevy",
       2
     ],
     [
-      "Autohighway",
+      "Performance Automotive Network",
+      2
+    ],
+    [
+      "Flexcar",
       1
     ],
     [
       "Apex Automotive Group",
-      1
-    ],
-    [
-      "Sakura Motors London LTD",
-      1
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
