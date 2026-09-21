@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T05:07:47.968Z",
+  "fetchedAt": "2026-09-21T10:38:47.471Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,28 +16,12 @@
   ],
   "rows": [
     [
-      null,
-      11
-    ],
-    [
-      "AutoGiant USA",
+      "Flood Auto Group",
       4
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
-      3
-    ],
-    [
-      "Mt Orab Chevy",
-      2
-    ],
-    [
-      "MyCar: Trucktown",
-      1
-    ],
-    [
-      "Wharton Ford",
-      1
+      null,
+      4
     ],
     [
       "LUXURY IMPORTS",
