@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T00:19:31.228Z",
+  "fetchedAt": "2026-09-21T05:07:47.968Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,18 @@
   "rows": [
     [
       null,
-      18
+      11
     ],
     [
-      "Flexcar",
-      3
+      "AutoGiant USA",
+      4
     ],
     [
-      "Stouffair Motors",
-      3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "Seth Wadley Ford of Pauls Valley",
       3
     ],
     [
       "Mt Orab Chevy",
-      2
-    ],
-    [
-      "The Garage",
-      2
-    ],
-    [
-      "Performance Automotive Network",
       2
     ],
     [
@@ -49,10 +37,6 @@
     ],
     [
       "Wharton Ford",
-      1
-    ],
-    [
-      "Apex Automotive Group",
       1
     ],
     [
