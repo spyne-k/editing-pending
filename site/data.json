@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T16:34:58.979Z",
+  "fetchedAt": "2026-09-21T20:32:28.213Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,50 @@
   "rows": [
     [
       null,
+      34
+    ],
+    [
+      "Sprinkler Used Cars",
+      7
+    ],
+    [
+      "Rim Revolution LLC",
+      6
+    ],
+    [
+      "Toronto Honda",
       5
     ],
     [
-      "Flexcar",
-      2
+      "Yoder Family of Companies",
+      4
     ],
     [
-      "Rochester Toyota",
+      "4M Autoplex",
+      3
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Car Central",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "C.A.R. Automotive LLC",
+      1
+    ],
+    [
+      "Northside Auto Sales",
+      1
+    ],
+    [
+      "Wood Motor Company",
       1
     ],
     [
