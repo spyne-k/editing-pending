@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T22:22:30.150Z",
+  "fetchedAt": "2026-09-21T00:19:31.228Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,15 @@
   "rows": [
     [
       null,
-      34
+      18
     ],
     [
-      "MyCar: Trucktown",
-      25
+      "Flexcar",
+      3
+    ],
+    [
+      "Stouffair Motors",
+      3
     ],
     [
       "Bud Clary Chevrolet, INC",
@@ -32,11 +36,19 @@
       2
     ],
     [
+      "The Garage",
+      2
+    ],
+    [
       "Performance Automotive Network",
       2
     ],
     [
-      "Flexcar",
+      "MyCar: Trucktown",
+      1
+    ],
+    [
+      "Wharton Ford",
       1
     ],
     [
