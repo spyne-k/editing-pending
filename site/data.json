@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T20:32:28.213Z",
+  "fetchedAt": "2026-09-21T23:32:03.098Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,59 +17,143 @@
   "rows": [
     [
       null,
-      34
+      68
     ],
     [
-      "Sprinkler Used Cars",
-      7
-    ],
-    [
-      "Rim Revolution LLC",
+      "Joshua Trownsell",
       6
     ],
     [
-      "Toronto Honda",
+      "ZT Automotive",
       5
     ],
     [
-      "Yoder Family of Companies",
+      "Hatimi Auto LLC",
       4
     ],
     [
-      "4M Autoplex",
+      "Greenway Automotive Group",
+      4
+    ],
+    [
+      "Generation Nissan",
+      4
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       3
     ],
     [
-      "DealerVision.com",
+      "Gettel Automotive Group",
       3
+    ],
+    [
+      "Yoder Family of Companies",
+      3
+    ],
+    [
+      "C.A.R. Automotive LLC",
+      3
+    ],
+    [
+      "Perkins Motors",
+      2
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      2
+    ],
+    [
+      "Toronto Honda",
+      2
+    ],
+    [
+      "Beck Motors",
+      2
+    ],
+    [
+      "Jim Schmidt Automotive",
+      2
+    ],
+    [
+      "Starling Chevrolet",
+      2
+    ],
+    [
+      "Hawthorne Auto Square",
+      2
+    ],
+    [
+      "Vatland Auto Group",
+      2
     ],
     [
       "Car Central",
       1
     ],
     [
-      "Post Oak Toyota",
+      "Olson Chevrolet",
       1
     ],
     [
-      "C.A.R. Automotive LLC",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Northside Auto Sales",
+      "World Car Auto Group",
       1
     ],
     [
-      "Wood Motor Company",
+      "Prestige Auto Sales",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Your Choice Auto LLC",
+      1
+    ],
+    [
+      "Median Media LLC",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Renny Bettan",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Emerald Motors",
       1
     ],
     [
       "LUXURY IMPORTS",
-      0
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Impex Auto Sales",
+      1
+    ],
+    [
+      "Flexcar",
+      1
     ]
   ]
 }
