@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T10:38:47.471Z",
+  "fetchedAt": "2026-09-21T16:34:58.979Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,24 @@
   ],
   "rows": [
     [
-      "Flood Auto Group",
-      4
+      null,
+      5
     ],
     [
-      null,
-      4
+      "Flexcar",
+      2
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      1
     ],
     [
       "LUXURY IMPORTS",
