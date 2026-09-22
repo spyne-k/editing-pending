@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T12:06:23.670Z",
+  "fetchedAt": "2026-09-22T16:51:46.432Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,38 @@
   "rows": [
     [
       null,
-      4
+      16
     ],
     [
-      "MyCar: Trucktown",
+      "Amato Hyundai Of Glendale",
+      5
+    ],
+    [
+      "Rawian Oy",
+      3
+    ],
+    [
+      "Flexcar",
       2
     ],
     [
-      "Dorsett Automotive",
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Rochester Toyota",
       1
     ],
     [
-      "Greenville Automotive Group",
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Blasius South",
+      1
+    ],
+    [
+      "Capital Chevrolet Inc.",
       1
     ],
     [
