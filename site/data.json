@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T19:55:35.901Z",
+  "fetchedAt": "2026-09-22T22:39:43.108Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,27 +17,127 @@
   "rows": [
     [
       null,
-      7
+      76
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      11
+    ],
+    [
+      "Janssen Kuenle CDJR",
+      9
     ],
     [
       "Teton solutions Group",
+      8
+    ],
+    [
+      "Victory Automotive Group",
+      5
+    ],
+    [
+      "Flexcar",
+      4
+    ],
+    [
+      "Davidson Auto Group",
+      4
+    ],
+    [
+      "Impex Auto Sales",
+      4
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       3
     ],
     [
-      "Bapchild Motoring World (Kent) Limited",
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Greenway Automotive Group",
       2
     ],
     [
-      "DealerVision.com",
+      "Preston Motor Automotive Group",
+      2
+    ],
+    [
+      "Twin Rivers Auto Group",
+      2
+    ],
+    [
+      "ZT Automotive",
+      2
+    ],
+    [
+      "The Garage",
       1
     ],
     [
-      "Auto Park Ford Bremen",
+      "Ferris Chevrolet, Inc",
+      1
+    ],
+    [
+      "Olson Chevrolet",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Autos of Forney",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
+      1
+    ],
+    [
+      "Joshua Trownsell",
       1
     ],
     [
       "LUXURY IMPORTS",
-      0
+      1
+    ],
+    [
+      "Performance Auto Group",
+      1
+    ],
+    [
+      "Blasius Buick GMC",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Euro Motorcars",
+      1
+    ],
+    [
+      "Lee Group",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Vatland Auto Group",
+      1
     ]
   ]
 }
