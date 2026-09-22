@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T23:32:03.098Z",
+  "fetchedAt": "2026-09-22T01:47:22.370Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,39 @@
   "rows": [
     [
       null,
-      68
+      114
     ],
     [
-      "Joshua Trownsell",
+      "Asbury Automotive Management L.L.C",
+      20
+    ],
+    [
+      "Envision Management Group",
+      10
+    ],
+    [
+      "C.A.R. Automotive LLC",
+      8
+    ],
+    [
+      "AX Auto INC",
       6
     ],
     [
-      "ZT Automotive",
+      "Gettel Automotive Group",
       5
+    ],
+    [
+      "Jenkins Auto Group",
+      4
+    ],
+    [
+      "Pdx Wheels, Steals & Deals",
+      4
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      4
     ],
     [
       "Hatimi Auto LLC",
@@ -36,15 +60,11 @@
       4
     ],
     [
-      "Generation Nissan",
+      "Lexus Of Orland",
       4
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      3
-    ],
-    [
-      "Gettel Automotive Group",
+      "Janssen Kuenle CDJR",
       3
     ],
     [
@@ -52,7 +72,15 @@
       3
     ],
     [
-      "C.A.R. Automotive LLC",
+      "Bravo Automotive Group, LLC",
+      3
+    ],
+    [
+      "Hawthorne Auto Square",
+      3
+    ],
+    [
+      "North Park Lincoln",
       3
     ],
     [
@@ -60,11 +88,19 @@
       2
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "Ideal Cars",
       2
     ],
     [
-      "Toronto Honda",
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Median Media LLC",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
@@ -72,35 +108,11 @@
       2
     ],
     [
-      "Jim Schmidt Automotive",
-      2
-    ],
-    [
-      "Starling Chevrolet",
-      2
-    ],
-    [
-      "Hawthorne Auto Square",
-      2
-    ],
-    [
-      "Vatland Auto Group",
-      2
-    ],
-    [
-      "Car Central",
+      "Drivemax USA",
       1
     ],
     [
-      "Olson Chevrolet",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "World Car Auto Group",
+      "Moses Auto Group",
       1
     ],
     [
@@ -108,23 +120,27 @@
       1
     ],
     [
-      "Your Choice Auto LLC",
+      "SI Vallett Auto Sales",
       1
     ],
     [
-      "Median Media LLC",
+      "Starling Chevrolet",
       1
     ],
     [
-      "Covert Auto Group",
+      "Faircy Automotive",
       1
     ],
     [
-      "Renny Bettan",
+      "Seth Wadley Ford of Pauls Valley",
       1
     ],
     [
-      "Davidson Auto Group",
+      "MyCar: Trucktown",
+      1
+    ],
+    [
+      "Bill Cole AutoMall Bluefield",
       1
     ],
     [
@@ -132,28 +148,24 @@
       1
     ],
     [
+      "The Garage",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Advantage Toyota",
+      1
+    ],
+    [
+      "Mt Orab Chevy",
+      1
+    ],
+    [
       "LUXURY IMPORTS",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Flexcar",
-      1
+      0
     ]
   ]
 }
