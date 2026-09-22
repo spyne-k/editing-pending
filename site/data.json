@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T06:50:20.613Z",
+  "fetchedAt": "2026-09-22T12:06:23.670Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,18 @@
   "rows": [
     [
       null,
-      12
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       4
     ],
     [
-      "LuxuryMotorCars",
-      3
-    ],
-    [
-      "Mossy Motors",
+      "MyCar: Trucktown",
       2
     ],
     [
-      "ROSI Automotive Group",
-      2
+      "Dorsett Automotive",
+      1
     ],
     [
-      "DealerVision.com",
+      "Greenville Automotive Group",
       1
     ],
     [
