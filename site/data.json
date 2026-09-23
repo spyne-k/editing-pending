@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T15:01:50.196Z",
+  "fetchedAt": "2026-09-23T18:58:09.478Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,38 +17,50 @@
   "rows": [
     [
       null,
-      142
+      155
     ],
     [
       "Major World",
       110
     ],
     [
-      "Gettel Automotive Group",
-      8
-    ],
-    [
-      "Starling Chevrolet",
-      6
+      "Asbury Automotive Management L.L.C",
+      11
     ],
     [
       "Covert Bee Cave",
       4
     ],
     [
-      "Bapchild Motoring World (Kent) Limited",
-      2
+      "Janssen Kuenle CDJR",
+      4
     ],
     [
       "Flexcar",
-      1
+      3
     ],
     [
-      "ZT Automotive",
-      1
+      "Ryan Buick GMC Cadillac",
+      3
     ],
     [
-      "Yemm Auto",
+      "Ideal Cars",
+      2
+    ],
+    [
+      "Pritchard Companies",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Mccurley Subaru Of Yakima",
+      2
+    ],
+    [
+      "Mondial car Sarl",
       1
     ],
     [
@@ -56,11 +68,11 @@
       1
     ],
     [
-      "Bush Trucks Leasing",
+      "ASK Motors",
       1
     ],
     [
-      "Graff Auto Campus",
+      "Auto Reum",
       1
     ],
     [
@@ -68,7 +80,15 @@
       1
     ],
     [
-      "Vatland Auto Group",
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "McLeod Auto Sales",
+      1
+    ],
+    [
+      "Speedway Car Sales",
       1
     ],
     [
@@ -80,11 +100,11 @@
       1
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Van Horn Automotive Group",
       1
     ],
     [
