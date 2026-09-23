@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T22:39:43.108Z",
+  "fetchedAt": "2026-09-23T00:55:43.771Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,127 +17,107 @@
   "rows": [
     [
       null,
-      76
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      11
-    ],
-    [
-      "Janssen Kuenle CDJR",
-      9
-    ],
-    [
-      "Teton solutions Group",
-      8
-    ],
-    [
-      "Victory Automotive Group",
-      5
-    ],
-    [
-      "Flexcar",
-      4
-    ],
-    [
-      "Davidson Auto Group",
-      4
-    ],
-    [
-      "Impex Auto Sales",
-      4
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      3
+      39
     ],
     [
       "Bud Clary Chevrolet, INC",
-      3
+      5
+    ],
+    [
+      "SI Vallett Auto Sales",
+      5
+    ],
+    [
+      "Charlie Clark Hyundai",
+      4
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      4
+    ],
+    [
+      "Vindevers Autohaus of Sylvania",
+      2
+    ],
+    [
+      "Your Choice Auto LLC",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Sakura Motors London LTD",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Certified Autoplex Inc.",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Davis Ford",
+      1
+    ],
+    [
+      "Hawthorne Auto Square",
+      1
+    ],
+    [
+      "AutoGiant USA",
+      1
+    ],
+    [
+      "Icon Motors Group",
+      1
+    ],
+    [
+      "Brandon Steven Motors",
+      1
+    ],
+    [
+      "Roanoke Motors Inc",
+      1
+    ],
+    [
+      "AX Auto INC",
+      1
+    ],
+    [
+      "Mt Orab Chevy",
+      1
+    ],
+    [
+      "Rick Weaver Chevrolet",
+      1
+    ],
+    [
+      "Janssen Chrysler Jeep Dodge",
+      1
+    ],
+    [
+      "Olympic Hyundai Vancouver",
+      1
     ],
     [
       "Greenway Automotive Group",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Twin Rivers Auto Group",
-      2
-    ],
-    [
-      "ZT Automotive",
-      2
-    ],
-    [
-      "The Garage",
       1
     ],
     [
-      "Ferris Chevrolet, Inc",
-      1
-    ],
-    [
-      "Olson Chevrolet",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Autos of Forney",
-      1
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Joshua Trownsell",
+      "Novacti",
       1
     ],
     [
       "LUXURY IMPORTS",
-      1
-    ],
-    [
-      "Performance Auto Group",
-      1
-    ],
-    [
-      "Blasius Buick GMC",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
-      1
-    ],
-    [
-      "Euro Motorcars",
-      1
-    ],
-    [
-      "Lee Group",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
+      0
     ]
   ]
 }
