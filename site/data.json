@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T18:58:09.478Z",
+  "fetchedAt": "2026-09-23T22:06:35.825Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,62 @@
   "rows": [
     [
       null,
-      155
+      183
     ],
     [
       "Major World",
-      110
+      109
     ],
     [
       "Asbury Automotive Management L.L.C",
-      11
+      23
+    ],
+    [
+      "Beaver County Auto",
+      7
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      6
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      5
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      5
     ],
     [
       "Covert Bee Cave",
       4
     ],
     [
-      "Janssen Kuenle CDJR",
-      4
-    ],
-    [
-      "Flexcar",
-      3
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      3
-    ],
-    [
-      "Ideal Cars",
-      2
-    ],
-    [
-      "Pritchard Companies",
-      2
-    ],
-    [
       "Greenway Automotive Group",
+      3
+    ],
+    [
+      "Joshua Trownsell",
+      3
+    ],
+    [
+      "Victory Automotive Group",
       2
     ],
     [
-      "Mccurley Subaru Of Yakima",
+      "Cornhusker Auto Center",
       2
     ],
     [
-      "Mondial car Sarl",
+      "Icon Motors Group",
+      2
+    ],
+    [
+      "Hatimi Auto LLC",
+      2
+    ],
+    [
+      "Apex Automotive Group",
       1
     ],
     [
@@ -68,27 +80,15 @@
       1
     ],
     [
-      "ASK Motors",
-      1
-    ],
-    [
-      "Auto Reum",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "McLeod Auto Sales",
+      "Mount Airy Nissan",
       1
     ],
     [
       "Speedway Car Sales",
+      1
+    ],
+    [
+      "Brandon Steven Motors",
       1
     ],
     [
@@ -100,11 +100,15 @@
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "AX Auto INC",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Flexcar",
       1
     ],
     [
