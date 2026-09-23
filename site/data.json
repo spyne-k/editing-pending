@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T05:27:14.627Z",
+  "fetchedAt": "2026-09-23T10:12:29.091Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,62 +17,30 @@
   "rows": [
     [
       null,
-      49
+      28
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      9
-    ],
-    [
-      "The Garage",
-      7
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "Major World",
       5
     ],
     [
-      "greenway auto group 2",
+      "IM Marketplace GmBH",
+      5
+    ],
+    [
+      "Covert Bee Cave",
       4
     ],
     [
-      "Jenkins Auto Group",
-      3
+      "The Used Car Guys GMBH",
+      4
     ],
     [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "North Park Lincoln",
+      "Starling Chevrolet",
       2
     ],
     [
-      "Bush Trucks Leasing",
-      2
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
-      2
-    ],
-    [
-      "Moffitt's Ford",
-      1
-    ],
-    [
-      "Moses Auto Group",
-      1
-    ],
-    [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "Pixel Cars",
-      1
-    ],
-    [
-      "DealerVision.com",
+      "MyCar: Trucktown",
       1
     ],
     [
@@ -80,15 +48,11 @@
       1
     ],
     [
-      "Bill Dickason Chevrolet",
+      "Dubizzle Cars L.L.C",
       1
     ],
     [
-      "Sprinkler Used Cars",
-      1
-    ],
-    [
-      "Wood Motor Company",
+      "greenway auto group 2",
       1
     ],
     [
@@ -96,11 +60,15 @@
       1
     ],
     [
-      "Sansone Jr's Auto Group",
+      "Starling Auto Group",
       1
     ],
     [
-      "IM Marketplace GmBH",
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ],
     [
