@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T00:55:43.771Z",
+  "fetchedAt": "2026-09-23T05:27:14.627Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,38 +17,62 @@
   "rows": [
     [
       null,
-      39
+      49
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      9
+    ],
+    [
+      "The Garage",
+      7
     ],
     [
       "Bud Clary Chevrolet, INC",
       5
     ],
     [
-      "SI Vallett Auto Sales",
-      5
-    ],
-    [
-      "Charlie Clark Hyundai",
+      "greenway auto group 2",
       4
     ],
     [
-      "Hewlett Volkswagen, LP",
-      4
+      "Jenkins Auto Group",
+      3
     ],
     [
-      "Vindevers Autohaus of Sylvania",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      1
+      "Jim Schmidt Automotive",
+      3
     ],
     [
       "North Park Lincoln",
+      2
+    ],
+    [
+      "Bush Trucks Leasing",
+      2
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      2
+    ],
+    [
+      "Moffitt's Ford",
       1
     ],
     [
-      "Sakura Motors London LTD",
+      "Moses Auto Group",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Pixel Cars",
+      1
+    ],
+    [
+      "DealerVision.com",
       1
     ],
     [
@@ -56,63 +80,27 @@
       1
     ],
     [
-      "Certified Autoplex Inc.",
+      "Bill Dickason Chevrolet",
       1
     ],
     [
-      "World Car Auto Group",
+      "Sprinkler Used Cars",
       1
     ],
     [
-      "Davis Ford",
+      "Wood Motor Company",
       1
     ],
     [
-      "Hawthorne Auto Square",
+      "Auto Exchange Group",
       1
     ],
     [
-      "AutoGiant USA",
+      "Sansone Jr's Auto Group",
       1
     ],
     [
-      "Icon Motors Group",
-      1
-    ],
-    [
-      "Brandon Steven Motors",
-      1
-    ],
-    [
-      "Roanoke Motors Inc",
-      1
-    ],
-    [
-      "AX Auto INC",
-      1
-    ],
-    [
-      "Mt Orab Chevy",
-      1
-    ],
-    [
-      "Rick Weaver Chevrolet",
-      1
-    ],
-    [
-      "Janssen Chrysler Jeep Dodge",
-      1
-    ],
-    [
-      "Olympic Hyundai Vancouver",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Novacti",
+      "IM Marketplace GmBH",
       1
     ],
     [
