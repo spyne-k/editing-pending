@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T22:06:35.825Z",
+  "fetchedAt": "2026-09-24T00:27:25.793Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,54 +17,54 @@
   "rows": [
     [
       null,
-      183
+      185
     ],
     [
       "Major World",
       109
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      23
+      "Gettel Automotive Group",
+      9
     ],
     [
-      "Beaver County Auto",
+      "AX Auto INC",
       7
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      6
+      "Charlie Clark Hyundai",
+      7
     ],
     [
-      "Russ Darrow Group, Inc.",
-      5
+      "greenway auto group 2",
+      4
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      5
+      "Greenway Automotive Group",
+      4
     ],
     [
       "Covert Bee Cave",
       4
     ],
     [
-      "Greenway Automotive Group",
+      "AceAutoInc",
       3
     ],
     [
-      "Joshua Trownsell",
+      "Denver Auto",
       3
     ],
     [
-      "Victory Automotive Group",
+      "Bob Johnson Automotive Group",
       2
     ],
     [
-      "Cornhusker Auto Center",
+      "Automatch",
       2
     ],
     [
-      "Icon Motors Group",
+      "Northpoint Toyota _ Australia",
       2
     ],
     [
@@ -72,23 +72,35 @@
       2
     ],
     [
-      "Apex Automotive Group",
+      "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "C.A.R. Automotive LLC",
+      2
+    ],
+    [
+      "Roanoke Motors Inc",
+      2
+    ],
+    [
+      "Hawthorne Auto Square",
       1
     ],
     [
-      "MyCar: Trucktown",
+      "Auto Park Ford Bremen",
       1
     ],
     [
-      "Mount Airy Nissan",
-      1
-    ],
-    [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "Brandon Steven Motors",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -96,11 +108,43 @@
       1
     ],
     [
+      "Carter Myers Automotive",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
       "Dorsett Automotive",
       1
     ],
     [
-      "AX Auto INC",
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "Zim's Auto Sales & Services Inc",
+      1
+    ],
+    [
+      "Median Media LLC",
+      1
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Ideal Cars",
       1
     ],
     [
@@ -108,12 +152,12 @@
       1
     ],
     [
-      "Flexcar",
+      "Keffer Inc.",
       1
     ],
     [
-      "LUXURY IMPORTS",
-      0
+      "Asbury Automotive Management L.L.C",
+      1
     ]
   ]
 }
