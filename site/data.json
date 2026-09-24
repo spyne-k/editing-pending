@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-24T00:27:25.793Z",
+  "fetchedAt": "2026-09-24T05:10:59.418Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,90 +17,42 @@
   "rows": [
     [
       null,
-      185
+      159
     ],
     [
       "Major World",
-      109
+      108
     ],
     [
-      "Gettel Automotive Group",
-      9
+      "Bud Clary Chevrolet, INC",
+      15
     ],
     [
-      "AX Auto INC",
-      7
+      "SI Vallett Auto Sales",
+      12
     ],
     [
-      "Charlie Clark Hyundai",
-      7
+      "Boardman Subaru and Imports",
+      8
     ],
     [
-      "greenway auto group 2",
-      4
-    ],
-    [
-      "Greenway Automotive Group",
-      4
-    ],
-    [
-      "Covert Bee Cave",
-      4
-    ],
-    [
-      "AceAutoInc",
+      "TNS Autosports",
       3
     ],
     [
-      "Denver Auto",
+      "Rohrich Automotive Group",
       3
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Automatch",
-      2
-    ],
-    [
-      "Northpoint Toyota _ Australia",
-      2
-    ],
-    [
-      "Hatimi Auto LLC",
-      2
-    ],
-    [
-      "LUXURY IMPORTS",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "C.A.R. Automotive LLC",
-      2
-    ],
-    [
-      "Roanoke Motors Inc",
-      2
-    ],
-    [
-      "Hawthorne Auto Square",
+      "Kian Motors INC",
       1
     ],
     [
-      "Auto Park Ford Bremen",
+      "Hondru Auto Group(US)",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Wood Motor Company",
       1
     ],
     [
@@ -108,11 +60,15 @@
       1
     ],
     [
-      "Carter Myers Automotive",
+      "Jim Schmidt Automotive",
       1
     ],
     [
-      "North Park Lincoln",
+      "Pritchard Companies",
+      1
+    ],
+    [
+      "Smartlot Solutions",
       1
     ],
     [
@@ -120,44 +76,16 @@
       1
     ],
     [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Zim's Auto Sales & Services Inc",
-      1
-    ],
-    [
-      "Median Media LLC",
-      1
-    ],
-    [
-      "Best Deal Auto Sales, INC.",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Ideal Cars",
-      1
-    ],
-    [
       "Performance Automotive Network",
-      1
-    ],
-    [
-      "Keffer Inc.",
       1
     ],
     [
       "Asbury Automotive Management L.L.C",
       1
+    ],
+    [
+      "LUXURY IMPORTS",
+      0
     ]
   ]
 }
