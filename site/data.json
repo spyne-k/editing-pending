@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-24T18:42:08.700Z",
+  "fetchedAt": "2026-09-24T21:49:59.588Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,70 @@
   "rows": [
     [
       null,
-      172
+      259
     ],
     [
       "Major World",
-      108
+      107
     ],
     [
       "Asbury Automotive Management L.L.C",
-      17
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      11
+      90
     ],
     [
       "DealerVision.com",
       9
     ],
     [
+      "Bud Clary Chevrolet, INC",
+      8
+    ],
+    [
+      "Auto Exchange Group",
+      6
+    ],
+    [
+      "Sprinkler Used Cars",
+      4
+    ],
+    [
+      "Van Horn Automotive Group",
+      4
+    ],
+    [
+      "Yoder Family of Companies",
+      3
+    ],
+    [
       "Autos of Forney",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
-      "Flexcar",
       3
     ],
     [
-      "Turn Auto Mall",
+      "Drivemax USA",
       3
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Alliance Automotive of Westchester LLC dba White P",
+      3
+    ],
+    [
+      "Performance Automotive Network",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      2
+    ],
+    [
+      "Integrity Auto Sales",
+      2
+    ],
+    [
+      "Lambert Buick GMC Inc",
       2
     ],
     [
@@ -60,44 +88,32 @@
       2
     ],
     [
+      "Starling Auto Group",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
       "ZT Automotive",
       1
     ],
     [
-      "Renny Bettan",
+      "Novacti",
       1
-    ],
-    [
-      "Giant Auto Warehouse",
-      1
-    ],
-    [
-      "Amigo Auto Group, Inc.",
-      1
-    ],
-    [
-      "Hawthorne Auto Square",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
-      "Boardman Subaru and Imports",
-      1
-    ],
-    [
-      "LUXURY IMPORTS",
-      0
     ]
   ]
 }
