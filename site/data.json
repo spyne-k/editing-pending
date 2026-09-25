@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-24T21:49:59.588Z",
+  "fetchedAt": "2026-09-25T00:05:03.738Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,94 +17,170 @@
   "rows": [
     [
       null,
-      259
+      500
     ],
     [
       "Major World",
-      107
+      105
     ],
     [
       "Asbury Automotive Management L.L.C",
-      90
+      103
+    ],
+    [
+      "Greenway Automotive Group",
+      32
+    ],
+    [
+      "Preston Motor Automotive Group",
+      29
+    ],
+    [
+      "Toyota Of Wallingford",
+      19
+    ],
+    [
+      "Rohrich Automotive Group",
+      19
     ],
     [
       "DealerVision.com",
+      15
+    ],
+    [
+      "AX Auto INC",
+      13
+    ],
+    [
+      "Ideal Cars",
+      12
+    ],
+    [
+      "Auto Park Ford Bremen",
+      11
+    ],
+    [
+      "Median Media LLC",
       9
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      8
+      "TNS Autosports",
+      9
     ],
     [
-      "Auto Exchange Group",
+      "Baker Cadillac, Inc",
+      9
+    ],
+    [
+      "Integrity Auto Sales",
+      7
+    ],
+    [
+      "Pdx Wheels, Steals & Deals",
+      7
+    ],
+    [
+      "AutoGiant USA",
+      7
+    ],
+    [
+      "World Car Auto Group",
+      7
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       6
     ],
     [
-      "Sprinkler Used Cars",
+      "Car City INC",
+      6
+    ],
+    [
+      "Flexcar",
+      6
+    ],
+    [
+      "Hatimi Auto LLC",
+      6
+    ],
+    [
+      "HNH MOTORS LLC",
+      5
+    ],
+    [
+      "ICL Autos",
       4
     ],
     [
-      "Van Horn Automotive Group",
+      "Jenkins Auto Group",
       4
     ],
     [
-      "Yoder Family of Companies",
-      3
+      "House Chevrolet Co.",
+      4
     ],
     [
-      "Autos of Forney",
-      3
+      "Buckingham Hyundai",
+      4
     ],
     [
-      "Drivemax USA",
-      3
+      "Ryan Buick GMC Cadillac",
+      4
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
+      "Harper Chevrolet GMC",
+      4
+    ],
+    [
+      "Puente Hills Mitsubishi",
+      4
+    ],
+    [
+      "Great Lakes Auto ",
+      4
+    ],
+    [
+      "Bravo Automotive Group, LLC",
       3
     ],
     [
       "Performance Automotive Network",
+      3
+    ],
+    [
+      "The Garage",
+      3
+    ],
+    [
+      "Your Choice Auto LLC",
+      3
+    ],
+    [
+      "Northside Auto Sales",
+      3
+    ],
+    [
+      "MB Motors",
       2
     ],
     [
-      "LUXURY IMPORTS",
+      "Apex Automotive Group",
       2
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      2
-    ],
-    [
-      "Integrity Auto Sales",
-      2
-    ],
-    [
-      "Lambert Buick GMC Inc",
-      2
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
-      2
-    ],
-    [
-      "Starling Auto Group",
+      "International Auto Sales",
       1
     ],
     [
-      "Car Hop Auto Sales & Finance",
+      "Brownboys Motorclub",
       1
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
+      "Ghost Auto Werkz",
       1
     ],
     [
-      "Bravo Automotive Group, LLC",
-      1
-    ],
-    [
-      "Toronto Honda",
+      "West Mitsubishi",
       1
     ],
     [
@@ -112,8 +188,16 @@
       1
     ],
     [
-      "Novacti",
+      "Bosstown Motors",
       1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "LUXURY IMPORTS",
+      0
     ]
   ]
 }
