@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T20:09:24.644Z",
+  "fetchedAt": "2026-09-26T22:45:52.142Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,58 +17,26 @@
   "rows": [
     [
       null,
-      213
+      123
     ],
     [
       "Major World",
       102
     ],
     [
-      "Bergstrom Automotive",
-      24
+      "Flood Auto Group",
+      5
     ],
     [
-      "MyCar: Trucktown",
-      15
-    ],
-    [
-      "Brandon Steven Motors",
-      11
-    ],
-    [
-      "Mega Motors",
+      "Georgia Auto World",
       4
     ],
     [
-      "Wood Motor Company",
-      4
-    ],
-    [
-      "World Car Auto Group",
+      "NorthTown Automotive",
       3
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      3
-    ],
-    [
-      "Carter Myers Automotive",
-      3
-    ],
-    [
-      "KAR Auto Group",
-      3
-    ],
-    [
-      "LuxuryMotorCars",
-      3
-    ],
-    [
-      "Flexcar",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
+      "CDJR",
       2
     ],
     [
@@ -76,91 +44,15 @@
       2
     ],
     [
-      "North Park Lincoln",
+      "Grand Motorcars",
       2
     ],
     [
-      "Giant Auto Warehouse",
+      "Simmons-Rockwell Automotive Dealerships",
       2
     ],
     [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Star Motors",
-      2
-    ],
-    [
-      "CDJR",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Northstar Kia",
-      2
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Voss Village Cadillac",
-      1
-    ],
-    [
-      "Roanoke Motors Inc",
-      1
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "Janssen Kuenle CDJR",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "Raleigh Imports",
-      1
-    ],
-    [
-      "Landers Dodge Chrysler Jeep RAM",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "McLeod Auto Sales",
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
