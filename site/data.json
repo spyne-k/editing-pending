@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T00:05:03.738Z",
+  "fetchedAt": "2026-09-26T00:25:35.679Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,182 +17,250 @@
   "rows": [
     [
       null,
-      500
+      302
     ],
     [
       "Major World",
-      105
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      103
-    ],
-    [
-      "Greenway Automotive Group",
-      32
-    ],
-    [
-      "Preston Motor Automotive Group",
-      29
-    ],
-    [
-      "Toyota Of Wallingford",
-      19
-    ],
-    [
-      "Rohrich Automotive Group",
-      19
-    ],
-    [
-      "DealerVision.com",
-      15
-    ],
-    [
-      "AX Auto INC",
-      13
-    ],
-    [
-      "Ideal Cars",
-      12
-    ],
-    [
-      "Auto Park Ford Bremen",
-      11
-    ],
-    [
-      "Median Media LLC",
-      9
-    ],
-    [
-      "TNS Autosports",
-      9
-    ],
-    [
-      "Baker Cadillac, Inc",
-      9
-    ],
-    [
-      "Integrity Auto Sales",
-      7
-    ],
-    [
-      "Pdx Wheels, Steals & Deals",
-      7
-    ],
-    [
-      "AutoGiant USA",
-      7
-    ],
-    [
-      "World Car Auto Group",
-      7
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      6
-    ],
-    [
-      "Car City INC",
-      6
-    ],
-    [
-      "Flexcar",
-      6
-    ],
-    [
-      "Hatimi Auto LLC",
-      6
-    ],
-    [
-      "HNH MOTORS LLC",
-      5
-    ],
-    [
-      "ICL Autos",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
-      "House Chevrolet Co.",
-      4
-    ],
-    [
-      "Buckingham Hyundai",
-      4
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      4
-    ],
-    [
-      "Harper Chevrolet GMC",
-      4
-    ],
-    [
-      "Puente Hills Mitsubishi",
-      4
-    ],
-    [
-      "Great Lakes Auto ",
-      4
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      3
-    ],
-    [
-      "Performance Automotive Network",
-      3
+      102
     ],
     [
       "The Garage",
-      3
+      16
     ],
     [
-      "Your Choice Auto LLC",
-      3
-    ],
-    [
-      "Northside Auto Sales",
-      3
-    ],
-    [
-      "MB Motors",
-      2
+      "Bud Clary Chevrolet, INC",
+      15
     ],
     [
       "Apex Automotive Group",
+      12
+    ],
+    [
+      "DealerVision.com",
+      12
+    ],
+    [
+      " Drive Cockpit ",
+      9
+    ],
+    [
+      "Smartlot Solutions",
+      9
+    ],
+    [
+      "Dimmitt Automotive Group",
+      7
+    ],
+    [
+      "North Park Lincoln",
+      6
+    ],
+    [
+      "Perkins Motors",
+      6
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
+      "Preston Motor Automotive Group",
+      5
+    ],
+    [
+      "Median Media LLC",
+      5
+    ],
+    [
+      "AutoGiant USA",
+      5
+    ],
+    [
+      "Gettel Automotive Group",
+      4
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      4
+    ],
+    [
+      "Crown Motors Of Holland",
+      4
+    ],
+    [
+      "Your Choice Auto LLC",
+      4
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      4
+    ],
+    [
+      "Twin Pine Ford",
+      3
+    ],
+    [
+      "Rim Revolution LLC",
+      3
+    ],
+    [
+      "Key West Ford Sales Ltd",
+      3
+    ],
+    [
+      "Wharton Ford",
+      3
+    ],
+    [
+      "Ideal Cars",
+      3
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      3
+    ],
+    [
+      "Certified Autoplex Inc.",
+      3
+    ],
+    [
+      "Mark Williams Auto Group",
+      3
+    ],
+    [
+      "Autos of Forney",
       2
     ],
     [
-      "International Auto Sales",
+      "Beck Motors",
+      2
+    ],
+    [
+      "Performance Automotive Network",
+      2
+    ],
+    [
+      "World Car Auto Group",
+      2
+    ],
+    [
+      "Approval Genie (6929290 Canada Corp.)",
+      2
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
+      "District Auto Group",
+      2
+    ],
+    [
+      "Post Oak Toyota",
+      2
+    ],
+    [
+      "Mark Miller Subaru, Inc.",
+      2
+    ],
+    [
+      "Car Bazaar",
+      2
+    ],
+    [
+      "Countryside Mitsubishi",
       1
     ],
     [
-      "Brownboys Motorclub",
+      "Covert Bee Cave",
       1
     ],
     [
-      "Ghost Auto Werkz",
+      "Sansone Jr's Auto Group",
       1
     ],
     [
-      "West Mitsubishi",
+      "Trevinos Auto Mart ltd",
       1
     ],
     [
-      "ZT Automotive",
+      "Davidson Auto Group",
       1
     ],
     [
-      "Bosstown Motors",
+      "Portsmouth Ford Lincoln",
       1
     ],
     [
-      "Covert Auto Group",
+      "Pritchard Companies",
+      1
+    ],
+    [
+      "GETCAR LLC",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Reliance Motor Group LLC",
+      1
+    ],
+    [
+      "Northside Auto Sales",
+      1
+    ],
+    [
+      "Quality Cars Zaventem",
+      1
+    ],
+    [
+      "Big Valley Ford",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
+      1
+    ],
+    [
+      "Midway Dodge",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Bapchild Motoring World (Kent) Limited",
+      1
+    ],
+    [
+      "Boardman Subaru and Imports",
+      1
+    ],
+    [
+      "2d5f0eb5f Dellenbach Motors",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Auto Exchange Group",
       1
     ],
     [
