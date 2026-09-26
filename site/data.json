@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T14:01:48.247Z",
+  "fetchedAt": "2026-09-26T17:43:00.061Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,111 @@
   "rows": [
     [
       null,
-      107
+      230
     ],
     [
       "Major World",
       102
     ],
     [
-      "Bergstrom Automotive",
+      "AX Auto INC",
+      38
+    ],
+    [
+      "CDJR",
+      21
+    ],
+    [
+      "Covert Bee Cave",
+      10
+    ],
+    [
+      "Ohio Specialty Services, LTD.",
+      7
+    ],
+    [
+      "MyCar: Trucktown",
+      5
+    ],
+    [
+      "Brandon Steven Motors",
+      5
+    ],
+    [
+      "CarLux Fort Myers",
+      4
+    ],
+    [
+      "Mega Motors",
+      4
+    ],
+    [
+      "Preston Motor Automotive Group",
+      4
+    ],
+    [
+      "Wood Motor Company",
+      4
+    ],
+    [
+      "KAR Auto Group",
       3
     ],
     [
-      "ZT Automotive",
+      "Davidson Auto Group",
+      3
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       2
+    ],
+    [
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Star Motors",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Springfield Luxury Automall",
+      2
+    ],
+    [
+      "Community Motors",
+      2
+    ],
+    [
+      "McLeod Auto Sales",
+      1
+    ],
+    [
+      "Sprinkler Used Cars",
+      1
+    ],
+    [
+      "Raleigh Imports",
+      1
+    ],
+    [
+      "Saga Motor Group",
+      1
+    ],
+    [
+      "Whitewater Motors",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
     ],
     [
       "LUXURY IMPORTS",
