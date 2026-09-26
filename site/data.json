@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T17:43:00.061Z",
+  "fetchedAt": "2026-09-26T20:09:24.644Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,26 @@
   "rows": [
     [
       null,
-      230
+      213
     ],
     [
       "Major World",
       102
     ],
     [
-      "AX Auto INC",
-      38
-    ],
-    [
-      "CDJR",
-      21
-    ],
-    [
-      "Covert Bee Cave",
-      10
-    ],
-    [
-      "Ohio Specialty Services, LTD.",
-      7
+      "Bergstrom Automotive",
+      24
     ],
     [
       "MyCar: Trucktown",
-      5
+      15
     ],
     [
       "Brandon Steven Motors",
-      5
-    ],
-    [
-      "CarLux Fort Myers",
-      4
+      11
     ],
     [
       "Mega Motors",
-      4
-    ],
-    [
-      "Preston Motor Automotive Group",
       4
     ],
     [
@@ -64,11 +44,27 @@
       4
     ],
     [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      3
+    ],
+    [
+      "Carter Myers Automotive",
+      3
+    ],
+    [
       "KAR Auto Group",
       3
     ],
     [
-      "Davidson Auto Group",
+      "LuxuryMotorCars",
+      3
+    ],
+    [
+      "Flexcar",
       3
     ],
     [
@@ -76,11 +72,23 @@
       2
     ],
     [
-      "Your Choice Auto LLC",
+      "Louyet Re-used",
       2
     ],
     [
-      "Flexcar",
+      "North Park Lincoln",
+      2
+    ],
+    [
+      "Giant Auto Warehouse",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
       2
     ],
     [
@@ -88,23 +96,51 @@
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "CDJR",
       2
     ],
     [
-      "Springfield Luxury Automall",
+      "Your Choice Auto LLC",
       2
     ],
     [
-      "Community Motors",
+      "Northstar Kia",
       2
     ],
     [
-      "McLeod Auto Sales",
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Voss Village Cadillac",
       1
     ],
     [
-      "Sprinkler Used Cars",
+      "Roanoke Motors Inc",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Janssen Kuenle CDJR",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
       1
     ],
     [
@@ -112,15 +148,19 @@
       1
     ],
     [
-      "Saga Motor Group",
+      "Landers Dodge Chrysler Jeep RAM",
       1
     ],
     [
-      "Whitewater Motors",
+      "Van Horn Automotive Group",
       1
     ],
     [
       "Gettel Automotive Group",
+      1
+    ],
+    [
+      "McLeod Auto Sales",
       1
     ],
     [
