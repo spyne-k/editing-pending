@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T09:55:51.094Z",
+  "fetchedAt": "2026-09-26T14:01:48.247Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,63 +17,19 @@
   "rows": [
     [
       null,
-      145
+      107
     ],
     [
       "Major World",
       102
     ],
     [
-      "MyCar: Trucktown",
-      10
-    ],
-    [
-      "Covert Bee Cave",
-      7
-    ],
-    [
-      "Impex Auto Sales",
-      6
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "Bergstrom Automotive",
       3
     ],
     [
-      "Turn Auto Mall",
+      "ZT Automotive",
       2
-    ],
-    [
-      "C.A.R. Automotive LLC",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "IM Marketplace GmBH",
-      2
-    ],
-    [
-      "Parks Chevrolet Richmond",
-      2
-    ],
-    [
-      "Louyet Re-used",
-      1
-    ],
-    [
-      "Mark Williams Auto Group",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      1
     ],
     [
       "LUXURY IMPORTS",
