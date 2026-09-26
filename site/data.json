@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T05:16:07.757Z",
+  "fetchedAt": "2026-09-26T09:55:51.094Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,18 @@
   "rows": [
     [
       null,
-      236
+      145
     ],
     [
       "Major World",
       102
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      31
+      "MyCar: Trucktown",
+      10
     ],
     [
-      "Greenway Automotive Group",
-      11
-    ],
-    [
-      " Drive Cockpit ",
-      9
-    ],
-    [
-      "Ray Auto Group",
-      8
-    ],
-    [
-      "Duffys Auto",
+      "Covert Bee Cave",
       7
     ],
     [
@@ -48,123 +36,43 @@
       6
     ],
     [
-      "DealerVision.com",
-      5
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      4
     ],
     [
-      "Rick Weaver Chevrolet",
-      5
+      "Bud Clary Chevrolet, INC",
+      3
     ],
     [
-      "Mark Williams Auto Group",
-      5
+      "Turn Auto Mall",
+      2
     ],
     [
       "C.A.R. Automotive LLC",
-      4
-    ],
-    [
-      "Crown Motors Of Holland",
-      4
-    ],
-    [
-      "Covert Bee Cave",
-      4
-    ],
-    [
-      "MyCar: Trucktown",
-      3
-    ],
-    [
-      "Kian Motors INC",
-      3
-    ],
-    [
-      "Key West Ford Sales Ltd",
-      3
-    ],
-    [
-      "Van Horn Automotive Group",
       2
     ],
     [
-      "Rawian Oy",
+      "Jenkins Auto Group",
       2
     ],
     [
-      "Bravo Automotive Group, LLC",
+      "IM Marketplace GmBH",
       2
     ],
     [
-      "Auto Express Credit",
+      "Parks Chevrolet Richmond",
       2
     ],
     [
-      "greenway auto group 2",
-      2
-    ],
-    [
-      "Northside Auto Sales",
+      "Louyet Re-used",
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "Mark Williams Auto Group",
       1
     ],
     [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Noblesville Imports",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Gateway GMC",
-      1
-    ],
-    [
-      "Boardman Subaru and Imports",
-      1
-    ],
-    [
-      "Northwest Indiana Auto Finance",
-      1
-    ],
-    [
-      "2d5f0eb5f Dellenbach Motors",
-      1
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      1
-    ],
-    [
-      "Marthaler Honda of Ashland",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
