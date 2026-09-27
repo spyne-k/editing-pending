@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T06:11:50.379Z",
+  "fetchedAt": "2026-09-27T12:01:47.831Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,15 @@
   "rows": [
     [
       null,
-      106
+      100
     ],
     [
       "Major World",
-      98
+      97
     ],
     [
-      "NJ Auto Haus",
-      5
-    ],
-    [
-      "Bergstrom Automotive",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
+      "Stouffair Motors",
+      3
     ],
     [
       "LUXURY IMPORTS",
