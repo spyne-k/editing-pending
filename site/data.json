@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T16:52:47.378Z",
+  "fetchedAt": "2026-09-27T19:54:06.024Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,26 @@
   "rows": [
     [
       null,
-      101
+      146
     ],
     [
       "Major World",
       97
     ],
     [
-      "Stouffair Motors",
-      3
+      "Asbury Automotive Management L.L.C",
+      41
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Stouffair Motors",
+      6
+    ],
+    [
+      "5 Star Imports",
+      1
+    ],
+    [
+      "Auto Exchange Group",
       1
     ],
     [
