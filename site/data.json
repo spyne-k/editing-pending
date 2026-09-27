@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T12:01:47.831Z",
+  "fetchedAt": "2026-09-27T16:52:47.378Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      100
+      101
     ],
     [
       "Major World",
@@ -26,6 +26,10 @@
     [
       "Stouffair Motors",
       3
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      1
     ],
     [
       "LUXURY IMPORTS",
