@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T01:11:20.486Z",
+  "fetchedAt": "2026-09-28T06:52:42.282Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,18 @@
   "rows": [
     [
       null,
-      90
+      92
     ],
     [
       "Major World",
       89
     ],
     [
-      "IM Marketplace GmBH",
+      "Toronto Honda",
+      2
+    ],
+    [
+      "Rawian Oy",
       1
     ],
     [
