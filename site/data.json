@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T14:36:17.562Z",
+  "fetchedAt": "2026-09-28T20:45:48.364Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,22 @@
   "rows": [
     [
       null,
-      111
+      117
     ],
     [
       "Major World",
       89
     ],
     [
-      "Speedway Car Sales",
+      "Flexcar",
       4
     ],
     [
-      "ZT Automotive",
-      3
+      "Yoder Family of Companies",
+      4
     ],
     [
-      "Gettel Automotive Group",
-      3
-    ],
-    [
-      "The Used Car Guys GMBH",
+      "Olson Chevrolet",
       3
     ],
     [
@@ -44,28 +40,48 @@
       3
     ],
     [
+      "Car City INC",
+      2
+    ],
+    [
       "Yemm Auto",
       2
     ],
     [
-      "Flexcar",
-      1
+      "Covert Auto Group",
+      2
     ],
     [
-      "Car Capital LTD",
-      1
-    ],
-    [
-      "C.A. Larsen Automobiler A/S",
-      1
-    ],
-    [
-      "Al-Zayani Trading Company",
+      "Car Bargain",
       1
     ],
     [
       "LUXURY IMPORTS",
-      0
+      1
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      1
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "MAG CHRYSLER DODGE JEEP RAM",
+      1
+    ],
+    [
+      "Vindevers Autohaus of Sylvania",
+      1
     ]
   ]
 }
