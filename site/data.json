@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T06:52:42.282Z",
+  "fetchedAt": "2026-09-28T14:36:17.562Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,50 @@
   "rows": [
     [
       null,
-      92
+      111
     ],
     [
       "Major World",
       89
     ],
     [
-      "Toronto Honda",
+      "Speedway Car Sales",
+      4
+    ],
+    [
+      "ZT Automotive",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
+      3
+    ],
+    [
+      "The Used Car Guys GMBH",
+      3
+    ],
+    [
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "Yemm Auto",
       2
     ],
     [
-      "Rawian Oy",
+      "Flexcar",
+      1
+    ],
+    [
+      "Car Capital LTD",
+      1
+    ],
+    [
+      "C.A. Larsen Automobiler A/S",
+      1
+    ],
+    [
+      "Al-Zayani Trading Company",
       1
     ],
     [
