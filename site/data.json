@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T20:45:48.364Z",
+  "fetchedAt": "2026-09-29T00:36:07.301Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,62 +17,122 @@
   "rows": [
     [
       null,
-      117
+      232
     ],
     [
       "Major World",
       89
     ],
     [
-      "Flexcar",
+      "Asbury Automotive Management L.L.C",
+      68
+    ],
+    [
+      "DealerVision.com",
+      10
+    ],
+    [
+      "SI Vallett Auto Sales",
+      9
+    ],
+    [
+      "greenway auto group 2",
+      5
+    ],
+    [
+      "Icon Motors Group",
       4
     ],
     [
-      "Yoder Family of Companies",
+      "AutoGiant USA",
       4
     ],
     [
-      "Olson Chevrolet",
+      "Bob Johnson Automotive Group",
       3
     ],
     [
-      "Van Horn Automotive Group",
+      "Springfield Luxury Automall",
       3
-    ],
-    [
-      "Car City INC",
-      2
-    ],
-    [
-      "Yemm Auto",
-      2
     ],
     [
       "Covert Auto Group",
+      3
+    ],
+    [
+      "Janssen Kuenle CDJR",
+      3
+    ],
+    [
+      "Alliance Cars Limited",
       2
     ],
     [
-      "Car Bargain",
-      1
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "Midwest Auto Group",
+      2
     ],
     [
       "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "Kia Vancouver",
+      2
+    ],
+    [
+      "Denver Auto",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Subaru of Gwinnett",
       1
     ],
     [
-      "Amigo Auto Group, Inc.",
+      "Buersche Automobile",
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "ROSI Automotive Group",
       1
     ],
     [
-      "Wood Motor Company",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Preston Motor Automotive Group",
+      "Hawthorne Auto Square",
+      1
+    ],
+    [
+      "Crown Motors Of Holland",
+      1
+    ],
+    [
+      "Gateway GMC",
+      1
+    ],
+    [
+      "AX Auto INC",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Smartlot Solutions",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
       1
     ],
     [
@@ -80,7 +140,23 @@
       1
     ],
     [
-      "Vindevers Autohaus of Sylvania",
+      "Zeigler Hyundai of Racine",
+      1
+    ],
+    [
+      "Perkins Motors",
+      1
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "4M Autoplex",
+      1
+    ],
+    [
+      "Flexcar",
       1
     ]
   ]
