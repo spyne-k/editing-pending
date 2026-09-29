@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T00:36:07.301Z",
+  "fetchedAt": "2026-09-29T06:09:13.497Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,147 +17,71 @@
   "rows": [
     [
       null,
-      232
+      108
     ],
     [
       "Major World",
       89
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      68
-    ],
-    [
-      "DealerVision.com",
-      10
-    ],
-    [
-      "SI Vallett Auto Sales",
-      9
-    ],
-    [
-      "greenway auto group 2",
-      5
-    ],
-    [
-      "Icon Motors Group",
-      4
-    ],
-    [
-      "AutoGiant USA",
-      4
-    ],
-    [
-      "Bob Johnson Automotive Group",
+      "Nyle Maxwell CDJR Taylor",
       3
     ],
     [
-      "Springfield Luxury Automall",
-      3
-    ],
-    [
-      "Covert Auto Group",
-      3
-    ],
-    [
-      "Janssen Kuenle CDJR",
-      3
-    ],
-    [
-      "Alliance Cars Limited",
+      "Stouffair Motors",
       2
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      2
+    ],
+    [
+      "Covert Bee Cave",
+      1
+    ],
+    [
+      "Audi Cape Fear",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
+      1
+    ],
+    [
+      "House Chevrolet Co.",
+      1
     ],
     [
       "Gettel Automotive Group",
-      2
+      1
     ],
     [
-      "Midwest Auto Group",
-      2
+      "Northside Auto Sales",
+      1
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Al-Zayani Trading Company",
+      1
     ],
     [
       "LUXURY IMPORTS",
-      2
-    ],
-    [
-      "Kia Vancouver",
-      2
-    ],
-    [
-      "Denver Auto",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "Subaru of Gwinnett",
-      1
-    ],
-    [
-      "Buersche Automobile",
-      1
-    ],
-    [
-      "ROSI Automotive Group",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Hawthorne Auto Square",
-      1
-    ],
-    [
-      "Crown Motors Of Holland",
-      1
-    ],
-    [
-      "Gateway GMC",
-      1
-    ],
-    [
-      "AX Auto INC",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      1
-    ],
-    [
-      "MAG CHRYSLER DODGE JEEP RAM",
-      1
-    ],
-    [
-      "Zeigler Hyundai of Racine",
-      1
-    ],
-    [
-      "Perkins Motors",
-      1
-    ],
-    [
-      "Elite Auto Marketing Solutions",
-      1
-    ],
-    [
-      "4M Autoplex",
-      1
-    ],
-    [
-      "Flexcar",
-      1
+      0
     ]
   ]
 }
