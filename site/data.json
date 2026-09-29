@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T18:18:42.935Z",
+  "fetchedAt": "2026-09-29T22:23:30.633Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,67 +17,147 @@
   "rows": [
     [
       null,
-      125
+      214
     ],
     [
       "Major World",
       89
     ],
     [
-      "Sprinkler Used Cars",
-      6
-    ],
-    [
-      "Princeton Chevrolet GMC",
-      6
-    ],
-    [
       "Asbury Automotive Management L.L.C",
-      5
-    ],
-    [
-      "Toronto Honda",
-      4
-    ],
-    [
-      "Rochester Toyota",
-      2
-    ],
-    [
-      "West Mitsubishi",
-      2
+      47
     ],
     [
       "ZT Automotive",
-      2
+      6
     ],
     [
-      "Russ Darrow Group, Inc.",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Blasius Buick GMC",
-      2
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      1
-    ],
-    [
-      "Great Lakes Auto ",
-      1
-    ],
-    [
-      "Zim's Auto Sales & Services Inc",
-      1
+      "Greenway Automotive Group",
+      6
     ],
     [
       "LUXURY IMPORTS",
-      0
+      5
+    ],
+    [
+      "Davidson Auto Group",
+      4
+    ],
+    [
+      "Yemm Auto",
+      4
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      4
+    ],
+    [
+      "Portsmouth Ford Lincoln",
+      4
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      3
+    ],
+    [
+      "Certified Autoplex Inc.",
+      3
+    ],
+    [
+      "Pee Dee Auto Sales",
+      3
+    ],
+    [
+      "Brownboys Motorclub",
+      3
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
+      "Turn Auto Mall",
+      2
+    ],
+    [
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      2
+    ],
+    [
+      "Star Motors",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "NorthTown Automotive",
+      1
+    ],
+    [
+      "Carter Myers Automotive",
+      1
+    ],
+    [
+      "Performance Auto Group",
+      1
+    ],
+    [
+      "Auto Export Corporation",
+      1
+    ],
+    [
+      "Roanoke Motors Inc",
+      1
+    ],
+    [
+      "Northside Auto Sales",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Graff Auto Campus",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "ICL Autos",
+      1
+    ],
+    [
+      "AX Auto INC",
+      1
+    ],
+    [
+      "Impex Auto Sales",
+      1
     ]
   ]
 }
