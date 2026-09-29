@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T12:46:48.217Z",
+  "fetchedAt": "2026-09-29T18:18:42.935Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,64 @@
   ],
   "rows": [
     [
+      null,
+      125
+    ],
+    [
       "Major World",
       89
     ],
     [
-      null,
-      89
+      "Sprinkler Used Cars",
+      6
+    ],
+    [
+      "Princeton Chevrolet GMC",
+      6
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
+      "Toronto Honda",
+      4
+    ],
+    [
+      "Rochester Toyota",
+      2
+    ],
+    [
+      "West Mitsubishi",
+      2
+    ],
+    [
+      "ZT Automotive",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Blasius Buick GMC",
+      2
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      1
+    ],
+    [
+      "Great Lakes Auto ",
+      1
+    ],
+    [
+      "Zim's Auto Sales & Services Inc",
+      1
     ],
     [
       "LUXURY IMPORTS",
