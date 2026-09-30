@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T06:52:16.739Z",
+  "fetchedAt": "2026-09-30T13:04:28.639Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,47 @@
   "rows": [
     [
       null,
-      111
+      104
     ],
     [
       "Major World",
       89
     ],
     [
-      "Fred Anderson Honda",
-      20
+      "CDJR",
+      3
     ],
     [
-      "IM Marketplace GmBH",
+      "Kempton Chevrolet",
+      3
+    ],
+    [
+      "Yemm Auto",
       2
+    ],
+    [
+      "Rim Revolution LLC",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      1
+    ],
+    [
+      "Generation Nissan",
+      1
+    ],
+    [
+      "Volvo Cars Palm Springs",
+      1
+    ],
+    [
+      "Dick Dyer & Associates",
+      1
+    ],
+    [
+      "Bapchild Motoring World (Kent) Limited",
+      1
     ],
     [
       "LUXURY IMPORTS",
