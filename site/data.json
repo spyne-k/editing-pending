@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T13:04:28.639Z",
+  "fetchedAt": "2026-09-30T18:24:52.939Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,51 +17,111 @@
   "rows": [
     [
       null,
-      104
+      143
     ],
     [
       "Major World",
       89
     ],
     [
-      "CDJR",
-      3
-    ],
-    [
-      "Kempton Chevrolet",
-      3
-    ],
-    [
-      "Yemm Auto",
-      2
-    ],
-    [
-      "Rim Revolution LLC",
-      2
+      "Fred Anderson Honda",
+      9
     ],
     [
       "Jenkins Auto Group",
-      1
+      9
     ],
     [
-      "Generation Nissan",
-      1
+      "DealerVision.com",
+      3
     ],
     [
-      "Volvo Cars Palm Springs",
-      1
+      "Amato Hyundai Of Glendale",
+      3
     ],
     [
-      "Dick Dyer & Associates",
-      1
+      "Bob Johnson Automotive Group",
+      3
     ],
     [
-      "Bapchild Motoring World (Kent) Limited",
-      1
+      "Flexcar",
+      2
     ],
     [
       "LUXURY IMPORTS",
-      0
+      2
+    ],
+    [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "Car Bargain",
+      2
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      2
+    ],
+    [
+      "Courtesy Automotive Group",
+      2
+    ],
+    [
+      "Autos of Forney",
+      2
+    ],
+    [
+      "Davis Ford",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "ASK Motors",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "Pritchard Companies",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "C.A. Larsen Automobiler A/S",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
+      1
+    ],
+    [
+      "Brandon Steven Motors",
+      1
     ]
   ]
 }
