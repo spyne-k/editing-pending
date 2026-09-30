@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T22:23:30.633Z",
+  "fetchedAt": "2026-09-30T01:21:52.359Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,54 +17,14 @@
   "rows": [
     [
       null,
-      214
+      114
     ],
     [
       "Major World",
       89
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      47
-    ],
-    [
-      "ZT Automotive",
-      6
-    ],
-    [
-      "Greenway Automotive Group",
-      6
-    ],
-    [
-      "LUXURY IMPORTS",
-      5
-    ],
-    [
-      "Davidson Auto Group",
-      4
-    ],
-    [
-      "Yemm Auto",
-      4
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      4
-    ],
-    [
-      "Portsmouth Ford Lincoln",
-      4
-    ],
-    [
       "DealerVision.com",
-      3
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      3
-    ],
-    [
-      "Certified Autoplex Inc.",
       3
     ],
     [
@@ -72,11 +32,15 @@
       3
     ],
     [
-      "Brownboys Motorclub",
+      "Asbury Automotive Management L.L.C",
       3
     ],
     [
-      "Car Central",
+      "Covert Bee Cave",
+      2
+    ],
+    [
+      "Keffer Inc.",
       2
     ],
     [
@@ -84,80 +48,40 @@
       2
     ],
     [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
+      "Post Oak Toyota",
       2
     ],
     [
-      "Star Motors",
+      "Performance Automotive Network",
       2
     ],
     [
-      "Jenkins Auto Group",
-      2
+      "KAR Auto Group",
+      1
     ],
     [
-      "Teton solutions Group",
-      2
+      "Apex Automotive Group",
+      1
     ],
     [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      2
+      "Vatland Auto Group",
+      1
     ],
     [
       "NorthTown Automotive",
       1
     ],
     [
-      "Carter Myers Automotive",
+      "North Jersey Automotive",
       1
     ],
     [
-      "Performance Auto Group",
+      "Greenway Automotive Group",
       1
     ],
     [
-      "Auto Export Corporation",
-      1
-    ],
-    [
-      "Roanoke Motors Inc",
-      1
-    ],
-    [
-      "Northside Auto Sales",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      1
-    ],
-    [
-      "ICL Autos",
-      1
-    ],
-    [
-      "AX Auto INC",
-      1
-    ],
-    [
-      "Impex Auto Sales",
-      1
+      "LUXURY IMPORTS",
+      0
     ]
   ]
 }
