@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T01:21:52.359Z",
+  "fetchedAt": "2026-09-30T06:52:16.739Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,67 +17,19 @@
   "rows": [
     [
       null,
-      114
+      111
     ],
     [
       "Major World",
       89
     ],
     [
-      "DealerVision.com",
-      3
+      "Fred Anderson Honda",
+      20
     ],
     [
-      "Pee Dee Auto Sales",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      3
-    ],
-    [
-      "Covert Bee Cave",
+      "IM Marketplace GmBH",
       2
-    ],
-    [
-      "Keffer Inc.",
-      2
-    ],
-    [
-      "Turn Auto Mall",
-      2
-    ],
-    [
-      "Post Oak Toyota",
-      2
-    ],
-    [
-      "Performance Automotive Network",
-      2
-    ],
-    [
-      "KAR Auto Group",
-      1
-    ],
-    [
-      "Apex Automotive Group",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "NorthTown Automotive",
-      1
-    ],
-    [
-      "North Jersey Automotive",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
     ],
     [
       "LUXURY IMPORTS",
