@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T18:24:52.939Z",
+  "fetchedAt": "2026-09-30T22:27:24.132Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,86 +17,70 @@
   "rows": [
     [
       null,
-      143
+      154
     ],
     [
       "Major World",
       89
     ],
     [
+      "Greenway Automotive Group",
+      10
+    ],
+    [
       "Fred Anderson Honda",
       9
     ],
     [
-      "Jenkins Auto Group",
-      9
+      "Apex Automotive Group",
+      5
     ],
     [
-      "DealerVision.com",
-      3
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      3
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
+      "Adams Chevrolet Inc",
+      5
     ],
     [
       "Flexcar",
+      5
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      4
+    ],
+    [
+      "BP AUTO FINDERS",
+      4
+    ],
+    [
+      "Blasius Buick GMC",
+      3
+    ],
+    [
+      "Hershey Motors",
       2
-    ],
-    [
-      "LUXURY IMPORTS",
-      2
-    ],
-    [
-      "Gettel Automotive Group",
-      2
-    ],
-    [
-      "Car Bargain",
-      2
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      2
-    ],
-    [
-      "Courtesy Automotive Group",
-      2
-    ],
-    [
-      "Autos of Forney",
-      2
-    ],
-    [
-      "Davis Ford",
-      1
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "ASK Motors",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
     ],
     [
       "Post Oak Toyota",
+      2
+    ],
+    [
+      "Lexus of Lehigh Valley",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "Covert Auto Group",
       1
     ],
     [
-      "Pritchard Companies",
+      "Jidd Motors Mitsubishi",
+      1
+    ],
+    [
+      "Homan Auto Sales Inc",
       1
     ],
     [
@@ -104,23 +88,35 @@
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "North Park Lincoln",
       1
     ],
     [
-      "Bravo Automotive Group, LLC",
+      "Toyota Of Wallingford",
       1
     ],
     [
-      "Best Deal Auto Sales, INC.",
+      "Courtesy Automotive Group",
       1
     ],
     [
-      "Brandon Steven Motors",
+      "LUXURY IMPORTS",
+      1
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      1
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
