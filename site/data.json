@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T07:26:09.326Z",
+  "fetchedAt": "2026-10-01T14:39:50.930Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,27 @@
   ],
   "rows": [
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
-      1
+      null,
+      12
     ],
     [
-      null,
+      "Gettel Automotive Group",
+      4
+    ],
+    [
+      "Rawian Oy",
+      3
+    ],
+    [
+      "Yemm Auto",
+      2
+    ],
+    [
+      "DIOGO MANUEL DA COSTA SANTOS UNIPESSOAL LDA",
+      2
+    ],
+    [
+      "The Used Car Guys GMBH",
       1
     ],
     [
