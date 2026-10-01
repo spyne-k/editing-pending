@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T14:39:50.930Z",
+  "fetchedAt": "2026-10-01T19:48:46.267Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,122 @@
   "rows": [
     [
       null,
-      12
+      56
     ],
     [
-      "Gettel Automotive Group",
-      4
+      "DealerVision.com",
+      6
     ],
     [
-      "Rawian Oy",
+      "IM Marketplace GmBH",
+      5
+    ],
+    [
+      "K&f Auto Sales And Service",
+      5
+    ],
+    [
+      "Pritchard Companies",
       3
     ],
     [
-      "Yemm Auto",
+      "Bosstown Motors",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "District Auto Group",
+      3
+    ],
+    [
+      "Flexcar",
       2
     ],
     [
-      "DIOGO MANUEL DA COSTA SANTOS UNIPESSOAL LDA",
+      "Cornhusker Auto Center",
       2
     ],
     [
-      "The Used Car Guys GMBH",
+      "Certified Autoplex Inc.",
+      2
+    ],
+    [
+      "Vatland Auto Group",
+      2
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Magnum Car Sales",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "LuxuryMotorCars",
+      1
+    ],
+    [
+      "Szilagyi Gabriella",
+      1
+    ],
+    [
+      "Icon Motors Group",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      1
+    ],
+    [
+      "Puente Hills Mitsubishi",
+      1
+    ],
+    [
+      "AceAutoInc",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Courtesy Automotive Group",
+      1
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      1
+    ],
+    [
+      "Covert Auto Group",
       1
     ],
     [
