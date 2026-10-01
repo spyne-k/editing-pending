@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T19:48:46.267Z",
+  "fetchedAt": "2026-10-01T23:28:03.231Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,106 +17,74 @@
   "rows": [
     [
       null,
-      56
+      60
     ],
     [
       "DealerVision.com",
-      6
+      11
     ],
     [
-      "IM Marketplace GmBH",
-      5
+      "Davidson Auto Group",
+      11
     ],
     [
-      "K&f Auto Sales And Service",
-      5
+      "2d5f0eb5f Dellenbach Motors",
+      4
     ],
     [
-      "Pritchard Companies",
-      3
-    ],
-    [
-      "Bosstown Motors",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
-      3
-    ],
-    [
-      "District Auto Group",
-      3
+      "LUXURY IMPORTS",
+      4
     ],
     [
       "Flexcar",
+      3
+    ],
+    [
+      "West Mitsubishi",
+      3
+    ],
+    [
+      "Greenway Automotive Group",
       2
     ],
     [
-      "Cornhusker Auto Center",
+      "Preston Motor Automotive Group",
       2
     ],
     [
-      "Certified Autoplex Inc.",
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
-      "Vatland Auto Group",
+      "House Chevrolet Co.",
       2
     ],
     [
-      "Impex Auto Sales",
+      "Speedway Car Sales",
       2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Magnum Car Sales",
-      1
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "LuxuryMotorCars",
-      1
-    ],
-    [
-      "Szilagyi Gabriella",
-      1
     ],
     [
       "Icon Motors Group",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Forrester Lincoln",
       1
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Brandon Steven Motors",
       1
     ],
     [
-      "Puente Hills Mitsubishi",
+      "Northside Auto Sales",
       1
     ],
     [
-      "AceAutoInc",
+      "Vatland Auto Group",
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
+      "Jenkins Auto Group",
       1
     ],
     [
@@ -124,7 +92,19 @@
       1
     ],
     [
-      "Courtesy Automotive Group",
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Renny Bettan",
+      1
+    ],
+    [
+      "MyCar: Trucktown",
+      1
+    ],
+    [
+      "Impex Auto Sales",
       1
     ],
     [
@@ -132,12 +112,12 @@
       1
     ],
     [
-      "Covert Auto Group",
+      "Performance Automotive Network",
       1
     ],
     [
-      "LUXURY IMPORTS",
-      0
+      "Simmons-Rockwell Automotive Dealerships",
+      1
     ]
   ]
 }
