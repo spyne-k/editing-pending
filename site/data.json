@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T22:27:24.132Z",
+  "fetchedAt": "2026-10-01T01:24:59.428Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,107 +17,75 @@
   "rows": [
     [
       null,
-      154
+      153
     ],
     [
       "Major World",
       89
     ],
     [
-      "Greenway Automotive Group",
-      10
+      "Asbury Automotive Management L.L.C",
+      18
     ],
     [
-      "Fred Anderson Honda",
+      "SI Vallett Auto Sales",
       9
     ],
     [
+      "Jenkins Auto Group",
+      7
+    ],
+    [
+      "Janssen Kuenle CDJR",
+      6
+    ],
+    [
+      "Gettel Automotive Group",
+      5
+    ],
+    [
       "Apex Automotive Group",
-      5
-    ],
-    [
-      "Adams Chevrolet Inc",
-      5
-    ],
-    [
-      "Flexcar",
-      5
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
       4
     ],
     [
-      "BP AUTO FINDERS",
-      4
-    ],
-    [
-      "Blasius Buick GMC",
+      "AX Auto INC",
       3
     ],
     [
-      "Hershey Motors",
-      2
-    ],
-    [
-      "Post Oak Toyota",
-      2
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      2
-    ],
-    [
       "Russ Darrow Group, Inc.",
-      2
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Jidd Motors Mitsubishi",
-      1
-    ],
-    [
-      "Homan Auto Sales Inc",
-      1
+      3
     ],
     [
       "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Autova",
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Covert Bee Cave",
       1
     ],
     [
-      "North Park Lincoln",
+      "Charlie Clark Hyundai",
       1
     ],
     [
-      "Toyota Of Wallingford",
+      "Jim Schmidt Automotive",
       1
     ],
     [
-      "Courtesy Automotive Group",
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Krystal Chrysler Dodge Jeep Ram Fiat",
       1
     ],
     [
       "LUXURY IMPORTS",
-      1
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      1
-    ],
-    [
-      "Bob King",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      1
+      0
     ]
   ]
 }
