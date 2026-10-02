@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02T08:51:16.438Z",
+  "fetchedAt": "2026-10-02T15:06:06.646Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,67 @@
   "rows": [
     [
       null,
-      7
+      100
+    ],
+    [
+      "Rawian Oy",
+      45
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      16
+    ],
+    [
+      "Starling Chevrolet",
+      8
+    ],
+    [
+      "Gettel Automotive Group",
+      5
+    ],
+    [
+      "DealerVision.com",
+      4
+    ],
+    [
+      "Parks Chevrolet Richmond",
+      4
+    ],
+    [
+      "Jenkins Auto Group",
+      3
     ],
     [
       "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       3
     ],
     [
+      "MyCar: Trucktown",
+      2
+    ],
+    [
       "Jim Schmidt Automotive",
       2
+    ],
+    [
+      "Van Mossel",
+      1
+    ],
+    [
+      "EV Car Company",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Victory Automotive Group",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
     ],
     [
       "IM Marketplace GmBH",
@@ -33,6 +85,10 @@
     ],
     [
       "MAG CHRYSLER DODGE JEEP RAM",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
       1
     ],
     [
