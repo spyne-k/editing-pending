@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02T15:06:06.646Z",
+  "fetchedAt": "2026-10-02T19:54:59.687Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -20,31 +20,43 @@
       100
     ],
     [
+      "DealerVision.com",
+      13
+    ],
+    [
+      "Toronto Honda",
+      10
+    ],
+    [
+      "Dimmitt Automotive Group",
+      10
+    ],
+    [
+      "ZT Automotive",
+      10
+    ],
+    [
+      "Flexcar",
+      9
+    ],
+    [
       "Rawian Oy",
-      45
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      16
-    ],
-    [
-      "Starling Chevrolet",
       8
     ],
     [
-      "Gettel Automotive Group",
-      5
+      "Blasius Buick GMC",
+      6
     ],
     [
-      "DealerVision.com",
+      "H&K Chevrolet Family Auto",
       4
     ],
     [
-      "Parks Chevrolet Richmond",
-      4
+      "Davidson Auto Group",
+      3
     ],
     [
-      "Jenkins Auto Group",
+      "Jim Schmidt Automotive",
       3
     ],
     [
@@ -56,7 +68,23 @@
       2
     ],
     [
-      "Jim Schmidt Automotive",
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -64,7 +92,7 @@
       1
     ],
     [
-      "EV Car Company",
+      "Graff Auto Campus",
       1
     ],
     [
@@ -72,11 +100,15 @@
       1
     ],
     [
-      "Victory Automotive Group",
+      "Rochester Toyota",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Icon Motors Group",
+      1
+    ],
+    [
+      "Wood Motor Company",
       1
     ],
     [
@@ -84,11 +116,11 @@
       1
     ],
     [
-      "MAG CHRYSLER DODGE JEEP RAM",
+      "Bravo Automotive Group, LLC",
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "MAG CHRYSLER DODGE JEEP RAM",
       1
     ],
     [
