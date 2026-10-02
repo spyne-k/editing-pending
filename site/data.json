@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02T19:54:59.687Z",
+  "fetchedAt": "2026-10-02T23:29:31.733Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,70 @@
   "rows": [
     [
       null,
-      100
+      169
     ],
     [
-      "DealerVision.com",
-      13
+      "Amato Hyundai Of Glendale",
+      39
     ],
     [
-      "Toronto Honda",
-      10
+      "Davidson Auto Group",
+      15
+    ],
+    [
+      "ZT Automotive",
+      11
     ],
     [
       "Dimmitt Automotive Group",
       10
     ],
     [
-      "ZT Automotive",
-      10
+      "Teton solutions Group",
+      7
     ],
     [
-      "Flexcar",
-      9
+      "Russ Darrow Group, Inc.",
+      7
     ],
     [
-      "Rawian Oy",
-      8
+      "Graff Auto Campus",
+      7
     ],
     [
-      "Blasius Buick GMC",
-      6
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      4
+    ],
+    [
+      "Preston Motor Automotive Group",
+      4
     ],
     [
       "H&K Chevrolet Family Auto",
       4
     ],
     [
-      "Davidson Auto Group",
+      "Icon Motors Group",
+      4
+    ],
+    [
+      "Moses Auto Group",
       3
     ],
     [
-      "Jim Schmidt Automotive",
+      "Car Central",
+      3
+    ],
+    [
+      "Bergstrom Automotive",
+      3
+    ],
+    [
+      "Your Choice Auto LLC",
       3
     ],
     [
@@ -64,23 +88,19 @@
       3
     ],
     [
-      "MyCar: Trucktown",
-      2
-    ],
-    [
       "Jenkins Auto Group",
       2
     ],
     [
-      "Teton solutions Group",
+      "MyCar: Trucktown",
       2
     ],
     [
-      "Greenway Automotive Group",
+      "Freedom Chevrolet",
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Covert Auto Group",
       2
     ],
     [
@@ -88,27 +108,31 @@
       2
     ],
     [
-      "Van Mossel",
-      1
-    ],
-    [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Rochester Toyota",
-      1
-    ],
-    [
-      "Icon Motors Group",
-      1
+      "Bud Clary Chevrolet, INC",
+      2
     ],
     [
       "Wood Motor Company",
+      2
+    ],
+    [
+      "Pritchard Companies",
+      2
+    ],
+    [
+      "Homan Auto Sales Inc",
+      1
+    ],
+    [
+      "Princeton Chevrolet GMC",
+      1
+    ],
+    [
+      "Jim Schmidt Automotive",
+      1
+    ],
+    [
+      "Forrester Lincoln",
       1
     ],
     [
@@ -116,11 +140,71 @@
       1
     ],
     [
+      "Performance Auto Group",
+      1
+    ],
+    [
+      "Shelly Motors Ltd",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Countryside Mitsubishi",
+      1
+    ],
+    [
       "Bravo Automotive Group, LLC",
       1
     ],
     [
+      "MP auto Sales LLC DBA Carizona",
+      1
+    ],
+    [
+      "Ben Clymer's The Body Shop",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
       "MAG CHRYSLER DODGE JEEP RAM",
+      1
+    ],
+    [
+      "Yoder Family of Companies",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Southern Ford of Thomaston",
+      1
+    ],
+    [
+      "Impex Auto Sales",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Yoga Cars",
+      1
+    ],
+    [
+      "Van Mossel",
       1
     ],
     [
