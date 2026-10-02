@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T23:28:03.231Z",
+  "fetchedAt": "2026-10-02T02:28:20.682Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,94 +17,70 @@
   "rows": [
     [
       null,
-      60
+      64
     ],
     [
-      "DealerVision.com",
-      11
+      "Hawthorne Auto Square",
+      10
     ],
     [
-      "Davidson Auto Group",
-      11
+      "Fred Anderson Honda",
+      10
     ],
     [
-      "2d5f0eb5f Dellenbach Motors",
+      "Pdx Wheels, Steals & Deals",
+      8
+    ],
+    [
+      "AX Auto INC",
+      7
+    ],
+    [
+      "Terry Auto Group",
       4
     ],
     [
-      "LUXURY IMPORTS",
+      "ZT Automotive",
       4
     ],
     [
-      "Flexcar",
-      3
-    ],
-    [
-      "West Mitsubishi",
-      3
-    ],
-    [
-      "Greenway Automotive Group",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
+      "North Park Lincoln",
+      4
     ],
     [
       "Bud Clary Chevrolet, INC",
+      4
+    ],
+    [
+      "Preston Motor Automotive Group",
+      3
+    ],
+    [
+      "Covert Bee Cave",
       2
     ],
     [
-      "House Chevrolet Co.",
+      "Gettel Automotive Group",
       2
     ],
     [
-      "Speedway Car Sales",
-      2
-    ],
-    [
-      "Icon Motors Group",
+      "Drivemax USA",
       1
     ],
     [
-      "Forrester Lincoln",
+      "Post Oak Toyota",
       1
     ],
     [
-      "Brandon Steven Motors",
+      "World Car Auto Group",
       1
     ],
     [
-      "Northside Auto Sales",
+      "Courtesy Automotive Group",
       1
     ],
     [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "Renny Bettan",
-      1
-    ],
-    [
-      "MyCar: Trucktown",
-      1
-    ],
-    [
-      "Impex Auto Sales",
+      "Auto Gallery Automotive Group",
       1
     ],
     [
@@ -112,12 +88,8 @@
       1
     ],
     [
-      "Performance Automotive Network",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
+      "LUXURY IMPORTS",
+      0
     ]
   ]
 }
