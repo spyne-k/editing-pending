@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T08:12:52.400Z",
+  "fetchedAt": "2026-10-03T13:23:40.510Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,30 @@
   "rows": [
     [
       null,
-      27
+      15
+    ],
+    [
+      "Springfield Luxury Automall",
+      5
+    ],
+    [
+      "Al Piemonte",
+      3
+    ],
+    [
+      "Yemm Auto",
+      2
+    ],
+    [
+      "DealerVision.com",
+      2
     ],
     [
       "Asbury Automotive Management L.L.C",
-      14
-    ],
-    [
-      "KASS Bladel-Reusel BV",
-      6
+      2
     ],
     [
       "IM Marketplace GmBH",
-      4
-    ],
-    [
-      "Ray Auto Group",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Fred Anderson Honda",
       1
     ],
     [
