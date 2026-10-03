@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T02:15:42.962Z",
+  "fetchedAt": "2026-10-03T08:12:52.400Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,282 +17,30 @@
   "rows": [
     [
       null,
-      198
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      39
+      27
     ],
     [
       "Asbury Automotive Management L.L.C",
       14
     ],
     [
-      "Your Choice Auto LLC",
-      9
-    ],
-    [
-      "Jenkins Auto Group",
-      7
-    ],
-    [
-      "Pritchard Companies",
-      6
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      6
-    ],
-    [
       "KASS Bladel-Reusel BV",
       6
     ],
     [
-      "Bergstrom Automotive",
-      5
-    ],
-    [
-      "Brandon Steven Motors",
-      5
-    ],
-    [
-      "Beaver County Auto",
-      4
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      4
-    ],
-    [
-      "Moses Auto Group",
-      4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
-      3
-    ],
-    [
-      "Best Deal Auto Sales, INC.",
-      3
-    ],
-    [
-      "Ideal Cars",
-      3
-    ],
-    [
-      "KAR Auto Group",
-      3
-    ],
-    [
-      "Car Capital LTD",
-      3
-    ],
-    [
-      "World Car Auto Group",
-      3
-    ],
-    [
-      "Prestige Auto Sales",
-      3
-    ],
-    [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Car Central Inc.",
-      2
-    ],
-    [
-      "Auto Reum",
-      2
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      2
-    ],
-    [
-      "Ben Clymer's The Body Shop",
-      2
-    ],
-    [
-      "Lambert Buick GMC Inc",
-      2
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      2
-    ],
-    [
-      "Riley Subaru",
-      2
-    ],
-    [
-      "Toyota Of Wallingford",
-      2
-    ],
-    [
-      "MyCar: Trucktown",
-      2
-    ],
-    [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "District Auto Group",
-      2
-    ],
-    [
       "IM Marketplace GmBH",
-      2
+      4
     ],
     [
-      "Drivemax USA",
-      2
-    ],
-    [
-      "Janssen Auto Group",
-      2
-    ],
-    [
-      "Performance Auto Group",
+      "Ray Auto Group",
       1
     ],
     [
-      "Rochester Toyota",
+      "Rohrich Automotive Group",
       1
     ],
     [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Homan Auto Sales Inc",
-      1
-    ],
-    [
-      "Jim Schmidt Automotive",
-      1
-    ],
-    [
-      "Princeton Chevrolet GMC",
-      1
-    ],
-    [
-      "Puente Hills Mitsubishi",
-      1
-    ],
-    [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "Grand Motorcars",
-      1
-    ],
-    [
-      "Mark Miller Subaru, Inc.",
-      1
-    ],
-    [
-      "Forrester Lincoln",
-      1
-    ],
-    [
-      "Shelly Motors Ltd",
-      1
-    ],
-    [
-      "Parks Chevrolet Richmond",
-      1
-    ],
-    [
-      "Auto Ocasión Saez",
-      1
-    ],
-    [
-      "Bob King",
-      1
-    ],
-    [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Taylor BMW",
-      1
-    ],
-    [
-      "Countryside Mitsubishi",
-      1
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
-      1
-    ],
-    [
-      "Star Motors",
-      1
-    ],
-    [
-      "Olympic Hyundai Vancouver",
-      1
-    ],
-    [
-      "MAG CHRYSLER DODGE JEEP RAM",
-      1
-    ],
-    [
-      "McGrath Acura of Westmont (Mcgrath Imports)",
-      1
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      1
-    ],
-    [
-      "Courtesy Automotive Group",
-      1
-    ],
-    [
-      "Southbank Dodge Chrysler (1982) Ltd",
-      1
-    ],
-    [
-      "Van Mossel",
-      1
-    ],
-    [
-      "Yoga Cars",
-      1
-    ],
-    [
-      "Bill Cole AutoMall Bluefield",
-      1
-    ],
-    [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
-      1
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      1
-    ],
-    [
-      "Southern Ford of Thomaston",
-      1
-    ],
-    [
-      "Audi Cape Fear",
-      1
-    ],
-    [
-      "Roanoke Motors Inc",
+      "Fred Anderson Honda",
       1
     ],
     [
