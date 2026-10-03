@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T17:27:56.345Z",
+  "fetchedAt": "2026-10-03T20:05:51.923Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,58 @@
   "rows": [
     [
       null,
+      37
+    ],
+    [
+      "IM Marketplace GmBH",
+      9
+    ],
+    [
+      "ROSI Automotive Group",
+      7
+    ],
+    [
+      "Flexcar",
+      6
+    ],
+    [
+      "AX Auto INC",
+      4
+    ],
+    [
+      "DealerVision.com",
       2
     ],
     [
-      "Car Capital LTD",
+      "Rick Weaver Chevrolet",
+      2
+    ],
+    [
+      "Rochester Toyota",
       1
     ],
     [
-      "Car Hop Auto Sales & Finance",
+      "Yoga Cars",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Vatland Auto Group",
+      1
+    ],
+    [
+      "NorthTown Automotive",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
