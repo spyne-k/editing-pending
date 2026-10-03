@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T20:05:51.923Z",
+  "fetchedAt": "2026-10-03T22:51:06.174Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,58 +17,42 @@
   "rows": [
     [
       null,
-      37
+      23
     ],
     [
-      "IM Marketplace GmBH",
-      9
-    ],
-    [
-      "ROSI Automotive Group",
-      7
-    ],
-    [
-      "Flexcar",
+      "Janssen Auto Group",
       6
     ],
     [
-      "AX Auto INC",
+      "Flexcar",
       4
     ],
     [
-      "DealerVision.com",
+      "Zink Motor Company",
+      3
+    ],
+    [
+      "Olympic Hyundai Vancouver",
+      3
+    ],
+    [
+      "5 Star Imports",
       2
     ],
     [
-      "Rick Weaver Chevrolet",
+      "Charlie Clark Hyundai",
       2
     ],
     [
-      "Rochester Toyota",
+      "Preston Motor Automotive Group",
       1
     ],
     [
-      "Yoga Cars",
+      "Greenway Automotive Group",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "NorthTown Automotive",
-      1
-    ],
-    [
-      "Parks Chevrolet Richmond",
-      1
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
