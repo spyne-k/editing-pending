@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02T23:29:31.733Z",
+  "fetchedAt": "2026-10-03T02:15:42.962Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,46 @@
   "rows": [
     [
       null,
-      169
+      198
     ],
     [
       "Amato Hyundai Of Glendale",
       39
     ],
     [
-      "Davidson Auto Group",
-      15
+      "Asbury Automotive Management L.L.C",
+      14
     ],
     [
-      "ZT Automotive",
-      11
+      "Your Choice Auto LLC",
+      9
     ],
     [
-      "Dimmitt Automotive Group",
-      10
-    ],
-    [
-      "Teton solutions Group",
+      "Jenkins Auto Group",
       7
+    ],
+    [
+      "Pritchard Companies",
+      6
     ],
     [
       "Russ Darrow Group, Inc.",
-      7
+      6
     ],
     [
-      "Graff Auto Campus",
-      7
+      "KASS Bladel-Reusel BV",
+      6
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      4
+      "Bergstrom Automotive",
+      5
     ],
     [
-      "Lambert Buick GMC Inc",
-      4
+      "Brandon Steven Motors",
+      5
     ],
     [
-      "Preston Motor Automotive Group",
+      "Beaver County Auto",
       4
     ],
     [
@@ -64,31 +64,75 @@
       4
     ],
     [
-      "Icon Motors Group",
+      "Moses Auto Group",
       4
     ],
     [
-      "Moses Auto Group",
-      3
-    ],
-    [
-      "Car Central",
-      3
-    ],
-    [
-      "Bergstrom Automotive",
-      3
-    ],
-    [
-      "Your Choice Auto LLC",
-      3
+      "Bud Clary Chevrolet, INC",
+      4
     ],
     [
       "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       3
     ],
     [
-      "Jenkins Auto Group",
+      "Best Deal Auto Sales, INC.",
+      3
+    ],
+    [
+      "Ideal Cars",
+      3
+    ],
+    [
+      "KAR Auto Group",
+      3
+    ],
+    [
+      "Car Capital LTD",
+      3
+    ],
+    [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Prestige Auto Sales",
+      3
+    ],
+    [
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Car Central Inc.",
+      2
+    ],
+    [
+      "Auto Reum",
+      2
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Ben Clymer's The Body Shop",
+      2
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      2
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      2
+    ],
+    [
+      "Riley Subaru",
+      2
+    ],
+    [
+      "Toyota Of Wallingford",
       2
     ],
     [
@@ -96,35 +140,39 @@
       2
     ],
     [
-      "Freedom Chevrolet",
+      "Georgia Auto World",
       2
     ],
     [
-      "Covert Auto Group",
+      "District Auto Group",
       2
     ],
     [
-      "Bob Johnson Automotive Group",
+      "IM Marketplace GmBH",
       2
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Drivemax USA",
       2
     ],
     [
-      "Wood Motor Company",
+      "Janssen Auto Group",
       2
     ],
     [
-      "Pritchard Companies",
-      2
-    ],
-    [
-      "Homan Auto Sales Inc",
+      "Performance Auto Group",
       1
     ],
     [
-      "Princeton Chevrolet GMC",
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Homan Auto Sales Inc",
       1
     ],
     [
@@ -132,15 +180,27 @@
       1
     ],
     [
+      "Princeton Chevrolet GMC",
+      1
+    ],
+    [
+      "Puente Hills Mitsubishi",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "Grand Motorcars",
+      1
+    ],
+    [
+      "Mark Miller Subaru, Inc.",
+      1
+    ],
+    [
       "Forrester Lincoln",
-      1
-    ],
-    [
-      "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "Performance Auto Group",
       1
     ],
     [
@@ -152,43 +212,11 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Auto Ocasión Saez",
       1
     ],
     [
-      "Countryside Mitsubishi",
-      1
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      1
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
-      1
-    ],
-    [
-      "Ben Clymer's The Body Shop",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "MAG CHRYSLER DODGE JEEP RAM",
-      1
-    ],
-    [
-      "Yoder Family of Companies",
-      1
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      1
-    ],
-    [
-      "Southern Ford of Thomaston",
+      "Bob King",
       1
     ],
     [
@@ -196,7 +224,47 @@
       1
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Taylor BMW",
+      1
+    ],
+    [
+      "Countryside Mitsubishi",
+      1
+    ],
+    [
+      "MP auto Sales LLC DBA Carizona",
+      1
+    ],
+    [
+      "Star Motors",
+      1
+    ],
+    [
+      "Olympic Hyundai Vancouver",
+      1
+    ],
+    [
+      "MAG CHRYSLER DODGE JEEP RAM",
+      1
+    ],
+    [
+      "McGrath Acura of Westmont (Mcgrath Imports)",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Courtesy Automotive Group",
+      1
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      1
+    ],
+    [
+      "Van Mossel",
       1
     ],
     [
@@ -204,7 +272,27 @@
       1
     ],
     [
-      "Van Mossel",
+      "Bill Cole AutoMall Bluefield",
+      1
+    ],
+    [
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      1
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      1
+    ],
+    [
+      "Southern Ford of Thomaston",
+      1
+    ],
+    [
+      "Audi Cape Fear",
+      1
+    ],
+    [
+      "Roanoke Motors Inc",
       1
     ],
     [
