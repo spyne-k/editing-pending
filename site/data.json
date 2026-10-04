@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T08:25:20.538Z",
+  "fetchedAt": "2026-10-04T14:14:00.123Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,43 @@
   ],
   "rows": [
     [
-      "LUXURY IMPORTS",
-      0
+      null,
+      20
     ],
     [
-      null,
+      "Asbury Automotive Management L.L.C",
+      9
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Turn Auto Mall",
+      2
+    ],
+    [
+      "Fred Anderson Honda",
+      2
+    ],
+    [
+      "EV Car Company",
+      1
+    ],
+    [
+      "Dorsett Automotive",
+      1
+    ],
+    [
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "LUXURY IMPORTS",
       0
     ]
   ]
