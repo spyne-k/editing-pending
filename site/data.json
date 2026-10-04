@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T22:51:06.174Z",
+  "fetchedAt": "2026-10-04T02:11:14.941Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,44 +16,12 @@
   ],
   "rows": [
     [
-      null,
-      23
-    ],
-    [
-      "Janssen Auto Group",
-      6
-    ],
-    [
-      "Flexcar",
+      "2d5f0eb5f Dellenbach Motors",
       4
     ],
     [
-      "Zink Motor Company",
-      3
-    ],
-    [
-      "Olympic Hyundai Vancouver",
-      3
-    ],
-    [
-      "5 Star Imports",
-      2
-    ],
-    [
-      "Charlie Clark Hyundai",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      1
+      null,
+      4
     ],
     [
       "LUXURY IMPORTS",
