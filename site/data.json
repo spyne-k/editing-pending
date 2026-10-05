@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T05:23:01.591Z",
+  "fetchedAt": "2026-10-05T12:25:22.013Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,23 @@
   "rows": [
     [
       null,
-      11
+      23
+    ],
+    [
+      "Giant Auto Warehouse",
+      17
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      3
     ],
     [
       "IM Marketplace GmBH",
-      9
+      2
     ],
     [
-      "Rawian Oy",
-      2
+      "Flood Auto Group",
+      1
     ],
     [
       "LUXURY IMPORTS",
