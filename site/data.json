@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T00:00:28.933Z",
+  "fetchedAt": "2026-10-05T05:23:01.591Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      4
+      11
     ],
     [
-      "Santa Motors CA",
-      3
+      "IM Marketplace GmBH",
+      9
     ],
     [
-      "McCurley Dealerships",
-      1
+      "Rawian Oy",
+      2
     ],
     [
       "LUXURY IMPORTS",
