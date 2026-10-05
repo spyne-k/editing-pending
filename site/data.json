@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T21:21:49.616Z",
+  "fetchedAt": "2026-10-05T00:00:28.933Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,14 @@
   "rows": [
     [
       null,
-      2
+      4
     ],
     [
-      "Twin Rivers Auto Group",
-      1
+      "Santa Motors CA",
+      3
     ],
     [
-      "Brandon Steven Motors",
+      "McCurley Dealerships",
       1
     ],
     [
