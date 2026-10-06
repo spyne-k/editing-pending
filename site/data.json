@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T19:46:03.367Z",
+  "fetchedAt": "2026-10-06T23:20:11.291Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,62 +17,174 @@
   "rows": [
     [
       null,
-      73
-    ],
-    [
-      "Jenkins Auto Group",
-      15
+      253
     ],
     [
       "Asbury Automotive Management L.L.C",
-      14
+      54
     ],
     [
-      "Flexcar",
-      13
-    ],
-    [
-      "Van Horn Automotive Group",
-      5
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      5
-    ],
-    [
-      "Gettel Automotive Group",
-      4
-    ],
-    [
-      "Bergstrom Automotive",
-      4
-    ],
-    [
-      "Yemm Auto",
-      3
-    ],
-    [
-      "AX Auto INC",
-      2
+      "Rohrich Automotive Group",
+      21
     ],
     [
       "DealerVision.com",
+      19
+    ],
+    [
+      "Sprinkler Used Cars",
+      12
+    ],
+    [
+      "Speedway Car Sales",
+      11
+    ],
+    [
+      "Covert Auto Group",
+      8
+    ],
+    [
+      "Greenway Automotive Group",
+      7
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      7
+    ],
+    [
+      "Twin Rivers Auto Group",
+      6
+    ],
+    [
+      "Median Media LLC",
+      6
+    ],
+    [
+      "Teton solutions Group",
+      6
+    ],
+    [
+      "Impex Auto Sales",
+      5
+    ],
+    [
+      "Perkins Motors",
+      5
+    ],
+    [
+      "Davidson Auto Group",
+      5
+    ],
+    [
+      "World Car Auto Group",
+      5
+    ],
+    [
+      "Flexcar",
+      4
+    ],
+    [
+      "Yoder Family of Companies",
+      4
+    ],
+    [
+      "Covert Bee Cave",
+      4
+    ],
+    [
+      "Performance Auto Group",
+      4
+    ],
+    [
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Mark Williams Auto Group",
+      3
+    ],
+    [
+      "Preston Motor Automotive Group",
+      3
+    ],
+    [
+      "Wood Motor Company",
+      3
+    ],
+    [
+      "Janssen Chrysler Jeep Dodge",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "Toronto Honda",
+      2
+    ],
+    [
+      "Courtesy Automotive Group",
+      2
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      2
+    ],
+    [
+      "Your Choice Auto LLC",
+      2
+    ],
+    [
+      "Yemm Auto",
       2
     ],
     [
       "ZT Automotive",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Moses Auto Group",
+      2
+    ],
+    [
+      "Sansone Jr's Auto Group",
+      2
+    ],
+    [
+      "Sherwood Ford",
       1
     ],
     [
-      "North Park Lincoln",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "Ramsey Motor Company",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Janssen Kool Honda",
+      1
+    ],
+    [
+      "Novacti",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -80,7 +192,59 @@
       1
     ],
     [
-      "Ramsey Motor Company",
+      "Knapp Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Freedom Chevrolet",
+      1
+    ],
+    [
+      "Certified Autoplex Inc.",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Alpha One Automotive",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Northstar Kia",
+      1
+    ],
+    [
+      "4M Autoplex",
+      1
+    ],
+    [
+      "Blasius South",
+      1
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
+      1
+    ],
+    [
+      "Husker Chevrolet",
+      1
+    ],
+    [
+      "Hammond Cars",
+      1
+    ],
+    [
+      "Rick Weaver Chevrolet",
       1
     ],
     [
