@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T14:30:46.529Z",
+  "fetchedAt": "2026-10-06T19:46:03.367Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,58 @@
   "rows": [
     [
       null,
-      13
+      73
+    ],
+    [
+      "Jenkins Auto Group",
+      15
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      14
     ],
     [
       "Flexcar",
-      3
+      13
+    ],
+    [
+      "Van Horn Automotive Group",
+      5
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      5
+    ],
+    [
+      "Gettel Automotive Group",
+      4
+    ],
+    [
+      "Bergstrom Automotive",
+      4
     ],
     [
       "Yemm Auto",
+      3
+    ],
+    [
+      "AX Auto INC",
       2
     ],
     [
-      "CDJR",
+      "DealerVision.com",
+      2
+    ],
+    [
+      "ZT Automotive",
       1
     ],
     [
-      "EV Car Company",
+      "North Park Lincoln",
       1
     ],
     [
-      "MyCar: Trucktown",
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -44,19 +76,11 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Vatland Auto Group",
       1
     ],
     [
-      "RBM Automotive Group",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Ramsey Motor Company",
       1
     ],
     [
