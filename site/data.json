@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T07:50:20.082Z",
+  "fetchedAt": "2026-10-06T14:30:46.529Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,46 @@
   "rows": [
     [
       null,
-      11
+      13
     ],
     [
-      "Rawian Oy",
-      8
+      "Flexcar",
+      3
     ],
     [
-      "VW of Duluth",
+      "Yemm Auto",
+      2
+    ],
+    [
+      "CDJR",
       1
     ],
     [
-      "AGAM B.V.",
+      "EV Car Company",
       1
     ],
     [
-      "Auto X-Change Inc",
+      "MyCar: Trucktown",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "RBM Automotive Group",
+      1
+    ],
+    [
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
