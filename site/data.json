@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T16:23:32.420Z",
+  "fetchedAt": "2026-10-07T21:25:19.570Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,102 @@
   "rows": [
     [
       null,
-      17
+      72
     ],
     [
-      "Car Central",
-      2
+      "Autos of Forney",
+      10
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      4
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      4
+    ],
+    [
+      "Yoder Family of Companies",
+      3
+    ],
+    [
+      "Impex Auto Sales",
+      3
+    ],
+    [
+      "ZT Automotive",
+      3
     ],
     [
       "Yemm Auto",
+      3
+    ],
+    [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
+      "CarLux Fort Myers",
+      3
+    ],
+    [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Alliance Cars Limited",
       2
     ],
     [
-      "Wiz Leasing Inc",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      2
+    ],
+    [
+      "4M Autoplex",
+      2
+    ],
+    [
+      "Northside Auto Sales",
       2
     ],
     [
       "Speedway Car Sales",
-      2
-    ],
-    [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "Boardman Subaru and Imports",
-      2
-    ],
-    [
-      "AutoGiant USA",
       1
     ],
     [
-      "Teton solutions Group",
+      "Bill Dickason Chevrolet",
       1
     ],
     [
-      "Wood Motor Company",
+      "ROSI Automotive Group",
+      1
+    ],
+    [
+      "Countryside Mitsubishi",
+      1
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "Auto Park Ford Bremen",
+      1
+    ],
+    [
+      "LUXURY IMPORTS",
+      1
+    ],
+    [
+      "Janssen Auto Group",
+      1
+    ],
+    [
+      "Davidson Auto Group",
       1
     ],
     [
@@ -60,12 +120,48 @@
       1
     ],
     [
-      "Blasius Buick GMC",
+      "Car Central Inc.",
       1
     ],
     [
-      "LUXURY IMPORTS",
-      0
+      "Princeton Chevrolet GMC",
+      1
+    ],
+    [
+      "Pritchard Companies",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "Ideal Cars",
+      1
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      1
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      1
+    ],
+    [
+      "MEI Inc",
+      1
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      1
+    ],
+    [
+      "Flexcar",
+      1
     ]
   ]
 }
