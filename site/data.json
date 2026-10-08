@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T07:19:06.344Z",
+  "fetchedAt": "2026-10-08T14:40:23.906Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,10 @@
   "rows": [
     [
       null,
-      31
+      54
     ],
     [
       "INERCIKAR SA",
-      9
-    ],
-    [
-      "Greenway Automotive Group",
       9
     ],
     [
@@ -32,11 +28,47 @@
       6
     ],
     [
+      "Yemm Auto",
+      5
+    ],
+    [
+      "Quantrell Auto Group",
+      5
+    ],
+    [
+      "Performance Auto Group",
+      4
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Rawian Oy",
+      3
+    ],
+    [
+      "Graff Auto Campus",
+      3
+    ],
+    [
+      "McCurley Dealerships",
+      2
+    ],
+    [
+      "Portsmouth Ford Lincoln",
+      2
+    ],
+    [
       "Princeton Chevrolet GMC",
       2
     ],
     [
-      "Towne Ford Inc",
+      "Ray Auto Group",
+      1
+    ],
+    [
+      "Rochester Toyota",
       1
     ],
     [
@@ -44,15 +76,31 @@
       1
     ],
     [
-      "NorthTown Automotive",
+      "Beadle Ford, INC.",
       1
     ],
     [
-      "Homan Auto Sales Inc",
+      "Volvo of Princeton Inc",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
+      1
+    ],
+    [
+      "C.A. Larsen Automobiler A/S",
+      1
+    ],
+    [
+      "Yoder Family of Companies",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
       1
     ],
     [
