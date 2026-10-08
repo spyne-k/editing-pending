@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T21:25:19.570Z",
+  "fetchedAt": "2026-10-08T01:08:33.631Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,94 +17,82 @@
   "rows": [
     [
       null,
-      72
+      137
     ],
     [
-      "Autos of Forney",
-      10
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      4
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      4
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "Yoder Family of Companies",
-      3
-    ],
-    [
-      "Impex Auto Sales",
-      3
-    ],
-    [
-      "ZT Automotive",
-      3
-    ],
-    [
-      "Yemm Auto",
-      3
+      "c360-centauro",
+      77
     ],
     [
       "Jim Schmidt Automotive",
+      14
+    ],
+    [
+      "Covert Bee Cave",
+      9
+    ],
+    [
+      "Car City INC",
+      4
+    ],
+    [
+      "Giant Auto Warehouse",
+      4
+    ],
+    [
+      "Hawthorne Auto Square",
+      4
+    ],
+    [
+      "AX Auto INC",
       3
-    ],
-    [
-      "CarLux Fort Myers",
-      3
-    ],
-    [
-      "World Car Auto Group",
-      3
-    ],
-    [
-      "Alliance Cars Limited",
-      2
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      2
-    ],
-    [
-      "4M Autoplex",
-      2
     ],
     [
       "Northside Auto Sales",
+      3
+    ],
+    [
+      "Smartlot Solutions",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
       2
     ],
     [
-      "Speedway Car Sales",
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "Performance Automotive Network",
+      2
+    ],
+    [
+      "Silsbee Ford",
       1
     ],
     [
-      "Bill Dickason Chevrolet",
+      "DealerVision.com",
       1
     ],
     [
-      "ROSI Automotive Group",
+      "Apex Automotive Group",
       1
     ],
     [
-      "Countryside Mitsubishi",
+      "McLeod Auto Sales",
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "NorthTown Automotive",
       1
     ],
     [
-      "Auto Park Ford Bremen",
-      1
-    ],
-    [
-      "LUXURY IMPORTS",
+      "Auto Exchange Group",
       1
     ],
     [
@@ -112,56 +100,12 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
-      "Capital Chevrolet Inc.",
-      1
-    ],
-    [
-      "Car Central Inc.",
-      1
-    ],
-    [
-      "Princeton Chevrolet GMC",
-      1
-    ],
-    [
-      "Pritchard Companies",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
-      1
-    ],
-    [
-      "Ideal Cars",
-      1
-    ],
-    [
-      "Bob King",
-      1
-    ],
-    [
-      "Southbank Dodge Chrysler (1982) Ltd",
-      1
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      1
-    ],
-    [
-      "MEI Inc",
-      1
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      1
-    ],
-    [
-      "Flexcar",
-      1
+      "LUXURY IMPORTS",
+      0
     ]
   ]
 }
