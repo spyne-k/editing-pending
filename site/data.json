@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T14:40:23.906Z",
+  "fetchedAt": "2026-10-08T20:08:08.880Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,10 +17,14 @@
   "rows": [
     [
       null,
-      54
+      80
     ],
     [
-      "INERCIKAR SA",
+      "Rim Revolution LLC",
+      9
+    ],
+    [
+      "Jenkins Auto Group",
       9
     ],
     [
@@ -28,84 +32,120 @@
       6
     ],
     [
-      "Yemm Auto",
-      5
+      "Flexcar",
+      4
     ],
     [
-      "Quantrell Auto Group",
-      5
+      "Speedway Car Sales",
+      4
     ],
     [
-      "Performance Auto Group",
+      "INERCIKAR SA",
       4
     ],
     [
       "DealerVision.com",
+      4
+    ],
+    [
+      "4M Autoplex",
       3
     ],
     [
-      "Rawian Oy",
+      "Olson Chevrolet",
       3
     ],
     [
-      "Graff Auto Campus",
+      "Worldwide Motors LTD dba Paragon Acura",
       3
     ],
     [
-      "McCurley Dealerships",
-      2
-    ],
-    [
-      "Portsmouth Ford Lincoln",
-      2
+      "Capital Chevrolet Inc.",
+      3
     ],
     [
       "Princeton Chevrolet GMC",
       2
     ],
     [
+      "Toronto Honda",
+      2
+    ],
+    [
+      "Car Capital LTD",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Sprinkler Used Cars",
+      2
+    ],
+    [
+      "Kayser Chevrolet",
+      2
+    ],
+    [
+      "Roanoke Motors Inc",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
+      1
+    ],
+    [
+      "Perkins Motors",
+      1
+    ],
+    [
+      "District Auto Group",
+      1
+    ],
+    [
       "Ray Auto Group",
       1
     ],
     [
-      "Rochester Toyota",
+      "Hatimi Auto LLC",
       1
     ],
     [
-      "Giant Auto Warehouse",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "Beadle Ford, INC.",
+      "Car Central",
       1
     ],
     [
-      "Volvo of Princeton Inc",
+      "Think Reliable Auto",
       1
     ],
     [
-      "Wood Motor Company",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "IM Marketplace GmBH",
+      "Bob King",
       1
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "Performance Auto Group",
       1
     ],
     [
-      "Yoder Family of Companies",
+      "Baxter Automotive",
       1
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
+      "West Mitsubishi",
       1
     ],
     [
-      "LUXURY IMPORTS",
-      0
+      "Graff Auto Campus",
+      1
     ]
   ]
 }
