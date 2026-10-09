@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T13:28:42.343Z",
+  "fetchedAt": "2026-10-09T18:55:54.186Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,71 @@
   "rows": [
     [
       null,
+      36
+    ],
+    [
+      "Van Horn Automotive Group",
+      6
+    ],
+    [
+      "Prestige Auto Sales",
+      5
+    ],
+    [
+      "Jenkins Auto Group",
       4
     ],
     [
-      "Flood Auto Group",
+      "ZT Automotive",
+      3
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      3
+    ],
+    [
+      "Audi Cape Fear",
       2
     ],
     [
-      "Rawian Oy",
+      "DealerVision.com",
       2
+    ],
+    [
+      "Pritchard Companies",
+      2
+    ],
+    [
+      "Parks Chevrolet Richmond",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
+      2
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Grand Motorcars",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "carvago2",
+      0
     ]
   ]
 }
