@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T00:18:46.369Z",
+  "fetchedAt": "2026-10-09T06:20:04.310Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,91 +17,19 @@
   "rows": [
     [
       null,
-      70
+      11
+    ],
+    [
+      "Bergstrom Automotive",
+      5
+    ],
+    [
+      "Generation Nissan",
+      3
     ],
     [
       "Asbury Automotive Management L.L.C",
-      21
-    ],
-    [
-      "Krystal Chrysler Dodge Jeep Ram Fiat",
-      6
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      5
-    ],
-    [
-      "IM Marketplace GmBH",
-      5
-    ],
-    [
-      "ZT Automotive",
-      4
-    ],
-    [
-      "Victory Automotive Group",
       3
-    ],
-    [
-      "Mark Miller Subaru, Inc.",
-      3
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      3
-    ],
-    [
-      "Flexcar",
-      2
-    ],
-    [
-      "Covert Bee Cave",
-      2
-    ],
-    [
-      "Gettel Automotive Group",
-      2
-    ],
-    [
-      "NorthTown Automotive",
-      2
-    ],
-    [
-      "Princeton Chevrolet GMC",
-      2
-    ],
-    [
-      "Springfield Luxury Automall",
-      2
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      2
-    ],
-    [
-      "Ray Auto Group",
-      1
-    ],
-    [
-      "Apex Automotive Group",
-      1
-    ],
-    [
-      "Mark Williams Auto Group",
-      1
-    ],
-    [
-      "Baxter Automotive",
-      1
-    ],
-    [
-      "Parks Chevrolet Richmond",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
     ],
     [
       "LUXURY IMPORTS",
