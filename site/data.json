@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T06:20:04.310Z",
+  "fetchedAt": "2026-10-09T13:28:42.343Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,15 @@
   "rows": [
     [
       null,
-      11
+      4
     ],
     [
-      "Bergstrom Automotive",
-      5
+      "Flood Auto Group",
+      2
     ],
     [
-      "Generation Nissan",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      3
-    ],
-    [
-      "LUXURY IMPORTS",
-      0
+      "Rawian Oy",
+      2
     ]
   ]
 }
