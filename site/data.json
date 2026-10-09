@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T18:55:54.186Z",
+  "fetchedAt": "2026-10-09T23:00:14.035Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,70 @@
   "rows": [
     [
       null,
-      36
-    ],
-    [
-      "Van Horn Automotive Group",
-      6
-    ],
-    [
-      "Prestige Auto Sales",
-      5
-    ],
-    [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
-      "ZT Automotive",
-      3
+      105
     ],
     [
       "Asbury Automotive Management L.L.C",
+      19
+    ],
+    [
+      "Bergstrom Automotive",
+      9
+    ],
+    [
+      "Midwest Auto Group",
+      9
+    ],
+    [
+      "Expert Auto Group",
+      7
+    ],
+    [
+      "Median Media LLC",
+      6
+    ],
+    [
+      "Performance Automotive Network",
+      5
+    ],
+    [
+      "McLeod Auto Sales",
+      4
+    ],
+    [
+      "Van Horn Automotive Group",
+      4
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      4
+    ],
+    [
+      "Renny Bettan",
+      4
+    ],
+    [
+      "Post Oak Toyota",
       3
     ],
     [
-      "Audi Cape Fear",
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Your Choice Auto LLC",
+      3
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
       2
     ],
     [
-      "DealerVision.com",
+      "Alpha One Automotive",
+      2
+    ],
+    [
+      "Davidson Auto Group",
       2
     ],
     [
@@ -52,31 +88,51 @@
       2
     ],
     [
-      "Parks Chevrolet Richmond",
+      "Car Hop Auto Sales & Finance",
       2
     ],
     [
-      "Preston Motor Automotive Group",
+      "Greenway Automotive Group",
       2
     ],
     [
-      "Bob King",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      2
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Portsmouth Ford Lincoln",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "LUXURY IMPORTS",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
       1
     ],
     [
       "West Mitsubishi",
-      1
-    ],
-    [
-      "Grand Motorcars",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Rolls-Royce Motor Cars Raleigh",
       1
     ],
     [
