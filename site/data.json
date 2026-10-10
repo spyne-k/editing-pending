@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T14:39:36.178Z",
+  "fetchedAt": "2026-10-10T18:50:31.560Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,63 @@
   ],
   "rows": [
     [
-      "Bob King",
+      null,
+      22
+    ],
+    [
+      "Flexcar",
+      4
+    ],
+    [
+      "Wood Motor Company",
+      3
+    ],
+    [
+      "Emerald Motors",
+      2
+    ],
+    [
+      "Jidd Motors Mitsubishi",
+      2
+    ],
+    [
+      "Janssen Auto Group",
+      2
+    ],
+    [
+      "TNS Autosports",
       1
     ],
     [
-      null,
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "Roanoke Motors Inc",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Butler Lexus of South Atlanta",
+      1
+    ],
+    [
+      "Autoplex 2000 and All Star Buick GMC truck",
       1
     ]
   ]
