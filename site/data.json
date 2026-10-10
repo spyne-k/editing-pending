@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T18:50:31.560Z",
+  "fetchedAt": "2026-10-10T22:02:23.625Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,62 +17,62 @@
   "rows": [
     [
       null,
-      22
+      31
     ],
     [
       "Flexcar",
+      7
+    ],
+    [
+      "The Garage",
       4
     ],
     [
-      "Wood Motor Company",
+      "Simmons-Rockwell Automotive Dealerships",
+      4
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "Emerald Motors",
+      "Performance Automotive Network",
+      3
+    ],
+    [
+      "Cornhusker Auto Center",
       2
     ],
     [
-      "Jidd Motors Mitsubishi",
-      2
-    ],
-    [
-      "Janssen Auto Group",
-      2
-    ],
-    [
-      "TNS Autosports",
+      "Covert Bee Cave",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "The Autohaus",
       1
     ],
     [
-      "World Car Auto Group",
+      "Santa Motors CA",
       1
     ],
     [
-      "Starling Chevrolet",
+      "District Auto Group",
       1
     ],
     [
-      "Roanoke Motors Inc",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Your Choice Auto LLC",
       1
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
+      "Twin Rivers Auto Group",
       1
     ],
     [
-      "Butler Lexus of South Atlanta",
-      1
-    ],
-    [
-      "Autoplex 2000 and All Star Buick GMC truck",
+      "Faircy Automotive",
       1
     ]
   ]
