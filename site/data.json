@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T08:32:00.098Z",
+  "fetchedAt": "2026-10-10T14:39:36.178Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,24 +16,12 @@
   ],
   "rows": [
     [
-      null,
-      13
-    ],
-    [
-      "Redmond Chevrolet",
-      9
-    ],
-    [
-      "Lexus Of Orland",
-      3
-    ],
-    [
-      "AGAM B.V.",
+      "Bob King",
       1
     ],
     [
-      "carvago2",
-      0
+      null,
+      1
     ]
   ]
 }
