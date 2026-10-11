@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T22:02:23.625Z",
+  "fetchedAt": "2026-10-11T00:51:01.241Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,66 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      31
-    ],
-    [
-      "Flexcar",
-      7
-    ],
-    [
-      "The Garage",
-      4
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Performance Automotive Network",
-      3
-    ],
-    [
-      "Cornhusker Auto Center",
-      2
-    ],
-    [
-      "Covert Bee Cave",
-      1
-    ],
-    [
-      "The Autohaus",
-      1
-    ],
-    [
-      "Santa Motors CA",
-      1
-    ],
-    [
-      "District Auto Group",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Your Choice Auto LLC",
-      1
-    ],
-    [
-      "Twin Rivers Auto Group",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ]
-  ]
+  "rows": []
 }
