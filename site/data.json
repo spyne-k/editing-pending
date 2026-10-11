@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T00:51:01.241Z",
+  "fetchedAt": "2026-10-11T06:33:06.758Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,14 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      "Szilagyi Gabriella",
+      1
+    ],
+    [
+      null,
+      1
+    ]
+  ]
 }
