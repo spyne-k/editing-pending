@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T13:25:46.802Z",
+  "fetchedAt": "2026-10-11T18:15:37.603Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,10 @@
   "rows": [
     [
       null,
-      14
-    ],
-    [
-      "Charlie Clark Hyundai",
-      4
-    ],
-    [
-      "AutoGiant USA",
-      3
+      6
     ],
     [
       "Yemm Auto",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
       2
     ],
     [
@@ -40,7 +28,11 @@
       1
     ],
     [
-      "Kempton Chevrolet",
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
       1
     ],
     [
