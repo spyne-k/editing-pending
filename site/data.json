@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T07:21:02.536Z",
+  "fetchedAt": "2026-10-12T16:50:25.449Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,47 @@
   ],
   "rows": [
     [
-      "Impex Auto Sales",
+      null,
+      17
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      4
+    ],
+    [
+      "Rim Revolution LLC",
+      3
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Bob King",
       1
     ],
     [
-      null,
+      "Rawian Oy",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Janssen Auto Group",
+      1
+    ],
+    [
+      "Capital Chevrolet Inc.",
       1
     ]
   ]
