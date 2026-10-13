@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T11:03:31.968Z",
+  "fetchedAt": "2026-10-13T18:09:09.557Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,90 @@
   "rows": [
     [
       null,
+      60
+    ],
+    [
+      "Van Horn Automotive Group",
+      12
+    ],
+    [
+      "Impex Auto Sales",
+      9
+    ],
+    [
+      "Toronto Honda",
       7
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      6
+      "Jenkins Auto Group",
+      4
     ],
     [
-      "Swiss Cargate GmbH",
+      "Flexcar",
+      3
+    ],
+    [
+      "Yemm Auto",
+      3
+    ],
+    [
+      "AX Auto INC",
+      3
+    ],
+    [
+      "Rim Revolution LLC",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "World Car Auto Group",
+      2
+    ],
+    [
+      "Icon Motors Group",
+      2
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Ramsey Motor Company",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Autoplex 2000 and All Star Buick GMC truck",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
