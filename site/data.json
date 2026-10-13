@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T03:37:05.106Z",
+  "fetchedAt": "2026-10-13T11:03:31.968Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,66 +17,14 @@
   "rows": [
     [
       null,
-      48
-    ],
-    [
-      "Yoder Family of Companies",
-      11
-    ],
-    [
-      "Lee Group",
-      6
+      7
     ],
     [
       "Asbury Automotive Management L.L.C",
       6
     ],
     [
-      "Gettel Automotive Group",
-      4
-    ],
-    [
-      "NorthTown Automotive",
-      4
-    ],
-    [
-      "Covert Bee Cave",
-      3
-    ],
-    [
-      "Auto Gallery Automotive Group",
-      3
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
-      2
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      2
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "greenway auto group 2",
-      1
-    ],
-    [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Springfield Luxury Automall",
+      "Swiss Cargate GmbH",
       1
     ]
   ]
