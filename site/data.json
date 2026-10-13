@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T18:09:09.557Z",
+  "fetchedAt": "2026-10-13T22:39:51.131Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,74 @@
   "rows": [
     [
       null,
-      60
+      94
     ],
     [
-      "Van Horn Automotive Group",
+      "Amato Hyundai Of Glendale",
       12
     ],
     [
-      "Impex Auto Sales",
-      9
+      "Seth Wadley Ford of Pauls Valley",
+      11
     ],
     [
-      "Toronto Honda",
+      "Asbury Automotive Management L.L.C",
+      10
+    ],
+    [
+      "Joshua Trownsell",
       7
     ],
     [
-      "Jenkins Auto Group",
+      "Jim Schmidt Automotive",
       4
     ],
     [
-      "Flexcar",
-      3
-    ],
-    [
-      "Yemm Auto",
-      3
-    ],
-    [
-      "AX Auto INC",
-      3
-    ],
-    [
-      "Rim Revolution LLC",
-      3
-    ],
-    [
       "Gettel Automotive Group",
+      4
+    ],
+    [
+      "Impex Auto Sales",
+      3
+    ],
+    [
+      "Olson Chevrolet",
+      3
+    ],
+    [
+      "Dean Carter Chevrolet",
+      2
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Boardman Subaru and Imports",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "Audi Cape Fear",
+      2
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      2
+    ],
+    [
+      "Mark Miller Subaru, Inc.",
+      2
+    ],
+    [
+      "ROSI Automotive Group",
+      2
+    ],
+    [
+      "Beadle Ford, INC.",
       2
     ],
     [
@@ -60,11 +92,7 @@
       2
     ],
     [
-      "Icon Motors Group",
-      2
-    ],
-    [
-      "West Mitsubishi",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
@@ -76,7 +104,15 @@
       1
     ],
     [
-      "Ramsey Motor Company",
+      "Graff Auto Campus",
+      1
+    ],
+    [
+      "Brandon Steven Motors",
+      1
+    ],
+    [
+      "Wood Motor Company",
       1
     ],
     [
@@ -84,23 +120,55 @@
       1
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Asa Auto Plaza Of Austin",
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "Autoplex 2000 and All Star Buick GMC truck",
+      "Smartlot Solutions",
       1
     ],
     [
-      "Rolls-Royce Motor Cars Raleigh",
+      "Rohrich Automotive Group",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Courtesy Automotive Group",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Dobbs Equity Partners, LLC",
+      1
+    ],
+    [
+      "Emerald Motors",
+      1
+    ],
+    [
+      "Flexcar",
       1
     ]
   ]
