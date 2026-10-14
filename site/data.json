@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T12:06:50.474Z",
+  "fetchedAt": "2026-10-14T17:04:42.811Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,86 @@
   "rows": [
     [
       null,
-      12
+      57
     ],
     [
-      "IM Marketplace GmBH",
-      11
+      "Impex Auto Sales",
+      9
+    ],
+    [
+      "Gettel Automotive Group",
+      7
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      6
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      5
+    ],
+    [
+      "ZT Automotive",
+      4
+    ],
+    [
+      "Ray Auto Group",
+      3
+    ],
+    [
+      "County Ford",
+      3
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      3
+    ],
+    [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "District Auto Group",
+      2
+    ],
+    [
+      "DRIVE MOTOR GROUP SA",
+      2
+    ],
+    [
+      "Blasius Buick GMC",
+      2
     ],
     [
       "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
+      "Autos of Forney",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "AX Auto INC",
+      1
+    ],
+    [
+      "autokuva_nobg",
+      1
+    ],
+    [
+      "Audi Cape Fear",
+      1
+    ],
+    [
+      "NorthTown Automotive",
       1
     ]
   ]
