@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T22:39:51.131Z",
+  "fetchedAt": "2026-10-14T01:23:29.217Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,62 @@
   "rows": [
     [
       null,
-      94
+      90
     ],
     [
-      "Amato Hyundai Of Glendale",
-      12
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      11
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      10
-    ],
-    [
-      "Joshua Trownsell",
-      7
+      "AX Auto INC",
+      6
     ],
     [
       "Jim Schmidt Automotive",
       4
     ],
     [
-      "Gettel Automotive Group",
+      "LUXURY IMPORTS",
       4
     ],
     [
-      "Impex Auto Sales",
+      "MyCar: Trucktown",
+      4
+    ],
+    [
+      "AceAutoInc",
+      4
+    ],
+    [
+      "Greenway Automotive Group",
+      4
+    ],
+    [
+      "greenway auto group 2",
       3
     ],
     [
-      "Olson Chevrolet",
+      "Toronto Honda",
       3
     ],
     [
-      "Dean Carter Chevrolet",
-      2
+      "Janssen Auto Group",
+      3
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "McCurley Dealerships",
+      3
+    ],
+    [
+      "Vatland Auto Group",
+      3
+    ],
+    [
+      "Covert Auto Group",
+      3
+    ],
+    [
+      "Main Street Motors",
+      3
+    ],
+    [
+      "Parks Chevrolet Richmond",
       2
     ],
     [
@@ -64,39 +80,51 @@
       2
     ],
     [
-      "LUXURY IMPORTS",
+      "Emerald Motors",
       2
     ],
     [
-      "Audi Cape Fear",
+      "Davidson Auto Group",
       2
     ],
     [
-      "Bravo Automotive Group, LLC",
+      "Jenkins Auto Group",
       2
     ],
     [
-      "Mark Miller Subaru, Inc.",
+      "Roanoke Motors Inc",
       2
     ],
     [
-      "ROSI Automotive Group",
+      "Certified Autoplex Inc.",
       2
-    ],
-    [
-      "Beadle Ford, INC.",
-      2
-    ],
-    [
-      "World Car Auto Group",
-      2
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
     ],
     [
       "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "Charlie Clark Hyundai",
+      2
+    ],
+    [
+      "Hawthorne Auto Square",
+      2
+    ],
+    [
+      "Dean Carter Chevrolet",
+      2
+    ],
+    [
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "Spangler Subaru",
+      1
+    ],
+    [
+      "Volvo of Princeton Inc",
       1
     ],
     [
@@ -104,39 +132,7 @@
       1
     ],
     [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Brandon Steven Motors",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Asa Auto Plaza Of Austin",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -144,31 +140,59 @@
       1
     ],
     [
-      "Courtesy Automotive Group",
+      "Joshua Trownsell",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Blasius South",
       1
     ],
     [
-      "Kayser Chevrolet",
+      "Rochester Auto Mall",
       1
     ],
     [
-      "West Mitsubishi",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Dobbs Equity Partners, LLC",
+      "ZT Automotive",
       1
     ],
     [
-      "Emerald Motors",
+      "Janssen Chrysler Jeep Dodge",
       1
     ],
     [
-      "Flexcar",
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "Turpin Dodge Chrysler Jeep Ram",
+      1
+    ],
+    [
+      "Zim's Auto Sales & Services Inc",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Moses Auto Group",
+      1
+    ],
+    [
+      "S&S Motors",
+      1
+    ],
+    [
+      "Zeigler Hyundai of Racine",
+      1
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       1
     ]
   ]
