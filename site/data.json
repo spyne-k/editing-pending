@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T06:19:59.630Z",
+  "fetchedAt": "2026-10-14T12:06:50.474Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,14 @@
   "rows": [
     [
       null,
-      5
+      12
     ],
     [
-      "Flexcar",
-      1
+      "IM Marketplace GmBH",
+      11
     ],
     [
-      "AutoGiant USA",
-      1
-    ],
-    [
-      "Butler Lexus of South Atlanta",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ],
-    [
-      "Rolls-Royce Motor Cars Raleigh",
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
