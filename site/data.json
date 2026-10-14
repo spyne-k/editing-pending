@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T20:37:40.953Z",
+  "fetchedAt": "2026-10-14T23:25:43.380Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,66 +17,82 @@
   "rows": [
     [
       null,
-      60
+      76
     ],
     [
       "Russ Darrow Group, Inc.",
+      16
+    ],
+    [
+      "Greenway Automotive Group",
       10
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      9
-    ],
-    [
-      "Beck Motors",
-      7
-    ],
-    [
-      "Teton solutions Group",
+      "West Mitsubishi",
       4
     ],
     [
-      "Starling Chevrolet",
+      "Charlie Clark Hyundai",
       4
-    ],
-    [
-      "Van Horn Automotive Group",
-      4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Performance Auto Group",
-      3
     ],
     [
       "Amato Hyundai Of Glendale",
       3
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "Flexcar",
+      "Pritchard Companies",
+      3
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
-      "Silsbee Ford",
-      1
+      "ZT Automotive",
+      2
     ],
     [
-      "Yemm Auto",
-      1
+      "Sound auto and finance",
+      2
     ],
     [
       "Toronto Honda",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Flexcar",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Apex Automotive Group",
+      1
+    ],
+    [
+      "Dean Carter Chevrolet",
+      1
+    ],
+    [
+      "Volvo of Princeton Inc",
+      1
+    ],
+    [
+      "Ramsey Motor Company",
       1
     ],
     [
@@ -84,7 +100,27 @@
       1
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Median Media LLC",
+      1
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "AX Auto INC",
+      1
+    ],
+    [
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Performance Auto Group",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
       1
     ],
     [
@@ -92,7 +128,31 @@
       1
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
+      "Superior Auto, INC",
+      1
+    ],
+    [
+      "Hershey Motors",
+      1
+    ],
+    [
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "Car Central",
+      1
+    ],
+    [
+      "Silsbee Ford",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ]
   ]
