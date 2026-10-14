@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T17:04:42.811Z",
+  "fetchedAt": "2026-10-14T20:37:40.953Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,86 +17,82 @@
   "rows": [
     [
       null,
-      57
-    ],
-    [
-      "Impex Auto Sales",
-      9
-    ],
-    [
-      "Gettel Automotive Group",
-      7
+      60
     ],
     [
       "Russ Darrow Group, Inc.",
-      6
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      5
-    ],
-    [
-      "ZT Automotive",
-      4
-    ],
-    [
-      "Ray Auto Group",
-      3
-    ],
-    [
-      "County Ford",
-      3
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      3
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "District Auto Group",
-      2
-    ],
-    [
-      "DRIVE MOTOR GROUP SA",
-      2
-    ],
-    [
-      "Blasius Buick GMC",
-      2
+      10
     ],
     [
       "Asbury Automotive Management L.L.C",
-      2
+      9
+    ],
+    [
+      "Beck Motors",
+      7
+    ],
+    [
+      "Teton solutions Group",
+      4
+    ],
+    [
+      "Starling Chevrolet",
+      4
+    ],
+    [
+      "Van Horn Automotive Group",
+      4
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Performance Auto Group",
+      3
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      3
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      3
     ],
     [
       "Flexcar",
+      2
+    ],
+    [
+      "Silsbee Ford",
       1
     ],
     [
-      "Autos of Forney",
+      "Yemm Auto",
       1
     ],
     [
-      "West Mitsubishi",
+      "Toronto Honda",
       1
     ],
     [
-      "AX Auto INC",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "autokuva_nobg",
+      "Wood Motor Company",
       1
     ],
     [
-      "Audi Cape Fear",
+      "Capital Chevrolet Inc.",
       1
     ],
     [
-      "NorthTown Automotive",
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
       1
     ]
   ]
