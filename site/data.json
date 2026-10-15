@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T06:25:10.449Z",
+  "fetchedAt": "2026-10-15T11:51:28.041Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      6
+      4
     ],
     [
-      "IM Marketplace GmBH",
-      5
+      "Lockwood Motors, Inc.",
+      2
     ],
     [
-      "Dubizzle Cars L.L.C",
-      1
+      "RBM Automotive Group",
+      2
     ]
   ]
 }
