@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T11:51:28.041Z",
+  "fetchedAt": "2026-10-15T15:47:24.907Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,43 @@
   "rows": [
     [
       null,
-      4
+      12
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Flexcar",
       2
     ],
     [
-      "RBM Automotive Group",
+      "Rawian Oy",
       2
+    ],
+    [
+      "Jim Schmidt Automotive",
+      2
+    ],
+    [
+      "Autos of Forney",
+      1
+    ],
+    [
+      "Covert Bee Cave",
+      1
+    ],
+    [
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
+      1
+    ],
+    [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "Auto Dobrovolny V.M. s.r.o.",
+      1
     ]
   ]
 }
