@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T19:28:02.744Z",
+  "fetchedAt": "2026-10-15T22:35:23.516Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,46 @@
   "rows": [
     [
       null,
-      62
+      157
     ],
     [
-      "ZT Automotive",
-      11
+      "DealerVision.com",
+      14
+    ],
+    [
+      "Van Horn Automotive Group",
+      14
+    ],
+    [
+      "Flexcar",
+      9
     ],
     [
       "KASS Bladel-Reusel BV",
-      11
+      9
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      8
+    ],
+    [
+      "Ashland Auto Sales",
+      8
+    ],
+    [
+      "ZT Automotive",
+      8
+    ],
+    [
+      "Gettel Automotive Group",
+      7
     ],
     [
       "Asbury Automotive Management L.L.C",
+      7
+    ],
+    [
+      "Post Oak Toyota",
       7
     ],
     [
@@ -36,19 +64,43 @@
       6
     ],
     [
-      "Gettel Automotive Group",
+      "Bob King",
       5
     ],
     [
-      "Jenkins Auto Group",
+      "Renny Bettan",
+      5
+    ],
+    [
+      "Denver Auto",
       4
     ],
     [
-      "Southbank Dodge Chrysler (1982) Ltd",
+      "Speedway Car Sales",
+      4
+    ],
+    [
+      "Covert Auto Group",
+      4
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
       3
     ],
     [
-      "Impex Auto Sales",
+      "H&K Chevrolet Family Auto",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "AX Auto INC",
+      2
+    ],
+    [
+      "World Car Auto Group",
       2
     ],
     [
@@ -56,15 +108,47 @@
       2
     ],
     [
-      "Icon Motors Group",
+      "Rohrich Automotive Group",
       2
     ],
     [
-      "Flexcar",
+      "Median Media LLC",
+      2
+    ],
+    [
+      "Toronto Honda",
+      2
+    ],
+    [
+      "KL Honda",
+      2
+    ],
+    [
+      "Ideal Cars",
       1
     ],
     [
-      "Autos of Forney",
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Vatland Auto Group",
+      1
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "Twin Rivers Auto Group",
+      1
+    ],
+    [
+      "Berkshire Van Centre",
+      1
+    ],
+    [
+      "Great Lakes Auto ",
       1
     ],
     [
@@ -72,27 +156,31 @@
       1
     ],
     [
-      "West Mitsubishi",
+      "North Park Lincoln",
       1
     ],
     [
-      "Yemm Auto",
+      "Auto Gallery Automotive Group",
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "MyCar: Trucktown",
       1
     ],
     [
-      "Graff Auto Campus",
+      "Boardman Subaru and Imports",
       1
     ],
     [
-      "Beadle Ford, INC.",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "NorthTown Automotive",
       1
     ]
   ]
