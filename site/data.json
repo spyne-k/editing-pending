@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T23:25:43.380Z",
+  "fetchedAt": "2026-10-15T01:37:40.711Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,38 @@
   "rows": [
     [
       null,
-      76
+      101
     ],
     [
       "Russ Darrow Group, Inc.",
-      16
+      18
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      15
     ],
     [
       "Greenway Automotive Group",
       10
     ],
     [
-      "West Mitsubishi",
-      4
+      "Integrity Auto Sales",
+      6
     ],
     [
-      "Charlie Clark Hyundai",
+      "MyCar: Trucktown",
+      5
+    ],
+    [
+      "North Park Lincoln",
+      5
+    ],
+    [
+      "Gettel Automotive Group",
+      5
+    ],
+    [
+      "Icon Motors Group",
       4
     ],
     [
@@ -44,27 +60,15 @@
       3
     ],
     [
-      "Pritchard Companies",
+      "Covert Bee Cave",
       3
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
+      "Silsbee Ford",
+      3
     ],
     [
-      "ZT Automotive",
-      2
-    ],
-    [
-      "Sound auto and finance",
-      2
-    ],
-    [
-      "Toronto Honda",
-      2
-    ],
-    [
-      "Davidson Auto Group",
+      "DealerVision.com",
       2
     ],
     [
@@ -72,31 +76,11 @@
       2
     ],
     [
-      "Flexcar",
-      1
+      "MEI Inc",
+      2
     ],
     [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Apex Automotive Group",
-      1
-    ],
-    [
-      "Dean Carter Chevrolet",
-      1
-    ],
-    [
-      "Volvo of Princeton Inc",
-      1
-    ],
-    [
-      "Ramsey Motor Company",
-      1
-    ],
-    [
-      "Wood Motor Company",
+      "C.A.R. Automotive LLC",
       1
     ],
     [
@@ -104,23 +88,23 @@
       1
     ],
     [
-      "DealerVision.com",
+      "Calgary Truck",
       1
     ],
     [
-      "AX Auto INC",
+      "The Garage",
       1
     ],
     [
-      "Yemm Auto",
+      "Wood Motor Company",
       1
     ],
     [
-      "Performance Auto Group",
+      "Twin Pine Ford",
       1
     ],
     [
-      "Parks Chevrolet Richmond",
+      "IM Marketplace GmBH",
       1
     ],
     [
@@ -128,23 +112,19 @@
       1
     ],
     [
-      "Superior Auto, INC",
-      1
-    ],
-    [
-      "Hershey Motors",
-      1
-    ],
-    [
       "Preston Motor Automotive Group",
       1
     ],
     [
-      "Car Central",
+      "Yemm Auto",
       1
     ],
     [
-      "Silsbee Ford",
+      "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "Bemidji Chrysler & Honda of Bemidji",
       1
     ],
     [
@@ -152,7 +132,11 @@
       1
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Volvo of Princeton Inc",
       1
     ]
   ]
