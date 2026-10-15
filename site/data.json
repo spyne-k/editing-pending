@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T01:37:40.711Z",
+  "fetchedAt": "2026-10-15T06:25:10.449Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,126 +17,14 @@
   "rows": [
     [
       null,
-      101
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      18
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      15
-    ],
-    [
-      "Greenway Automotive Group",
-      10
-    ],
-    [
-      "Integrity Auto Sales",
       6
     ],
     [
-      "MyCar: Trucktown",
-      5
-    ],
-    [
-      "North Park Lincoln",
-      5
-    ],
-    [
-      "Gettel Automotive Group",
-      5
-    ],
-    [
-      "Icon Motors Group",
-      4
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Covert Bee Cave",
-      3
-    ],
-    [
-      "Silsbee Ford",
-      3
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "MEI Inc",
-      2
-    ],
-    [
-      "C.A.R. Automotive LLC",
-      1
-    ],
-    [
-      "Median Media LLC",
-      1
-    ],
-    [
-      "Calgary Truck",
-      1
-    ],
-    [
-      "The Garage",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Twin Pine Ford",
-      1
-    ],
-    [
       "IM Marketplace GmBH",
-      1
+      5
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Elite Auto Marketing Solutions",
-      1
-    ],
-    [
-      "Bemidji Chrysler & Honda of Bemidji",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      1
-    ],
-    [
-      "Volvo of Princeton Inc",
+      "Dubizzle Cars L.L.C",
       1
     ]
   ]
