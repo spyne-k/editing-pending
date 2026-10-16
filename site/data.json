@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T20:59:47.672Z",
+  "fetchedAt": "2026-10-16T23:24:00.006Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,66 +17,34 @@
   "rows": [
     [
       null,
-      108
+      65
     ],
     [
-      "Teton solutions Group",
-      22
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      15
-    ],
-    [
-      "Sprinkler Used Cars",
+      "DealerVision.com",
       8
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      6
     ],
     [
       "KASS Bladel-Reusel BV",
       5
     ],
     [
-      "Capital Chevrolet Inc.",
-      5
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Performance Automotive Network",
       4
     ],
     [
-      "Car Capital LTD",
+      "County Ford",
       4
     ],
     [
-      "Jenkins Auto Group",
-      4
-    ],
-    [
-      "Davidson Auto Group",
+      "AX Auto INC",
       3
     ],
     [
-      "Elite Auto Marketing Solutions",
-      3
-    ],
-    [
-      "Olson Chevrolet",
-      3
-    ],
-    [
-      "Prestige Auto Sales",
-      3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Towne Ford Inc",
-      2
-    ],
-    [
-      "Impex Auto Sales",
+      "Tropical Used Cars",
       2
     ],
     [
@@ -84,27 +52,55 @@
       2
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       2
     ],
     [
-      "Rick Weaver Chevrolet",
+      "Rusnak Auto Group - Mercedes- Benz of Arcadia",
       2
     ],
     [
-      "Covert Auto Group",
-      1
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
     ],
     [
       "Fred Anderson Honda",
+      2
+    ],
+    [
+      "Bob King",
       1
     ],
     [
-      "World Car Auto Group",
+      "Emerald Chevrolet",
       1
     ],
     [
-      "Certified Autoplex Inc.",
+      "Bill Dickason Chevrolet",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Ramsey Motor Company",
+      1
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "Jim Schmidt Automotive",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
@@ -112,11 +108,15 @@
       1
     ],
     [
-      "Performance Auto Group",
+      "Diffee Ford Lincoln",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Great Lakes Auto ",
+      1
+    ],
+    [
+      "Sakura Motors London LTD",
       1
     ],
     [
@@ -124,15 +124,11 @@
       1
     ],
     [
-      "Landers Dodge Chrysler Jeep RAM",
+      "Preston Motor Automotive Group",
       1
     ],
     [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "Kayser Chevrolet",
+      "Greenway Automotive Group",
       1
     ],
     [
@@ -140,19 +136,27 @@
       1
     ],
     [
+      "Apex Automotive Group",
+      1
+    ],
+    [
+      "Dream Automotive",
+      1
+    ],
+    [
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "Southern Ford of Thomaston",
+      1
+    ],
+    [
       "Silsbee Ford",
       1
     ],
     [
-      "Bob Johnson Automotive Group",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Autova",
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
