@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T22:35:23.516Z",
+  "fetchedAt": "2026-10-16T00:42:16.593Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,18 @@
   "rows": [
     [
       null,
-      157
+      118
     ],
     [
-      "DealerVision.com",
-      14
-    ],
-    [
-      "Van Horn Automotive Group",
-      14
-    ],
-    [
-      "Flexcar",
-      9
+      "Asbury Automotive Management L.L.C",
+      10
     ],
     [
       "KASS Bladel-Reusel BV",
-      9
+      8
     ],
     [
-      "Amato Hyundai Of Glendale",
+      "Greenway Automotive Group",
       8
     ],
     [
@@ -44,39 +36,31 @@
       8
     ],
     [
-      "ZT Automotive",
+      "Jenkins Auto Group",
       8
     ],
     [
-      "Gettel Automotive Group",
+      "NorthTown Automotive",
       7
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      7
-    ],
-    [
-      "Post Oak Toyota",
-      7
-    ],
-    [
-      "Greenway Automotive Group",
+      "MyCar: Trucktown",
       6
     ],
     [
-      "Bob King",
-      5
-    ],
-    [
-      "Renny Bettan",
-      5
-    ],
-    [
       "Denver Auto",
+      5
+    ],
+    [
+      "Gettel Automotive Group",
+      5
+    ],
+    [
+      "Portsmouth Ford Lincoln",
       4
     ],
     [
-      "Speedway Car Sales",
+      "Beck Motors",
       4
     ],
     [
@@ -84,23 +68,19 @@
       4
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
-      3
-    ],
-    [
       "H&K Chevrolet Family Auto",
       3
     ],
     [
-      "Jenkins Auto Group",
+      "ZT Automotive",
       3
     ],
     [
-      "AX Auto INC",
-      2
+      "BP AUTO FINDERS",
+      3
     ],
     [
-      "World Car Auto Group",
+      "Flexcar",
       2
     ],
     [
@@ -112,31 +92,43 @@
       2
     ],
     [
+      "DealerVision.com",
+      2
+    ],
+    [
       "Median Media LLC",
       2
     ],
     [
-      "Toronto Honda",
+      "LUXURY IMPORTS",
       2
     ],
     [
-      "KL Honda",
+      "Faircy Automotive",
       2
     ],
     [
-      "Ideal Cars",
+      "AX Auto INC",
+      2
+    ],
+    [
+      "Hatimi Auto LLC",
+      2
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      2
+    ],
+    [
+      "Zim's Auto Sales & Services Inc",
+      2
+    ],
+    [
+      "Graff Auto Campus",
       1
     ],
     [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "Lambert Buick GMC Inc",
+      "Ferris Chevrolet, Inc",
       1
     ],
     [
@@ -144,19 +136,15 @@
       1
     ],
     [
+      "Fred Anderson Honda",
+      1
+    ],
+    [
       "Berkshire Van Centre",
       1
     ],
     [
-      "Great Lakes Auto ",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "North Park Lincoln",
+      "The Ford Store Morgan Hill",
       1
     ],
     [
@@ -164,23 +152,15 @@
       1
     ],
     [
-      "MyCar: Trucktown",
+      "Silsbee Ford",
       1
     ],
     [
-      "Boardman Subaru and Imports",
+      "Springfield Luxury Automall",
       1
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      1
-    ],
-    [
-      "Rolls-Royce Motor Cars Raleigh",
-      1
-    ],
-    [
-      "NorthTown Automotive",
+      "Teton solutions Group",
       1
     ]
   ]
