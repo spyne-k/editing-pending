@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T09:39:34.185Z",
+  "fetchedAt": "2026-10-16T14:14:43.745Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,66 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      24
-    ],
-    [
-      "Jim Schmidt Automotive",
-      6
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      4
-    ],
-    [
-      "Flexcar",
-      2
-    ],
-    [
-      "Impex Auto Sales",
-      2
-    ],
-    [
-      "Bob King",
-      1
-    ],
-    [
-      "Yaktown Motors",
-      1
-    ],
-    [
-      "Flood Auto Group",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Buckingham Hyundai",
-      1
-    ],
-    [
-      "Icon Motors Group",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Dave Syverson Auto Center",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ]
-  ]
+  "rows": []
 }
