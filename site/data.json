@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T00:42:16.593Z",
+  "fetchedAt": "2026-10-16T05:02:27.175Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,150 +17,78 @@
   "rows": [
     [
       null,
-      118
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      10
-    ],
-    [
-      "KASS Bladel-Reusel BV",
-      8
-    ],
-    [
-      "Greenway Automotive Group",
-      8
-    ],
-    [
-      "Ashland Auto Sales",
-      8
-    ],
-    [
-      "Jenkins Auto Group",
-      8
-    ],
-    [
-      "NorthTown Automotive",
-      7
-    ],
-    [
-      "MyCar: Trucktown",
-      6
-    ],
-    [
-      "Denver Auto",
-      5
+      55
     ],
     [
       "Gettel Automotive Group",
-      5
+      11
     ],
     [
-      "Portsmouth Ford Lincoln",
+      "Northstar Kia",
       4
     ],
     [
-      "Beck Motors",
+      "ZT Automotive",
       4
     ],
     [
-      "Covert Auto Group",
+      "Russ Darrow Group, Inc.",
       4
     ],
     [
       "H&K Chevrolet Family Auto",
-      3
+      4
     ],
     [
-      "ZT Automotive",
-      3
-    ],
-    [
-      "BP AUTO FINDERS",
-      3
-    ],
-    [
-      "Flexcar",
-      2
-    ],
-    [
-      "Apex Automotive Group",
-      2
-    ],
-    [
-      "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Median Media LLC",
-      2
+      "Amato Hyundai Of Glendale",
+      4
     ],
     [
       "LUXURY IMPORTS",
+      3
+    ],
+    [
+      "Auto Exchange Group",
+      3
+    ],
+    [
+      "Davidson Auto Group",
+      3
+    ],
+    [
+      "Yoder Family of Companies",
+      3
+    ],
+    [
+      "Autohighway",
       2
     ],
     [
-      "Faircy Automotive",
+      "Jenkins Auto Group",
       2
     ],
     [
-      "AX Auto INC",
+      "Bravo Automotive Group, LLC",
       2
     ],
     [
-      "Hatimi Auto LLC",
+      "MAG CHRYSLER DODGE JEEP RAM",
       2
     ],
     [
-      "Car Hop Auto Sales & Finance",
-      2
-    ],
-    [
-      "Zim's Auto Sales & Services Inc",
-      2
-    ],
-    [
-      "Graff Auto Campus",
+      "Impex Auto Sales",
       1
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "Buckingham Hyundai",
       1
     ],
     [
-      "Twin Rivers Auto Group",
+      "Icon Motors Group",
       1
     ],
     [
-      "Fred Anderson Honda",
-      1
-    ],
-    [
-      "Berkshire Van Centre",
-      1
-    ],
-    [
-      "The Ford Store Morgan Hill",
-      1
-    ],
-    [
-      "Auto Gallery Automotive Group",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Springfield Luxury Automall",
-      1
-    ],
-    [
-      "Teton solutions Group",
+      "Dave Syverson Auto Center",
       1
     ]
   ]
