@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T18:06:07.426Z",
+  "fetchedAt": "2026-10-16T20:59:47.672Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,70 +17,82 @@
   "rows": [
     [
       null,
-      33
+      108
+    ],
+    [
+      "Teton solutions Group",
+      22
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      15
+    ],
+    [
+      "Sprinkler Used Cars",
+      8
     ],
     [
       "KASS Bladel-Reusel BV",
       5
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Capital Chevrolet Inc.",
       5
     ],
     [
-      "West Mitsubishi",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      4
+    ],
+    [
+      "Car Capital LTD",
+      4
+    ],
+    [
+      "Jenkins Auto Group",
+      4
+    ],
+    [
+      "Davidson Auto Group",
       3
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      3
+    ],
+    [
+      "Olson Chevrolet",
+      3
+    ],
+    [
+      "Prestige Auto Sales",
+      3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Towne Ford Inc",
+      2
     ],
     [
       "Impex Auto Sales",
       2
     ],
     [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Teton solutions Group",
-      2
-    ],
-    [
-      "Flexcar",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Drivemax USA",
-      1
-    ],
-    [
       "ZT Automotive",
-      1
+      2
     ],
     [
-      "Toronto Honda",
-      1
+      "Seth Wadley Ford of Pauls Valley",
+      2
     ],
     [
-      "Beaver County Auto",
-      1
+      "Rick Weaver Chevrolet",
+      2
     ],
     [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Ferris Chevrolet, Inc",
-      1
-    ],
-    [
-      "Szilagyi Gabriella",
+      "Covert Auto Group",
       1
     ],
     [
@@ -88,11 +100,59 @@
       1
     ],
     [
-      "Baxter Automotive",
+      "World Car Auto Group",
       1
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Certified Autoplex Inc.",
+      1
+    ],
+    [
+      "Mark Williams Auto Group",
+      1
+    ],
+    [
+      "Performance Auto Group",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Landers Dodge Chrysler Jeep RAM",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "2d5f0eb5f Dellenbach Motors",
+      1
+    ],
+    [
+      "Silsbee Ford",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Autova",
       1
     ]
   ]
