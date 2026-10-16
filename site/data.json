@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T05:02:27.175Z",
+  "fetchedAt": "2026-10-16T09:39:34.185Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,66 +17,42 @@
   "rows": [
     [
       null,
-      55
+      24
     ],
     [
-      "Gettel Automotive Group",
-      11
+      "Jim Schmidt Automotive",
+      6
     ],
     [
-      "Northstar Kia",
+      "Asbury Automotive Management L.L.C",
       4
     ],
     [
-      "ZT Automotive",
-      4
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      4
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      4
-    ],
-    [
-      "LUXURY IMPORTS",
-      3
-    ],
-    [
-      "Auto Exchange Group",
-      3
-    ],
-    [
-      "Davidson Auto Group",
-      3
-    ],
-    [
-      "Yoder Family of Companies",
-      3
-    ],
-    [
-      "Autohighway",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      2
-    ],
-    [
-      "MAG CHRYSLER DODGE JEEP RAM",
+      "Flexcar",
       2
     ],
     [
       "Impex Auto Sales",
+      2
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Yaktown Motors",
+      1
+    ],
+    [
+      "Flood Auto Group",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Graff Auto Campus",
       1
     ],
     [
@@ -88,7 +64,15 @@
       1
     ],
     [
+      "Faircy Automotive",
+      1
+    ],
+    [
       "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ]
   ]
