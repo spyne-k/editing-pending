@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T14:14:43.745Z",
+  "fetchedAt": "2026-10-16T18:06:07.426Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,86 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      null,
+      33
+    ],
+    [
+      "KASS Bladel-Reusel BV",
+      5
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
+      "West Mitsubishi",
+      3
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "DealerVision.com",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
+      "Silsbee Ford",
+      1
+    ],
+    [
+      "Drivemax USA",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Beaver County Auto",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      1
+    ],
+    [
+      "Szilagyi Gabriella",
+      1
+    ],
+    [
+      "Fred Anderson Honda",
+      1
+    ],
+    [
+      "Baxter Automotive",
+      1
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      1
+    ]
+  ]
 }
