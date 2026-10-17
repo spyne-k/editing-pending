@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T18:42:11.508Z",
+  "fetchedAt": "2026-10-17T20:59:13.755Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,26 @@
   "rows": [
     [
       null,
-      23
+      38
     ],
     [
-      "Hawthorne Auto Square",
-      5
+      "Charlie Clark Hyundai",
+      8
     ],
     [
-      "Covert Bee Cave",
+      "Euro Motorcars",
+      6
+    ],
+    [
+      "Lewiston Auto",
       4
     ],
     [
-      "Hatimi Auto LLC",
-      2
+      "Preston Motor Automotive Group",
+      3
     ],
     [
-      "Redmond Chevrolet",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
+      "Flexcar",
       2
     ],
     [
@@ -44,7 +44,11 @@
       2
     ],
     [
-      "Impex Auto Sales",
+      "Janssen Chrysler Jeep Dodge",
+      2
+    ],
+    [
+      "Rochester Toyota",
       1
     ],
     [
@@ -52,7 +56,23 @@
       1
     ],
     [
-      "Hammond Cars",
+      "Car Central",
+      1
+    ],
+    [
+      "Kayser Chevrolet",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Buckhannon Toyota",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
@@ -60,11 +80,15 @@
       1
     ],
     [
-      "Covert Auto Group",
+      "Davidson Auto Group",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "2d5f0eb5f Dellenbach Motors",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
