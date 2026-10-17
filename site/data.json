@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T23:24:00.006Z",
+  "fetchedAt": "2026-10-17T01:23:00.283Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,38 @@
   "rows": [
     [
       null,
-      65
+      59
     ],
     [
-      "DealerVision.com",
-      8
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      6
+      "AX Auto INC",
+      5
     ],
     [
       "KASS Bladel-Reusel BV",
       5
     ],
     [
-      "Performance Automotive Network",
+      "Russ Darrow Group, Inc.",
       4
     ],
     [
-      "County Ford",
+      "Emerald Motors",
       4
     ],
     [
-      "AX Auto INC",
+      "VW of Duluth",
       3
     ],
     [
-      "Tropical Used Cars",
-      2
+      "Nyle Maxwell CDJR Taylor",
+      3
     ],
     [
-      "ZT Automotive",
-      2
+      "Wood Motor Company",
+      3
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      2
-    ],
-    [
-      "Rusnak Auto Group - Mercedes- Benz of Arcadia",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
+      "Preston Motor Automotive Group",
       2
     ],
     [
@@ -68,16 +56,24 @@
       2
     ],
     [
-      "Bob King",
-      1
+      "Moses Auto Group",
+      2
     ],
     [
-      "Emerald Chevrolet",
-      1
+      "Twin Pine Ford",
+      2
     ],
     [
-      "Bill Dickason Chevrolet",
-      1
+      "Brandon Steven Motors",
+      2
+    ],
+    [
+      "MEI Inc",
+      2
+    ],
+    [
+      "Apex Automotive Group",
+      2
     ],
     [
       "Charlie Clark Hyundai",
@@ -88,19 +84,35 @@
       1
     ],
     [
-      "Ramsey Motor Company",
+      "LUXURY IMPORTS",
       1
     ],
     [
-      "Lambert Buick GMC Inc",
+      "Kempton Chevrolet",
       1
     ],
     [
-      "Jim Schmidt Automotive",
+      "Your Choice Auto LLC",
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "Smartlot All image set",
+      1
+    ],
+    [
+      "Kia Vancouver",
+      1
+    ],
+    [
+      "Hammond Cars",
+      1
+    ],
+    [
+      "Ideal Cars",
+      1
+    ],
+    [
+      "Carter Myers Automotive",
       1
     ],
     [
@@ -108,47 +120,7 @@
       1
     ],
     [
-      "Diffee Ford Lincoln",
-      1
-    ],
-    [
-      "Great Lakes Auto ",
-      1
-    ],
-    [
-      "Sakura Motors London LTD",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "2d5f0eb5f Dellenbach Motors",
-      1
-    ],
-    [
-      "Apex Automotive Group",
-      1
-    ],
-    [
-      "Dream Automotive",
-      1
-    ],
-    [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "Southern Ford of Thomaston",
+      "Ariana Motors",
       1
     ],
     [
@@ -156,7 +128,23 @@
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Yoder Family of Companies",
+      1
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
+      1
+    ],
+    [
+      "Rusnak Auto Group - Mercedes- Benz of Arcadia",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ]
   ]
