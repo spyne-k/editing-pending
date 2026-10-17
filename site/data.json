@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T01:23:00.283Z",
+  "fetchedAt": "2026-10-17T05:44:36.743Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,136 +16,12 @@
   ],
   "rows": [
     [
+      "Asbury Automotive Management L.L.C",
+      6
+    ],
+    [
       null,
-      59
-    ],
-    [
-      "AX Auto INC",
-      5
-    ],
-    [
-      "KASS Bladel-Reusel BV",
-      5
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "Emerald Motors",
-      4
-    ],
-    [
-      "VW of Duluth",
-      3
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
-      3
-    ],
-    [
-      "Wood Motor Company",
-      3
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Fred Anderson Honda",
-      2
-    ],
-    [
-      "Moses Auto Group",
-      2
-    ],
-    [
-      "Twin Pine Ford",
-      2
-    ],
-    [
-      "Brandon Steven Motors",
-      2
-    ],
-    [
-      "MEI Inc",
-      2
-    ],
-    [
-      "Apex Automotive Group",
-      2
-    ],
-    [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "LUXURY IMPORTS",
-      1
-    ],
-    [
-      "Kempton Chevrolet",
-      1
-    ],
-    [
-      "Your Choice Auto LLC",
-      1
-    ],
-    [
-      "Smartlot All image set",
-      1
-    ],
-    [
-      "Kia Vancouver",
-      1
-    ],
-    [
-      "Hammond Cars",
-      1
-    ],
-    [
-      "Ideal Cars",
-      1
-    ],
-    [
-      "Carter Myers Automotive",
-      1
-    ],
-    [
-      "Mark Williams Auto Group",
-      1
-    ],
-    [
-      "Ariana Motors",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Yoder Family of Companies",
-      1
-    ],
-    [
-      "Best Deal Auto Sales, INC.",
-      1
-    ],
-    [
-      "Rusnak Auto Group - Mercedes- Benz of Arcadia",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
+      6
     ]
   ]
 }
