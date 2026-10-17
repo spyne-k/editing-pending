@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T13:13:48.203Z",
+  "fetchedAt": "2026-10-17T16:26:39.573Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,38 +17,58 @@
   "rows": [
     [
       null,
-      22
+      24
     ],
     [
-      "Kian Motors INC",
-      5
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      5
-    ],
-    [
-      "Bergstrom Automotive",
+      "Sprinkler Used Cars",
       4
     ],
     [
-      "FS Car Point",
+      "Auto Exchange Group",
       3
     ],
     [
-      "SAS SELLIT",
+      "MEI Inc",
       2
     ],
     [
-      "Volvo Cars Palm Springs",
+      "North Park Lincoln",
+      2
+    ],
+    [
+      "Cornhusker Auto Center",
+      2
+    ],
+    [
+      "World Car Auto Group",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Flexcar",
       1
     ],
     [
-      "Kempton Chevrolet",
+      "District Auto Group",
       1
     ],
     [
-      "Quantrell Auto Group",
+      "Beadle Ford, INC.",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ]
   ]
