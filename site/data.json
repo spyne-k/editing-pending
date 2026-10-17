@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T09:42:39.715Z",
+  "fetchedAt": "2026-10-17T13:13:48.203Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,39 @@
   ],
   "rows": [
     [
+      null,
+      22
+    ],
+    [
+      "Kian Motors INC",
+      5
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
       "Bergstrom Automotive",
+      4
+    ],
+    [
+      "FS Car Point",
+      3
+    ],
+    [
+      "SAS SELLIT",
+      2
+    ],
+    [
+      "Volvo Cars Palm Springs",
       1
     ],
     [
-      null,
+      "Kempton Chevrolet",
+      1
+    ],
+    [
+      "Quantrell Auto Group",
       1
     ]
   ]
