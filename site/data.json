@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T16:26:39.573Z",
+  "fetchedAt": "2026-10-17T18:42:11.508Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,58 +17,54 @@
   "rows": [
     [
       null,
-      24
+      23
     ],
     [
-      "Sprinkler Used Cars",
+      "Hawthorne Auto Square",
+      5
+    ],
+    [
+      "Covert Bee Cave",
       4
     ],
     [
-      "Auto Exchange Group",
-      3
-    ],
-    [
-      "MEI Inc",
+      "Hatimi Auto LLC",
       2
     ],
     [
-      "North Park Lincoln",
+      "Redmond Chevrolet",
       2
     ],
     [
-      "Cornhusker Auto Center",
+      "Your Choice Auto LLC",
       2
     ],
     [
-      "World Car Auto Group",
+      "Bud Clary Chevrolet, INC",
       2
+    ],
+    [
+      "Impex Auto Sales",
+      1
+    ],
+    [
+      "Emerald Motors",
+      1
+    ],
+    [
+      "Hammond Cars",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
     ],
     [
       "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      2
-    ],
-    [
-      "Flexcar",
-      1
-    ],
-    [
-      "District Auto Group",
-      1
-    ],
-    [
-      "Beadle Ford, INC.",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
       1
     ]
   ]
