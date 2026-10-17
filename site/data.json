@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T20:59:13.755Z",
+  "fetchedAt": "2026-10-17T22:58:35.185Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,54 +17,30 @@
   "rows": [
     [
       null,
-      38
+      18
     ],
     [
-      "Charlie Clark Hyundai",
-      8
+      "Apex Automotive Group",
+      2
+    ],
+    [
+      "Dean Carter Chevrolet",
+      2
+    ],
+    [
+      "Jidd Motors Mitsubishi",
+      2
+    ],
+    [
+      "Silsbee Ford",
+      1
     ],
     [
       "Euro Motorcars",
-      6
-    ],
-    [
-      "Lewiston Auto",
-      4
-    ],
-    [
-      "Preston Motor Automotive Group",
-      3
-    ],
-    [
-      "Flexcar",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Janssen Chrysler Jeep Dodge",
-      2
-    ],
-    [
-      "Rochester Toyota",
       1
     ],
     [
-      "Emerald Motors",
-      1
-    ],
-    [
-      "Car Central",
-      1
-    ],
-    [
-      "Kayser Chevrolet",
-      1
-    ],
-    [
-      "North Park Lincoln",
+      "MB Motors",
       1
     ],
     [
@@ -72,7 +48,11 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Vatland Auto Group",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -84,11 +64,19 @@
       1
     ],
     [
-      "2d5f0eb5f Dellenbach Motors",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ]
   ]
