@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T16:47:13.209Z",
+  "fetchedAt": "2026-10-18T18:59:45.935Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,30 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      null,
+      7
+    ],
+    [
+      "Apex Automotive Group",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
+      2
+    ],
+    [
+      "Northstar Kia",
+      1
+    ],
+    [
+      "5 Star Imports",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ]
+  ]
 }
