@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T21:21:35.682Z",
+  "fetchedAt": "2026-10-18T23:23:10.135Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,14 @@
   "rows": [
     [
       null,
-      9
-    ],
-    [
-      "Emerald Motors",
       3
     ],
     [
-      "Preston Motor Automotive Group",
+      "Your Choice Auto LLC",
       2
     ],
     [
-      "Flexcar",
-      1
-    ],
-    [
-      "Taylor BMW",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
+      "Emerald Motors",
       1
     ]
   ]
