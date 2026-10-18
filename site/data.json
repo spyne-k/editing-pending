@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T18:59:45.935Z",
+  "fetchedAt": "2026-10-18T21:21:35.682Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,30 @@
   "rows": [
     [
       null,
-      7
+      9
     ],
     [
-      "Apex Automotive Group",
-      2
+      "Emerald Motors",
+      3
     ],
     [
       "Preston Motor Automotive Group",
       2
     ],
     [
-      "Northstar Kia",
+      "Flexcar",
       1
     ],
     [
-      "5 Star Imports",
+      "Taylor BMW",
       1
     ],
     [
       "Faircy Automotive",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
