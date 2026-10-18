@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T22:58:35.185Z",
+  "fetchedAt": "2026-10-18T00:43:14.205Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,70 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      18
-    ],
-    [
-      "Apex Automotive Group",
-      2
-    ],
-    [
-      "Dean Carter Chevrolet",
-      2
-    ],
-    [
-      "Jidd Motors Mitsubishi",
-      2
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Euro Motorcars",
-      1
-    ],
-    [
-      "MB Motors",
-      1
-    ],
-    [
-      "Buckhannon Toyota",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
-    ]
-  ]
+  "rows": []
 }
