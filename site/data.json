@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T13:50:43.443Z",
+  "fetchedAt": "2026-10-19T19:31:11.138Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,130 @@
   "rows": [
     [
       null,
-      6
-    ],
-    [
-      "INERCIKAR SA",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "Jim Schmidt Automotive",
-      1
+      122
     ],
     [
       "Asbury Automotive Management L.L.C",
+      41
+    ],
+    [
+      "Jenkins Auto Group",
+      14
+    ],
+    [
+      "Fred Anderson Honda",
+      9
+    ],
+    [
+      "Novacti",
+      7
+    ],
+    [
+      "Gettel Automotive Group",
+      6
+    ],
+    [
+      "Moses Auto Group",
+      4
+    ],
+    [
+      "Sprinkler Used Cars",
+      3
+    ],
+    [
+      "Turpin Dodge Chrysler Jeep Ram",
+      3
+    ],
+    [
+      "Pritchard Companies",
+      3
+    ],
+    [
+      "Princeton Chevrolet GMC",
+      3
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "Car Bargain",
+      2
+    ],
+    [
+      "Graff Auto Campus",
+      2
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
+      "Smartlot Solutions",
+      2
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      2
+    ],
+    [
+      "Boardman Subaru and Imports",
+      2
+    ],
+    [
+      "BP AUTO FINDERS",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Midway Dodge",
+      1
+    ],
+    [
+      "Long Automotive Group",
+      1
+    ],
+    [
+      "Covert Bee Cave",
+      1
+    ],
+    [
+      "Giant Auto Warehouse",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Ohio Specialty Services, LTD.",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "Carter Myers Automotive",
       1
     ]
   ]
