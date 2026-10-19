@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T19:31:11.138Z",
+  "fetchedAt": "2026-10-19T23:01:32.503Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,38 +17,86 @@
   "rows": [
     [
       null,
-      122
+      179
+    ],
+    [
+      "DealerVision.com",
+      22
     ],
     [
       "Asbury Automotive Management L.L.C",
-      41
+      13
     ],
     [
-      "Jenkins Auto Group",
-      14
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      11
     ],
     [
-      "Fred Anderson Honda",
-      9
+      "Yoder Family of Companies",
+      10
     ],
     [
-      "Novacti",
+      "Rohrich Automotive Group",
+      8
+    ],
+    [
+      "Covert Auto Group",
       7
     ],
     [
-      "Gettel Automotive Group",
+      "Davidson Auto Group",
       6
     ],
     [
-      "Moses Auto Group",
+      "Fred Anderson Honda",
+      6
+    ],
+    [
+      "Olson Chevrolet",
+      5
+    ],
+    [
+      "Car Central",
+      5
+    ],
+    [
+      "Georgia Auto World",
+      5
+    ],
+    [
+      "Speedway Car Sales",
+      5
+    ],
+    [
+      "Covert Bee Cave",
       4
     ],
     [
-      "Sprinkler Used Cars",
-      3
+      "House Chevrolet Co.",
+      4
     ],
     [
-      "Turpin Dodge Chrysler Jeep Ram",
+      "Teton solutions Group",
+      4
+    ],
+    [
+      "Wood Motor Company",
+      4
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      4
+    ],
+    [
+      "Brandon Steven Motors",
+      4
+    ],
+    [
+      "Dave Syverson Auto Center",
+      4
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       3
     ],
     [
@@ -56,11 +104,31 @@
       3
     ],
     [
-      "Princeton Chevrolet GMC",
+      "Apex Automotive Group",
       3
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "ZT Automotive",
+      3
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      3
+    ],
+    [
+      "Midway Dodge",
+      3
+    ],
+    [
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "Smartlot Solutions",
+      2
+    ],
+    [
+      "Autos of Forney",
       2
     ],
     [
@@ -68,79 +136,71 @@
       2
     ],
     [
-      "Car Bargain",
+      "5 Star Imports",
       2
     ],
     [
-      "Graff Auto Campus",
+      "Icon Motors Group",
       2
     ],
     [
-      "Car Central",
+      "Lambert Buick GMC Inc",
       2
     ],
     [
-      "Smartlot Solutions",
+      "Moses Auto Group",
       2
+    ],
+    [
+      "Beaver County Auto",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Novacti",
+      1
+    ],
+    [
+      "Performance Auto Group",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      1
     ],
     [
       "H&K Chevrolet Family Auto",
-      2
-    ],
-    [
-      "Boardman Subaru and Imports",
-      2
-    ],
-    [
-      "BP AUTO FINDERS",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       1
     ],
     [
-      "World Car Auto Group",
+      "Cornhusker Auto Center",
       1
     ],
     [
-      "Midway Dodge",
+      "Hammond Cars",
       1
     ],
     [
-      "Long Automotive Group",
+      "Performance Automotive Network",
       1
     ],
     [
-      "Covert Bee Cave",
-      1
-    ],
-    [
-      "Giant Auto Warehouse",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
-      1
-    ],
-    [
-      "Starling Chevrolet",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
-      "Ohio Specialty Services, LTD.",
-      1
-    ],
-    [
-      "Rolls-Royce Motor Cars Raleigh",
-      1
-    ],
-    [
-      "Carter Myers Automotive",
+      "Flexcar",
       1
     ]
   ]
