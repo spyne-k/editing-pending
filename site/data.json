@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T06:30:15.599Z",
+  "fetchedAt": "2026-10-19T13:50:43.443Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,30 @@
   "rows": [
     [
       null,
-      7
+      6
     ],
     [
-      "RC Hill Powersports Orlando",
-      3
-    ],
-    [
-      "Louyet Re-used",
-      2
-    ],
-    [
-      "Rawian Oy",
+      "INERCIKAR SA",
       1
     ],
     [
-      "Golden Bay Motors LLC DBA Golden Bay Motors",
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Jim Schmidt Automotive",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
