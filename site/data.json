@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T23:01:32.503Z",
+  "fetchedAt": "2026-10-20T01:41:24.189Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,18 @@
   "rows": [
     [
       null,
-      179
-    ],
-    [
-      "DealerVision.com",
-      22
+      104
     ],
     [
       "Asbury Automotive Management L.L.C",
-      13
+      18
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      11
-    ],
-    [
-      "Yoder Family of Companies",
-      10
-    ],
-    [
-      "Rohrich Automotive Group",
-      8
-    ],
-    [
-      "Covert Auto Group",
+      "Preston Motor Automotive Group",
       7
     ],
     [
-      "Davidson Auto Group",
-      6
-    ],
-    [
-      "Fred Anderson Honda",
-      6
-    ],
-    [
       "Olson Chevrolet",
-      5
-    ],
-    [
-      "Car Central",
       5
     ],
     [
@@ -64,19 +36,11 @@
       5
     ],
     [
-      "Speedway Car Sales",
+      "Puente Hills Mitsubishi",
       5
     ],
     [
-      "Covert Bee Cave",
-      4
-    ],
-    [
       "House Chevrolet Co.",
-      4
-    ],
-    [
-      "Teton solutions Group",
       4
     ],
     [
@@ -88,27 +52,19 @@
       4
     ],
     [
-      "Brandon Steven Motors",
+      "Teton solutions Group",
       4
     ],
     [
-      "Dave Syverson Auto Center",
-      4
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Flexcar",
       3
     ],
     [
-      "Pritchard Companies",
+      "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "ZT Automotive",
+      "Integrity Auto Sales",
       3
     ],
     [
@@ -116,7 +72,7 @@
       3
     ],
     [
-      "Midway Dodge",
+      "Russ Darrow Group, Inc.",
       3
     ],
     [
@@ -124,27 +80,19 @@
       3
     ],
     [
-      "Smartlot Solutions",
+      "Tropical Used Cars",
       2
     ],
     [
-      "Autos of Forney",
+      "Jenkins Auto Group",
       2
     ],
     [
-      "LUXURY IMPORTS",
+      "Silsbee Ford",
       2
     ],
     [
-      "5 Star Imports",
-      2
-    ],
-    [
-      "Icon Motors Group",
-      2
-    ],
-    [
-      "Lambert Buick GMC Inc",
+      "Your Choice Auto LLC",
       2
     ],
     [
@@ -152,15 +100,31 @@
       2
     ],
     [
-      "Beaver County Auto",
-      1
+      "Smartlot Solutions",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
     ],
     [
       "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Novacti",
+      "Northside Auto Sales",
+      1
+    ],
+    [
+      "Auto Park Ford Bremen",
       1
     ],
     [
@@ -168,11 +132,15 @@
       1
     ],
     [
-      "Bravo Automotive Group, LLC",
+      "H&K Chevrolet Family Auto",
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Janssen Chrysler Jeep Dodge",
+      1
+    ],
+    [
+      "Yoder Family of Companies",
       1
     ],
     [
@@ -180,19 +148,7 @@
       1
     ],
     [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
       "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "Hammond Cars",
       1
     ],
     [
@@ -200,7 +156,11 @@
       1
     ],
     [
-      "Flexcar",
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "Faircy Automotive",
       1
     ]
   ]
