@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T20:15:42.320Z",
+  "fetchedAt": "2026-10-20T23:13:00.041Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,58 +17,102 @@
   "rows": [
     [
       null,
-      118
-    ],
-    [
-      "Fred Anderson Honda",
-      13
-    ],
-    [
-      "Pritchard Companies",
-      12
-    ],
-    [
-      "Flexcar",
-      9
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      8
-    ],
-    [
-      "Impex Auto Sales",
-      7
-    ],
-    [
-      "Gettel Automotive Group",
-      7
+      190
     ],
     [
       "Asbury Automotive Management L.L.C",
-      6
+      27
     ],
     [
-      "Moffitt's Ford",
-      4
+      "Flexcar",
+      11
     ],
     [
-      "Preston Motor Automotive Group",
-      4
+      "ZT Automotive",
+      10
     ],
     [
-      "Van Horn Automotive Group",
-      4
-    ],
-    [
-      "Blasius Buick GMC",
-      3
+      "LuxuryMotorCars",
+      10
     ],
     [
       "Davidson Auto Group",
-      3
+      9
+    ],
+    [
+      "Teton solutions Group",
+      8
+    ],
+    [
+      "Van Horn Automotive Group",
+      7
+    ],
+    [
+      "World Car Auto Group",
+      7
+    ],
+    [
+      "Novacti",
+      6
+    ],
+    [
+      "Jenkins Auto Group",
+      6
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      5
+    ],
+    [
+      "Lewiston Auto",
+      4
+    ],
+    [
+      "Rohrich Automotive Group",
+      4
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      4
+    ],
+    [
+      "Portsmouth Ford Lincoln",
+      4
+    ],
+    [
+      "Greenway Automotive Group",
+      4
     ],
     [
       "Yemm Auto",
+      3
+    ],
+    [
+      "Moffitt's Ford",
+      3
+    ],
+    [
+      "Dean Carter Chevrolet",
+      3
+    ],
+    [
+      "Covert Auto Group",
+      3
+    ],
+    [
+      "Adams Chevrolet Inc",
+      3
+    ],
+    [
+      "Twin Rivers Auto Group",
+      3
+    ],
+    [
+      "Olson Chevrolet",
+      3
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       3
     ],
     [
@@ -76,31 +120,31 @@
       3
     ],
     [
-      "Jenkins Auto Group",
+      "Performance Auto Group",
       3
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Worldwide Motors LTD dba Paragon Acura",
       3
     ],
     [
-      "Olson Chevrolet",
+      "Vindevers Autohaus of Sylvania",
+      3
+    ],
+    [
+      "Blasius South",
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Your Choice Auto LLC",
       2
     ],
     [
-      "World Car Auto Group",
+      "Runde Chevrolet, Inc.",
       2
     ],
     [
-      "Car Central",
-      2
-    ],
-    [
-      "County Ford",
+      "Blasius Buick GMC",
       2
     ],
     [
@@ -108,43 +152,27 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Renny Bettan",
       2
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "DealerVision.com",
       1
     ],
     [
-      "Dick Dyer & Associates",
+      "Capital Chevrolet Inc.",
       1
     ],
     [
-      "Your Choice Auto LLC",
+      "Smartlot Solutions",
       1
     ],
     [
-      "Dean Carter Chevrolet",
-      1
-    ],
-    [
-      "Covert Ford Lincoln",
-      1
-    ],
-    [
-      "Twin Rivers Auto Group",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Toronto Honda",
+      "Baxter Automotive",
       1
     ],
     [
@@ -152,11 +180,39 @@
       1
     ],
     [
+      "Brandon Steven Motors",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
       "Courtesy Automotive Group",
       1
     ],
     [
-      "Graff Auto Campus",
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Rusnak Auto Group - Mercedes- Benz of Arcadia",
+      1
+    ],
+    [
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      1
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "Audi Cape Fear",
+      1
+    ],
+    [
+      "Towne Ford Inc",
       1
     ]
   ]
