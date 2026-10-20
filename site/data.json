@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T06:37:25.772Z",
+  "fetchedAt": "2026-10-20T12:07:27.613Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,34 @@
   "rows": [
     [
       null,
-      15
+      35
     ],
     [
-      "Fred Anderson Honda",
-      6
+      "Rawian Oy",
+      12
     ],
     [
-      "Greenway Automotive Group",
-      3
-    ],
-    [
-      "Smartlot Solutions",
-      2
-    ],
-    [
-      "Mark Williams Auto Group",
-      2
-    ],
-    [
-      "Landers Dodge Chrysler Jeep RAM",
-      1
+      "Covert Bee Cave",
+      10
     ],
     [
       "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
+      "Kian Motors INC",
+      3
+    ],
+    [
+      "Quantrell Auto Group",
+      3
+    ],
+    [
+      "Dubizzle Cars L.L.C",
+      1
+    ],
+    [
+      "Fred Anderson Honda",
       1
     ]
   ]
