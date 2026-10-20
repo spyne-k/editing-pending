@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T01:41:24.189Z",
+  "fetchedAt": "2026-10-20T06:37:25.772Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,150 +17,30 @@
   "rows": [
     [
       null,
-      104
+      15
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      18
+      "Fred Anderson Honda",
+      6
     ],
     [
-      "Preston Motor Automotive Group",
-      7
-    ],
-    [
-      "Olson Chevrolet",
-      5
-    ],
-    [
-      "Georgia Auto World",
-      5
-    ],
-    [
-      "Puente Hills Mitsubishi",
-      5
-    ],
-    [
-      "House Chevrolet Co.",
-      4
-    ],
-    [
-      "Wood Motor Company",
-      4
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      4
-    ],
-    [
-      "Teton solutions Group",
-      4
-    ],
-    [
-      "Flexcar",
+      "Greenway Automotive Group",
       3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Integrity Auto Sales",
-      3
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      3
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      3
-    ],
-    [
-      "Van Horn Automotive Group",
-      3
-    ],
-    [
-      "Tropical Used Cars",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Silsbee Ford",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Moses Auto Group",
-      2
     ],
     [
       "Smartlot Solutions",
       2
     ],
     [
-      "LUXURY IMPORTS",
+      "Mark Williams Auto Group",
       2
     ],
     [
-      "Gettel Automotive Group",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
+      "Landers Dodge Chrysler Jeep RAM",
       1
     ],
     [
-      "Northside Auto Sales",
-      1
-    ],
-    [
-      "Auto Park Ford Bremen",
-      1
-    ],
-    [
-      "Performance Auto Group",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Janssen Chrysler Jeep Dodge",
-      1
-    ],
-    [
-      "Yoder Family of Companies",
-      1
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
-      1
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      1
-    ],
-    [
-      "Faircy Automotive",
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
