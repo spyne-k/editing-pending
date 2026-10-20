@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T12:07:27.613Z",
+  "fetchedAt": "2026-10-20T16:55:43.022Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,90 @@
   "rows": [
     [
       null,
-      35
+      55
     ],
     [
-      "Rawian Oy",
-      12
+      "Flexcar",
+      9
     ],
     [
-      "Covert Bee Cave",
-      10
+      "Gettel Automotive Group",
+      9
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      5
+      "Impex Auto Sales",
+      7
     ],
     [
-      "Kian Motors INC",
+      "Van Horn Automotive Group",
+      4
+    ],
+    [
+      "Yemm Auto",
       3
     ],
     [
-      "Quantrell Auto Group",
+      "Pritchard Companies",
       3
     ],
     [
-      "Dubizzle Cars L.L.C",
+      "Capital Chevrolet Inc.",
+      3
+    ],
+    [
+      "Car Central",
+      2
+    ],
+    [
+      "County Ford",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Graff Auto Campus",
+      1
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Dick Dyer & Associates",
+      1
+    ],
+    [
+      "Dean Carter Chevrolet",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Covert Ford Lincoln",
+      1
+    ],
+    [
+      "Jim Schmidt Automotive",
       1
     ],
     [
       "Fred Anderson Honda",
+      1
+    ],
+    [
+      "Blasius Buick GMC",
       1
     ]
   ]
