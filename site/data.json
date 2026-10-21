@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T23:13:00.041Z",
+  "fetchedAt": "2026-10-21T01:36:20.945Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,66 +17,34 @@
   "rows": [
     [
       null,
-      190
+      148
     ],
     [
       "Asbury Automotive Management L.L.C",
-      27
+      56
     ],
     [
-      "Flexcar",
+      "Lewiston Auto",
       11
-    ],
-    [
-      "ZT Automotive",
-      10
-    ],
-    [
-      "LuxuryMotorCars",
-      10
-    ],
-    [
-      "Davidson Auto Group",
-      9
-    ],
-    [
-      "Teton solutions Group",
-      8
-    ],
-    [
-      "Van Horn Automotive Group",
-      7
     ],
     [
       "World Car Auto Group",
       7
     ],
     [
-      "Novacti",
-      6
+      "DealerVision.com",
+      7
     ],
     [
-      "Jenkins Auto Group",
-      6
+      "Bob Johnson Automotive Group",
+      7
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Lambert Buick GMC Inc",
       5
     ],
     [
-      "Lewiston Auto",
-      4
-    ],
-    [
       "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "Portsmouth Ford Lincoln",
       4
     ],
     [
@@ -84,19 +52,23 @@
       4
     ],
     [
-      "Yemm Auto",
+      "Seth Wadley Ford of Pauls Valley",
+      4
+    ],
+    [
+      "Pritchard Companies",
+      4
+    ],
+    [
+      "Victory Automotive Group",
       3
     ],
     [
-      "Moffitt's Ford",
+      "District Auto Group",
       3
     ],
     [
-      "Dean Carter Chevrolet",
-      3
-    ],
-    [
-      "Covert Auto Group",
+      "Bob King",
       3
     ],
     [
@@ -104,23 +76,15 @@
       3
     ],
     [
-      "Twin Rivers Auto Group",
-      3
-    ],
-    [
-      "Olson Chevrolet",
-      3
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "Carter Myers Automotive",
       3
     ],
     [
       "Performance Auto Group",
+      3
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       3
     ],
     [
@@ -132,87 +96,35 @@
       3
     ],
     [
-      "Blasius South",
+      "Volvo of Princeton Inc",
       2
     ],
     [
-      "Your Choice Auto LLC",
+      "Russ Darrow Group, Inc.",
       2
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Auto Gallery Automotive Group",
       2
     ],
     [
-      "Blasius Buick GMC",
+      "Mark Williams Auto Group",
       2
     ],
     [
-      "H&K Chevrolet Family Auto",
-      2
-    ],
-    [
-      "Renny Bettan",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "DealerVision.com",
+      "Integrity Auto Sales",
       1
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Northside Auto Sales",
       1
     ],
     [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Baxter Automotive",
-      1
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      1
-    ],
-    [
-      "Brandon Steven Motors",
-      1
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Courtesy Automotive Group",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Rusnak Auto Group - Mercedes- Benz of Arcadia",
-      1
-    ],
-    [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
+      "Janssen Auto Group",
       1
     ],
     [
       "Elite Auto Marketing Solutions",
-      1
-    ],
-    [
-      "Audi Cape Fear",
-      1
-    ],
-    [
-      "Towne Ford Inc",
       1
     ]
   ]
