@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T12:15:57.439Z",
+  "fetchedAt": "2026-10-21T17:17:51.388Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,86 @@
   "rows": [
     [
       null,
-      22
+      42
     ],
     [
-      "Rawian Oy",
-      9
+      "Van Horn Automotive Group",
+      5
     ],
     [
-      "Champion Ford",
+      "Impex Auto Sales",
+      4
+    ],
+    [
+      "Car Central",
+      4
+    ],
+    [
+      "ZT Automotive",
       3
     ],
     [
-      "Budweiser Motors",
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
+      3
+    ],
+    [
+      "Olson Chevrolet",
       2
     ],
     [
-      "Quantrell Auto Group",
+      "Graff Auto Campus",
       2
     ],
     [
-      "Adliv Motors Ltd T/A AutoXpress",
+      "Wood Motor Company",
       2
     ],
     [
-      "Ideal Cars",
-      1
+      "Capital Chevrolet Inc.",
+      2
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
-      1
-    ],
-    [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
-      1
+      "Bravo Automotive Group, LLC",
+      2
     ],
     [
       "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
+      "Autos of Forney",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Jidd Motors Mitsubishi",
+      1
+    ],
+    [
+      "Carter Myers Automotive",
       1
     ]
   ]
