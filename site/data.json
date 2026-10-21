@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T06:31:47.196Z",
+  "fetchedAt": "2026-10-21T12:15:57.439Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,38 @@
   "rows": [
     [
       null,
-      14
-    ],
-    [
-      "Olson Chevrolet",
-      4
+      22
     ],
     [
       "Rawian Oy",
-      4
+      9
     ],
     [
-      "Greenway Automotive Group",
+      "Champion Ford",
       3
     ],
     [
-      "Giant Auto Warehouse",
+      "Budweiser Motors",
+      2
+    ],
+    [
+      "Quantrell Auto Group",
+      2
+    ],
+    [
+      "Adliv Motors Ltd T/A AutoXpress",
+      2
+    ],
+    [
+      "Ideal Cars",
       1
     ],
     [
       "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
