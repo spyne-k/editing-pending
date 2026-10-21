@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T01:36:20.945Z",
+  "fetchedAt": "2026-10-21T06:31:47.196Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,114 +17,30 @@
   "rows": [
     [
       null,
-      148
+      14
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      56
+      "Olson Chevrolet",
+      4
     ],
     [
-      "Lewiston Auto",
-      11
-    ],
-    [
-      "World Car Auto Group",
-      7
-    ],
-    [
-      "DealerVision.com",
-      7
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      7
-    ],
-    [
-      "Lambert Buick GMC Inc",
-      5
-    ],
-    [
-      "Rohrich Automotive Group",
+      "Rawian Oy",
       4
     ],
     [
       "Greenway Automotive Group",
-      4
+      3
+    ],
+    [
+      "Giant Auto Warehouse",
+      1
     ],
     [
       "Seth Wadley Ford of Pauls Valley",
-      4
-    ],
-    [
-      "Pritchard Companies",
-      4
-    ],
-    [
-      "Victory Automotive Group",
-      3
-    ],
-    [
-      "District Auto Group",
-      3
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
-      "Adams Chevrolet Inc",
-      3
-    ],
-    [
-      "Carter Myers Automotive",
-      3
-    ],
-    [
-      "Performance Auto Group",
-      3
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      3
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
-      3
-    ],
-    [
-      "Vindevers Autohaus of Sylvania",
-      3
-    ],
-    [
-      "Volvo of Princeton Inc",
-      2
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      2
-    ],
-    [
-      "Auto Gallery Automotive Group",
-      2
-    ],
-    [
-      "Mark Williams Auto Group",
-      2
-    ],
-    [
-      "Integrity Auto Sales",
       1
     ],
     [
-      "Northside Auto Sales",
-      1
-    ],
-    [
-      "Janssen Auto Group",
-      1
-    ],
-    [
-      "Elite Auto Marketing Solutions",
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
