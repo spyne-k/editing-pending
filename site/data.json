@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T01:50:16.365Z",
+  "fetchedAt": "2026-10-22T06:40:07.356Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,159 +17,15 @@
   "rows": [
     [
       null,
-      62
+      6
     ],
     [
-      "LUXURY IMPORTS",
+      "Bergstrom Automotive",
       4
     ],
     [
-      "S&L Motors, Pulaski WI",
-      3
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Rawian Oy",
       2
-    ],
-    [
-      "Kayser Chevrolet",
-      2
-    ],
-    [
-      "Hershey Motors",
-      2
-    ],
-    [
-      "Twin Pine Ford",
-      2
-    ],
-    [
-      "KAR Auto Group",
-      2
-    ],
-    [
-      "Blasius South",
-      2
-    ],
-    [
-      "MyCar: Trucktown",
-      2
-    ],
-    [
-      "West Mitsubishi",
-      2
-    ],
-    [
-      "Joshua Trownsell",
-      2
-    ],
-    [
-      "McCurley Dealerships",
-      2
-    ],
-    [
-      "Janssen Kool Honda",
-      2
-    ],
-    [
-      "Georgia Auto World",
-      2
-    ],
-    [
-      "Roanoke Motors Inc",
-      2
-    ],
-    [
-      "Janssen Auto Group",
-      2
-    ],
-    [
-      "Jim Schmidt Automotive",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      2
-    ],
-    [
-      "Yoder Family of Companies",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      1
-    ],
-    [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "greenway auto group 2",
-      1
-    ],
-    [
-      "Ideal Cars",
-      1
-    ],
-    [
-      "Perkins Motors",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Covert Bee Cave",
-      1
-    ],
-    [
-      "Enterprise Motor Group",
-      1
-    ],
-    [
-      "Sprinkler Used Cars",
-      1
-    ],
-    [
-      "Mark Williams Auto Group",
-      1
-    ],
-    [
-      "Brownboys Motorclub",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Courtesy Automotive Group",
-      1
-    ],
-    [
-      "K&f Auto Sales And Service",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
     ]
   ]
 }
