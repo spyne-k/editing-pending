@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T06:40:07.356Z",
+  "fetchedAt": "2026-10-22T12:25:25.225Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,31 @@
   "rows": [
     [
       null,
-      6
+      12
     ],
     [
-      "Bergstrom Automotive",
+      "Kempton Chevrolet",
       4
     ],
     [
-      "Rawian Oy",
+      "Bergstrom Automotive",
+      3
+    ],
+    [
+      "Al-Zayani Trading Company",
       2
+    ],
+    [
+      "Lockwood Motors, Inc.",
+      1
+    ],
+    [
+      "C.A. Larsen Automobiler A/S",
+      1
+    ],
+    [
+      "Greenville Automotive Group",
+      1
     ]
   ]
 }
