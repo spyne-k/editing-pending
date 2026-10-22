@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T17:26:32.325Z",
+  "fetchedAt": "2026-10-22T20:41:53.197Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,54 +17,66 @@
   "rows": [
     [
       null,
-      49
+      98
     ],
     [
-      "DealerVision.com",
-      13
+      "Long Automotive Group",
+      10
     ],
     [
-      "Car Central",
+      "AX Auto INC",
+      8
+    ],
+    [
+      "ZT Automotive",
+      8
+    ],
+    [
+      "Dave Syverson Auto Center",
+      8
+    ],
+    [
+      "Van Horn Automotive Group",
+      8
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      7
+    ],
+    [
+      "Jenkins Auto Group",
+      6
+    ],
+    [
+      "Greenway Automotive Group",
       4
     ],
     [
-      "Davidson Auto Group",
-      4
-    ],
-    [
-      "World Car Auto Group",
+      "Kian Motors INC",
       3
     ],
     [
       "Volvo of Princeton Inc",
-      3
+      2
     ],
     [
-      "Bergstrom Automotive",
-      3
+      "Vatland Auto Group",
+      2
     ],
     [
-      "H&K Chevrolet Family Auto",
-      3
+      "Fred Anderson Honda",
+      2
     ],
     [
-      "Van Horn Automotive Group",
-      3
+      "Wharton Ford",
+      2
     ],
     [
       "Bob King",
       2
     ],
     [
-      "Yemm Auto",
-      2
-    ],
-    [
-      "Graff Auto Campus",
-      2
-    ],
-    [
-      "Speedway Car Sales",
+      "Portsmouth Ford Lincoln",
       2
     ],
     [
@@ -72,7 +84,19 @@
       2
     ],
     [
-      "Petersen CDJR",
+      "Car Hop Auto Sales & Finance",
+      2
+    ],
+    [
+      "Parks Chevrolet Richmond",
+      2
+    ],
+    [
+      "Dream Automotive",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -80,7 +104,59 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "NorthTown Automotive",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Great Lakes Auto ",
+      1
+    ],
+    [
+      "Auto Ocasión Saez",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Quality Cars Zaventem",
+      1
+    ],
+    [
+      "Ultimate Motor Cars LLC",
+      1
+    ],
+    [
+      "Graff Auto Campus",
+      1
+    ],
+    [
+      "VICTORY CIRCLE AUTO SALES",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ]
   ]
