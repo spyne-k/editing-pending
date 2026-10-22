@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T23:38:17.522Z",
+  "fetchedAt": "2026-10-22T01:50:16.365Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,150 +17,18 @@
   "rows": [
     [
       null,
-      191
+      62
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      37
-    ],
-    [
-      "AX Auto INC",
-      6
-    ],
-    [
-      "Portsmouth Ford Lincoln",
-      6
-    ],
-    [
-      "Dave Syverson Auto Center",
-      6
-    ],
-    [
-      "Car Central",
-      5
-    ],
-    [
-      "Teton solutions Group",
-      5
-    ],
-    [
-      "Beaver County Auto",
-      5
-    ],
-    [
-      "Georgia Auto World",
-      5
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      5
-    ],
-    [
-      "World Car Auto Group",
+      "LUXURY IMPORTS",
       4
-    ],
-    [
-      "Parks Chevrolet Richmond",
-      4
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      4
-    ],
-    [
-      "Greenway Automotive Group",
-      4
-    ],
-    [
-      "Bob King",
-      3
-    ],
-    [
-      "Impex Auto Sales",
-      3
-    ],
-    [
-      "Ramsey Motor Company",
-      3
     ],
     [
       "S&L Motors, Pulaski WI",
       3
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      3
-    ],
-    [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Lamacchia Honda",
-      3
-    ],
-    [
-      "Ferris Chevrolet, Inc",
-      2
-    ],
-    [
-      "Car Bargain",
-      2
-    ],
-    [
-      "Baker Cadillac, Inc",
-      2
-    ],
-    [
-      "Hershey Motors",
-      2
-    ],
-    [
-      "Dimmitt Automotive Group",
-      2
-    ],
-    [
-      "Blasius South",
-      2
-    ],
-    [
       "Russ Darrow Group, Inc.",
-      2
-    ],
-    [
-      "Janssen Auto Group",
-      2
-    ],
-    [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "S&S Motors",
-      2
-    ],
-    [
-      "Joshua Trownsell",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Diffee Ford Lincoln",
-      2
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
       2
     ],
     [
@@ -168,91 +36,79 @@
       2
     ],
     [
-      "Euro Motorcars",
+      "Hershey Motors",
       2
-    ],
-    [
-      "MEI Inc",
-      2
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      2
-    ],
-    [
-      "House Chevrolet Co.",
-      2
-    ],
-    [
-      "2d5f0eb5f Dellenbach Motors",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "West Mitsubishi",
-      1
-    ],
-    [
-      "Keffer Inc.",
-      1
-    ],
-    [
-      "Wiz Leasing Inc",
-      1
-    ],
-    [
-      "Perkins Motors",
-      1
-    ],
-    [
-      "Pritchard Companies",
-      1
-    ],
-    [
-      "Renny Bettan",
-      1
-    ],
-    [
-      "Island Auto Sales",
-      1
-    ],
-    [
-      "Enterprise Motor Group",
-      1
     ],
     [
       "Twin Pine Ford",
-      1
+      2
     ],
     [
-      "Rick Weaver Chevrolet",
-      1
+      "KAR Auto Group",
+      2
+    ],
+    [
+      "Blasius South",
+      2
+    ],
+    [
+      "MyCar: Trucktown",
+      2
+    ],
+    [
+      "West Mitsubishi",
+      2
+    ],
+    [
+      "Joshua Trownsell",
+      2
+    ],
+    [
+      "McCurley Dealerships",
+      2
+    ],
+    [
+      "Janssen Kool Honda",
+      2
+    ],
+    [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "Roanoke Motors Inc",
+      2
+    ],
+    [
+      "Janssen Auto Group",
+      2
+    ],
+    [
+      "Jim Schmidt Automotive",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      2
+    ],
+    [
+      "Yoder Family of Companies",
+      2
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      2
     ],
     [
       "Your Choice Auto LLC",
       1
     ],
     [
-      "Petersen CDJR",
-      1
-    ],
-    [
-      "Crown Motors Of Holland",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "Hondru Auto Group(US)",
+      "Graff Auto Campus",
       1
     ],
     [
@@ -260,11 +116,15 @@
       1
     ],
     [
-      "Mercedes-Benz of Portsmouth",
+      "Ideal Cars",
       1
     ],
     [
-      "Courtesy Automotive Group",
+      "Perkins Motors",
+      1
+    ],
+    [
+      "Wood Motor Company",
       1
     ],
     [
@@ -272,43 +132,43 @@
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Enterprise Motor Group",
       1
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Sprinkler Used Cars",
       1
     ],
     [
-      "Twin Rivers Auto Group",
+      "Mark Williams Auto Group",
       1
     ],
     [
-      "Motor World Stoke limited",
+      "Brownboys Motorclub",
       1
     ],
     [
-      "Forrester Lincoln",
+      "Silsbee Ford",
       1
     ],
     [
-      "Novacti",
+      "Car Hop Auto Sales & Finance",
       1
     ],
     [
-      "Ohio Specialty Services, LTD.",
+      "DealerVision.com",
       1
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Courtesy Automotive Group",
       1
     ],
     [
-      "Performance Automotive Network",
+      "K&f Auto Sales And Service",
       1
     ],
     [
-      "Brandon Steven Motors",
+      "Ryan Buick GMC Cadillac",
       1
     ]
   ]
