@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T20:41:53.197Z",
+  "fetchedAt": "2026-10-22T23:36:53.188Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,70 @@
   "rows": [
     [
       null,
-      98
+      108
     ],
     [
-      "Long Automotive Group",
-      10
+      "Asbury Automotive Management L.L.C",
+      15
     ],
     [
-      "AX Auto INC",
-      8
-    ],
-    [
-      "ZT Automotive",
-      8
-    ],
-    [
-      "Dave Syverson Auto Center",
-      8
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      9
     ],
     [
       "Van Horn Automotive Group",
       8
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Pritchard Companies",
       7
     ],
     [
-      "Jenkins Auto Group",
+      "Midwest Auto Group",
       6
     ],
     [
-      "Greenway Automotive Group",
+      "World Car Auto Group",
+      5
+    ],
+    [
+      "Car Central",
+      5
+    ],
+    [
+      "Hawthorne Auto Square",
       4
     ],
     [
-      "Kian Motors INC",
+      "Rohrich Automotive Group",
       3
     ],
     [
-      "Volvo of Princeton Inc",
+      "Ghost Auto Werkz",
+      3
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      3
+    ],
+    [
+      "Preston Motor Automotive Group",
+      3
+    ],
+    [
+      "Covert Bee Cave",
       2
     ],
     [
-      "Vatland Auto Group",
+      "Teton solutions Group",
+      2
+    ],
+    [
+      "Lewiston Auto",
+      2
+    ],
+    [
+      "Reliance Motor Group LLC",
       2
     ],
     [
@@ -68,15 +88,7 @@
       2
     ],
     [
-      "Wharton Ford",
-      2
-    ],
-    [
-      "Bob King",
-      2
-    ],
-    [
-      "Portsmouth Ford Lincoln",
+      "Greenway Automotive Group",
       2
     ],
     [
@@ -84,59 +96,39 @@
       2
     ],
     [
-      "Car Hop Auto Sales & Finance",
+      "Simmons-Rockwell Automotive Dealerships",
       2
     ],
     [
-      "Parks Chevrolet Richmond",
-      2
-    ],
-    [
-      "Dream Automotive",
-      2
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Renny Bettan",
       1
     ],
     [
-      "World Car Auto Group",
+      "Median Media LLC",
       1
     ],
     [
-      "Wood Motor Company",
+      "Impex Auto Sales",
       1
     ],
     [
-      "NorthTown Automotive",
+      "Diffee Ford Lincoln",
       1
     ],
     [
-      "Davidson Auto Group",
+      "RBM Automotive Group",
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Ideal Cars",
       1
     ],
     [
-      "Great Lakes Auto ",
-      1
-    ],
-    [
-      "Auto Ocasión Saez",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "Quality Cars Zaventem",
+      "Toyota Of Wallingford",
       1
     ],
     [
@@ -144,7 +136,23 @@
       1
     ],
     [
-      "Graff Auto Campus",
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "House Chevrolet Co.",
+      1
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "Hatimi Auto LLC",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
       1
     ],
     [
@@ -152,11 +160,27 @@
       1
     ],
     [
-      "Cornhusker Auto Center",
+      "Flexcar",
       1
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "Krystal Chrysler Dodge Jeep Ram Fiat",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Perkins Motors",
+      1
+    ],
+    [
+      "Post Oak Toyota",
       1
     ]
   ]
