@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T12:25:25.225Z",
+  "fetchedAt": "2026-10-22T17:26:32.325Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,70 @@
   "rows": [
     [
       null,
-      12
+      49
     ],
     [
-      "Kempton Chevrolet",
+      "DealerVision.com",
+      13
+    ],
+    [
+      "Car Central",
       4
+    ],
+    [
+      "Davidson Auto Group",
+      4
+    ],
+    [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Volvo of Princeton Inc",
+      3
     ],
     [
       "Bergstrom Automotive",
       3
     ],
     [
-      "Al-Zayani Trading Company",
+      "H&K Chevrolet Family Auto",
+      3
+    ],
+    [
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "Bob King",
       2
     ],
     [
-      "Lockwood Motors, Inc.",
+      "Yemm Auto",
+      2
+    ],
+    [
+      "Graff Auto Campus",
+      2
+    ],
+    [
+      "Speedway Car Sales",
+      2
+    ],
+    [
+      "Rick Weaver Chevrolet",
+      2
+    ],
+    [
+      "Petersen CDJR",
       1
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "Greenville Automotive Group",
+      "Russ Darrow Group, Inc.",
       1
     ]
   ]
