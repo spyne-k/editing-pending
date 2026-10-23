@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T23:36:53.188Z",
+  "fetchedAt": "2026-10-23T01:54:05.906Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,66 +17,26 @@
   "rows": [
     [
       null,
-      108
+      43
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      15
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      9
-    ],
-    [
-      "Van Horn Automotive Group",
-      8
-    ],
-    [
-      "Pritchard Companies",
-      7
-    ],
-    [
-      "Midwest Auto Group",
+      "Greenway Automotive Group",
       6
     ],
     [
-      "World Car Auto Group",
-      5
-    ],
-    [
-      "Car Central",
-      5
-    ],
-    [
-      "Hawthorne Auto Square",
+      "Your Choice Auto LLC",
       4
     ],
     [
-      "Rohrich Automotive Group",
+      "Bud Clary Chevrolet, INC",
+      4
+    ],
+    [
+      "Bob Johnson Automotive Group",
       3
     ],
     [
-      "Ghost Auto Werkz",
-      3
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      3
-    ],
-    [
-      "Preston Motor Automotive Group",
-      3
-    ],
-    [
-      "Covert Bee Cave",
-      2
-    ],
-    [
-      "Teton solutions Group",
-      2
-    ],
-    [
-      "Lewiston Auto",
+      "DealerVision.com",
       2
     ],
     [
@@ -84,11 +44,11 @@
       2
     ],
     [
-      "Fred Anderson Honda",
+      "Alliance Cars Limited",
       2
     ],
     [
-      "Greenway Automotive Group",
+      "Preston Motor Automotive Group",
       2
     ],
     [
@@ -96,75 +56,31 @@
       2
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Faircy Automotive",
       2
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      1
-    ],
-    [
-      "Renny Bettan",
-      1
-    ],
-    [
-      "Median Media LLC",
-      1
-    ],
-    [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Diffee Ford Lincoln",
-      1
-    ],
-    [
-      "RBM Automotive Group",
-      1
-    ],
-    [
-      "Ideal Cars",
-      1
-    ],
-    [
-      "Toyota Of Wallingford",
-      1
-    ],
-    [
-      "Ultimate Motor Cars LLC",
-      1
-    ],
-    [
-      "Bravo Automotive Group, LLC",
-      1
-    ],
-    [
-      "House Chevrolet Co.",
-      1
-    ],
-    [
-      "Lambert Buick GMC Inc",
-      1
-    ],
-    [
-      "Hatimi Auto LLC",
-      1
-    ],
-    [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
-      1
-    ],
-    [
-      "VICTORY CIRCLE AUTO SALES",
-      1
+      "Bergstrom Automotive",
+      2
     ],
     [
       "Flexcar",
       1
     ],
     [
-      "Krystal Chrysler Dodge Jeep Ram Fiat",
+      "Lewiston Auto",
+      1
+    ],
+    [
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Enterprise Motor Group",
       1
     ],
     [
@@ -172,15 +88,27 @@
       1
     ],
     [
-      "Performance Automotive Network",
+      "Hawthorne Auto Square",
       1
     ],
     [
-      "Perkins Motors",
+      "Wood Motor Company",
       1
     ],
     [
-      "Post Oak Toyota",
+      "Rochester Auto Mall",
+      1
+    ],
+    [
+      "Mark Williams Auto Group",
+      1
+    ],
+    [
+      "VICTORY CIRCLE AUTO SALES",
+      1
+    ],
+    [
+      "Bemidji Chrysler & Honda of Bemidji",
       1
     ]
   ]
