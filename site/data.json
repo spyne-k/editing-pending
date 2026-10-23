@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T06:45:48.332Z",
+  "fetchedAt": "2026-10-23T12:11:16.346Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,26 +14,5 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": [
-    [
-      null,
-      49
-    ],
-    [
-      "VICTORY CIRCLE AUTO SALES",
-      43
-    ],
-    [
-      "IM Marketplace GmBH",
-      4
-    ],
-    [
-      "AutoGiant USA",
-      1
-    ],
-    [
-      "CarTradeTech Limited",
-      1
-    ]
-  ]
+  "rows": []
 }
