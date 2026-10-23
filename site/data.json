@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T20:21:58.569Z",
+  "fetchedAt": "2026-10-23T23:14:54.784Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,22 @@
   "rows": [
     [
       null,
-      119
+      50
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      18
+      "Impex Auto Sales",
+      5
+    ],
+    [
+      "Greenway Automotive Group",
+      5
     ],
     [
       "Northtown Automotive",
-      8
-    ],
-    [
-      "SAS SELLIT",
-      8
-    ],
-    [
-      "Whitewater Motors Incorporated",
-      8
+      5
     ],
     [
       "Gettel Automotive Group",
-      7
-    ],
-    [
-      "Moses Auto Group",
-      4
-    ],
-    [
-      "Bergstrom Automotive",
-      4
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      4
-    ],
-    [
-      "Flexcar",
-      4
-    ],
-    [
-      "Courtesy Automotive Group",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
       3
     ],
     [
@@ -68,67 +40,23 @@
       3
     ],
     [
-      "Covert Auto Group",
-      3
-    ],
-    [
-      "Van Horn Automotive Group",
-      3
-    ],
-    [
       "ZT Automotive",
       3
     ],
     [
-      "Teton solutions Group",
+      "greenway auto group 2",
+      3
+    ],
+    [
+      "Certified Autoplex Inc.",
+      2
+    ],
+    [
+      "Georgia Auto World",
       2
     ],
     [
       "Covert Bee Cave",
-      2
-    ],
-    [
-      "Speedway Car Sales",
-      2
-    ],
-    [
-      "Homan Auto Sales Inc",
-      2
-    ],
-    [
-      "Princeton Chevrolet GMC",
-      2
-    ],
-    [
-      "Bob King",
-      2
-    ],
-    [
-      "Rick Weaver Chevrolet",
-      2
-    ],
-    [
-      "Flood Auto Group",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "AutoRuptive LLC",
-      2
-    ],
-    [
-      "LUXURY IMPORTS",
-      1
-    ],
-    [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
       1
     ],
     [
@@ -136,7 +64,27 @@
       1
     ],
     [
-      "Rochester Toyota",
+      "Giant Auto Warehouse",
+      1
+    ],
+    [
+      "Calgary Truck",
+      1
+    ],
+    [
+      "Integrity Auto Sales",
+      1
+    ],
+    [
+      "C.A.R. Automotive LLC",
+      1
+    ],
+    [
+      "Countryside Mitsubishi",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
@@ -144,43 +92,43 @@
       1
     ],
     [
-      "ONE STOP MOTORS MMB LTD",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "Your Choice Auto LLC",
+      "Covert Auto Group",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Pritchard Companies",
       1
     ],
     [
-      "Performance Auto Group",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Twin Rivers Auto Group",
+      "Runde Chevrolet, Inc.",
       1
     ],
     [
-      "Greenway Automotive Group",
+      "Bergstrom Automotive",
       1
     ],
     [
-      "Towne Ford Inc",
+      "Preston Motor Automotive Group",
       1
     ],
     [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
+      "Davidson Auto Group",
       1
     ],
     [
-      "Autoplex 2000 and All Star Buick GMC truck",
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ],
     [
-      "Blasius South",
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
