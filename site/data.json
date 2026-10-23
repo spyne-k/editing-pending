@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T12:11:16.346Z",
+  "fetchedAt": "2026-10-23T17:05:22.864Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,90 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      null,
+      38
+    ],
+    [
+      "Flexcar",
+      4
+    ],
+    [
+      "Mondial car Sarl",
+      4
+    ],
+    [
+      "Car Central",
+      3
+    ],
+    [
+      "ZT Automotive",
+      3
+    ],
+    [
+      "Blasius South",
+      3
+    ],
+    [
+      "Blasius Buick GMC",
+      3
+    ],
+    [
+      "Cornhusker Auto Center",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "Pritchard Companies",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Terry Auto Group",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Princeton Chevrolet GMC",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      1
+    ]
+  ]
 }
