@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T01:54:05.906Z",
+  "fetchedAt": "2026-10-23T06:45:48.332Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,98 +17,22 @@
   "rows": [
     [
       null,
-      43
-    ],
-    [
-      "Greenway Automotive Group",
-      6
-    ],
-    [
-      "Your Choice Auto LLC",
-      4
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      4
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
-      "DealerVision.com",
-      2
-    ],
-    [
-      "Reliance Motor Group LLC",
-      2
-    ],
-    [
-      "Alliance Cars Limited",
-      2
-    ],
-    [
-      "Preston Motor Automotive Group",
-      2
-    ],
-    [
-      "Rick Weaver Chevrolet",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "Bergstrom Automotive",
-      2
-    ],
-    [
-      "Flexcar",
-      1
-    ],
-    [
-      "Lewiston Auto",
-      1
-    ],
-    [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Enterprise Motor Group",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Hawthorne Auto Square",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Rochester Auto Mall",
-      1
-    ],
-    [
-      "Mark Williams Auto Group",
-      1
+      49
     ],
     [
       "VICTORY CIRCLE AUTO SALES",
+      43
+    ],
+    [
+      "IM Marketplace GmBH",
+      4
+    ],
+    [
+      "AutoGiant USA",
       1
     ],
     [
-      "Bemidji Chrysler & Honda of Bemidji",
+      "CarTradeTech Limited",
       1
     ]
   ]
