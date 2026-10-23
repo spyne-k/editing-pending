@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T17:05:22.864Z",
+  "fetchedAt": "2026-10-23T20:21:58.569Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,62 @@
   "rows": [
     [
       null,
-      38
+      119
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      18
+    ],
+    [
+      "Northtown Automotive",
+      8
+    ],
+    [
+      "SAS SELLIT",
+      8
+    ],
+    [
+      "Whitewater Motors Incorporated",
+      8
+    ],
+    [
+      "Gettel Automotive Group",
+      7
+    ],
+    [
+      "Moses Auto Group",
+      4
+    ],
+    [
+      "Bergstrom Automotive",
+      4
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      4
     ],
     [
       "Flexcar",
       4
     ],
     [
-      "Mondial car Sarl",
-      4
+      "Courtesy Automotive Group",
+      3
     ],
     [
-      "Car Central",
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Amigo Auto Group, Inc.",
+      3
+    ],
+    [
+      "Covert Auto Group",
+      3
+    ],
+    [
+      "Van Horn Automotive Group",
       3
     ],
     [
@@ -36,35 +80,75 @@
       3
     ],
     [
-      "Blasius South",
-      3
-    ],
-    [
-      "Blasius Buick GMC",
-      3
-    ],
-    [
-      "Cornhusker Auto Center",
+      "Teton solutions Group",
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Covert Bee Cave",
       2
     ],
     [
-      "Pritchard Companies",
+      "Speedway Car Sales",
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Homan Auto Sales Inc",
+      2
+    ],
+    [
+      "Princeton Chevrolet GMC",
       2
     ],
     [
       "Bob King",
+      2
+    ],
+    [
+      "Rick Weaver Chevrolet",
+      2
+    ],
+    [
+      "Flood Auto Group",
+      2
+    ],
+    [
+      "Preston Motor Automotive Group",
+      2
+    ],
+    [
+      "AutoRuptive LLC",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
       1
     ],
     [
-      "Terry Auto Group",
+      "Graff Auto Campus",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "MEI Inc",
+      1
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "ONE STOP MOTORS MMB LTD",
+      1
+    ],
+    [
+      "Your Choice Auto LLC",
       1
     ],
     [
@@ -72,23 +156,11 @@
       1
     ],
     [
-      "Northtown Automotive",
+      "Performance Auto Group",
       1
     ],
     [
-      "Princeton Chevrolet GMC",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
+      "Twin Rivers Auto Group",
       1
     ],
     [
@@ -96,7 +168,19 @@
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Towne Ford Inc",
+      1
+    ],
+    [
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      1
+    ],
+    [
+      "Autoplex 2000 and All Star Buick GMC truck",
+      1
+    ],
+    [
+      "Blasius South",
       1
     ]
   ]
