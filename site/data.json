@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T06:27:01.194Z",
+  "fetchedAt": "2026-10-24T11:24:38.971Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,23 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      7
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      4
-    ],
-    [
-      "IM Marketplace GmBH",
-      2
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
       "Runde Chevrolet, Inc.",
+      0
+    ],
+    [
+      null,
       0
     ]
   ]
