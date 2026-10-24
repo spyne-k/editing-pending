@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T19:44:34.310Z",
+  "fetchedAt": "2026-10-24T21:56:25.971Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,42 @@
   "rows": [
     [
       null,
-      25
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      4
+      31
     ],
     [
       "Flexcar",
       3
     ],
     [
-      "Novacti",
-      3
+      "Lexus Of Orland",
+      2
     ],
     [
-      "Covert Auto Group",
-      3
+      "AutoGiant USA",
+      2
+    ],
+    [
+      "Integrity Auto Sales",
+      2
+    ],
+    [
+      "Vatland Auto Group",
+      2
     ],
     [
       "Worldwide Motors LTD dba Paragon Acura",
       2
     ],
     [
-      "Impex Auto Sales",
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Hatimi Auto LLC",
       1
     ],
     [
-      "Car Central",
+      "Novacti",
       1
     ],
     [
@@ -52,31 +60,55 @@
       1
     ],
     [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "GETCAR LLC",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
       "World Car Auto Group",
       1
     ],
     [
-      "Janssen Kool Honda",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Northtown Automotive",
+      "Dave Syverson Auto Center",
       1
     ],
     [
-      "Homan Auto Sales Inc",
+      "Your Choice Auto LLC",
       1
     ],
     [
-      "Courtesy Automotive Group",
+      "Superior Auto, INC",
       1
     ],
     [
-      "Greenway Automotive Group",
+      "Turpin Dodge Chrysler Jeep Ram",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
       1
     ],
     [
       "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
       1
     ],
     [
