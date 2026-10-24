@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T17:36:30.887Z",
+  "fetchedAt": "2026-10-24T19:44:34.310Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,66 @@
   "rows": [
     [
       null,
-      16
+      25
     ],
     [
-      "Car Central",
+      "Russ Darrow Group, Inc.",
+      4
+    ],
+    [
+      "Flexcar",
       3
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Novacti",
       3
     ],
     [
-      "Dick Dyer & Associates",
+      "Covert Auto Group",
+      3
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
       2
     ],
     [
-      "Covert Bee Cave",
+      "Impex Auto Sales",
       1
     ],
     [
-      "Rochester Toyota",
+      "Car Central",
       1
     ],
     [
-      "Taylor BMW",
+      "Kimberly BMW",
       1
     ],
     [
-      "GETCAR LLC",
+      "World Car Auto Group",
       1
     ],
     [
-      "Buckhannon Toyota",
+      "Janssen Kool Honda",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Northtown Automotive",
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "Homan Auto Sales Inc",
       1
     ],
     [
-      "Meyer Imports DBA Berwyn Kia",
+      "Courtesy Automotive Group",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       1
     ],
     [
