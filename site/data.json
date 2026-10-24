@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T11:24:38.971Z",
+  "fetchedAt": "2026-10-24T14:42:12.817Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,27 @@
   ],
   "rows": [
     [
-      "Runde Chevrolet, Inc.",
+      null,
+      6
+    ],
+    [
+      "IM Marketplace GmBH",
+      4
+    ],
+    [
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Freedom Chevrolet",
+      1
+    ],
+    [
+      "carvago2",
       0
     ],
     [
-      null,
+      "Runde Chevrolet, Inc.",
       0
     ]
   ]
