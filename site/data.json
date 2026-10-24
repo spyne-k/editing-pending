@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T14:42:12.817Z",
+  "fetchedAt": "2026-10-24T17:36:30.887Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,51 @@
   "rows": [
     [
       null,
-      6
+      16
     ],
     [
-      "IM Marketplace GmBH",
-      4
+      "Car Central",
+      3
     ],
     [
-      "Yemm Auto",
+      "Asbury Automotive Management L.L.C",
+      3
+    ],
+    [
+      "Dick Dyer & Associates",
+      2
+    ],
+    [
+      "Covert Bee Cave",
       1
     ],
     [
-      "Freedom Chevrolet",
+      "Rochester Toyota",
       1
     ],
     [
-      "carvago2",
-      0
+      "Taylor BMW",
+      1
+    ],
+    [
+      "GETCAR LLC",
+      1
+    ],
+    [
+      "Buckhannon Toyota",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "Meyer Imports DBA Berwyn Kia",
+      1
     ],
     [
       "Runde Chevrolet, Inc.",
