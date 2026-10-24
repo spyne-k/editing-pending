@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T23:14:54.784Z",
+  "fetchedAt": "2026-10-24T01:38:22.801Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,54 @@
   "rows": [
     [
       null,
-      50
+      59
     ],
     [
-      "Impex Auto Sales",
-      5
+      "Rohrich Automotive Group",
+      9
+    ],
+    [
+      "Jidd Performance",
+      6
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      6
     ],
     [
       "Greenway Automotive Group",
+      6
+    ],
+    [
+      "Performance Automotive Network",
       5
     ],
     [
-      "Northtown Automotive",
-      5
+      "Faircy Automotive",
+      4
+    ],
+    [
+      "KAR Auto Group",
+      3
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      3
     ],
     [
       "Gettel Automotive Group",
-      3
-    ],
-    [
-      "Amigo Auto Group, Inc.",
-      3
-    ],
-    [
-      "ZT Automotive",
-      3
-    ],
-    [
-      "greenway auto group 2",
-      3
-    ],
-    [
-      "Certified Autoplex Inc.",
       2
     ],
     [
-      "Georgia Auto World",
+      "Median Media LLC",
       2
     ],
     [
-      "Covert Bee Cave",
+      "Car Central Inc.",
       1
     ],
     [
@@ -64,43 +72,31 @@
       1
     ],
     [
-      "Giant Auto Warehouse",
+      "LUXURY IMPORTS",
       1
     ],
     [
-      "Calgary Truck",
+      "Smartlot All image set",
       1
     ],
     [
-      "Integrity Auto Sales",
+      "greenway auto group 2",
       1
     ],
     [
-      "C.A.R. Automotive LLC",
+      "Gedi Route Cars Inc.",
       1
     ],
     [
-      "Countryside Mitsubishi",
+      "Alliance Automotive of Westchester LLC dba White P",
       1
     ],
     [
-      "North Park Lincoln",
+      "The Ford Store Morgan Hill",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Pritchard Companies",
+      "Superior Auto, INC",
       1
     ],
     [
@@ -109,27 +105,7 @@
     ],
     [
       "Runde Chevrolet, Inc.",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      1
+      0
     ]
   ]
 }
