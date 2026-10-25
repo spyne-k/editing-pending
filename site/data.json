@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T03:59:54.067Z",
+  "fetchedAt": "2026-10-25T09:03:41.454Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,22 @@
   "rows": [
     [
       null,
-      4
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      2
+      7
     ],
     [
       "DealerVision.com",
+      4
+    ],
+    [
+      "Jenkins Auto Group",
       1
     ],
     [
       "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
       1
     ],
     [
