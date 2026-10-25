@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T13:40:32.880Z",
+  "fetchedAt": "2026-10-25T17:13:27.626Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,15 @@
   ],
   "rows": [
     [
-      "Runde Chevrolet, Inc.",
-      0
+      "Flexcar",
+      1
     ],
     [
       null,
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
       0
     ]
   ]
