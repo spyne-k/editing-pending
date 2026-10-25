@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T09:03:41.454Z",
+  "fetchedAt": "2026-10-25T13:40:32.880Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,27 +16,11 @@
   ],
   "rows": [
     [
-      null,
-      7
-    ],
-    [
-      "DealerVision.com",
-      4
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      1
-    ],
-    [
       "Runde Chevrolet, Inc.",
+      0
+    ],
+    [
+      null,
       0
     ]
   ]
