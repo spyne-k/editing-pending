@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T10:29:22.872Z",
+  "fetchedAt": "2026-10-26T16:53:47.823Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,23 @@
   "rows": [
     [
       null,
-      15
+      17
     ],
     [
-      "Rawian Oy",
-      14
+      "DealerVision.com",
+      13
     ],
     [
-      "Haji Zaman Safi Motors FZE",
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "Gettel Automotive Group",
       1
+    ],
+    [
+      "carvago2",
+      0
     ],
     [
       "Runde Chevrolet, Inc.",
