@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T04:37:14.646Z",
+  "fetchedAt": "2026-10-26T10:29:22.872Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,15 @@
   "rows": [
     [
       null,
-      16
+      15
     ],
     [
-      "Generation Nissan",
-      8
+      "Rawian Oy",
+      14
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      8
+      "Haji Zaman Safi Motors FZE",
+      1
     ],
     [
       "Runde Chevrolet, Inc.",
