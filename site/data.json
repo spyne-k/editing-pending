@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T00:06:17.999Z",
+  "fetchedAt": "2026-10-26T04:37:14.646Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,16 @@
   ],
   "rows": [
     [
-      "Flexcar",
-      4
+      null,
+      16
     ],
     [
-      null,
-      4
+      "Generation Nissan",
+      8
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      8
     ],
     [
       "Runde Chevrolet, Inc.",
