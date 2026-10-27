@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T16:03:31.737Z",
+  "fetchedAt": "2026-10-27T20:36:44.279Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,110 @@
   "rows": [
     [
       null,
-      35
+      96
     ],
     [
-      "Amato Hyundai Of Glendale",
-      8
+      "Teton solutions Group",
+      16
     ],
     [
-      "Portsmouth Ford Lincoln",
-      4
+      "Asbury Automotive Management L.L.C",
+      9
     ],
     [
       "Ryan Buick GMC Cadillac",
+      6
+    ],
+    [
+      "Speedway Car Sales",
+      5
+    ],
+    [
+      "Dave Syverson Auto Center",
+      5
+    ],
+    [
+      "Moses Auto Group",
+      4
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      4
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       3
+    ],
+    [
+      "Certified Autoplex Inc.",
+      3
+    ],
+    [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Long Automotive Group",
+      3
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      3
+    ],
+    [
+      "Yemm Auto",
+      2
     ],
     [
       "Impex Auto Sales",
       2
     ],
     [
-      "Wood Motor Company",
+      "ASK Motors",
       2
     ],
     [
-      "IM Marketplace GmBH",
+      "Your Choice Auto LLC",
       2
     ],
     [
-      "Blasius Buick GMC",
+      "Northtown Automotive",
       2
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Flexcar",
       2
     ],
     [
-      "West Mitsubishi",
+      "Volvo of Princeton Inc",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      2
+    ],
+    [
+      "Faircy Automotive",
       1
     ],
     [
-      "BPR MOTORS",
+      "Twin Rivers Auto Group",
       1
     ],
     [
-      "Beaver County Auto",
+      "Puente Hills Mitsubishi",
+      1
+    ],
+    [
+      "Island Auto Sales",
       1
     ],
     [
@@ -68,7 +128,7 @@
       1
     ],
     [
-      "World Car Auto Group",
+      "Lexus of Lehigh Valley",
       1
     ],
     [
@@ -76,27 +136,31 @@
       1
     ],
     [
-      "Northtown Automotive",
+      "Wharton Ford",
       1
     ],
     [
-      "Davidson Auto Group",
+      "Toronto Honda",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Twin Pine Ford",
       1
     ],
     [
-      "Amatoscar comercio automóvel s.a",
+      "Dream Automotive",
       1
     ],
     [
-      "carvago2",
-      0
+      "Autos of Forney",
+      1
     ],
     [
       "Runde Chevrolet, Inc.",
+      0
+    ],
+    [
+      "carvago2",
       0
     ]
   ]
