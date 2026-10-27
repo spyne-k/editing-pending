@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T00:31:00.067Z",
+  "fetchedAt": "2026-10-27T05:29:12.001Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,94 @@
   "rows": [
     [
       null,
-      100
+      145
     ],
     [
-      "Amato Hyundai Of Glendale",
-      22
-    ],
-    [
-      "Jenkins Auto Group",
+      "Boardman Subaru and Imports",
       15
     ],
     [
-      "Bergstrom Automotive",
-      9
+      "DealerVision.com",
+      13
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      12
+    ],
+    [
+      "Gettel Automotive Group",
+      10
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      8
     ],
     [
       "LUXURY IMPORTS",
       7
     ],
     [
-      "Northtown Automotive",
+      "Your Choice Auto LLC",
       6
     ],
     [
-      "Performance Automotive Network",
+      "Sansone Jr's Auto Group",
       5
     ],
     [
-      "Median Media LLC",
-      3
-    ],
-    [
-      "DealerVision.com",
-      3
-    ],
-    [
-      "Greenway Automotive Group",
-      3
-    ],
-    [
       "Rohrich Automotive Group",
-      2
+      4
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "North Park Lincoln",
+      4
+    ],
+    [
+      "Homan Auto Sales Inc",
+      4
+    ],
+    [
+      "AX Auto INC",
+      3
+    ],
+    [
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Graff Auto Campus",
+      3
+    ],
+    [
+      "Charlie Clark Hyundai",
+      3
+    ],
+    [
+      "greenway auto group 2",
+      3
+    ],
+    [
+      "Preston Motor Automotive Group",
+      3
+    ],
+    [
+      "Wood Motor Company",
+      3
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      3
+    ],
+    [
+      "Pdx Wheels, Steals & Deals",
+      3
+    ],
+    [
+      "Advantage Toyota",
       2
     ],
     [
@@ -68,15 +112,7 @@
       2
     ],
     [
-      "Hawthorne Auto Square",
-      2
-    ],
-    [
-      "Covert Auto Group",
-      2
-    ],
-    [
-      "Wood Motor Company",
+      "Carter Myers Automotive",
       2
     ],
     [
@@ -84,15 +120,15 @@
       2
     ],
     [
-      "greenway auto group 2",
+      "Fred Anderson Honda",
       2
     ],
     [
-      "Carzwala",
-      1
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      2
     ],
     [
-      "Car Central",
+      "Speedway Car Sales",
       1
     ],
     [
@@ -100,15 +136,11 @@
       1
     ],
     [
-      "Midwest Auto Group",
+      "Jim Schmidt Automotive",
       1
     ],
     [
-      "MEI Inc",
-      1
-    ],
-    [
-      "Twin Pine Ford",
+      "Clear Auto Dartmouth",
       1
     ],
     [
@@ -116,15 +148,15 @@
       1
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Smartlot Solutions",
+      "IM Marketplace GmBH",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Faircy Automotive",
       1
     ],
     [
@@ -132,11 +164,35 @@
       1
     ],
     [
-      "carvago2",
-      0
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Champion Ford",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Jidd Performance",
+      1
+    ],
+    [
+      "Carzwala",
+      1
+    ],
+    [
+      "Keffer Inc.",
+      1
     ],
     [
       "Runde Chevrolet, Inc.",
+      0
+    ],
+    [
+      "carvago2",
       0
     ]
   ]
