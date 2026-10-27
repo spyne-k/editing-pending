@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T05:29:12.001Z",
+  "fetchedAt": "2026-10-27T10:49:36.703Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,122 +17,42 @@
   "rows": [
     [
       null,
-      145
-    ],
-    [
-      "Boardman Subaru and Imports",
-      15
-    ],
-    [
-      "DealerVision.com",
-      13
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      12
-    ],
-    [
-      "Gettel Automotive Group",
-      10
-    ],
-    [
-      "Amato Hyundai Of Glendale",
-      8
-    ],
-    [
-      "LUXURY IMPORTS",
-      7
-    ],
-    [
-      "Your Choice Auto LLC",
-      6
-    ],
-    [
-      "Sansone Jr's Auto Group",
-      5
-    ],
-    [
-      "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "North Park Lincoln",
-      4
-    ],
-    [
-      "Homan Auto Sales Inc",
-      4
-    ],
-    [
-      "AX Auto INC",
-      3
-    ],
-    [
-      "Apex Automotive Group",
-      3
-    ],
-    [
-      "Jenkins Auto Group",
-      3
+      24
     ],
     [
       "Graff Auto Campus",
+      5
+    ],
+    [
+      "Alpha One Automotive",
       3
     ],
     [
-      "Charlie Clark Hyundai",
+      "Ryan Buick GMC Cadillac",
       3
     ],
     [
-      "greenway auto group 2",
+      "Amato Hyundai Of Glendale",
       3
     ],
     [
-      "Preston Motor Automotive Group",
+      "Asbury Automotive Management L.L.C",
       3
-    ],
-    [
-      "Wood Motor Company",
-      3
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      3
-    ],
-    [
-      "Pdx Wheels, Steals & Deals",
-      3
-    ],
-    [
-      "Advantage Toyota",
-      2
-    ],
-    [
-      "Teton solutions Group",
-      2
-    ],
-    [
-      "Carter Myers Automotive",
-      2
-    ],
-    [
-      "Georgia Auto World",
-      2
     ],
     [
       "Fred Anderson Honda",
       2
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      2
-    ],
-    [
-      "Speedway Car Sales",
+      "Flexcar",
       1
     ],
     [
-      "West Mitsubishi",
+      "LuxuryMotorCars",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
       1
     ],
     [
@@ -140,59 +60,15 @@
       1
     ],
     [
-      "Clear Auto Dartmouth",
+      "Dave Syverson Auto Center",
       1
-    ],
-    [
-      "Benitez Auto Group",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Brandon Steven Motors",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Champion Ford",
-      1
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Jidd Performance",
-      1
-    ],
-    [
-      "Carzwala",
-      1
-    ],
-    [
-      "Keffer Inc.",
-      1
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      0
     ],
     [
       "carvago2",
+      0
+    ],
+    [
+      "Runde Chevrolet, Inc.",
       0
     ]
   ]
