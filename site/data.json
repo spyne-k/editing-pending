@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T20:36:44.279Z",
+  "fetchedAt": "2026-10-27T23:58:34.046Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,90 +17,34 @@
   "rows": [
     [
       null,
-      96
+      44
     ],
     [
-      "Teton solutions Group",
-      16
+      "Median Media LLC",
+      10
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      9
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      6
-    ],
-    [
-      "Speedway Car Sales",
+      "Kian Motors INC",
       5
-    ],
-    [
-      "Dave Syverson Auto Center",
-      5
-    ],
-    [
-      "Moses Auto Group",
-      4
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      4
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      3
-    ],
-    [
-      "Certified Autoplex Inc.",
-      3
-    ],
-    [
-      "World Car Auto Group",
-      3
-    ],
-    [
-      "Long Automotive Group",
-      3
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
-      3
-    ],
-    [
-      "Yemm Auto",
-      2
-    ],
-    [
-      "Impex Auto Sales",
-      2
-    ],
-    [
-      "ASK Motors",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "Northtown Automotive",
-      2
-    ],
-    [
-      "Flexcar",
-      2
-    ],
-    [
-      "Volvo of Princeton Inc",
-      2
     ],
     [
       "Greenway Automotive Group",
+      5
+    ],
+    [
+      "Hawthorne Auto Square",
+      3
+    ],
+    [
+      "Lexus of Merrillville",
+      3
+    ],
+    [
+      "H&K Chevrolet Family Auto",
       2
     ],
     [
-      "Van Horn Automotive Group",
+      "Bergstrom Automotive",
       2
     ],
     [
@@ -108,39 +52,19 @@
       2
     ],
     [
-      "Faircy Automotive",
+      "MEI Inc",
       1
     ],
     [
-      "Twin Rivers Auto Group",
+      "Rochester Toyota",
       1
     ],
     [
-      "Puente Hills Mitsubishi",
+      "Ideal Cars",
       1
     ],
     [
-      "Island Auto Sales",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Lexus of Lehigh Valley",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "Wharton Ford",
-      1
-    ],
-    [
-      "Toronto Honda",
+      "Covert Bee Cave",
       1
     ],
     [
@@ -148,19 +72,39 @@
       1
     ],
     [
-      "Dream Automotive",
+      "Car Bargain",
       1
     ],
     [
-      "Autos of Forney",
+      "LUXURY IMPORTS",
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
-      0
+      "Wharton Ford",
+      1
+    ],
+    [
+      "District Auto Group",
+      1
+    ],
+    [
+      "Covert Ford Lincoln",
+      1
+    ],
+    [
+      "Auto Park Ford Bremen",
+      1
+    ],
+    [
+      "Superior Auto, INC",
+      1
     ],
     [
       "carvago2",
+      0
+    ],
+    [
+      "Runde Chevrolet, Inc.",
       0
     ]
   ]
