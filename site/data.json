@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T10:49:36.703Z",
+  "fetchedAt": "2026-10-27T16:03:31.737Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,38 +17,50 @@
   "rows": [
     [
       null,
-      24
+      35
     ],
     [
-      "Graff Auto Campus",
-      5
+      "Amato Hyundai Of Glendale",
+      8
     ],
     [
-      "Alpha One Automotive",
-      3
+      "Portsmouth Ford Lincoln",
+      4
     ],
     [
       "Ryan Buick GMC Cadillac",
       3
     ],
     [
-      "Amato Hyundai Of Glendale",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      3
-    ],
-    [
-      "Fred Anderson Honda",
+      "Impex Auto Sales",
       2
     ],
     [
-      "Flexcar",
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "IM Marketplace GmBH",
+      2
+    ],
+    [
+      "Blasius Buick GMC",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "West Mitsubishi",
       1
     ],
     [
-      "LuxuryMotorCars",
+      "BPR MOTORS",
+      1
+    ],
+    [
+      "Beaver County Auto",
       1
     ],
     [
@@ -56,11 +68,27 @@
       1
     ],
     [
-      "Jim Schmidt Automotive",
+      "World Car Auto Group",
       1
     ],
     [
-      "Dave Syverson Auto Center",
+      "Vatland Auto Group",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Amatoscar comercio automóvel s.a",
       1
     ],
     [
