@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T21:15:50.660Z",
+  "fetchedAt": "2026-10-27T00:31:00.067Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,38 +17,34 @@
   "rows": [
     [
       null,
-      110
-    ],
-    [
-      "Teton solutions Group",
-      20
+      100
     ],
     [
       "Amato Hyundai Of Glendale",
-      20
+      22
     ],
     [
-      "Portsmouth Ford Lincoln",
+      "Jenkins Auto Group",
+      15
+    ],
+    [
+      "Bergstrom Automotive",
       9
     ],
     [
-      "Bob Johnson Automotive Group",
-      9
+      "LUXURY IMPORTS",
+      7
     ],
     [
       "Northtown Automotive",
       6
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Performance Automotive Network",
       5
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      5
-    ],
-    [
-      "Impex Auto Sales",
+      "Median Media LLC",
       3
     ],
     [
@@ -56,27 +52,11 @@
       3
     ],
     [
-      "Car Central",
+      "Greenway Automotive Group",
       3
     ],
     [
-      "MEI Inc",
-      2
-    ],
-    [
       "Rohrich Automotive Group",
-      2
-    ],
-    [
-      "Northstar Kia",
-      2
-    ],
-    [
-      "Post Oak Toyota",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
       2
     ],
     [
@@ -84,43 +64,63 @@
       2
     ],
     [
-      "ROCHESTER VOLKSWAGEN",
+      "Teton solutions Group",
       2
     ],
     [
-      "World Car Auto Group",
+      "Hawthorne Auto Square",
       2
     ],
     [
-      "Brandon Steven Motors",
+      "Covert Auto Group",
       2
     ],
     [
-      "INERCIKAR SA",
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Georgia Auto World",
+      2
+    ],
+    [
+      "greenway auto group 2",
+      2
+    ],
+    [
+      "Carzwala",
       1
     ],
     [
-      "ZT Automotive",
+      "Car Central",
       1
     ],
     [
-      "Car Capital LTD",
+      "West Mitsubishi",
       1
     ],
     [
-      "Star Motors",
+      "Midwest Auto Group",
       1
     ],
     [
-      "Moses Auto Group",
+      "MEI Inc",
       1
     ],
     [
-      "Graff Auto Campus",
+      "Twin Pine Ford",
       1
     ],
     [
-      "Alliance Automotive of Westchester LLC dba White P",
+      "Benitez Auto Group",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Smartlot Solutions",
       1
     ],
     [
@@ -128,7 +128,7 @@
       1
     ],
     [
-      "Faircy Automotive",
+      "Brandon Steven Motors",
       1
     ],
     [
