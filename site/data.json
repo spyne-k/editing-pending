@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29T19:29:44.127Z",
+  "fetchedAt": "2026-10-29T23:30:21.668Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,70 +17,66 @@
   "rows": [
     [
       null,
-      79
+      93
     ],
     [
-      "Gettel Automotive Group",
-      9
+      "Apex Automotive Group",
+      8
+    ],
+    [
+      "Teton solutions Group",
+      8
     ],
     [
       "AX Auto INC",
+      7
+    ],
+    [
+      "Lewiston Auto",
       6
     ],
     [
-      "Flexcar",
+      "Georgia Auto World",
+      6
+    ],
+    [
+      "Northpoint Toyota _ Australia",
       5
     ],
     [
-      "Drivemax USA",
+      "Olympic Hyundai Vancouver",
+      4
+    ],
+    [
+      "Fred Anderson Honda",
       4
     ],
     [
       "DealerVision.com",
-      4
-    ],
-    [
-      "Teton solutions Group",
-      4
-    ],
-    [
-      "Van Horn Automotive Group",
-      4
-    ],
-    [
-      "Car Central",
       3
     ],
     [
-      "West Mitsubishi",
+      "Olson Chevrolet",
       3
     ],
     [
-      "ZT Automotive",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       3
     ],
     [
-      "Beverly Hills Auto Group",
+      "Jim Schmidt Automotive",
       3
     ],
     [
-      "Vatland Auto Group",
+      "Homan Auto Sales Inc",
       3
-    ],
-    [
-      "Speedway Car Sales",
-      3
-    ],
-    [
-      "Bob King",
-      2
-    ],
-    [
-      "Impex Auto Sales",
-      2
     ],
     [
       "The Garage",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
       2
     ],
     [
@@ -88,23 +84,51 @@
       2
     ],
     [
-      "Preston Motor Automotive Group",
+      "Flexcar",
       2
     ],
     [
-      "Davidson Auto Group",
+      "Alliance Automotive of Westchester LLC dba White P",
       2
     ],
     [
-      "Auto Gallery Automotive Group",
+      "World Car Auto Group",
       2
     ],
     [
-      "4M Autoplex",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      2
+    ],
+    [
+      "Turpin Dodge Chrysler Jeep Ram",
       1
     ],
     [
-      "INERCIKAR SA",
+      "Bob King",
+      1
+    ],
+    [
+      "Alpha One Automotive",
+      1
+    ],
+    [
+      "Post Oak Toyota",
+      1
+    ],
+    [
+      "Royalty Autohaus ",
+      1
+    ],
+    [
+      "Smartlot Solutions",
+      1
+    ],
+    [
+      "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "House Chevrolet Co.",
       1
     ],
     [
@@ -112,35 +136,31 @@
       1
     ],
     [
-      "LUXURY IMPORTS",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "Van Horn Automotive Group",
       1
     ],
     [
-      "Fred Anderson Honda",
+      "Subaru of Gwinnett",
       1
     ],
     [
-      "Volvo of Princeton Inc",
+      "ZT Automotive",
       1
     ],
     [
-      "Portsmouth Ford Lincoln",
+      "Laramie Peak Motors LLC",
       1
     ],
     [
-      "Integrity Auto Sales",
+      "Performance Automotive Network",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "MST Trading, LLC DBA Always Motors",
+      "Southern Ford of Thomaston",
       1
     ],
     [
