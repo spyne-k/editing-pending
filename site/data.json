@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29T01:05:12.125Z",
+  "fetchedAt": "2026-10-29T06:58:58.771Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,75 +16,11 @@
   ],
   "rows": [
     [
+      "ZT Automotive",
+      1
+    ],
+    [
       null,
-      56
-    ],
-    [
-      "Beck Motors",
-      11
-    ],
-    [
-      "James Motor Company",
-      9
-    ],
-    [
-      "DealerVision.com",
-      6
-    ],
-    [
-      "Jenkins Auto Group",
-      5
-    ],
-    [
-      "AX Auto INC",
-      4
-    ],
-    [
-      "MEI Inc",
-      3
-    ],
-    [
-      "MyCar: Trucktown",
-      3
-    ],
-    [
-      "Bob Moore Volkswagen",
-      3
-    ],
-    [
-      "Twin Pine Ford",
-      2
-    ],
-    [
-      "Speedway Car Sales",
-      2
-    ],
-    [
-      "Fred Anderson Honda",
-      2
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Mark Williams Auto Group",
       1
     ],
     [
