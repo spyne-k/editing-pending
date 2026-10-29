@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T21:23:06.927Z",
+  "fetchedAt": "2026-10-29T01:05:12.125Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,74 +17,42 @@
   "rows": [
     [
       null,
-      94
+      56
     ],
     [
-      "ZT Automotive",
+      "Beck Motors",
       11
     ],
     [
-      "Davidson Auto Group",
-      7
+      "James Motor Company",
+      9
     ],
     [
-      "Charlie Clark Hyundai",
+      "DealerVision.com",
       6
-    ],
-    [
-      "LUXURY IMPORTS",
-      6
-    ],
-    [
-      "Boardman Subaru and Imports",
-      6
-    ],
-    [
-      "Olson Chevrolet",
-      5
-    ],
-    [
-      "Portsmouth Ford Lincoln",
-      5
-    ],
-    [
-      "Greenway Automotive Group",
-      4
-    ],
-    [
-      "Van Horn Automotive Group",
-      4
-    ],
-    [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "Flexcar",
-      3
-    ],
-    [
-      "Northtown Automotive",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      2
-    ],
-    [
-      "Hershey Motors",
-      2
     ],
     [
       "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Gettel Automotive Group",
-      2
+      5
     ],
     [
       "AX Auto INC",
+      4
+    ],
+    [
+      "MEI Inc",
+      3
+    ],
+    [
+      "MyCar: Trucktown",
+      3
+    ],
+    [
+      "Bob Moore Volkswagen",
+      3
+    ],
+    [
+      "Twin Pine Ford",
       2
     ],
     [
@@ -92,71 +60,31 @@
       2
     ],
     [
-      "Worldwide Motors LTD dba Paragon Acura",
+      "Fred Anderson Honda",
       2
     ],
     [
-      "Autoplex 2000 and All Star Buick GMC truck",
-      2
-    ],
-    [
-      "Great Lakes Auto ",
+      "North Park Lincoln",
       1
     ],
     [
-      "Bob King",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "Star Motors",
+      "Vatland Auto Group",
       1
     ],
     [
-      "Wood Motor Company",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "DealerVision.com",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Car Central",
-      1
-    ],
-    [
-      "Blasius Buick GMC",
-      1
-    ],
-    [
-      "Willowbrook Ford & Kia",
-      1
-    ],
-    [
-      "Lambert Buick GMC Inc",
-      1
-    ],
-    [
-      "COTTAGEVILLE MOTORS",
-      1
-    ],
-    [
-      "Ferris Chevrolet, Inc",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "TORSVIKS BIL AB",
-      1
-    ],
-    [
-      "Autos of Forney",
+      "Mark Williams Auto Group",
       1
     ],
     [
