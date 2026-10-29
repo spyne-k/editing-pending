@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29T06:58:58.771Z",
+  "fetchedAt": "2026-10-29T14:00:25.842Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,51 @@
   ],
   "rows": [
     [
+      null,
+      36
+    ],
+    [
+      "Rawian Oy",
+      8
+    ],
+    [
+      "Yemm Auto",
+      6
+    ],
+    [
+      "Rim Revolution LLC",
+      6
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
       "ZT Automotive",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      2
+    ],
+    [
+      "Flexcar",
       1
     ],
     [
-      null,
+      "INERCIKAR SA",
+      1
+    ],
+    [
+      "Starling Chevrolet",
       1
     ],
     [
