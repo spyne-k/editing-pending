@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T20:12:00.231Z",
+  "fetchedAt": "2026-10-30T23:46:30.076Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,70 +17,50 @@
   "rows": [
     [
       null,
-      117
+      89
     ],
     [
       "DealerVision.com",
-      12
+      15
     ],
     [
-      "Sprinkler Used Cars",
-      12
+      "James Motor Company",
+      9
     ],
     [
-      "Jenkins Auto Group",
-      8
+      "Luxury Auto Plex",
+      7
     ],
     [
       "ZT Automotive",
       6
     ],
     [
-      "Auto Gallery Automotive Group",
+      "Greenway Automotive Group",
       6
     ],
     [
-      "Bob Johnson Automotive Group",
-      6
-    ],
-    [
-      "Southbank Dodge Chrysler (1982) Ltd",
+      "Northtown Automotive",
       5
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      4
-    ],
-    [
-      "Pdx Wheels, Steals & Deals",
-      4
-    ],
-    [
-      "Giant Auto Warehouse",
-      3
-    ],
-    [
-      "Wharton Ford",
-      3
-    ],
-    [
       "Gettel Automotive Group",
+      4
+    ],
+    [
+      "LUXURY IMPORTS",
+      4
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "GETCAR LLC",
       3
     ],
     [
-      "Davidson Auto Group",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
-      "Novacti",
-      2
-    ],
-    [
-      "Bush Trucks Leasing",
+      "Yoga Cars",
       2
     ],
     [
@@ -92,19 +72,15 @@
       2
     ],
     [
-      "Icon Motors Group",
+      "Jim Schmidt Automotive",
       2
     ],
     [
-      "Speedway Car Sales",
+      "Southbank Dodge Chrysler (1982) Ltd",
       2
     ],
     [
-      "Rolls-Royce Motor Cars Raleigh",
-      1
-    ],
-    [
-      "5 Star Imports",
+      "AutoRuptive LLC",
       1
     ],
     [
@@ -112,75 +88,11 @@
       1
     ],
     [
-      "Auto Park Ford Bremen",
-      1
-    ],
-    [
-      "Community Motors",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
       "Apex Automotive Group",
       1
     ],
     [
-      "Homan Auto Sales Inc",
-      1
-    ],
-    [
-      "LUXURY IMPORTS",
-      1
-    ],
-    [
-      "Princeton Chevrolet GMC",
-      1
-    ],
-    [
-      "Great Lakes Auto ",
-      1
-    ],
-    [
-      "Superior Auto, INC",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "Janssen Chrysler Jeep Dodge",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Raleigh Imports",
-      1
-    ],
-    [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
-      "Greenville Automotive Group",
-      1
-    ],
-    [
-      "ASK Motors",
+      "Post Oak Toyota",
       1
     ],
     [
@@ -188,23 +100,47 @@
       1
     ],
     [
-      "K&f Auto Sales And Service",
+      "Enterprise Motor Group",
       1
     ],
     [
-      "TNS Autosports",
+      "Charlie Clark Hyundai",
       1
     ],
     [
-      "Your Choice Auto LLC",
+      "Speedway Car Sales",
       1
     ],
     [
-      "Auto Dobrovolny V.M. s.r.o.",
+      "Preston Motor Automotive Group",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ],
     [
