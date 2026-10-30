@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T09:05:20.265Z",
+  "fetchedAt": "2026-10-30T15:50:38.062Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,87 @@
   "rows": [
     [
       null,
-      12
+      43
     ],
     [
-      "Rawian Oy",
-      5
+      "Grand Motorcars",
+      15
     ],
     [
-      "IM Marketplace GmBH",
+      "Van Horn Automotive Group",
       4
     ],
     [
-      "Starling Chevrolet",
+      "Gettel Automotive Group",
       3
+    ],
+    [
+      "Car Capital LTD",
+      2
+    ],
+    [
+      "Bergstrom Automotive",
+      2
+    ],
+    [
+      "Pdx Wheels, Steals & Deals",
+      2
+    ],
+    [
+      "Dimmitt Automotive Group",
+      2
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "TNS Autosports",
+      1
+    ],
+    [
+      "Car Central",
+      1
+    ],
+    [
+      "Rawian Oy",
+      1
+    ],
+    [
+      "District Auto Group",
+      1
+    ],
+    [
+      "Apex Automotive Group",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      1
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      1
+    ],
+    [
+      "Superior Auto, INC",
+      1
+    ],
+    [
+      "Greenville Automotive Group",
+      1
+    ],
+    [
+      "Auto Dobrovolny V.M. s.r.o.",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      1
     ],
     [
       "Runde Chevrolet, Inc.",
