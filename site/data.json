@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T23:46:30.076Z",
+  "fetchedAt": "2026-10-31T02:46:06.979Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,18 @@
   "rows": [
     [
       null,
-      89
+      90
+    ],
+    [
+      "Bergstrom Automotive",
+      14
     ],
     [
       "DealerVision.com",
-      15
+      12
     ],
     [
-      "James Motor Company",
-      9
-    ],
-    [
-      "Luxury Auto Plex",
+      "Beck Motors",
       7
     ],
     [
@@ -36,19 +36,7 @@
       6
     ],
     [
-      "Greenway Automotive Group",
-      6
-    ],
-    [
-      "Northtown Automotive",
-      5
-    ],
-    [
       "Gettel Automotive Group",
-      4
-    ],
-    [
-      "LUXURY IMPORTS",
       4
     ],
     [
@@ -60,11 +48,31 @@
       3
     ],
     [
+      "Prestige Auto Sales",
+      3
+    ],
+    [
       "Yoga Cars",
       2
     ],
     [
-      "World Car Auto Group",
+      "Hammond Cars",
+      2
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "Jidd Performance",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Charlie Clark Hyundai",
       2
     ],
     [
@@ -72,39 +80,39 @@
       2
     ],
     [
+      "World Car Auto Group",
+      2
+    ],
+    [
       "Jim Schmidt Automotive",
       2
     ],
     [
-      "Southbank Dodge Chrysler (1982) Ltd",
+      "Rochester Auto Mall",
       2
     ],
     [
-      "AutoRuptive LLC",
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Novacti",
+      2
+    ],
+    [
+      "Butler Lexus of South Atlanta",
+      2
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
       1
     ],
     [
-      "North Park Lincoln",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Apex Automotive Group",
-      1
-    ],
-    [
-      "Post Oak Toyota",
-      1
-    ],
-    [
-      "Flexcar",
-      1
-    ],
-    [
-      "Enterprise Motor Group",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
+      "IM Marketplace GmBH",
       1
     ],
     [
@@ -112,35 +120,31 @@
       1
     ],
     [
+      "Georgia Auto World",
+      1
+    ],
+    [
       "Preston Motor Automotive Group",
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Bergstrom Automotive",
-      1
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      1
-    ],
-    [
-      "Best Deal Auto Sales, INC.",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
+      "greenway auto group 2",
       1
     ],
     [
       "Performance Automotive Network",
+      1
+    ],
+    [
+      "Apex Automotive Group",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "North Park Lincoln",
       1
     ],
     [
