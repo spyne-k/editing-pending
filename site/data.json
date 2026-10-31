@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T08:56:02.623Z",
+  "fetchedAt": "2026-10-31T14:58:56.101Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,10 @@
   "rows": [
     [
       null,
-      37
+      16
     ],
     [
-      "IM Marketplace GmBH",
-      4
-    ],
-    [
-      "SI Vallett Auto Sales",
+      "Integrity Auto Sales",
       2
     ],
     [
@@ -32,32 +28,8 @@
       2
     ],
     [
-      "Hammond Cars",
-      2
-    ],
-    [
-      "Integrity Auto Sales",
-      2
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      2
-    ],
-    [
-      "Jim Schmidt Automotive",
-      2
-    ],
-    [
-      "Butler Lexus of South Atlanta",
-      2
-    ],
-    [
       "Pdx Wheels, Steals & Deals",
       2
-    ],
-    [
-      "North Park Lincoln",
-      1
     ],
     [
       "Flexcar",
@@ -72,19 +44,7 @@
       1
     ],
     [
-      "Alpha One Automotive",
-      1
-    ],
-    [
       "World Car Auto Group",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Apex Automotive Group",
       1
     ],
     [
@@ -92,7 +52,7 @@
       1
     ],
     [
-      "Davidson Auto Group",
+      "Brandon Steven Motors",
       1
     ],
     [
@@ -100,11 +60,7 @@
       1
     ],
     [
-      "Landers Dodge Chrysler Jeep RAM",
-      1
-    ],
-    [
-      "Brandon Steven Motors",
+      "Davidson Auto Group",
       1
     ],
     [
@@ -112,15 +68,7 @@
       1
     ],
     [
-      "Southbank Dodge Chrysler (1982) Ltd",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Performance Automotive Network",
+      "Landers Dodge Chrysler Jeep RAM",
       1
     ],
     [
