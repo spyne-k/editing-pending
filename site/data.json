@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T14:58:56.101Z",
+  "fetchedAt": "2026-10-31T19:10:22.198Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,22 @@
   "rows": [
     [
       null,
-      16
+      15
     ],
     [
-      "Integrity Auto Sales",
+      "Preston Motor Automotive Group",
+      5
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      3
+    ],
+    [
+      "Car Central",
       2
     ],
     [
-      "James Motor Company",
-      2
-    ],
-    [
-      "Pdx Wheels, Steals & Deals",
+      "Bob Johnson Automotive Group",
       2
     ],
     [
@@ -36,39 +40,11 @@
       1
     ],
     [
-      "Car Central",
+      "Carzwala",
       1
     ],
     [
-      "Car Capital LTD",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Speedway Car Sales",
-      1
-    ],
-    [
-      "Brandon Steven Motors",
-      1
-    ],
-    [
-      "Fred Anderson Honda",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Preston Motor Automotive Group",
-      1
-    ],
-    [
-      "Landers Dodge Chrysler Jeep RAM",
+      "DealerVision.com",
       1
     ],
     [
