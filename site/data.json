@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T02:46:06.979Z",
+  "fetchedAt": "2026-10-31T08:56:02.623Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,18 @@
   "rows": [
     [
       null,
-      90
+      37
     ],
     [
-      "Bergstrom Automotive",
-      14
-    ],
-    [
-      "DealerVision.com",
-      12
-    ],
-    [
-      "Beck Motors",
-      7
-    ],
-    [
-      "ZT Automotive",
-      6
-    ],
-    [
-      "Gettel Automotive Group",
+      "IM Marketplace GmBH",
       4
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      4
+      "SI Vallett Auto Sales",
+      2
     ],
     [
-      "GETCAR LLC",
-      3
-    ],
-    [
-      "Prestige Auto Sales",
-      3
-    ],
-    [
-      "Yoga Cars",
+      "James Motor Company",
       2
     ],
     [
@@ -60,19 +36,7 @@
       2
     ],
     [
-      "Impex Auto Sales",
-      2
-    ],
-    [
-      "Jidd Performance",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Charlie Clark Hyundai",
+      "Integrity Auto Sales",
       2
     ],
     [
@@ -80,23 +44,7 @@
       2
     ],
     [
-      "World Car Auto Group",
-      2
-    ],
-    [
       "Jim Schmidt Automotive",
-      2
-    ],
-    [
-      "Rochester Auto Mall",
-      2
-    ],
-    [
-      "Greenway Automotive Group",
-      2
-    ],
-    [
-      "Novacti",
       2
     ],
     [
@@ -104,7 +52,31 @@
       2
     ],
     [
-      "Best Deal Auto Sales, INC.",
+      "Pdx Wheels, Steals & Deals",
+      2
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
+      "Car Central",
+      1
+    ],
+    [
+      "Car Capital LTD",
+      1
+    ],
+    [
+      "Alpha One Automotive",
+      1
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
@@ -112,7 +84,7 @@
       1
     ],
     [
-      "IM Marketplace GmBH",
+      "Apex Automotive Group",
       1
     ],
     [
@@ -120,7 +92,19 @@
       1
     ],
     [
-      "Georgia Auto World",
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Fred Anderson Honda",
+      1
+    ],
+    [
+      "Landers Dodge Chrysler Jeep RAM",
+      1
+    ],
+    [
+      "Brandon Steven Motors",
       1
     ],
     [
@@ -128,15 +112,7 @@
       1
     ],
     [
-      "greenway auto group 2",
-      1
-    ],
-    [
-      "Performance Automotive Network",
-      1
-    ],
-    [
-      "Apex Automotive Group",
+      "Southbank Dodge Chrysler (1982) Ltd",
       1
     ],
     [
@@ -144,7 +120,7 @@
       1
     ],
     [
-      "North Park Lincoln",
+      "Performance Automotive Network",
       1
     ],
     [
