@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T19:10:22.198Z",
+  "fetchedAt": "2026-10-31T22:27:57.213Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,78 @@
   "rows": [
     [
       null,
-      15
+      37
     ],
     [
-      "Preston Motor Automotive Group",
+      "Seth Wadley Ford of Pauls Valley",
       5
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Simmons-Rockwell Automotive Dealerships",
+      5
+    ],
+    [
+      "Sprinkler Used Cars",
+      4
+    ],
+    [
+      "Bergstrom Automotive",
       3
     ],
     [
-      "Car Central",
-      2
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      2
-    ],
-    [
       "Flexcar",
+      2
+    ],
+    [
+      "Raleigh Imports",
+      2
+    ],
+    [
+      "Beaver County Auto",
+      2
+    ],
+    [
+      "Loeppky Auto Sales",
+      2
+    ],
+    [
+      "Northtown Automotive",
+      2
+    ],
+    [
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "Bob King",
       1
     ],
     [
-      "Carzwala",
+      "Yoga Cars",
       1
     ],
     [
       "DealerVision.com",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "Dave Knapp Ford Lincoln",
+      1
+    ],
+    [
+      "Vindevers Autohaus of Sylvania",
+      1
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
       1
     ],
     [
