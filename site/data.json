@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T22:27:57.213Z",
+  "fetchedAt": "2026-11-01T01:21:42.355Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      37
+      35
     ],
     [
       "Seth Wadley Ford of Pauls Valley",
@@ -28,36 +28,28 @@
       5
     ],
     [
-      "Sprinkler Used Cars",
-      4
-    ],
-    [
-      "Bergstrom Automotive",
+      "Loeppky Auto Sales",
       3
     ],
     [
-      "Flexcar",
+      "Faircy Automotive",
+      3
+    ],
+    [
+      "Midwest Auto Group",
       2
     ],
     [
-      "Raleigh Imports",
-      2
-    ],
-    [
-      "Beaver County Auto",
-      2
-    ],
-    [
-      "Loeppky Auto Sales",
-      2
-    ],
-    [
-      "Northtown Automotive",
+      "Hatimi Auto LLC",
       2
     ],
     [
       "Davidson Auto Group",
       2
+    ],
+    [
+      "Carzwala",
+      1
     ],
     [
       "Bob King",
@@ -72,15 +64,23 @@
       1
     ],
     [
+      "Beaver County Auto",
+      1
+    ],
+    [
+      "Hammond Cars",
+      1
+    ],
+    [
       "Charlie Clark Hyundai",
       1
     ],
     [
-      "Dave Knapp Ford Lincoln",
+      "Dick Dyer & Associates",
       1
     ],
     [
-      "Vindevers Autohaus of Sylvania",
+      "Northtown Automotive",
       1
     ],
     [
@@ -88,7 +88,15 @@
       1
     ],
     [
-      "Rolls-Royce Motor Cars Raleigh",
+      "Roanoke Motors Inc",
+      1
+    ],
+    [
+      "Vindevers Autohaus of Sylvania",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ],
     [
