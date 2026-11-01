@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T19:06:02.662Z",
+  "fetchedAt": "2026-11-01T22:44:55.552Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,38 @@
   "rows": [
     [
       null,
-      41
+      88
     ],
     [
       "Bergstrom Automotive",
-      34
+      46
     ],
     [
-      "Northtown Automotive",
-      3
+      "Altawkilat",
+      28
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      7
+    ],
+    [
+      "Apex Automotive Group",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      2
     ],
     [
       "Redmond Chevrolet",
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Fred Anderson Honda",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
+      "Bud Clary Chevrolet, INC",
       1
     ],
     [
