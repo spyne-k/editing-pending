@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T07:40:31.948Z",
+  "fetchedAt": "2026-11-01T14:30:33.564Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,26 @@
   "rows": [
     [
       null,
-      31
+      44
     ],
     [
       "Bergstrom Automotive",
-      28
+      39
+    ],
+    [
+      "MY Naghi",
+      2
     ],
     [
       "Redmond Chevrolet",
       1
     ],
     [
-      "Dubizzle Cars L.L.C",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "Al-Zayani Trading Company",
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
