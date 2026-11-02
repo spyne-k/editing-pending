@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T22:44:55.552Z",
+  "fetchedAt": "2026-11-02T01:52:08.510Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,11 @@
   "rows": [
     [
       null,
-      88
+      110
     ],
     [
       "Bergstrom Automotive",
-      46
+      66
     ],
     [
       "Altawkilat",
@@ -32,23 +32,31 @@
       7
     ],
     [
+      "Silsbee Ford",
+      2
+    ],
+    [
       "Apex Automotive Group",
       2
     ],
     [
-      "Jenkins Auto Group",
-      2
+      "Terry Auto Group",
+      1
     ],
     [
       "Redmond Chevrolet",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Sansone Jr's Auto Group",
       1
     ],
     [
       "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
       1
     ],
     [
