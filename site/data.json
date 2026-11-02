@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T08:26:37.633Z",
+  "fetchedAt": "2026-11-02T18:40:26.747Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,94 @@
   "rows": [
     [
       null,
-      26
+      60
     ],
     [
-      "Bergstrom Automotive",
-      17
+      "DealerVision.com",
+      8
     ],
     [
-      "Rawian Oy",
-      5
+      "Direct Auto",
+      8
     ],
     [
-      "Advantage Toyota",
+      "Asbury Automotive Management L.L.C",
+      6
+    ],
+    [
+      "4M Autoplex",
+      4
+    ],
+    [
+      "Renny Bettan",
+      3
+    ],
+    [
+      "LUXURY IMPORTS",
+      3
+    ],
+    [
+      "Speedway Car Sales",
+      3
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      3
+    ],
+    [
+      "Wood Motor Company",
+      3
+    ],
+    [
+      "Jim Schmidt Automotive",
+      3
+    ],
+    [
+      "ZT Automotive",
       2
     ],
     [
-      "Starling Chevrolet",
+      "MyCar: Trucktown",
+      2
+    ],
+    [
+      "Sakura Motors London LTD",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "MY Naghi",
       1
     ],
     [
-      "The Ford Store Morgan Hill",
+      "Bob King",
+      1
+    ],
+    [
+      "Twin Pine Ford",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Beadle Ford, INC.",
+      1
+    ],
+    [
+      "Auto Park Ford Bremen",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
       1
     ],
     [
