@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T15:58:06.685Z",
+  "fetchedAt": "2026-11-03T21:35:35.551Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,51 @@
   "rows": [
     [
       null,
-      25
+      89
     ],
     [
-      "Northtown Automotive",
-      6
+      "Jenkins Auto Group",
+      18
     ],
     [
-      "Speedway Car Sales",
-      2
+      "Teton solutions Group",
+      13
+    ],
+    [
+      "Loeppky Auto Sales",
+      11
+    ],
+    [
+      "ZT Automotive",
+      5
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "Midwest Auto Group",
+      4
+    ],
+    [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Capital Chevrolet Inc.",
+      3
     ],
     [
       "H&K Chevrolet Family Auto",
       2
+    ],
+    [
+      "McGrath Acura of Westmont (Mcgrath Imports)",
+      2
+    ],
+    [
+      "Beadle Ford, INC.",
+      1
     ],
     [
       "Covert Bee Cave",
@@ -40,27 +72,23 @@
       1
     ],
     [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Star Motors",
+      1
+    ],
+    [
+      "Certified Autoplex Inc.",
+      1
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
       "AutoRuptive LLC",
-      1
-    ],
-    [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
-      1
-    ],
-    [
-      "Volvo Cars Palm Springs",
-      1
-    ],
-    [
-      "Beadle Ford, INC.",
       1
     ],
     [
@@ -72,7 +100,27 @@
       1
     ],
     [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Auto Park Ford Bremen",
+      1
+    ],
+    [
       "Northside Auto Sales",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -80,15 +128,31 @@
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
       "Boardman Subaru and Imports",
       1
     ],
     [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
+      1
+    ],
+    [
+      "Hatimi Auto LLC",
+      1
+    ],
+    [
+      "Ohio Specialty Services, LTD.",
+      1
+    ],
+    [
       "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "Volvo Cars Palm Springs",
       1
     ],
     [
