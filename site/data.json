@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T18:40:26.747Z",
+  "fetchedAt": "2026-11-03T01:16:54.384Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,34 @@
   "rows": [
     [
       null,
-      60
+      46
     ],
     [
-      "DealerVision.com",
-      8
-    ],
-    [
-      "Direct Auto",
-      8
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
+      "Teton solutions Group",
       6
     ],
     [
-      "4M Autoplex",
+      "Bob Johnson Automotive Group",
       4
     ],
     [
-      "Renny Bettan",
-      3
-    ],
-    [
-      "LUXURY IMPORTS",
-      3
-    ],
-    [
-      "Speedway Car Sales",
-      3
-    ],
-    [
-      "Southbank Dodge Chrysler (1982) Ltd",
-      3
-    ],
-    [
-      "Wood Motor Company",
-      3
-    ],
-    [
-      "Jim Schmidt Automotive",
-      3
-    ],
-    [
       "ZT Automotive",
+      3
+    ],
+    [
+      "Fred Anderson Honda",
+      3
+    ],
+    [
+      "Preston Motor Automotive Group",
+      3
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
+      3
+    ],
+    [
+      "Flexcar",
       2
     ],
     [
@@ -68,11 +52,23 @@
       2
     ],
     [
-      "Sakura Motors London LTD",
+      "Kempton Chevrolet",
       2
     ],
     [
-      "Gettel Automotive Group",
+      "Hewlett Volkswagen, LP",
+      2
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      2
+    ],
+    [
+      "Faircy Automotive",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
@@ -80,15 +76,23 @@
       1
     ],
     [
-      "Bob King",
+      "Kia Vancouver",
       1
     ],
     [
-      "Twin Pine Ford",
+      "VW of Duluth",
       1
     ],
     [
-      "Teton solutions Group",
+      "Joshua Trownsell",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Integrity Auto Sales",
       1
     ],
     [
@@ -96,15 +100,15 @@
       1
     ],
     [
-      "Auto Park Ford Bremen",
+      "MST Trading, LLC DBA Always Motors",
       1
     ],
     [
-      "Greenway Automotive Group",
+      "Hawthorne Auto Square",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Speedway Car Sales",
       1
     ],
     [
