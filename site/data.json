@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T01:16:54.384Z",
+  "fetchedAt": "2026-11-03T07:58:32.290Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,54 @@
   "rows": [
     [
       null,
-      46
+      80
     ],
     [
-      "Teton solutions Group",
+      "Amato Hyundai Of Glendale",
+      15
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      7
+    ],
+    [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       6
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Advantage Toyota",
       4
     ],
     [
-      "ZT Automotive",
+      "Santa Motors CA",
       3
     ],
     [
-      "Fred Anderson Honda",
+      "Seth Wadley Ford of Pauls Valley",
       3
     ],
     [
-      "Preston Motor Automotive Group",
+      "Graff Auto Campus",
       3
     ],
     [
-      "Best Deal Auto Sales, INC.",
+      "2d5f0eb5f Dellenbach Motors",
       3
     ],
     [
-      "Flexcar",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "Charlie Clark Hyundai",
       2
     ],
     [
-      "MyCar: Trucktown",
+      "Dave Knapp Ford Lincoln",
       2
     ],
     [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
-      "Hewlett Volkswagen, LP",
+      "Jim Schmidt Automotive",
       2
     ],
     [
@@ -64,35 +72,35 @@
       2
     ],
     [
+      "C.A. Larsen Automobiler A/S",
+      2
+    ],
+    [
       "Faircy Automotive",
       2
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Northside Auto Sales",
       2
     ],
     [
-      "MY Naghi",
+      "Wood Motor Company",
       1
     ],
     [
-      "Kia Vancouver",
+      "Covert Bee Cave",
       1
     ],
     [
-      "VW of Duluth",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "Joshua Trownsell",
+      "IM Marketplace GmBH",
       1
     ],
     [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Integrity Auto Sales",
+      "Baxter Automotive",
       1
     ],
     [
@@ -100,15 +108,55 @@
       1
     ],
     [
-      "MST Trading, LLC DBA Always Motors",
+      "Impex Auto Sales",
       1
     ],
     [
-      "Hawthorne Auto Square",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Volvo Cars Palm Springs",
+      1
+    ],
+    [
+      "Median Media LLC",
+      1
+    ],
+    [
+      "Baker Cadillac, Inc",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "AutoRuptive LLC",
+      1
+    ],
+    [
+      "Performance Automotive Network",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "Autmotive Marketing Solution - Main",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "MY Naghi",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
       1
     ],
     [
