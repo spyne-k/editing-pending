@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T07:58:32.290Z",
+  "fetchedAt": "2026-11-03T15:58:06.685Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,54 +17,14 @@
   "rows": [
     [
       null,
-      80
+      25
     ],
     [
-      "Amato Hyundai Of Glendale",
-      15
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      7
-    ],
-    [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "Northtown Automotive",
       6
     ],
     [
-      "Advantage Toyota",
-      4
-    ],
-    [
-      "Santa Motors CA",
-      3
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      3
-    ],
-    [
-      "Graff Auto Campus",
-      3
-    ],
-    [
-      "2d5f0eb5f Dellenbach Motors",
-      3
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      3
-    ],
-    [
-      "Charlie Clark Hyundai",
-      2
-    ],
-    [
-      "Dave Knapp Ford Lincoln",
-      2
-    ],
-    [
-      "Jim Schmidt Automotive",
+      "Speedway Car Sales",
       2
     ],
     [
@@ -72,39 +32,7 @@
       2
     ],
     [
-      "C.A. Larsen Automobiler A/S",
-      2
-    ],
-    [
-      "Faircy Automotive",
-      2
-    ],
-    [
-      "Northside Auto Sales",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
       "Covert Bee Cave",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "IM Marketplace GmBH",
-      1
-    ],
-    [
-      "Baxter Automotive",
-      1
-    ],
-    [
-      "Beadle Ford, INC.",
       1
     ],
     [
@@ -112,7 +40,19 @@
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "AutoRuptive LLC",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -120,7 +60,7 @@
       1
     ],
     [
-      "Median Media LLC",
+      "Beadle Ford, INC.",
       1
     ],
     [
@@ -128,35 +68,27 @@
       1
     ],
     [
-      "Northtown Automotive",
+      "Covert Auto Group",
       1
     ],
     [
-      "AutoRuptive LLC",
+      "Northside Auto Sales",
       1
     ],
     [
-      "Performance Automotive Network",
+      "Baxter Automotive",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Boardman Subaru and Imports",
       1
     ],
     [
       "Rolls-Royce Motor Cars Raleigh",
-      1
-    ],
-    [
-      "Autmotive Marketing Solution - Main",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      1
-    ],
-    [
-      "MY Naghi",
-      1
-    ],
-    [
-      "Prestige Auto Sales",
       1
     ],
     [
