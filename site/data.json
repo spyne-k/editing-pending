@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04T01:37:51.860Z",
+  "fetchedAt": "2026-11-04T07:59:10.502Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,94 +17,34 @@
   "rows": [
     [
       null,
-      155
+      60
     ],
     [
       "Mazda of Fargo & Kia of Fargo",
-      25
-    ],
-    [
-      "Loeppky Auto Sales",
-      17
-    ],
-    [
-      "Impex Auto Sales",
-      12
-    ],
-    [
-      "Performance Automotive Network",
-      12
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      9
+      7
     ],
     [
       "Certified Import Auto Sales",
-      9
-    ],
-    [
-      "SI Vallett Auto Sales",
-      6
-    ],
-    [
-      "Greenway Automotive Group",
       5
-    ],
-    [
-      "ZT Automotive",
-      5
-    ],
-    [
-      "Gettel Automotive Group",
-      5
-    ],
-    [
-      "KAR Auto Group",
-      3
-    ],
-    [
-      "World Car Auto Group",
-      3
-    ],
-    [
-      "DealerVision.com",
-      3
-    ],
-    [
-      "Crown Motors",
-      3
-    ],
-    [
-      "Covert Bee Cave",
-      2
-    ],
-    [
-      "Covert Auto Group",
-      2
-    ],
-    [
-      "Moses Auto Group",
-      2
-    ],
-    [
-      "Redline Auto Group",
-      2
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      2
     ],
     [
       "Elite Auto Marketing Solutions",
+      4
+    ],
+    [
+      "Generation Nissan",
+      3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
-      "Jenkins Auto Group",
+      "Hammond Cars",
       2
     ],
     [
-      "Median Media LLC",
+      "S&L Motors, Pulaski WI",
       2
     ],
     [
@@ -112,15 +52,31 @@
       2
     ],
     [
-      "Baker Cadillac, Inc",
-      1
+      "Charlie Clark Hyundai",
+      2
     ],
     [
-      "Hawthorne Auto Square",
-      1
+      "IM Marketplace GmBH",
+      2
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Preston Motor Automotive Group",
+      2
+    ],
+    [
+      "Northwest Indiana Auto Finance",
+      2
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      2
+    ],
+    [
+      "Redmond Chevrolet",
+      2
+    ],
+    [
+      "Graff Auto Campus",
       1
     ],
     [
@@ -128,11 +84,11 @@
       1
     ],
     [
-      "Prestige Auto Sales",
+      "Volvo Cars Palm Springs",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Baker Cadillac, Inc",
       1
     ],
     [
@@ -140,23 +96,19 @@
       1
     ],
     [
-      "Mark Miller Subaru, Inc.",
-      1
-    ],
-    [
       "Northside Auto Sales",
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "Lee Group",
       1
     ],
     [
-      "Smartlot Solutions",
+      "MY Naghi",
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "Mark Williams Auto Group",
       1
     ],
     [
@@ -164,15 +116,15 @@
       1
     ],
     [
-      "Rick Weaver Chevrolet",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
-      "Auto Gallery Automotive Group",
+      "Pearl Chrysler Jeep Dodge & Ram",
       1
     ],
     [
-      "Volvo Cars Palm Springs",
+      "Faircy Automotive",
       1
     ],
     [
@@ -180,7 +132,19 @@
       1
     ],
     [
-      "Ohio Specialty Services, LTD.",
+      "Auto Gallery Automotive Group",
+      1
+    ],
+    [
+      "Rusnak Auto Group - Mercedes- Benz of Arcadia",
+      1
+    ],
+    [
+      "SAARRTH PEHLIGAADI PRIVATE LIMITED",
+      1
+    ],
+    [
+      "Prestige Auto Sales",
       1
     ],
     [
@@ -188,7 +152,11 @@
       1
     ],
     [
-      "AutoRuptive LLC",
+      "Autmotive Marketing Solution - Main",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
       1
     ],
     [
