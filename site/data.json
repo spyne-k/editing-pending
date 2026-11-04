@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T21:35:35.551Z",
+  "fetchedAt": "2026-11-04T01:37:51.860Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,122 +17,114 @@
   "rows": [
     [
       null,
-      89
+      155
     ],
     [
-      "Jenkins Auto Group",
-      18
-    ],
-    [
-      "Teton solutions Group",
-      13
+      "Mazda of Fargo & Kia of Fargo",
+      25
     ],
     [
       "Loeppky Auto Sales",
-      11
+      17
+    ],
+    [
+      "Impex Auto Sales",
+      12
+    ],
+    [
+      "Performance Automotive Network",
+      12
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      9
+    ],
+    [
+      "Certified Import Auto Sales",
+      9
+    ],
+    [
+      "SI Vallett Auto Sales",
+      6
+    ],
+    [
+      "Greenway Automotive Group",
+      5
     ],
     [
       "ZT Automotive",
       5
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      4
+      "Gettel Automotive Group",
+      5
     ],
     [
-      "Midwest Auto Group",
-      4
+      "KAR Auto Group",
+      3
     ],
     [
       "World Car Auto Group",
       3
     ],
     [
-      "Capital Chevrolet Inc.",
+      "DealerVision.com",
       3
+    ],
+    [
+      "Crown Motors",
+      3
+    ],
+    [
+      "Covert Bee Cave",
+      2
+    ],
+    [
+      "Covert Auto Group",
+      2
+    ],
+    [
+      "Moses Auto Group",
+      2
+    ],
+    [
+      "Redline Auto Group",
+      2
     ],
     [
       "H&K Chevrolet Family Auto",
       2
     ],
     [
-      "McGrath Acura of Westmont (Mcgrath Imports)",
+      "Elite Auto Marketing Solutions",
       2
     ],
     [
-      "Beadle Ford, INC.",
-      1
+      "Jenkins Auto Group",
+      2
     ],
     [
-      "Covert Bee Cave",
-      1
+      "Median Media LLC",
+      2
     ],
     [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Star Motors",
-      1
-    ],
-    [
-      "Certified Autoplex Inc.",
-      1
-    ],
-    [
-      "Flexcar",
-      1
-    ],
-    [
-      "AutoRuptive LLC",
-      1
+      "Russ Darrow Group, Inc.",
+      2
     ],
     [
       "Baker Cadillac, Inc",
       1
     ],
     [
-      "Covert Auto Group",
+      "Hawthorne Auto Square",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Ryan Buick GMC Cadillac",
       1
     ],
     [
-      "Northtown Automotive",
-      1
-    ],
-    [
-      "Auto Park Ford Bremen",
-      1
-    ],
-    [
-      "Northside Auto Sales",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
-      1
-    ],
-    [
-      "Baxter Automotive",
-      1
-    ],
-    [
-      "Boardman Subaru and Imports",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
+      "Beadle Ford, INC.",
       1
     ],
     [
@@ -140,7 +132,51 @@
       1
     ],
     [
-      "Hatimi Auto LLC",
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "greenway auto group 2",
+      1
+    ],
+    [
+      "Mark Miller Subaru, Inc.",
+      1
+    ],
+    [
+      "Northside Auto Sales",
+      1
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      1
+    ],
+    [
+      "Smartlot Solutions",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Baxter Automotive",
+      1
+    ],
+    [
+      "Rick Weaver Chevrolet",
+      1
+    ],
+    [
+      "Auto Gallery Automotive Group",
+      1
+    ],
+    [
+      "Volvo Cars Palm Springs",
+      1
+    ],
+    [
+      "Boardman Subaru and Imports",
       1
     ],
     [
@@ -152,7 +188,7 @@
       1
     ],
     [
-      "Volvo Cars Palm Springs",
+      "AutoRuptive LLC",
       1
     ],
     [
