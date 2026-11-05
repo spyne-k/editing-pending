@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T08:36:01.010Z",
+  "fetchedAt": "2026-11-05T16:47:03.790Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,22 +17,22 @@
   "rows": [
     [
       null,
-      49
+      46
     ],
     [
-      "Yoder Family of Companies",
-      5
+      "Northtown Automotive",
+      6
     ],
     [
-      "Jim Schmidt Automotive",
-      4
+      "Brandon Steven Motors",
+      6
+    ],
+    [
+      "Pritchard Companies",
+      6
     ],
     [
       "IM Marketplace GmBH",
-      4
-    ],
-    [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       4
     ],
     [
@@ -40,55 +40,15 @@
       3
     ],
     [
-      "Auto Dobrovolny V.M. s.r.o.",
-      3
+      "Long Automotive Group",
+      2
     ],
     [
       "Starling Chevrolet",
       2
     ],
     [
-      "Long Automotive Group",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
-      2
-    ],
-    [
-      "Rawian Oy",
-      2
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Baker Cadillac, Inc",
-      1
-    ],
-    [
-      "Husker Chevrolet",
-      1
-    ],
-    [
-      "Jidd Motors Mitsubishi",
-      1
-    ],
-    [
-      "Speedway Car Sales",
+      "Flexcar",
       1
     ],
     [
@@ -96,11 +56,39 @@
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "Impex Auto Sales",
       1
     ],
     [
-      "Parks Chevrolet Richmond",
+      "Flood Auto Group",
+      1
+    ],
+    [
+      "Husker Chevrolet",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Teton solutions Group",
+      1
+    ],
+    [
+      "Baker Cadillac, Inc",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
       1
     ],
     [
@@ -108,27 +96,23 @@
       1
     ],
     [
-      "Pritchard Companies",
-      1
-    ],
-    [
-      "Northwest Indiana Auto Finance",
-      1
-    ],
-    [
       "Faircy Automotive",
       1
     ],
     [
-      "2d5f0eb5f Dellenbach Motors",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
-      "Al-Zayani Trading Company",
+      "H&K Chevrolet Family Auto",
       1
     ],
     [
-      "Rolls-Royce Motor Cars Raleigh",
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
