@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T16:47:03.790Z",
+  "fetchedAt": "2026-11-05T22:23:39.673Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,34 @@
   "rows": [
     [
       null,
-      46
+      165
     ],
     [
       "Northtown Automotive",
+      25
+    ],
+    [
+      "Olson Chevrolet",
+      14
+    ],
+    [
+      "LuxuryMotorCars",
+      9
+    ],
+    [
+      "Your Choice Auto LLC",
+      7
+    ],
+    [
+      "Rohrich Automotive Group",
       6
     ],
     [
-      "Brandon Steven Motors",
+      "Teton solutions Group",
+      6
+    ],
+    [
+      "Freedom Chevrolet",
       6
     ],
     [
@@ -32,15 +52,75 @@
       6
     ],
     [
-      "IM Marketplace GmBH",
+      "Toronto Honda",
+      5
+    ],
+    [
+      "LUXURY IMPORTS",
       4
     ],
     [
-      "Davidson Auto Group",
+      " Drive Cockpit ",
+      4
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "Preston Motor Automotive Group",
+      4
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      4
+    ],
+    [
+      "Dobbs Equity Partners, LLC",
+      4
+    ],
+    [
+      "Yemm Auto",
       3
     ],
     [
+      "Willowbrook Ford & Kia",
+      3
+    ],
+    [
+      "Graff Auto Campus",
+      3
+    ],
+    [
+      "Zink Motor Company",
+      3
+    ],
+    [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Van Horn Automotive Group",
+      3
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Lewiston Auto",
+      2
+    ],
+    [
       "Long Automotive Group",
+      2
+    ],
+    [
+      "Speedway Car Sales",
+      2
+    ],
+    [
+      "Davidson Auto Group",
       2
     ],
     [
@@ -48,35 +128,19 @@
       2
     ],
     [
-      "Flexcar",
-      1
+      "Auto Exchange Group",
+      2
     ],
     [
-      "Ray Auto Group",
-      1
+      "Portsmouth Ford Lincoln",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      2
     ],
     [
       "Impex Auto Sales",
-      1
-    ],
-    [
-      "Flood Auto Group",
-      1
-    ],
-    [
-      "Husker Chevrolet",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Teton solutions Group",
       1
     ],
     [
@@ -84,11 +148,39 @@
       1
     ],
     [
-      "Speedway Car Sales",
+      "Euro Motorcars",
       1
     ],
     [
-      "Rolls-Royce Motor Cars Raleigh",
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Ramsey Motor Company",
+      1
+    ],
+    [
+      "Curry Acura",
+      1
+    ],
+    [
+      "Ideal Cars",
+      1
+    ],
+    [
+      "Princeton Chevrolet GMC",
+      1
+    ],
+    [
+      "TORSVIKS BIL AB",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
       1
     ],
     [
@@ -104,15 +196,31 @@
       1
     ],
     [
+      "Ray Auto Group",
+      1
+    ],
+    [
       "H&K Chevrolet Family Auto",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Husker Chevrolet",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "Denver Auto",
       1
     ],
     [
