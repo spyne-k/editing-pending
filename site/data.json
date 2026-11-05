@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04T21:49:48.876Z",
+  "fetchedAt": "2026-11-05T01:51:05.061Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,134 +17,170 @@
   "rows": [
     [
       null,
-      122
+      156
     ],
     [
-      "Great Lakes Auto ",
-      20
+      "MP auto Sales LLC DBA Carizona",
+      15
     ],
     [
-      "Sprinkler Used Cars",
-      12
+      "Hewlett Volkswagen, LP",
+      14
     ],
     [
-      "Pritchard Companies",
-      7
+      "Kian Motors INC",
+      11
     ],
     [
-      "Bergstrom Automotive",
-      7
+      "AX Auto INC",
+      8
     ],
     [
       "Northtown Automotive",
       6
     ],
     [
+      "LUXURY IMPORTS",
+      6
+    ],
+    [
+      "Post Oak Toyota",
+      5
+    ],
+    [
+      "Roanoke Motors Inc",
+      5
+    ],
+    [
+      "Preston Motor Automotive Group",
+      4
+    ],
+    [
+      "VW of Duluth",
+      3
+    ],
+    [
+      "Hatimi Auto LLC",
+      3
+    ],
+    [
+      "Certified Autoplex Inc.",
+      3
+    ],
+    [
       "Asbury Automotive Management L.L.C",
-      5
-    ],
-    [
-      "ZT Automotive",
-      5
-    ],
-    [
-      "Olympic Hyundai Vancouver",
-      5
-    ],
-    [
-      "Hershey Motors",
-      4
-    ],
-    [
-      "Lambert Buick GMC Inc",
-      4
-    ],
-    [
-      "Teton solutions Group",
       3
     ],
     [
-      "Charlie Clark Hyundai",
+      "Rick Weaver Chevrolet",
       3
     ],
     [
-      "Island Auto Sales",
+      "Worldwide Motors LTD dba Paragon Acura",
       3
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Courtesy Automotive Group",
       3
     ],
     [
-      "Rohrich Automotive Group",
-      2
+      "Greenway Automotive Group",
+      3
     ],
     [
-      "Globe Automotive",
-      2
-    ],
-    [
-      "DealerVision.com",
-      2
+      "Elite Auto Marketing Solutions",
+      3
     ],
     [
       "SI Vallett Auto Sales",
       2
     ],
     [
-      "Speedway Car Sales",
+      "Bob Johnson Automotive Group",
       2
     ],
     [
-      "Rim Revolution LLC",
+      "Perkins Motors",
       2
-    ],
-    [
-      "Rolls-Royce Motor Cars Raleigh",
-      2
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "MEI Inc",
-      1
-    ],
-    [
-      "Ray Auto Group",
-      1
-    ],
-    [
-      "Starling Chevrolet",
-      1
-    ],
-    [
-      "Cornhusker Auto Center",
-      1
-    ],
-    [
-      "Jim Schmidt Automotive",
-      1
-    ],
-    [
-      "Towne Ford Inc",
-      1
     ],
     [
       "Beadle Ford, INC.",
+      2
+    ],
+    [
+      "World Car Auto Group",
+      2
+    ],
+    [
+      "Kempton Chevrolet",
+      2
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Laramie Peak Motors LLC",
+      2
+    ],
+    [
+      "The Garage",
+      2
+    ],
+    [
+      "Silsbee Ford",
+      2
+    ],
+    [
+      "Auto Gallery Automotive Group",
+      2
+    ],
+    [
+      "Ohio Specialty Services, LTD.",
+      2
+    ],
+    [
+      "Rohrich Automotive Group",
+      2
+    ],
+    [
+      "Frontier Auto Sales and Service",
+      2
+    ],
+    [
+      "Great Lakes Auto ",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
-      "Adams Chevrolet Inc",
+      "Teton solutions Group",
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Smartlot Solutions",
       1
     ],
     [
-      "Impex Auto Sales",
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
+      1
+    ],
+    [
+      "Keffer Inc.",
+      1
+    ],
+    [
+      "Enterprise Motor Group",
+      1
+    ],
+    [
+      "Kia Vancouver",
       1
     ],
     [
@@ -156,6 +192,34 @@
       1
     ],
     [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Ben Clymer's The Body Shop",
+      1
+    ],
+    [
+      "Ideal Cars",
+      1
+    ],
+    [
+      "Yoder Family of Companies",
+      1
+    ],
+    [
+      "Ray Auto Group",
+      1
+    ],
+    [
+      "Calgary Truck",
+      1
+    ],
+    [
       "Baker Cadillac, Inc",
       1
     ],
@@ -164,28 +228,32 @@
       1
     ],
     [
-      "Mazda of Fargo & Kia of Fargo",
+      "Speedway Car Sales",
       1
     ],
     [
-      "Auto Gallery Automotive Group",
+      "Crown Motors",
       1
     ],
     [
-      "Van Horn Automotive Group",
+      "Rolls-Royce Motor Cars Raleigh",
       1
     ],
     [
-      "Flexcar",
+      "Icon Motors Group",
       1
     ],
     [
-      "Covert Auto Group",
+      "KAR Auto Group",
       1
     ],
     [
-      "Car City INC",
+      "Gettel Automotive Group",
       1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      0
     ]
   ]
 }
