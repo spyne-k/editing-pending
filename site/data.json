@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T22:23:39.673Z",
+  "fetchedAt": "2026-11-06T02:37:59.548Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,98 +17,86 @@
   "rows": [
     [
       null,
-      165
+      178
     ],
     [
-      "Northtown Automotive",
-      25
+      "SI Vallett Auto Sales",
+      24
     ],
     [
-      "Olson Chevrolet",
-      14
+      "Jenkins Auto Group",
+      15
     ],
     [
-      "LuxuryMotorCars",
-      9
-    ],
-    [
-      "Your Choice Auto LLC",
-      7
-    ],
-    [
-      "Rohrich Automotive Group",
-      6
-    ],
-    [
-      "Teton solutions Group",
-      6
-    ],
-    [
-      "Freedom Chevrolet",
-      6
+      "Gettel Automotive Group",
+      13
     ],
     [
       "Pritchard Companies",
-      6
+      9
     ],
     [
-      "Toronto Honda",
-      5
+      "Van Horn Automotive Group",
+      9
+    ],
+    [
+      "Rick Weaver Chevrolet",
+      8
+    ],
+    [
+      "Bergstrom Automotive",
+      8
+    ],
+    [
+      "Pdx Wheels, Steals & Deals",
+      7
     ],
     [
       "LUXURY IMPORTS",
+      6
+    ],
+    [
+      "World Car Auto Group",
+      6
+    ],
+    [
+      "DealerVision.com",
+      5
+    ],
+    [
+      "Midwest Auto Group",
       4
     ],
     [
-      " Drive Cockpit ",
-      4
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      4
-    ],
-    [
-      "Preston Motor Automotive Group",
+      "Greenway Automotive Group",
       4
     ],
     [
       "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "Dobbs Equity Partners, LLC",
-      4
-    ],
-    [
-      "Yemm Auto",
       3
-    ],
-    [
-      "Willowbrook Ford & Kia",
-      3
-    ],
-    [
-      "Graff Auto Campus",
-      3
-    ],
-    [
-      "Zink Motor Company",
-      3
-    ],
-    [
-      "World Car Auto Group",
-      3
-    ],
-    [
-      "Van Horn Automotive Group",
-      3
-    ],
-    [
-      "Flexcar",
-      2
     ],
     [
       "Lewiston Auto",
+      3
+    ],
+    [
+      "Hatimi Auto LLC",
+      3
+    ],
+    [
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      3
+    ],
+    [
+      "Moses Auto Group",
+      2
+    ],
+    [
+      " Drive Cockpit ",
       2
     ],
     [
@@ -116,11 +104,11 @@
       2
     ],
     [
-      "Speedway Car Sales",
+      "Auto Exchange Group",
       2
     ],
     [
-      "Davidson Auto Group",
+      "Flexcar",
       2
     ],
     [
@@ -128,19 +116,19 @@
       2
     ],
     [
-      "Auto Exchange Group",
+      "Davidson Auto Group",
       2
     ],
     [
-      "Portsmouth Ford Lincoln",
+      "Homan Auto Sales Inc",
       2
     ],
     [
-      "Jenkins Auto Group",
-      2
+      "Car Hop Auto Sales & Finance",
+      1
     ],
     [
-      "Impex Auto Sales",
+      "Charlie Clark Hyundai",
       1
     ],
     [
@@ -148,7 +136,27 @@
       1
     ],
     [
-      "Euro Motorcars",
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Ray Auto Group",
+      1
+    ],
+    [
+      "Raleigh Imports",
+      1
+    ],
+    [
+      "4M Autoplex",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Mark Miller Subaru, Inc.",
       1
     ],
     [
@@ -156,19 +164,11 @@
       1
     ],
     [
-      "Ramsey Motor Company",
+      "Drivemax USA",
       1
     ],
     [
-      "Curry Acura",
-      1
-    ],
-    [
-      "Ideal Cars",
-      1
-    ],
-    [
-      "Princeton Chevrolet GMC",
+      "Rohrich Automotive Group",
       1
     ],
     [
@@ -180,11 +180,23 @@
       1
     ],
     [
-      "Bergstrom Automotive",
+      "Whitewater Motors",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "Great Lakes Auto ",
       1
     ],
     [
       "Noblesville Imports",
+      1
+    ],
+    [
+      "Impex Auto Sales",
       1
     ],
     [
@@ -196,11 +208,19 @@
       1
     ],
     [
-      "Ray Auto Group",
+      "Sithari Cars Limited",
       1
     ],
     [
-      "H&K Chevrolet Family Auto",
+      "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "Car Bazaar",
+      1
+    ],
+    [
+      "Auto Gallery Automotive Group",
       1
     ],
     [
@@ -208,19 +228,15 @@
       1
     ],
     [
-      "Jerry Spady Chevrolet GMC Corvette Hummer",
+      "Certified Autoplex Inc.",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "ICL Autos",
       1
     ],
     [
-      "Rolls-Royce Motor Cars Raleigh",
-      1
-    ],
-    [
-      "Denver Auto",
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
