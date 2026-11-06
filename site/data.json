@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T02:37:59.548Z",
+  "fetchedAt": "2026-11-06T09:51:21.656Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,34 @@
   "rows": [
     [
       null,
-      178
+      176
     ],
     [
       "SI Vallett Auto Sales",
       24
     ],
     [
-      "Jenkins Auto Group",
-      15
-    ],
-    [
-      "Gettel Automotive Group",
-      13
-    ],
-    [
-      "Pritchard Companies",
-      9
-    ],
-    [
-      "Van Horn Automotive Group",
-      9
-    ],
-    [
       "Rick Weaver Chevrolet",
       8
     ],
     [
-      "Bergstrom Automotive",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       8
     ],
     [
-      "Pdx Wheels, Steals & Deals",
+      "Wood Motor Company",
       7
     ],
     [
-      "LUXURY IMPORTS",
+      "Alliance Automotive of Westchester LLC dba White P",
+      7
+    ],
+    [
+      "Kian Motors INC",
+      6
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       6
     ],
     [
@@ -60,31 +52,55 @@
       6
     ],
     [
-      "DealerVision.com",
+      "LUXURY IMPORTS",
+      6
+    ],
+    [
+      "Pritchard Companies",
+      6
+    ],
+    [
+      "House Chevrolet Co.",
       5
     ],
     [
-      "Midwest Auto Group",
-      4
+      "Yoder Family of Companies",
+      5
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      5
     ],
     [
       "Greenway Automotive Group",
+      5
+    ],
+    [
+      "Olson Chevrolet",
       4
     ],
     [
-      "Russ Darrow Group, Inc.",
-      3
+      "Dean Carter Chevrolet",
+      4
+    ],
+    [
+      "North Park Lincoln",
+      4
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      4
     ],
     [
       "Lewiston Auto",
       3
     ],
     [
-      "Hatimi Auto LLC",
+      "greenway auto group 2",
       3
     ],
     [
-      "Apex Automotive Group",
+      "Rawian Oy",
       3
     ],
     [
@@ -92,11 +108,23 @@
       3
     ],
     [
-      "Moses Auto Group",
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Drivemax USA",
       2
     ],
     [
-      " Drive Cockpit ",
+      "Bob Johnson Automotive Group",
+      2
+    ],
+    [
+      "Auto X-Change Inc",
+      2
+    ],
+    [
+      "Hewlett Volkswagen, LP",
       2
     ],
     [
@@ -104,131 +132,19 @@
       2
     ],
     [
-      "Auto Exchange Group",
-      2
-    ],
-    [
-      "Flexcar",
-      2
-    ],
-    [
-      "Starling Chevrolet",
-      2
-    ],
-    [
       "Davidson Auto Group",
       2
     ],
     [
-      "Homan Auto Sales Inc",
+      "Preston Motor Automotive Group",
       2
     ],
     [
-      "Car Hop Auto Sales & Finance",
-      1
+      "Elite Auto Marketing Solutions",
+      2
     ],
     [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "Baker Cadillac, Inc",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Ray Auto Group",
-      1
-    ],
-    [
-      "Raleigh Imports",
-      1
-    ],
-    [
-      "4M Autoplex",
-      1
-    ],
-    [
-      "Northtown Automotive",
-      1
-    ],
-    [
-      "Mark Miller Subaru, Inc.",
-      1
-    ],
-    [
-      "North Park Lincoln",
-      1
-    ],
-    [
-      "Drivemax USA",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "TORSVIKS BIL AB",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
-      1
-    ],
-    [
-      "Whitewater Motors",
-      1
-    ],
-    [
-      "Rolls-Royce Motor Cars Raleigh",
-      1
-    ],
-    [
-      "Great Lakes Auto ",
-      1
-    ],
-    [
-      "Noblesville Imports",
-      1
-    ],
-    [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "Sithari Cars Limited",
-      1
-    ],
-    [
-      "Lambert Buick GMC Inc",
-      1
-    ],
-    [
-      "Car Bazaar",
-      1
-    ],
-    [
-      "Auto Gallery Automotive Group",
-      1
-    ],
-    [
-      "Husker Chevrolet",
-      1
-    ],
-    [
-      "Certified Autoplex Inc.",
+      "Car Castle",
       1
     ],
     [
@@ -236,7 +152,95 @@
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Median Media LLC",
+      1
+    ],
+    [
+      "Whitewater Motors",
+      1
+    ],
+    [
+      "Fred Anderson Honda",
+      1
+    ],
+    [
+      "Noblesville Imports",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Husker Chevrolet",
+      1
+    ],
+    [
+      "Janssen Chrysler Jeep Dodge",
+      1
+    ],
+    [
+      "The Ford Store Morgan Hill",
+      1
+    ],
+    [
+      "Janssen Auto Group",
+      1
+    ],
+    [
+      "Mazda of Fargo & Kia of Fargo",
+      1
+    ],
+    [
+      "Ray Auto Group",
+      1
+    ],
+    [
+      "Sithari Cars Limited",
+      1
+    ],
+    [
+      "Mercedes-Benz of Portsmouth",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "KAR Auto Group",
+      1
+    ],
+    [
+      "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Georgia Auto World",
+      1
+    ],
+    [
+      "Rolls-Royce Motor Cars Raleigh",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Kia Vancouver",
+      1
+    ],
+    [
+      "Baker Cadillac, Inc",
       1
     ],
     [
