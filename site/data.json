@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T14:23:06.786Z",
+  "fetchedAt": "2026-11-07T22:28:18.909Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,86 +17,30 @@
   "rows": [
     [
       null,
-      126
+      56
+    ],
+    [
+      "DealerVision.com",
+      4
     ],
     [
       "Aplus Auo Group",
-      18
-    ],
-    [
-      "Hatimi Auto LLC",
-      7
-    ],
-    [
-      "Clear Auto Dartmouth",
-      6
-    ],
-    [
-      "Northstar Kia",
-      5
-    ],
-    [
-      "Car Bargain",
-      5
-    ],
-    [
-      "Rick Weaver Chevrolet",
-      5
-    ],
-    [
-      "Autos of Forney",
       4
     ],
     [
-      "Perkins Motors",
-      4
-    ],
-    [
-      "AutoRuptive LLC",
-      4
-    ],
-    [
-      "James Motor Company",
-      4
-    ],
-    [
-      "Freedom Chevrolet",
-      4
-    ],
-    [
-      "Vatland Auto Group",
-      4
-    ],
-    [
-      "Car Bazaar",
+      "Greenway Automotive Group",
       3
-    ],
-    [
-      "Wood Motor Company",
-      3
-    ],
-    [
-      "Icon Motors Group",
-      3
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      3
-    ],
-    [
-      "Janssen Auto Group",
-      3
-    ],
-    [
-      "Gateway GMC",
-      2
     ],
     [
       "Euro Motorcars",
       2
     ],
     [
-      "Advantage Toyota",
+      "Median Media LLC",
+      2
+    ],
+    [
+      "Gateway GMC",
       2
     ],
     [
@@ -108,7 +52,7 @@
       2
     ],
     [
-      "Charlie Clark Hyundai",
+      "Northtown Automotive",
       2
     ],
     [
@@ -116,23 +60,19 @@
       2
     ],
     [
-      "Beadle Ford, INC.",
+      "Mazda of Fargo & Kia of Fargo",
       2
-    ],
-    [
-      "Covert Auto Group",
-      2
-    ],
-    [
-      "Ben Clymer's The Body Shop",
-      1
     ],
     [
       "Dean Carter Chevrolet",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Crown Motors",
+      1
+    ],
+    [
+      "Keffer Inc.",
       1
     ],
     [
@@ -141,6 +81,34 @@
     ],
     [
       "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Vatland Auto Group",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "Lee Group",
+      1
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Grand Motorcars",
       1
     ],
     [
@@ -156,27 +124,23 @@
       1
     ],
     [
+      "Homan Auto Sales Inc",
+      1
+    ],
+    [
+      "Mark Williams Auto Group",
+      1
+    ],
+    [
+      "IM Marketplace GmBH",
+      1
+    ],
+    [
       "Budweiser Motors",
       1
     ],
     [
-      "Crown Motors",
-      1
-    ],
-    [
-      "Jim Schmidt Automotive",
-      1
-    ],
-    [
-      "Lee Group",
-      1
-    ],
-    [
-      "Car Central",
-      1
-    ],
-    [
-      "Grand Motorcars",
+      "Parks Chevrolet Richmond",
       1
     ],
     [
@@ -184,15 +148,11 @@
       1
     ],
     [
-      "Modern Classic Motors INC",
+      "Ben Clymer's The Body Shop",
       1
     ],
     [
-      "Carzwala",
-      1
-    ],
-    [
-      "Mazda of Fargo & Kia of Fargo",
+      "The Garage",
       1
     ],
     [
@@ -200,11 +160,7 @@
       1
     ],
     [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Springfield Luxury Automall",
+      "Modern Classic Motors INC",
       1
     ],
     [
@@ -212,7 +168,15 @@
       1
     ],
     [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      1
+    ],
+    [
       "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
