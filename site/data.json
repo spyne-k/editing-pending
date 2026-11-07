@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T21:57:38.464Z",
+  "fetchedAt": "2026-11-07T01:40:07.964Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,102 +17,114 @@
   "rows": [
     [
       null,
-      119
+      126
     ],
     [
       "Aplus Auo Group",
-      16
+      30
     ],
     [
-      "DealerVision.com",
-      15
-    ],
-    [
-      "Hatimi Auto LLC",
+      "Sprinkler Used Cars",
       8
     ],
     [
-      "Charlie Clark Hyundai",
+      "Zim's Auto Sales & Services Inc",
       6
     ],
     [
-      "Hawthorne Auto Square",
-      6
-    ],
-    [
-      "Bergstrom Automotive",
+      "Bob Johnson Automotive Group",
       5
     ],
     [
+      "Georgia Auto World",
+      5
+    ],
+    [
+      "Raleigh Imports",
+      4
+    ],
+    [
+      "Hawthorne Auto Square",
+      4
+    ],
+    [
+      "Preston Motor Automotive Group",
+      4
+    ],
+    [
+      "Gettel Automotive Group",
+      4
+    ],
+    [
+      "Flexcar",
+      3
+    ],
+    [
+      "Lewiston Auto",
+      3
+    ],
+    [
+      "Car City INC",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Greenway Automotive Group",
+      3
+    ],
+    [
+      "Hewlett Volkswagen, LP",
+      3
+    ],
+    [
       "AX Auto INC",
-      4
-    ],
-    [
-      "World Car Auto Group",
-      4
-    ],
-    [
-      "Runde Chevrolet, Inc.",
-      4
-    ],
-    [
-      "MP auto Sales LLC DBA Carizona",
-      4
-    ],
-    [
-      "Rim Revolution LLC",
       3
     ],
     [
-      "Covert Auto Group",
+      "Car Bargain",
       3
     ],
     [
-      "Capital Chevrolet Inc.",
+      "Frontier Auto Sales and Service",
       3
     ],
     [
-      "Victory Automotive Group",
-      3
-    ],
-    [
-      "Turpin Dodge Chrysler Jeep Ram",
-      3
-    ],
-    [
-      "Krystal Chrysler Dodge Jeep Ram Fiat",
+      "Flood Auto Group",
       2
     ],
     [
-      "Post Oak Toyota",
+      "Charlie Clark Hyundai",
       2
     ],
     [
-      "Audi Cape Fear",
+      "Dean Carter Chevrolet",
       2
     ],
     [
-      "MEI Inc",
+      "Wood Motor Company",
       2
     ],
     [
-      "James Motor Company",
+      "International Auto Sales",
       2
     ],
     [
-      "Icon Motors Group",
+      "Springfield Luxury Automall",
       2
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Seth Wadley Ford of Pauls Valley",
       2
     ],
     [
-      "Your Choice Auto LLC",
-      1
+      "LUXURY IMPORTS",
+      2
     ],
     [
-      "BMI AUTO",
+      "DealerVision.com",
       1
     ],
     [
@@ -120,7 +132,23 @@
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Moffitt's Ford",
+      1
+    ],
+    [
+      "Your Choice Auto LLC",
+      1
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
+      "Cornhusker Auto Center",
+      1
+    ],
+    [
+      "Denver Auto",
       1
     ],
     [
@@ -128,56 +156,28 @@
       1
     ],
     [
-      "Impex Auto Sales",
+      "Smartlot Solutions",
       1
     ],
     [
-      "West Mitsubishi",
+      "Janssen Chrysler Jeep Dodge",
       1
     ],
     [
-      "Team Nissan Inc",
+      "Rochester Auto Mall",
       1
     ],
     [
-      "Perkins Motors",
+      "Bergstrom Automotive",
       1
     ],
     [
-      "Flexcar",
+      "Portsmouth Ford Lincoln",
       1
     ],
     [
-      "Wharton Ford",
-      1
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      1
-    ],
-    [
-      "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Best Deal Auto Sales, INC.",
-      1
-    ],
-    [
-      "Vindevers Autohaus of Sylvania",
-      1
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      1
-    ],
-    [
-      "Long Automotive Group",
-      1
-    ],
-    [
-      "Rolls-Royce Motor Cars Raleigh",
-      1
+      "Runde Chevrolet, Inc.",
+      0
     ]
   ]
 }
