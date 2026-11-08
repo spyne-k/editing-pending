@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T19:15:15.187Z",
+  "fetchedAt": "2026-11-08T22:55:24.891Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,34 @@
   "rows": [
     [
       null,
-      28
+      64
     ],
     [
       "Bergstrom Automotive",
-      24
+      48
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      4
+    ],
+    [
+      "ZT Automotive",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Kempton Chevrolet",
+      2
     ],
     [
       "Covert Auto Group",
+      2
+    ],
+    [
+      "Springfield Luxury Automall",
       2
     ],
     [
