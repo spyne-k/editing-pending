@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T14:54:33.939Z",
+  "fetchedAt": "2026-11-08T19:15:15.187Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,14 @@
   "rows": [
     [
       null,
-      6
-    ],
-    [
-      "Covert Auto Group",
-      2
+      28
     ],
     [
       "Bergstrom Automotive",
+      24
+    ],
+    [
+      "Covert Auto Group",
       2
     ],
     [
