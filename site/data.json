@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T07:59:16.418Z",
+  "fetchedAt": "2026-11-08T14:54:33.939Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,19 +17,19 @@
   "rows": [
     [
       null,
-      9
-    ],
-    [
-      "Bergstrom Automotive",
-      4
+      6
     ],
     [
       "Covert Auto Group",
       2
     ],
     [
-      "Auto Export Corporation",
+      "Bergstrom Automotive",
       2
+    ],
+    [
+      "Charlie Clark Hyundai",
+      1
     ],
     [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
