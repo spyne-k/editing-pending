@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T01:42:56.976Z",
+  "fetchedAt": "2026-11-08T07:59:16.418Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,26 +17,22 @@
   "rows": [
     [
       null,
-      8
-    ],
-    [
-      "Northtown Automotive",
-      4
-    ],
-    [
-      "Olson Chevrolet",
-      1
-    ],
-    [
-      "Auto Export Corporation",
-      1
-    ],
-    [
-      "Parks Chevrolet Richmond",
-      1
+      9
     ],
     [
       "Bergstrom Automotive",
+      4
+    ],
+    [
+      "Covert Auto Group",
+      2
+    ],
+    [
+      "Auto Export Corporation",
+      2
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       1
     ],
     [
