@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T09:56:14.523Z",
+  "fetchedAt": "2026-11-09T20:23:09.554Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,42 +17,74 @@
   "rows": [
     [
       null,
-      114
+      142
     ],
     [
-      "Bergstrom Automotive",
-      50
+      "Asbury Automotive Management L.L.C",
+      25
     ],
     [
-      "Pritchard Companies",
-      17
+      "Great Lakes Auto ",
+      15
     ],
     [
-      "Rawian Oy",
-      12
+      "Jenkins Auto Group",
+      14
     ],
     [
-      "Yemm Auto",
-      6
+      "Hatimi Auto LLC",
+      9
+    ],
+    [
+      "Gettel Automotive Group",
+      8
+    ],
+    [
+      "Speedway Car Sales",
+      8
+    ],
+    [
+      "Preston Motor Automotive Group",
+      7
+    ],
+    [
+      "DealerVision.com",
+      5
+    ],
+    [
+      "Teton solutions Group",
+      4
+    ],
+    [
+      "Volvo Cars Fort Washington",
+      3
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
     ],
     [
       "Bud Clary Chevrolet, INC",
       3
     ],
     [
-      "Mazda of Fargo & Kia of Fargo",
-      3
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      3
-    ],
-    [
-      "Rochester Toyota",
+      "MY Naghi",
       2
     ],
     [
-      "Jenkins Auto Group",
+      "Portsmouth Ford Lincoln",
+      2
+    ],
+    [
+      "McCurley Dealerships",
+      2
+    ],
+    [
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Car Central",
       2
     ],
     [
@@ -60,27 +92,15 @@
       2
     ],
     [
-      "Parks Chevrolet Richmond",
+      "Smartlot Solutions",
       2
     ],
     [
-      "Auto Dobrovolny V.M. s.r.o.",
+      "Rochester Toyota",
       2
     ],
     [
-      "Car Castle",
-      1
-    ],
-    [
-      "Autos of Forney",
-      1
-    ],
-    [
-      "Redmond Chevrolet",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
+      "Rawian Oy",
       1
     ],
     [
@@ -88,7 +108,43 @@
       1
     ],
     [
+      "Keffer Inc.",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Impex Auto Sales",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
       "White Bear Lincoln",
+      1
+    ],
+    [
+      "Princeton Chevrolet GMC",
+      1
+    ],
+    [
+      "Pritchard Companies",
+      1
+    ],
+    [
+      "Redmond Chevrolet",
+      1
+    ],
+    [
+      "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "Ideal Cars",
       1
     ],
     [
@@ -96,15 +152,39 @@
       1
     ],
     [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
+      "Landers Dodge Chrysler Jeep RAM",
+      1
+    ],
+    [
+      "Baxter Automotive",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
       1
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
       1
     ],
     [
-      "Performance Automotive Network",
+      "Covert Bee Cave",
       1
     ],
     [
