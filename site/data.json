@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T22:55:24.891Z",
+  "fetchedAt": "2026-11-09T02:19:04.006Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,31 @@
   "rows": [
     [
       null,
-      64
+      100
     ],
     [
       "Bergstrom Automotive",
-      48
+      59
+    ],
+    [
+      "Auto Export Corporation",
+      6
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      4
     ],
     [
       "Asbury Automotive Management L.L.C",
       4
+    ],
+    [
+      "Safy Auto Sales",
+      3
+    ],
+    [
+      "Mega Motors",
+      3
     ],
     [
       "ZT Automotive",
@@ -44,15 +60,47 @@
       2
     ],
     [
+      "Mark Miller Subaru, Inc.",
+      2
+    ],
+    [
       "Springfield Luxury Automall",
       2
+    ],
+    [
+      "Car City INC",
+      1
+    ],
+    [
+      "Jidd Performance",
+      1
+    ],
+    [
+      "Autohighway",
+      1
+    ],
+    [
+      "Enterprise Motor Group",
+      1
     ],
     [
       "Charlie Clark Hyundai",
       1
     ],
     [
+      "The Ford Store Morgan Hill",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
       "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      1
+    ],
+    [
+      "2d5f0eb5f Dellenbach Motors",
       1
     ],
     [
