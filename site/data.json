@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T02:19:04.006Z",
+  "fetchedAt": "2026-11-09T09:56:14.523Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,38 @@
   "rows": [
     [
       null,
-      100
+      114
     ],
     [
       "Bergstrom Automotive",
-      59
+      50
     ],
     [
-      "Auto Export Corporation",
+      "Pritchard Companies",
+      17
+    ],
+    [
+      "Rawian Oy",
+      12
+    ],
+    [
+      "Yemm Auto",
       6
     ],
     [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Mazda of Fargo & Kia of Fargo",
+      3
+    ],
+    [
       "Bob Johnson Automotive Group",
-      4
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      4
-    ],
-    [
-      "Safy Auto Sales",
       3
     ],
     [
-      "Mega Motors",
-      3
-    ],
-    [
-      "ZT Automotive",
+      "Rochester Toyota",
       2
     ],
     [
@@ -52,35 +56,27 @@
       2
     ],
     [
-      "Kempton Chevrolet",
-      2
-    ],
-    [
       "Covert Auto Group",
       2
     ],
     [
-      "Mark Miller Subaru, Inc.",
+      "Parks Chevrolet Richmond",
       2
     ],
     [
-      "Springfield Luxury Automall",
+      "Auto Dobrovolny V.M. s.r.o.",
       2
     ],
     [
-      "Car City INC",
+      "Car Castle",
       1
     ],
     [
-      "Jidd Performance",
+      "Autos of Forney",
       1
     ],
     [
-      "Autohighway",
-      1
-    ],
-    [
-      "Enterprise Motor Group",
+      "Redmond Chevrolet",
       1
     ],
     [
@@ -88,11 +84,15 @@
       1
     ],
     [
-      "The Ford Store Morgan Hill",
+      "Victory Automotive Group",
       1
     ],
     [
-      "Faircy Automotive",
+      "White Bear Lincoln",
+      1
+    ],
+    [
+      "Noblesville Imports",
       1
     ],
     [
@@ -100,7 +100,11 @@
       1
     ],
     [
-      "2d5f0eb5f Dellenbach Motors",
+      "C.A. Larsen Automobiler A/S",
+      1
+    ],
+    [
+      "Performance Automotive Network",
       1
     ],
     [
