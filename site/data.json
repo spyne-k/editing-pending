@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T18:07:32.348Z",
+  "fetchedAt": "2026-11-10T23:13:53.874Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,90 @@
   "rows": [
     [
       null,
-      95
+      214
     ],
     [
-      "Gettel Automotive Group",
-      17
+      "Great Lakes Auto ",
+      18
+    ],
+    [
+      "DealerVision.com",
+      13
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      12
     ],
     [
       "Asbury Automotive Management L.L.C",
-      7
-    ],
-    [
-      "ZT Automotive",
-      6
-    ],
-    [
-      "Flexcar",
-      5
-    ],
-    [
-      "Yemm Auto",
-      5
+      12
     ],
     [
       "Northtown Automotive",
+      10
+    ],
+    [
+      "Smartlot Solutions",
+      8
+    ],
+    [
+      "LuxuryMotorCars",
+      7
+    ],
+    [
+      "Gettel Automotive Group",
+      7
+    ],
+    [
+      "Graff Auto Campus",
+      7
+    ],
+    [
+      "Renny Bettan",
+      7
+    ],
+    [
+      "Jenkins Auto Group",
+      6
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      6
+    ],
+    [
+      "Moses Auto Group",
       5
     ],
     [
-      "Olson Chevrolet",
+      "Covert Auto Group",
+      5
+    ],
+    [
+      "Rim Revolution LLC",
+      5
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      5
+    ],
+    [
+      "Preston Motor Automotive Group",
+      5
+    ],
+    [
+      "Speedway Car Sales",
+      5
+    ],
+    [
+      "Teton solutions Group",
+      4
+    ],
+    [
+      "Novacti",
+      4
+    ],
+    [
+      "Ferris Chevrolet, Inc",
       4
     ],
     [
@@ -52,19 +108,23 @@
       4
     ],
     [
-      "Northstar Kia",
-      3
+      "H&K Chevrolet Family Auto",
+      4
     ],
     [
-      "Victory Automotive Group",
+      "County Ford",
       3
-    ],
-    [
-      "McCurley Dealerships",
-      2
     ],
     [
       "Covert Bee Cave",
+      3
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      3
+    ],
+    [
+      "Courtesy Automotive Group",
       2
     ],
     [
@@ -72,27 +132,7 @@
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
-      2
-    ],
-    [
-      "Rochester Toyota",
-      2
-    ],
-    [
-      "Dimmitt Automotive Group",
-      2
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      2
-    ],
-    [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "ZT Automotive",
       2
     ],
     [
@@ -100,51 +140,35 @@
       2
     ],
     [
-      "Apex Automotive Group",
-      1
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      2
     ],
     [
-      "HASANAH GROUP (PTY) LTD",
-      1
+      "Kian Motors INC",
+      2
     ],
     [
-      "DealerVision.com",
-      1
+      "McCurley Dealerships",
+      2
     ],
     [
-      "Rawian Oy",
-      1
+      "Seth Wadley Ford of Pauls Valley",
+      2
     ],
     [
-      "Graff Auto Campus",
-      1
+      "Bob King",
+      2
     ],
     [
-      "Jidd Motors Mitsubishi",
-      1
+      "Greenway Automotive Group",
+      2
     ],
     [
-      "White Bear Lincoln",
-      1
+      "Hawthorne Auto Square",
+      2
     ],
     [
       "North Park Lincoln",
-      1
-    ],
-    [
-      "Baxter Automotive",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
       1
     ],
     [
@@ -152,15 +176,75 @@
       1
     ],
     [
-      "Jim Schmidt Automotive",
+      "Roanoke Motors Inc",
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "North Jersey Automotive",
+      1
+    ],
+    [
+      "Carter Myers Automotive",
+      1
+    ],
+    [
+      "Portsmouth Ford Lincoln",
       1
     ],
     [
       "Giant Auto Warehouse",
+      1
+    ],
+    [
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Olson Chevrolet",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Car Hop Auto Sales & Finance",
+      1
+    ],
+    [
+      "Moffitt's Ford",
+      1
+    ],
+    [
+      "Mazda of Fargo & Kia of Fargo",
+      1
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
+      1
+    ],
+    [
+      "Countryside Mitsubishi",
+      1
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "Yemm Auto",
+      1
+    ],
+    [
+      "Flood Auto Group",
+      1
+    ],
+    [
+      "White Bear Lincoln",
       1
     ],
     [
