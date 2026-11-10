@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T20:23:09.554Z",
+  "fetchedAt": "2026-11-10T02:48:41.226Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,70 @@
   "rows": [
     [
       null,
-      142
+      140
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      25
-    ],
-    [
-      "Great Lakes Auto ",
-      15
-    ],
-    [
-      "Jenkins Auto Group",
-      14
-    ],
-    [
-      "Hatimi Auto LLC",
+      "Performance Automotive Network",
       9
     ],
     [
-      "Gettel Automotive Group",
-      8
+      "Teton solutions Group",
+      9
     ],
     [
-      "Speedway Car Sales",
-      8
-    ],
-    [
-      "Preston Motor Automotive Group",
+      "Rim Revolution LLC",
       7
     ],
     [
-      "DealerVision.com",
+      "Car Central",
+      6
+    ],
+    [
+      "Apex Automotive Group",
+      6
+    ],
+    [
+      "World Car Auto Group",
+      6
+    ],
+    [
+      "Icon Motors Group",
       5
     ],
     [
-      "Teton solutions Group",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      5
+    ],
+    [
+      "Northtown Automotive",
+      5
+    ],
+    [
+      "Northstar Kia",
       4
     ],
     [
-      "Volvo Cars Fort Washington",
+      "Impex Auto Sales",
+      4
+    ],
+    [
+      "Brandon Steven Motors",
+      4
+    ],
+    [
+      "Wood Motor Company",
+      4
+    ],
+    [
+      "Lewiston Auto",
       3
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Ideal Cars",
+      3
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       3
     ],
     [
@@ -68,23 +88,15 @@
       3
     ],
     [
+      "Toyota Of Wallingford",
+      3
+    ],
+    [
       "MY Naghi",
       2
     ],
     [
-      "Portsmouth Ford Lincoln",
-      2
-    ],
-    [
-      "McCurley Dealerships",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      2
-    ],
-    [
-      "Car Central",
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
@@ -92,7 +104,7 @@
       2
     ],
     [
-      "Smartlot Solutions",
+      "Speedway Car Sales",
       2
     ],
     [
@@ -100,59 +112,51 @@
       2
     ],
     [
-      "Rawian Oy",
-      1
+      "Yemm Auto",
+      2
     ],
     [
-      "Victory Automotive Group",
-      1
+      "Roanoke Motors Inc",
+      2
     ],
     [
-      "Keffer Inc.",
-      1
+      "Capital Chevrolet Inc.",
+      2
     ],
     [
-      "Northtown Automotive",
-      1
+      "Pritchard Companies",
+      2
     ],
     [
-      "Impex Auto Sales",
-      1
+      "Covert Bee Cave",
+      2
     ],
     [
-      "Davidson Auto Group",
-      1
+      "Graff Auto Campus",
+      2
     ],
     [
-      "White Bear Lincoln",
-      1
+      "McCurley Dealerships",
+      2
     ],
     [
       "Princeton Chevrolet GMC",
       1
     ],
     [
-      "Pritchard Companies",
+      "Autos of Forney",
       1
     ],
     [
-      "Redmond Chevrolet",
+      "Wiz Leasing Inc",
       1
     ],
     [
-      "Dave Syverson Auto Center",
+      "Olson Chevrolet",
       1
     ],
     [
-      "Ideal Cars",
-      1
-    ],
-    [
-      "Noblesville Imports",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
+      "Jim Schmidt Automotive",
       1
     ],
     [
@@ -160,19 +164,71 @@
       1
     ],
     [
-      "Flexcar",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
-      "Landers Dodge Chrysler Jeep RAM",
+      "Keffer Inc.",
       1
     ],
     [
-      "Baxter Automotive",
+      "DealerVision.com",
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Redmond Chevrolet",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      1
+    ],
+    [
+      "Diffee Ford Lincoln",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
+      1
+    ],
+    [
+      "Noblesville Imports",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Vatland Auto Group",
+      1
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "McGrath Acura of Westmont (Mcgrath Imports)",
+      1
+    ],
+    [
+      "Courtesy Automotive Group",
+      1
+    ],
+    [
+      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      1
+    ],
+    [
+      "Dave Syverson Auto Center",
+      1
+    ],
+    [
+      "4M Autoplex",
       1
     ],
     [
@@ -180,16 +236,16 @@
       1
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "Victory Automotive Group",
       1
     ],
     [
-      "Covert Bee Cave",
+      "Meyer Imports DBA Berwyn Kia",
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
-      0
+      "White Bear Lincoln",
+      1
     ]
   ]
 }
