@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T10:29:50.350Z",
+  "fetchedAt": "2026-11-10T18:07:32.348Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,58 +17,54 @@
   "rows": [
     [
       null,
-      103
+      95
     ],
     [
-      "Greenway Automotive Group",
-      23
+      "Gettel Automotive Group",
+      17
     ],
     [
-      "Pritchard Companies",
-      9
+      "Asbury Automotive Management L.L.C",
+      7
     ],
     [
-      "Dave Syverson Auto Center",
+      "ZT Automotive",
       6
     ],
     [
-      "LUXURY IMPORTS",
-      5
-    ],
-    [
-      "Mark Williams Auto Group",
-      5
-    ],
-    [
-      "Mazda of Fargo & Kia of Fargo",
+      "Flexcar",
       5
     ],
     [
       "Yemm Auto",
+      5
+    ],
+    [
+      "Northtown Automotive",
+      5
+    ],
+    [
+      "Olson Chevrolet",
+      4
+    ],
+    [
+      "Van Horn Automotive Group",
+      4
+    ],
+    [
+      "Northstar Kia",
       3
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Victory Automotive Group",
       3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      3
-    ],
-    [
-      "Rochester Toyota",
-      2
-    ],
-    [
-      "Husker Chevrolet",
-      2
-    ],
-    [
-      "Petersen CDJR",
-      2
     ],
     [
       "McCurley Dealerships",
+      2
+    ],
+    [
+      "Covert Bee Cave",
       2
     ],
     [
@@ -76,7 +72,23 @@
       2
     ],
     [
-      "MY Naghi",
+      "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "Rochester Toyota",
+      2
+    ],
+    [
+      "Dimmitt Automotive Group",
+      2
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Davidson Auto Group",
       2
     ],
     [
@@ -84,31 +96,19 @@
       2
     ],
     [
-      "Flexcar",
-      2
-    ],
-    [
       "Noblesville Imports",
       2
     ],
     [
-      "Elite Auto Marketing Solutions",
+      "Apex Automotive Group",
       1
     ],
     [
-      "4 Season Motors LLC",
+      "HASANAH GROUP (PTY) LTD",
       1
     ],
     [
-      "Northside Auto Sales",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Advantage Toyota",
+      "DealerVision.com",
       1
     ],
     [
@@ -116,59 +116,11 @@
       1
     ],
     [
-      "Runde Chevrolet, Inc.",
+      "Graff Auto Campus",
       1
     ],
     [
-      "Midwest Auto Group",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Giant Auto Warehouse",
-      1
-    ],
-    [
-      "Yoder Family of Companies",
-      1
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
-      1
-    ],
-    [
-      "Covert Bee Cave",
-      1
-    ],
-    [
-      "Vatland Auto Group",
-      1
-    ],
-    [
-      "Ohio Specialty Services, LTD.",
-      1
-    ],
-    [
-      "Victory Automotive Group",
-      1
-    ],
-    [
-      "Hawthorne Auto Square",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
+      "Jidd Motors Mitsubishi",
       1
     ],
     [
@@ -176,12 +128,44 @@
       1
     ],
     [
-      "Meyer Imports DBA Berwyn Kia",
+      "North Park Lincoln",
       1
     ],
     [
-      "Wiz Leasing Inc",
+      "Baxter Automotive",
       1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Midwest Auto Group",
+      1
+    ],
+    [
+      "Jim Schmidt Automotive",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Giant Auto Warehouse",
+      1
+    ],
+    [
+      "Runde Chevrolet, Inc.",
+      0
     ]
   ]
 }
