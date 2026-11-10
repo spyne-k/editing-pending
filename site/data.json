@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T02:48:41.226Z",
+  "fetchedAt": "2026-11-10T10:29:50.350Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,122 +17,54 @@
   "rows": [
     [
       null,
-      140
+      103
     ],
     [
-      "Performance Automotive Network",
+      "Greenway Automotive Group",
+      23
+    ],
+    [
+      "Pritchard Companies",
       9
     ],
     [
-      "Teton solutions Group",
-      9
-    ],
-    [
-      "Rim Revolution LLC",
-      7
-    ],
-    [
-      "Car Central",
+      "Dave Syverson Auto Center",
       6
     ],
     [
-      "Apex Automotive Group",
-      6
-    ],
-    [
-      "World Car Auto Group",
-      6
-    ],
-    [
-      "Icon Motors Group",
+      "LUXURY IMPORTS",
       5
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Mark Williams Auto Group",
       5
     ],
     [
-      "Northtown Automotive",
+      "Mazda of Fargo & Kia of Fargo",
       5
     ],
     [
-      "Northstar Kia",
-      4
-    ],
-    [
-      "Impex Auto Sales",
-      4
-    ],
-    [
-      "Brandon Steven Motors",
-      4
-    ],
-    [
-      "Wood Motor Company",
-      4
-    ],
-    [
-      "Lewiston Auto",
+      "Yemm Auto",
       3
     ],
     [
-      "Ideal Cars",
+      "Simmons-Rockwell Automotive Dealerships",
       3
-    ],
-    [
-      "Russ Darrow Group, Inc.",
-      3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Toyota Of Wallingford",
-      3
-    ],
-    [
-      "MY Naghi",
-      2
     ],
     [
       "Asbury Automotive Management L.L.C",
-      2
-    ],
-    [
-      "Covert Auto Group",
-      2
-    ],
-    [
-      "Speedway Car Sales",
-      2
+      3
     ],
     [
       "Rochester Toyota",
       2
     ],
     [
-      "Yemm Auto",
+      "Husker Chevrolet",
       2
     ],
     [
-      "Roanoke Motors Inc",
-      2
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      2
-    ],
-    [
-      "Pritchard Companies",
-      2
-    ],
-    [
-      "Covert Bee Cave",
-      2
-    ],
-    [
-      "Graff Auto Campus",
+      "Petersen CDJR",
       2
     ],
     [
@@ -140,43 +72,47 @@
       2
     ],
     [
-      "Princeton Chevrolet GMC",
+      "Ryan Buick GMC Cadillac",
+      2
+    ],
+    [
+      "MY Naghi",
+      2
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      2
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Noblesville Imports",
+      2
+    ],
+    [
+      "Elite Auto Marketing Solutions",
       1
     ],
     [
-      "Autos of Forney",
+      "4 Season Motors LLC",
       1
     ],
     [
-      "Wiz Leasing Inc",
+      "Northside Auto Sales",
       1
     ],
     [
-      "Olson Chevrolet",
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
-      "Jim Schmidt Automotive",
+      "Advantage Toyota",
       1
     ],
     [
-      "Bob King",
-      1
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      1
-    ],
-    [
-      "Keffer Inc.",
-      1
-    ],
-    [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Redmond Chevrolet",
+      "Rawian Oy",
       1
     ],
     [
@@ -184,23 +120,11 @@
       1
     ],
     [
-      "Diffee Ford Lincoln",
+      "Midwest Auto Group",
       1
     ],
     [
-      "Parks Chevrolet Richmond",
-      1
-    ],
-    [
-      "Noblesville Imports",
-      1
-    ],
-    [
-      "Faircy Automotive",
-      1
-    ],
-    [
-      "Vatland Auto Group",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
@@ -212,27 +136,27 @@
       1
     ],
     [
-      "McGrath Acura of Westmont (Mcgrath Imports)",
+      "Giant Auto Warehouse",
       1
     ],
     [
-      "Courtesy Automotive Group",
+      "Yoder Family of Companies",
       1
     ],
     [
-      "Planet Honda, Planet Hyundai, Leo Payne Honda & Ge",
+      "Worldwide Motors LTD dba Paragon Acura",
       1
     ],
     [
-      "Dave Syverson Auto Center",
+      "Covert Bee Cave",
       1
     ],
     [
-      "4M Autoplex",
+      "Vatland Auto Group",
       1
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Ohio Specialty Services, LTD.",
       1
     ],
     [
@@ -240,11 +164,23 @@
       1
     ],
     [
-      "Meyer Imports DBA Berwyn Kia",
+      "Hawthorne Auto Square",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
       1
     ],
     [
       "White Bear Lincoln",
+      1
+    ],
+    [
+      "Meyer Imports DBA Berwyn Kia",
+      1
+    ],
+    [
+      "Wiz Leasing Inc",
       1
     ]
   ]
