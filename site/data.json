@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T17:33:06.141Z",
+  "fetchedAt": "2026-11-11T23:40:00.330Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,34 @@
   "rows": [
     [
       null,
-      76
+      199
     ],
     [
-      "Rawian Oy",
+      "Asbury Automotive Management L.L.C",
+      22
+    ],
+    [
+      "Covert Auto Group",
+      15
+    ],
+    [
+      "Impex Auto Sales",
+      13
+    ],
+    [
+      "Flexcar",
+      11
+    ],
+    [
+      "Greenway Automotive Group",
+      11
+    ],
+    [
+      "Teton solutions Group",
       10
     ],
     [
-      "Graff Auto Campus",
+      "Davidson Auto Group",
       7
     ],
     [
@@ -32,11 +52,51 @@
       7
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "ICL Autos",
       6
     ],
     [
-      "Spangler Subaru",
+      "Median Media LLC",
+      6
+    ],
+    [
+      "Performance Automotive Network",
+      5
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      5
+    ],
+    [
+      "Olson Chevrolet",
+      4
+    ],
+    [
+      "Jenkins Auto Group",
+      4
+    ],
+    [
+      "Vatland Auto Group",
+      4
+    ],
+    [
+      "4M Autoplex",
+      3
+    ],
+    [
+      "Rawian Oy",
+      3
+    ],
+    [
+      "ZT Automotive",
+      3
+    ],
+    [
+      "Graff Auto Campus",
+      3
+    ],
+    [
+      "MP auto Sales LLC DBA Carizona",
       3
     ],
     [
@@ -44,23 +104,11 @@
       3
     ],
     [
+      "Vindevers Autohaus of Sylvania",
+      3
+    ],
+    [
       "McCurley Dealerships",
-      2
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      2
-    ],
-    [
-      "Autos of Forney",
-      2
-    ],
-    [
-      "Northtown Automotive",
-      2
-    ],
-    [
-      "S&L Motors, Pulaski WI",
       2
     ],
     [
@@ -68,11 +116,31 @@
       2
     ],
     [
-      "Auto Exchange Group",
+      "Advantage Toyota",
       2
     ],
     [
-      "Envision Management Group",
+      "ROSI Automotive Group",
+      2
+    ],
+    [
+      "KAR Auto Group",
+      2
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      2
+    ],
+    [
+      "Wood Motor Company",
+      2
+    ],
+    [
+      "Joshua Trownsell",
+      2
+    ],
+    [
+      "Rim Revolution LLC",
       2
     ],
     [
@@ -80,15 +148,11 @@
       2
     ],
     [
-      "Autoplex 2000 and All Star Buick GMC truck",
+      "Mercedes-Benz of Portsmouth",
       2
     ],
     [
-      "West Mitsubishi",
-      1
-    ],
-    [
-      "Midwest Auto Group",
+      "McGrath Acura of Westmont (Mcgrath Imports)",
       1
     ],
     [
@@ -96,15 +160,19 @@
       1
     ],
     [
-      "Beaver County Auto",
+      "Twin Pine Ford",
       1
     ],
     [
-      "Apex Automotive Group",
+      "LUXURY IMPORTS",
       1
     ],
     [
-      "TORSVIKS BIL AB",
+      "Gedi Route Cars Inc.",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
       1
     ],
     [
@@ -112,31 +180,27 @@
       1
     ],
     [
-      "District Auto Group",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "White Bear Lincoln",
-      1
-    ],
-    [
-      "Al Piemonte",
-      1
-    ],
-    [
-      "Parks Chevrolet Richmond",
-      1
-    ],
-    [
       "Fred Anderson Honda",
       1
     ],
     [
-      "Toronto Honda",
+      "Calgary Truck",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Car Capital LTD",
+      1
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      1
+    ],
+    [
+      "Great Lakes Auto ",
       1
     ],
     [
@@ -144,11 +208,19 @@
       1
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "Car Central",
       1
     ],
     [
-      "Adliv Motors Ltd T/A AutoXpress",
+      "Preston Motor Automotive Group",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Car City INC",
       1
     ],
     [
@@ -156,11 +228,31 @@
       1
     ],
     [
-      "Wood Motor Company",
+      "DealerVision.com",
       1
     ],
     [
-      "DealerVision.com",
+      "Al Piemonte",
+      1
+    ],
+    [
+      "Dobbs Equity Partners, LLC",
+      1
+    ],
+    [
+      "White Bear Lincoln",
+      1
+    ],
+    [
+      "Mega Motors",
+      1
+    ],
+    [
+      "North Park Lincoln",
+      1
+    ],
+    [
+      "Midwest Auto Group",
       1
     ],
     [
