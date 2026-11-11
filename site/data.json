@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T09:53:38.934Z",
+  "fetchedAt": "2026-11-11T17:33:06.141Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,74 +17,34 @@
   "rows": [
     [
       null,
-      154
+      76
     ],
     [
-      "DealerVision.com",
-      12
+      "Rawian Oy",
+      10
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
-      12
+      "Graff Auto Campus",
+      7
     ],
     [
-      "Northstar Kia",
-      6
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      6
-    ],
-    [
-      "Yoder Family of Companies",
-      6
-    ],
-    [
-      "greenway auto group 2",
-      6
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      6
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      6
-    ],
-    [
-      "Janssen Chrysler Jeep Dodge",
-      5
-    ],
-    [
-      "Northtown Automotive",
-      5
-    ],
-    [
-      "Great Lakes Auto ",
-      5
+      "Gettel Automotive Group",
+      7
     ],
     [
       "Asbury Automotive Management L.L.C",
-      5
+      6
     ],
     [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "Janssen Auto Group",
+      "Spangler Subaru",
       3
     ],
     [
-      "Georgia Auto World",
+      "Pritchard Companies",
       3
     ],
     [
-      "Covert Ford Lincoln",
-      3
-    ],
-    [
-      "Rim Revolution LLC",
+      "McCurley Dealerships",
       2
     ],
     [
@@ -92,51 +52,15 @@
       2
     ],
     [
-      "Parks Chevrolet Richmond",
+      "Autos of Forney",
       2
     ],
     [
-      "Blasius Buick GMC",
+      "Northtown Automotive",
       2
     ],
     [
-      "Noblesville Imports",
-      2
-    ],
-    [
-      "LUXURY IMPORTS",
-      2
-    ],
-    [
-      "Jidd Performance",
-      2
-    ],
-    [
-      "Impex Auto Sales",
-      2
-    ],
-    [
-      "Covert Bee Cave",
-      2
-    ],
-    [
-      "McCurley Dealerships",
-      2
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
-      2
-    ],
-    [
-      "Roanoke Motors Inc",
-      2
-    ],
-    [
-      "Envision Management Group",
-      2
-    ],
-    [
-      " Joshua Tree Chrysler Dodge Jeep Ram",
+      "S&L Motors, Pulaski WI",
       2
     ],
     [
@@ -144,39 +68,23 @@
       2
     ],
     [
-      "Yemm Auto",
+      "Auto Exchange Group",
       2
     ],
     [
-      "Terry Auto Group",
+      "Envision Management Group",
       2
     ],
     [
-      "Bravo Automotive Group, LLC",
-      1
+      "Noblesville Imports",
+      2
     ],
     [
-      "Wood Motor Company",
-      1
+      "Autoplex 2000 and All Star Buick GMC truck",
+      2
     ],
     [
-      "Sherwood Ford",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Princeton Chevrolet GMC",
-      1
-    ],
-    [
-      "Redmond Chevrolet",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
+      "West Mitsubishi",
       1
     ],
     [
@@ -188,27 +96,27 @@
       1
     ],
     [
-      "Jenkins Auto Group",
+      "Beaver County Auto",
       1
     ],
     [
-      "Ariana Motors",
+      "Apex Automotive Group",
       1
     ],
     [
-      "RBM Automotive Group",
+      "TORSVIKS BIL AB",
       1
     ],
     [
-      "Moffitt's Ford",
+      "Yemm Auto",
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "District Auto Group",
       1
     ],
     [
-      "Pee Dee Auto Sales",
+      "World Car Auto Group",
       1
     ],
     [
@@ -216,47 +124,43 @@
       1
     ],
     [
-      "Turpin Dodge Chrysler Jeep Ram",
+      "Al Piemonte",
       1
     ],
     [
-      "Twin Pine Ford",
+      "Parks Chevrolet Richmond",
       1
     ],
     [
-      "Silsbee Ford",
+      "Fred Anderson Honda",
       1
     ],
     [
-      "Laramie Peak Motors LLC",
+      "Toronto Honda",
       1
     ],
     [
-      "Lexus Of Orland",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
-      "Northwest Indiana Auto Finance",
+      "C.A. Larsen Automobiler A/S",
       1
     ],
     [
-      "Olson Chevrolet",
+      "Adliv Motors Ltd T/A AutoXpress",
       1
     ],
     [
-      "Audi Cape Fear",
+      "Auto Gallery Automotive Group",
       1
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "Wood Motor Company",
       1
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
-      1
-    ],
-    [
-      "West Mitsubishi",
+      "DealerVision.com",
       1
     ],
     [
