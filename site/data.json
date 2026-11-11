@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T02:48:25.623Z",
+  "fetchedAt": "2026-11-11T09:53:38.934Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,78 +17,30 @@
   "rows": [
     [
       null,
-      303
+      154
     ],
     [
-      "Bob Johnson Automotive Group",
-      18
+      "DealerVision.com",
+      12
     ],
     [
       "Simmons-Rockwell Automotive Dealerships",
       12
     ],
     [
-      "Great Lakes Auto ",
-      12
+      "Northstar Kia",
+      6
     ],
     [
-      "Apex Automotive Group",
-      11
+      "Alliance Automotive of Westchester LLC dba White P",
+      6
     ],
     [
-      "Teton solutions Group",
-      11
+      "Yoder Family of Companies",
+      6
     ],
     [
-      "North Park Lincoln",
-      9
-    ],
-    [
-      "Rohrich Automotive Group",
-      9
-    ],
-    [
-      "Charlie Clark Hyundai",
-      9
-    ],
-    [
-      "Northtown Automotive",
-      8
-    ],
-    [
-      "Smartlot Solutions",
-      8
-    ],
-    [
-      "Pritchard Companies",
-      8
-    ],
-    [
-      "AX Auto INC",
-      8
-    ],
-    [
-      "Graff Auto Campus",
-      7
-    ],
-    [
-      "Gettel Automotive Group",
-      7
-    ],
-    [
-      "Hewlett Volkswagen, LP",
-      7
-    ],
-    [
-      "Performance Automotive Network",
-      7
-    ],
-    [
-      "Van Horn Automotive Group",
-      7
-    ],
-    [
-      "Auto Park Ford Bremen",
+      "greenway auto group 2",
       6
     ],
     [
@@ -96,47 +48,35 @@
       6
     ],
     [
-      "Jenkins Auto Group",
+      "Seth Wadley Ford of Pauls Valley",
       6
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "Janssen Chrysler Jeep Dodge",
+      5
+    ],
+    [
+      "Northtown Automotive",
+      5
+    ],
+    [
+      "Great Lakes Auto ",
+      5
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      5
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       4
     ],
     [
-      "Beck Motors",
-      4
-    ],
-    [
-      "Mazda of Fargo & Kia of Fargo",
-      4
-    ],
-    [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      4
-    ],
-    [
-      "Greenway Automotive Group",
-      4
-    ],
-    [
-      "Ideal Cars",
+      "Janssen Auto Group",
       3
     ],
     [
-      "Hawthorne Auto Square",
-      3
-    ],
-    [
-      "Northstar Kia",
-      3
-    ],
-    [
-      "County Ford",
-      3
-    ],
-    [
-      "Zeigler Auto Group, Inc.",
+      "Georgia Auto World",
       3
     ],
     [
@@ -144,75 +84,15 @@
       3
     ],
     [
-      "Northside Auto Sales",
-      3
-    ],
-    [
-      "Sansone Jr's Auto Group",
-      3
-    ],
-    [
-      "Homan Auto Sales Inc",
-      3
-    ],
-    [
-      "Courtesy Automotive Group",
-      3
-    ],
-    [
-      "Janssen Auto Group",
-      3
+      "Rim Revolution LLC",
+      2
     ],
     [
       "Ryan Buick GMC Cadillac",
       2
     ],
     [
-      "Yemm Auto",
-      2
-    ],
-    [
-      "Terry Auto Group",
-      2
-    ],
-    [
-      "Your Choice Auto LLC",
-      2
-    ],
-    [
-      "ICL Autos",
-      2
-    ],
-    [
-      "Carzwala",
-      2
-    ],
-    [
-      "LUXURY IMPORTS",
-      2
-    ],
-    [
-      "Mark Miller Subaru, Inc.",
-      2
-    ],
-    [
-      "Renny Bettan",
-      2
-    ],
-    [
-      "Median Media LLC",
-      2
-    ],
-    [
-      "Impex Auto Sales",
-      2
-    ],
-    [
-      "Rim Revolution LLC",
-      2
-    ],
-    [
-      "Diffee Ford Lincoln",
+      "Parks Chevrolet Richmond",
       2
     ],
     [
@@ -224,39 +104,15 @@
       2
     ],
     [
-      "Faircy Automotive",
+      "LUXURY IMPORTS",
       2
     ],
     [
-      "C.A.R. Automotive LLC",
+      "Jidd Performance",
       2
     ],
     [
-      "Seth Wadley Ford of Pauls Valley",
-      2
-    ],
-    [
-      "Cornhusker Auto Center",
-      2
-    ],
-    [
-      "Best Deal Auto Sales, INC.",
-      2
-    ],
-    [
-      "ROSI Automotive Group",
-      2
-    ],
-    [
-      "Dave Syverson Auto Center",
-      2
-    ],
-    [
-      "McCurley Dealerships",
-      2
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      "Impex Auto Sales",
       2
     ],
     [
@@ -264,67 +120,43 @@
       2
     ],
     [
-      "Yoga Cars",
+      "McCurley Dealerships",
+      2
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      2
+    ],
+    [
+      "Roanoke Motors Inc",
+      2
+    ],
+    [
+      "Envision Management Group",
+      2
+    ],
+    [
+      " Joshua Tree Chrysler Dodge Jeep Ram",
+      2
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
+      2
+    ],
+    [
+      "Yemm Auto",
+      2
+    ],
+    [
+      "Terry Auto Group",
+      2
+    ],
+    [
+      "Bravo Automotive Group, LLC",
       1
     ],
     [
-      "Giant Auto Warehouse",
-      1
-    ],
-    [
-      "Sprinkler Used Cars",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Moffitt's Ford",
-      1
-    ],
-    [
-      "West Mitsubishi",
-      1
-    ],
-    [
-      "Georgia Auto World",
-      1
-    ],
-    [
-      "Audi Cape Fear",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "Auto Export Corporation",
-      1
-    ],
-    [
-      "Car Hop Auto Sales & Finance",
-      1
-    ],
-    [
-      "Silsbee Ford",
-      1
-    ],
-    [
-      "White Bear Lincoln",
-      1
-    ],
-    [
-      "Hammond Cars",
-      1
-    ],
-    [
-      "Carter Myers Automotive",
-      1
-    ],
-    [
-      "Davidson Auto Group",
+      "Wood Motor Company",
       1
     ],
     [
@@ -332,11 +164,19 @@
       1
     ],
     [
-      "Toronto Honda",
+      "Davidson Auto Group",
       1
     ],
     [
-      "Portsmouth Ford Lincoln",
+      "Princeton Chevrolet GMC",
+      1
+    ],
+    [
+      "Redmond Chevrolet",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
@@ -344,11 +184,59 @@
       1
     ],
     [
-      "Autoplex 2000 and All Star Buick GMC truck",
+      "Giant Auto Warehouse",
       1
     ],
     [
-      "Post Oak Toyota",
+      "Jenkins Auto Group",
+      1
+    ],
+    [
+      "Ariana Motors",
+      1
+    ],
+    [
+      "RBM Automotive Group",
+      1
+    ],
+    [
+      "Moffitt's Ford",
+      1
+    ],
+    [
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "Pee Dee Auto Sales",
+      1
+    ],
+    [
+      "White Bear Lincoln",
+      1
+    ],
+    [
+      "Turpin Dodge Chrysler Jeep Ram",
+      1
+    ],
+    [
+      "Twin Pine Ford",
+      1
+    ],
+    [
+      "Silsbee Ford",
+      1
+    ],
+    [
+      "Laramie Peak Motors LLC",
+      1
+    ],
+    [
+      "Lexus Of Orland",
+      1
+    ],
+    [
+      "Northwest Indiana Auto Finance",
       1
     ],
     [
@@ -356,7 +244,19 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Audi Cape Fear",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      1
+    ],
+    [
+      "West Mitsubishi",
       1
     ],
     [
