@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T23:40:00.330Z",
+  "fetchedAt": "2026-11-12T04:14:21.708Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,62 +17,34 @@
   "rows": [
     [
       null,
-      199
+      167
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      22
-    ],
-    [
-      "Covert Auto Group",
-      15
-    ],
-    [
-      "Impex Auto Sales",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
       13
     ],
     [
-      "Flexcar",
-      11
+      "Sprinkler Used Cars",
+      8
     ],
     [
-      "Greenway Automotive Group",
-      11
-    ],
-    [
-      "Teton solutions Group",
-      10
-    ],
-    [
-      "Davidson Auto Group",
+      "Renny Bettan",
       7
     ],
     [
-      "Gettel Automotive Group",
-      7
-    ],
-    [
-      "ICL Autos",
+      "LuxuryMotorCars",
       6
-    ],
-    [
-      "Median Media LLC",
-      6
-    ],
-    [
-      "Performance Automotive Network",
-      5
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      5
-    ],
-    [
-      "Olson Chevrolet",
-      4
     ],
     [
       "Jenkins Auto Group",
+      5
+    ],
+    [
+      "Performance Automotive Network",
+      4
+    ],
+    [
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       4
     ],
     [
@@ -80,11 +52,19 @@
       4
     ],
     [
+      "Pritchard Companies",
+      4
+    ],
+    [
+      "Vindevers Autohaus of Sylvania",
+      4
+    ],
+    [
       "4M Autoplex",
       3
     ],
     [
-      "Rawian Oy",
+      "Dean Carter Chevrolet",
       3
     ],
     [
@@ -96,27 +76,55 @@
       3
     ],
     [
-      "MP auto Sales LLC DBA Carizona",
+      "Soave Automotive Group",
       3
     ],
     [
-      "Pritchard Companies",
+      "Yemm Auto",
       3
     ],
     [
-      "Vindevers Autohaus of Sylvania",
+      "World Car Auto Group",
       3
+    ],
+    [
+      "Georgia Auto World",
+      3
+    ],
+    [
+      "Volvo of Princeton Inc",
+      3
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      3
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      3
+    ],
+    [
+      "DealerVision.com",
+      3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Preston Motor Automotive Group",
+      3
+    ],
+    [
+      "Mercedes-Benz of Portsmouth",
+      3
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      2
     ],
     [
       "McCurley Dealerships",
-      2
-    ],
-    [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      2
-    ],
-    [
-      "Advantage Toyota",
       2
     ],
     [
@@ -124,15 +132,15 @@
       2
     ],
     [
+      "Freedom Chevrolet",
+      2
+    ],
+    [
       "KAR Auto Group",
       2
     ],
     [
-      "Ryan Buick GMC Cadillac",
-      2
-    ],
-    [
-      "Wood Motor Company",
+      "Hawthorne Auto Square",
       2
     ],
     [
@@ -140,31 +148,55 @@
       2
     ],
     [
-      "Rim Revolution LLC",
-      2
-    ],
-    [
       "Noblesville Imports",
       2
     ],
     [
-      "Mercedes-Benz of Portsmouth",
+      "Mark Miller Subaru, Inc.",
       2
     ],
     [
-      "McGrath Acura of Westmont (Mcgrath Imports)",
-      1
+      "Wood Motor Company",
+      2
     ],
     [
-      "Giant Auto Warehouse",
-      1
+      "Greenway Automotive Group",
+      2
     ],
     [
-      "Twin Pine Ford",
-      1
+      "Van Horn Automotive Group",
+      2
+    ],
+    [
+      "North Park Lincoln",
+      2
     ],
     [
       "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "Beaver County Auto",
+      2
+    ],
+    [
+      "Icon Motors Group",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Car City INC",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Brandon Steven Motors",
       1
     ],
     [
@@ -176,7 +208,7 @@
       1
     ],
     [
-      "Yemm Auto",
+      "Russ Darrow Group, Inc.",
       1
     ],
     [
@@ -184,15 +216,15 @@
       1
     ],
     [
-      "Calgary Truck",
+      "Jim Schmidt Automotive",
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Hewlett Volkswagen, LP",
       1
     ],
     [
-      "Car Capital LTD",
+      "Midwest Auto Group",
       1
     ],
     [
@@ -204,6 +236,14 @@
       1
     ],
     [
+      "Giant Auto Warehouse",
+      1
+    ],
+    [
+      "Rochester Toyota",
+      1
+    ],
+    [
       "Nyle Maxwell CDJR Taylor",
       1
     ],
@@ -212,15 +252,15 @@
       1
     ],
     [
-      "Preston Motor Automotive Group",
+      "C.A.R. Automotive LLC",
       1
     ],
     [
-      "West Mitsubishi",
+      "Charlie Clark Hyundai",
       1
     ],
     [
-      "Car City INC",
+      "Advantage Toyota",
       1
     ],
     [
@@ -228,15 +268,7 @@
       1
     ],
     [
-      "DealerVision.com",
-      1
-    ],
-    [
-      "Al Piemonte",
-      1
-    ],
-    [
-      "Dobbs Equity Partners, LLC",
+      "Twin Pine Ford",
       1
     ],
     [
@@ -244,15 +276,39 @@
       1
     ],
     [
-      "Mega Motors",
+      "Finn's Discount Auto",
       1
     ],
     [
-      "North Park Lincoln",
+      "2d5f0eb5f Dellenbach Motors",
       1
     ],
     [
-      "Midwest Auto Group",
+      "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "Al Piemonte",
+      1
+    ],
+    [
+      "Long Automotive Group",
+      1
+    ],
+    [
+      "Perkins Motors",
+      1
+    ],
+    [
+      "Frontier Auto Sales and Service",
+      1
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Faircy Automotive",
       1
     ],
     [
