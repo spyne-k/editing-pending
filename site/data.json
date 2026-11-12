@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T12:46:28.659Z",
+  "fetchedAt": "2026-11-12T20:29:16.158Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,46 @@
   "rows": [
     [
       null,
-      90
+      133
     ],
     [
-      "AGAM B.V.",
-      9
+      "DealerVision.com",
+      25
     ],
     [
-      "Rawian Oy",
-      6
+      "Seth Wadley Ford of Pauls Valley",
+      12
     ],
     [
-      "Boardman Subaru and Imports",
-      6
+      "Flexcar",
+      8
+    ],
+    [
+      "ZT Automotive",
+      7
+    ],
+    [
+      "Impex Auto Sales",
+      7
     ],
     [
       "Wood Motor Company",
       5
     ],
     [
-      "Alpha One Automotive",
+      "North Park Lincoln",
       4
-    ],
-    [
-      "Performance Automotive Network",
-      4
-    ],
-    [
-      "Graff Auto Campus",
-      3
     ],
     [
       "Rohrich Automotive Group",
+      4
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       3
     ],
     [
-      "Georgia Auto World",
-      3
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      3
-    ],
-    [
-      "Volvo of Princeton Inc",
+      "Graff Auto Campus",
       3
     ],
     [
@@ -68,15 +64,19 @@
       3
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Covert Auto Group",
       2
     ],
     [
-      "LUXURY IMPORTS",
+      "Performance Automotive Network",
       2
     ],
     [
-      "Mondial car Sarl",
+      "Giant Auto Warehouse",
+      2
+    ],
+    [
+      "Jenkins Auto Group",
       2
     ],
     [
@@ -84,11 +84,15 @@
       2
     ],
     [
-      "IM Marketplace GmBH",
+      "Teton solutions Group",
       2
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "S&L Motors, Pulaski WI",
+      2
+    ],
+    [
+      "Yemm Auto",
       2
     ],
     [
@@ -96,35 +100,23 @@
       2
     ],
     [
-      "Simmons-Rockwell Automotive Dealerships",
+      "Faircy Automotive",
       2
     ],
     [
-      "Adams Chevrolet Inc",
-      1
+      "Keffer Inc.",
+      2
     ],
     [
-      "Autos of Forney",
-      1
+      "Courtesy Automotive Group",
+      2
     ],
     [
-      "White Bear Lincoln",
-      1
+      "Auto Gallery Automotive Group",
+      2
     ],
     [
-      "Al Piemonte",
-      1
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
+      "Bergstrom Automotive",
       1
     ],
     [
@@ -132,43 +124,43 @@
       1
     ],
     [
-      "Hewlett Volkswagen, LP",
+      "Long Automotive Group",
       1
     ],
     [
-      "West Mitsubishi",
+      "Autos of Forney",
       1
     ],
     [
-      "Giant Auto Warehouse",
+      "Speedway Car Sales",
       1
     ],
     [
-      "Faircy Automotive",
+      "Northtown Automotive",
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
+      "Icon Motors Group",
       1
     ],
     [
-      "C.A. Larsen Automobiler A/S",
+      "Lambert Buick GMC Inc",
       1
     ],
     [
-      "Apex Automotive Group",
+      "MyCar: Trucktown",
       1
     ],
     [
-      "Auto Gallery Automotive Group",
+      "Pritchard Companies",
       1
     ],
     [
-      "Twin Pine Ford",
+      "Blasius Buick GMC",
       1
     ],
     [
-      "Ray Auto Group",
+      "Rick Weaver Chevrolet",
       1
     ],
     [
@@ -180,11 +172,51 @@
       1
     ],
     [
-      "CDJR",
+      "Nyle Maxwell CDJR Taylor",
       1
     ],
     [
-      "Charlie Clark Hyundai",
+      "World Car Auto Group",
+      1
+    ],
+    [
+      "Mazda of Fargo & Kia of Fargo",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Hawthorne Auto Square",
+      1
+    ],
+    [
+      "White Bear Lincoln",
+      1
+    ],
+    [
+      "Al Piemonte",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Boardman Subaru and Imports",
+      1
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      1
+    ],
+    [
+      "Bob Johnson Automotive Group",
+      1
+    ],
+    [
+      "Blasius South",
       1
     ],
     [
