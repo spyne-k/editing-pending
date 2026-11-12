@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T04:14:21.708Z",
+  "fetchedAt": "2026-11-12T12:46:28.659Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,74 +17,38 @@
   "rows": [
     [
       null,
-      167
+      90
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
-      13
+      "AGAM B.V.",
+      9
     ],
     [
-      "Sprinkler Used Cars",
-      8
-    ],
-    [
-      "Renny Bettan",
-      7
-    ],
-    [
-      "LuxuryMotorCars",
+      "Rawian Oy",
       6
     ],
     [
-      "Jenkins Auto Group",
+      "Boardman Subaru and Imports",
+      6
+    ],
+    [
+      "Wood Motor Company",
       5
+    ],
+    [
+      "Alpha One Automotive",
+      4
     ],
     [
       "Performance Automotive Network",
       4
     ],
     [
-      "Germain of Beavercreek I, LLC dba Germain Ford of ",
-      4
-    ],
-    [
-      "Vatland Auto Group",
-      4
-    ],
-    [
-      "Pritchard Companies",
-      4
-    ],
-    [
-      "Vindevers Autohaus of Sylvania",
-      4
-    ],
-    [
-      "4M Autoplex",
-      3
-    ],
-    [
-      "Dean Carter Chevrolet",
-      3
-    ],
-    [
-      "ZT Automotive",
-      3
-    ],
-    [
       "Graff Auto Campus",
       3
     ],
     [
-      "Soave Automotive Group",
-      3
-    ],
-    [
-      "Yemm Auto",
-      3
-    ],
-    [
-      "World Car Auto Group",
+      "Rohrich Automotive Group",
       3
     ],
     [
@@ -92,83 +56,19 @@
       3
     ],
     [
-      "Volvo of Princeton Inc",
-      3
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      3
-    ],
-    [
       "Seth Wadley Ford of Pauls Valley",
       3
     ],
     [
-      "DealerVision.com",
+      "Volvo of Princeton Inc",
       3
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      3
-    ],
-    [
-      "Preston Motor Automotive Group",
-      3
-    ],
-    [
-      "Mercedes-Benz of Portsmouth",
-      3
-    ],
-    [
-      "Lambert Buick GMC Inc",
-      2
-    ],
-    [
-      "McCurley Dealerships",
-      2
-    ],
-    [
-      "ROSI Automotive Group",
-      2
-    ],
-    [
-      "Freedom Chevrolet",
-      2
-    ],
-    [
-      "KAR Auto Group",
-      2
-    ],
-    [
-      "Hawthorne Auto Square",
-      2
-    ],
-    [
-      "Joshua Trownsell",
-      2
-    ],
-    [
-      "Noblesville Imports",
-      2
-    ],
-    [
-      "Mark Miller Subaru, Inc.",
-      2
-    ],
-    [
-      "Wood Motor Company",
-      2
     ],
     [
       "Greenway Automotive Group",
-      2
+      3
     ],
     [
-      "Van Horn Automotive Group",
-      2
-    ],
-    [
-      "North Park Lincoln",
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
@@ -176,31 +76,51 @@
       2
     ],
     [
-      "Beaver County Auto",
+      "Mondial car Sarl",
       2
     ],
     [
-      "Icon Motors Group",
+      "McCurley Dealerships",
+      2
+    ],
+    [
+      "IM Marketplace GmBH",
+      2
+    ],
+    [
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      2
+    ],
+    [
+      "Noblesville Imports",
+      2
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Adams Chevrolet Inc",
       1
     ],
     [
-      "Northtown Automotive",
+      "Autos of Forney",
       1
     ],
     [
-      "Car City INC",
+      "White Bear Lincoln",
       1
     ],
     [
-      "West Mitsubishi",
+      "Al Piemonte",
       1
     ],
     [
-      "Brandon Steven Motors",
+      "Covert Auto Group",
       1
     ],
     [
-      "Gedi Route Cars Inc.",
+      "Yemm Auto",
       1
     ],
     [
@@ -208,15 +128,7 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
-      1
-    ],
-    [
-      "Fred Anderson Honda",
-      1
-    ],
-    [
-      "Jim Schmidt Automotive",
+      "Midwest Auto Group",
       1
     ],
     [
@@ -224,15 +136,7 @@
       1
     ],
     [
-      "Midwest Auto Group",
-      1
-    ],
-    [
-      "Ferris Chevrolet, Inc",
-      1
-    ],
-    [
-      "Great Lakes Auto ",
+      "West Mitsubishi",
       1
     ],
     [
@@ -240,7 +144,7 @@
       1
     ],
     [
-      "Rochester Toyota",
+      "Faircy Automotive",
       1
     ],
     [
@@ -248,19 +152,11 @@
       1
     ],
     [
-      "Car Central",
+      "C.A. Larsen Automobiler A/S",
       1
     ],
     [
-      "C.A.R. Automotive LLC",
-      1
-    ],
-    [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "Advantage Toyota",
+      "Apex Automotive Group",
       1
     ],
     [
@@ -272,43 +168,23 @@
       1
     ],
     [
-      "White Bear Lincoln",
+      "Ray Auto Group",
       1
     ],
     [
-      "Finn's Discount Auto",
+      "Toronto Honda",
       1
     ],
     [
-      "2d5f0eb5f Dellenbach Motors",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "Springfield Luxury Automall",
+      "CDJR",
       1
     ],
     [
-      "Al Piemonte",
-      1
-    ],
-    [
-      "Long Automotive Group",
-      1
-    ],
-    [
-      "Perkins Motors",
-      1
-    ],
-    [
-      "Frontier Auto Sales and Service",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
-    ],
-    [
-      "Faircy Automotive",
+      "Charlie Clark Hyundai",
       1
     ],
     [
