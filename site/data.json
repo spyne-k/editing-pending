@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T08:14:15.370Z",
+  "fetchedAt": "2026-11-13T16:28:12.964Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,46 +17,34 @@
   "rows": [
     [
       null,
-      109
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      17
+      90
     ],
     [
       "Rick Weaver Chevrolet",
       14
     ],
     [
+      "Midway Dodge",
+      8
+    ],
+    [
+      "SI Vallett Auto Sales",
+      8
+    ],
+    [
       "Bergstrom Automotive",
-      11
-    ],
-    [
-      "Wood Motor Company",
-      7
-    ],
-    [
-      "North Park Lincoln",
       6
-    ],
-    [
-      "Rohrich Automotive Group",
-      4
-    ],
-    [
-      "Pritchard Companies",
-      4
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
-      "Keffer Inc.",
-      3
+      "Clear Auto Dartmouth",
+      4
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Flexcar",
       3
     ],
     [
@@ -68,15 +56,15 @@
       3
     ],
     [
-      "Yemm Auto",
-      2
-    ],
-    [
       "Giant Auto Warehouse",
       2
     ],
     [
-      "McCurley Dealerships",
+      "Parks Chevrolet Richmond",
+      2
+    ],
+    [
+      "Car Central",
       2
     ],
     [
@@ -84,7 +72,7 @@
       2
     ],
     [
-      "S&L Motors, Pulaski WI",
+      "ZT Automotive",
       2
     ],
     [
@@ -92,15 +80,23 @@
       2
     ],
     [
-      "Noblesville Imports",
+      "County Ford",
       2
     ],
     [
-      "Auto Gallery Automotive Group",
+      "Van Horn Automotive Group",
       2
     ],
     [
-      "White Bear Lincoln",
+      "MyCar: Trucktown",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Midwest Auto Group",
       1
     ],
     [
@@ -108,11 +104,19 @@
       1
     ],
     [
-      "Mark Williams Auto Group",
+      "House Chevrolet Co.",
       1
     ],
     [
-      "Al Piemonte",
+      "Rawian Oy",
+      1
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      1
+    ],
+    [
+      "Ferris Chevrolet, Inc",
       1
     ],
     [
@@ -124,15 +128,11 @@
       1
     ],
     [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
       "Charlie Clark Hyundai",
       1
     ],
     [
-      "Flexcar",
+      "White Bear Lincoln",
       1
     ],
     [
@@ -140,19 +140,35 @@
       1
     ],
     [
-      "House Chevrolet Co.",
-      1
-    ],
-    [
-      "Dave Syverson Auto Center",
-      1
-    ],
-    [
       "Impex Auto Sales",
       1
     ],
     [
-      "MyCar: Trucktown",
+      "Capital Chevrolet Inc.",
+      1
+    ],
+    [
+      "Auto Exchange Group",
+      1
+    ],
+    [
+      "Fred Anderson Honda",
+      1
+    ],
+    [
+      "Davidson Auto Group",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Mark Williams Auto Group",
       1
     ],
     [
