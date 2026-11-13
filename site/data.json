@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T16:28:12.964Z",
+  "fetchedAt": "2026-11-13T22:04:58.179Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,54 +17,30 @@
   "rows": [
     [
       null,
-      90
+      40
     ],
     [
-      "Rick Weaver Chevrolet",
-      14
-    ],
-    [
-      "Midway Dodge",
+      "Home Auto Group",
       8
-    ],
-    [
-      "SI Vallett Auto Sales",
-      8
-    ],
-    [
-      "Bergstrom Automotive",
-      6
-    ],
-    [
-      "Greenway Automotive Group",
-      4
     ],
     [
       "Clear Auto Dartmouth",
       4
     ],
     [
-      "Flexcar",
-      3
+      "Greenway Automotive Group",
+      4
     ],
     [
-      "Graff Auto Campus",
-      3
-    ],
-    [
-      "Mazda of Fargo & Kia of Fargo",
-      3
-    ],
-    [
-      "Giant Auto Warehouse",
+      "Teton solutions Group",
       2
     ],
     [
-      "Parks Chevrolet Richmond",
+      "Toyota of Hopkinsville",
       2
     ],
     [
-      "Car Central",
+      "Brandon Steven Motors",
       2
     ],
     [
@@ -72,39 +48,27 @@
       2
     ],
     [
-      "ZT Automotive",
-      2
-    ],
-    [
-      "Worldwide Motors LTD dba Paragon Acura",
-      2
-    ],
-    [
-      "County Ford",
-      2
-    ],
-    [
       "Van Horn Automotive Group",
       2
     ],
     [
-      "MyCar: Trucktown",
+      "West Mitsubishi",
       1
     ],
     [
-      "Toronto Honda",
+      "MEI Inc",
       1
     ],
     [
-      "Midwest Auto Group",
+      "Budweiser Motors",
       1
     ],
     [
-      "Autos of Forney",
+      "ZT Automotive",
       1
     ],
     [
-      "House Chevrolet Co.",
+      "Waite Toyota",
       1
     ],
     [
@@ -112,15 +76,15 @@
       1
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "House Chevrolet Co.",
       1
     ],
     [
-      "World Car Auto Group",
+      "Gettel Automotive Group",
       1
     ],
     [
@@ -128,47 +92,19 @@
       1
     ],
     [
+      "World Car Auto Group",
+      1
+    ],
+    [
       "Charlie Clark Hyundai",
       1
     ],
     [
-      "White Bear Lincoln",
+      "Faircy Automotive",
       1
     ],
     [
-      "Long Automotive Group",
-      1
-    ],
-    [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Capital Chevrolet Inc.",
-      1
-    ],
-    [
-      "Auto Exchange Group",
-      1
-    ],
-    [
-      "Fred Anderson Honda",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "West Mitsubishi",
-      1
-    ],
-    [
-      "Mark Williams Auto Group",
+      "Germain of Beavercreek I, LLC dba Germain Ford of ",
       1
     ],
     [
