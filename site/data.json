@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T01:23:02.692Z",
+  "fetchedAt": "2026-11-13T08:14:15.370Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,58 +17,46 @@
   "rows": [
     [
       null,
-      178
-    ],
-    [
-      "Blasius Buick GMC",
-      15
-    ],
-    [
-      "Flexcar",
-      15
+      109
     ],
     [
       "Seth Wadley Ford of Pauls Valley",
-      12
+      17
     ],
     [
-      "Midwest Auto Group",
-      10
-    ],
-    [
-      "Sprinkler Used Cars",
-      10
-    ],
-    [
-      "Best Deal Auto Sales, INC.",
-      7
+      "Rick Weaver Chevrolet",
+      14
     ],
     [
       "Bergstrom Automotive",
+      11
+    ],
+    [
+      "Wood Motor Company",
       7
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      5
-    ],
-    [
-      "Performance Automotive Network",
-      5
-    ],
-    [
-      "Sakura Motors London LTD",
-      4
+      "North Park Lincoln",
+      6
     ],
     [
       "Rohrich Automotive Group",
       4
     ],
     [
-      "Your Choice Auto LLC",
+      "Pritchard Companies",
       4
     ],
     [
-      "DealerVision.com",
+      "Greenway Automotive Group",
+      4
+    ],
+    [
+      "Keffer Inc.",
+      3
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       3
     ],
     [
@@ -76,63 +64,11 @@
       3
     ],
     [
-      "Vatland Auto Group",
+      "Mazda of Fargo & Kia of Fargo",
       3
     ],
     [
-      "Beaver County Auto",
-      3
-    ],
-    [
-      "Wood Motor Company",
-      3
-    ],
-    [
-      "Greenway Automotive Group",
-      3
-    ],
-    [
-      "Faircy Automotive",
-      3
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      2
-    ],
-    [
-      "McCurley Dealerships",
-      2
-    ],
-    [
-      "World Car Auto Group",
-      2
-    ],
-    [
-      "Speedway Car Sales",
-      2
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      2
-    ],
-    [
-      "Davidson Auto Group",
-      2
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
-      2
-    ],
-    [
-      "Noblesville Imports",
-      2
-    ],
-    [
-      "Autos of Forney",
-      2
-    ],
-    [
-      "Landers Dodge Chrysler Jeep RAM",
+      "Yemm Auto",
       2
     ],
     [
@@ -140,47 +76,39 @@
       2
     ],
     [
+      "McCurley Dealerships",
+      2
+    ],
+    [
+      "Auto Park Ford Bremen",
+      2
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      2
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      2
+    ],
+    [
+      "Noblesville Imports",
+      2
+    ],
+    [
       "Auto Gallery Automotive Group",
       2
-    ],
-    [
-      "Keffer Inc.",
-      2
-    ],
-    [
-      "Turn Auto Mall",
-      2
-    ],
-    [
-      "Car Bazaar",
-      2
-    ],
-    [
-      "Pdx Wheels, Steals & Deals",
-      2
-    ],
-    [
-      "Yemm Auto",
-      2
-    ],
-    [
-      "Diffee Ford Lincoln",
-      2
-    ],
-    [
-      "Pritchard Companies",
-      1
-    ],
-    [
-      "MyCar: Trucktown",
-      1
     ],
     [
       "White Bear Lincoln",
       1
     ],
     [
-      "MEI Inc",
+      "Autos of Forney",
+      1
+    ],
+    [
+      "Mark Williams Auto Group",
       1
     ],
     [
@@ -188,15 +116,11 @@
       1
     ],
     [
-      "Rick Weaver Chevrolet",
+      "World Car Auto Group",
       1
     ],
     [
-      "Joshua Trownsell",
-      1
-    ],
-    [
-      "Great Lakes Auto Group",
+      "Vatland Auto Group",
       1
     ],
     [
@@ -204,19 +128,11 @@
       1
     ],
     [
-      "Toyota Of Wallingford",
+      "Charlie Clark Hyundai",
       1
     ],
     [
-      "Lewiston Auto",
-      1
-    ],
-    [
-      "H&K Chevrolet Family Auto",
-      1
-    ],
-    [
-      "Turpin Dodge Chrysler Jeep Ram",
+      "Flexcar",
       1
     ],
     [
@@ -224,39 +140,19 @@
       1
     ],
     [
-      "Covert Auto Group",
+      "House Chevrolet Co.",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Dave Syverson Auto Center",
       1
     ],
     [
-      "Covert Ford Lincoln",
+      "Impex Auto Sales",
       1
     ],
     [
-      "Twin Pine Ford",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
-      "Mccurley Subaru Of Yakima",
-      1
-    ],
-    [
-      "Median Media LLC",
-      1
-    ],
-    [
-      "Janssen Auto Group",
-      1
-    ],
-    [
-      "The Garage",
+      "MyCar: Trucktown",
       1
     ],
     [
