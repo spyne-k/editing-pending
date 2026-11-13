@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T20:29:16.158Z",
+  "fetchedAt": "2026-11-13T01:23:02.692Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,46 @@
   "rows": [
     [
       null,
-      133
+      178
     ],
     [
-      "DealerVision.com",
-      25
+      "Blasius Buick GMC",
+      15
+    ],
+    [
+      "Flexcar",
+      15
     ],
     [
       "Seth Wadley Ford of Pauls Valley",
       12
     ],
     [
-      "Flexcar",
-      8
+      "Midwest Auto Group",
+      10
     ],
     [
-      "ZT Automotive",
+      "Sprinkler Used Cars",
+      10
+    ],
+    [
+      "Best Deal Auto Sales, INC.",
       7
     ],
     [
-      "Impex Auto Sales",
+      "Bergstrom Automotive",
       7
     ],
     [
-      "Wood Motor Company",
+      "Asbury Automotive Management L.L.C",
       5
     ],
     [
-      "North Park Lincoln",
+      "Performance Automotive Network",
+      5
+    ],
+    [
+      "Sakura Motors London LTD",
       4
     ],
     [
@@ -52,7 +64,11 @@
       4
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Your Choice Auto LLC",
+      4
+    ],
+    [
+      "DealerVision.com",
       3
     ],
     [
@@ -60,23 +76,27 @@
       3
     ],
     [
+      "Vatland Auto Group",
+      3
+    ],
+    [
+      "Beaver County Auto",
+      3
+    ],
+    [
+      "Wood Motor Company",
+      3
+    ],
+    [
       "Greenway Automotive Group",
       3
     ],
     [
-      "Covert Auto Group",
-      2
+      "Faircy Automotive",
+      3
     ],
     [
-      "Performance Automotive Network",
-      2
-    ],
-    [
-      "Giant Auto Warehouse",
-      2
-    ],
-    [
-      "Jenkins Auto Group",
+      "Ryan Buick GMC Cadillac",
       2
     ],
     [
@@ -84,7 +104,11 @@
       2
     ],
     [
-      "Teton solutions Group",
+      "World Car Auto Group",
+      2
+    ],
+    [
+      "Speedway Car Sales",
       2
     ],
     [
@@ -92,7 +116,11 @@
       2
     ],
     [
-      "Yemm Auto",
+      "Davidson Auto Group",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
@@ -100,15 +128,15 @@
       2
     ],
     [
-      "Faircy Automotive",
+      "Autos of Forney",
       2
     ],
     [
-      "Keffer Inc.",
+      "Landers Dodge Chrysler Jeep RAM",
       2
     ],
     [
-      "Courtesy Automotive Group",
+      "Giant Auto Warehouse",
       2
     ],
     [
@@ -116,35 +144,31 @@
       2
     ],
     [
-      "Bergstrom Automotive",
-      1
+      "Keffer Inc.",
+      2
     ],
     [
-      "Midwest Auto Group",
-      1
+      "Turn Auto Mall",
+      2
     ],
     [
-      "Long Automotive Group",
-      1
+      "Car Bazaar",
+      2
     ],
     [
-      "Autos of Forney",
-      1
+      "Pdx Wheels, Steals & Deals",
+      2
     ],
     [
-      "Speedway Car Sales",
-      1
+      "Yemm Auto",
+      2
     ],
     [
-      "Northtown Automotive",
-      1
+      "Diffee Ford Lincoln",
+      2
     ],
     [
-      "Icon Motors Group",
-      1
-    ],
-    [
-      "Lambert Buick GMC Inc",
+      "Pritchard Companies",
       1
     ],
     [
@@ -152,47 +176,11 @@
       1
     ],
     [
-      "Pritchard Companies",
-      1
-    ],
-    [
-      "Blasius Buick GMC",
-      1
-    ],
-    [
-      "Rick Weaver Chevrolet",
-      1
-    ],
-    [
-      "Toronto Honda",
-      1
-    ],
-    [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Nyle Maxwell CDJR Taylor",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Mazda of Fargo & Kia of Fargo",
-      1
-    ],
-    [
-      "West Mitsubishi",
-      1
-    ],
-    [
-      "Hawthorne Auto Square",
-      1
-    ],
-    [
       "White Bear Lincoln",
+      1
+    ],
+    [
+      "MEI Inc",
       1
     ],
     [
@@ -200,23 +188,75 @@
       1
     ],
     [
+      "Rick Weaver Chevrolet",
+      1
+    ],
+    [
+      "Joshua Trownsell",
+      1
+    ],
+    [
+      "Great Lakes Auto Group",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "Toyota Of Wallingford",
+      1
+    ],
+    [
+      "Lewiston Auto",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Turpin Dodge Chrysler Jeep Ram",
+      1
+    ],
+    [
+      "Long Automotive Group",
+      1
+    ],
+    [
+      "Covert Auto Group",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
+    ],
+    [
+      "Covert Ford Lincoln",
+      1
+    ],
+    [
+      "Twin Pine Ford",
+      1
+    ],
+    [
       "Van Horn Automotive Group",
       1
     ],
     [
-      "Boardman Subaru and Imports",
+      "Mccurley Subaru Of Yakima",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Median Media LLC",
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Janssen Auto Group",
       1
     ],
     [
-      "Blasius South",
+      "The Garage",
       1
     ],
     [
