@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T09:05:12.066Z",
+  "fetchedAt": "2026-11-14T15:44:32.239Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,116 +16,16 @@
   ],
   "rows": [
     [
+      "Charlie Clark Hyundai",
+      4
+    ],
+    [
       null,
-      140
-    ],
-    [
-      "RC Hill Powersports Orlando",
-      96
-    ],
-    [
-      "IM Marketplace GmBH",
-      9
-    ],
-    [
-      "Parks Chevrolet Richmond",
-      5
+      4
     ],
     [
       "Runde Chevrolet, Inc.",
-      3
-    ],
-    [
-      "Auto Park Ford Bremen",
-      2
-    ],
-    [
-      "Toyota of Hopkinsville",
-      2
-    ],
-    [
-      "Pritchard Companies",
-      2
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      2
-    ],
-    [
-      "Crown Motors",
-      1
-    ],
-    [
-      "Perkins Motors",
-      1
-    ],
-    [
-      "Blasius South",
-      1
-    ],
-    [
-      "Flexcar",
-      1
-    ],
-    [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Teton solutions Group",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Keffer Inc.",
-      1
-    ],
-    [
-      "Ramsey Motor Company",
-      1
-    ],
-    [
-      "Car Central Inc.",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Mazda of Fargo & Kia of Fargo",
-      1
-    ],
-    [
-      "MAG CHRYSLER DODGE JEEP RAM",
-      1
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      1
-    ],
-    [
-      "Auto Gallery Automotive Group",
-      1
-    ],
-    [
-      "Springfield Luxury Automall",
-      1
-    ],
-    [
-      "Elite Auto Marketing Solutions",
-      1
-    ],
-    [
-      "Marthaler Honda of Ashland",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
+      0
     ]
   ]
 }
