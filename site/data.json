@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T02:17:59.407Z",
+  "fetchedAt": "2026-11-14T09:05:12.066Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,26 @@
   "rows": [
     [
       null,
-      69
+      140
     ],
     [
-      "Waite Toyota",
-      8
+      "RC Hill Powersports Orlando",
+      96
     ],
     [
-      "DealerVision.com",
-      8
+      "IM Marketplace GmBH",
+      9
     ],
     [
-      "Greenway Automotive Group",
-      7
-    ],
-    [
-      "Hawthorne Auto Square",
-      6
-    ],
-    [
-      "Russ Darrow Group, Inc.",
+      "Parks Chevrolet Richmond",
       5
-    ],
-    [
-      "Performance Automotive Network",
-      5
-    ],
-    [
-      "Gettel Automotive Group",
-      4
-    ],
-    [
-      "AX Auto INC",
-      3
-    ],
-    [
-      "Auto Park Ford Bremen",
-      3
     ],
     [
       "Runde Chevrolet, Inc.",
       3
     ],
     [
-      "Your Choice Auto LLC",
+      "Auto Park Ford Bremen",
       2
     ],
     [
@@ -68,43 +44,87 @@
       2
     ],
     [
-      "Worldwide Motors LTD dba Paragon Acura",
+      "Pritchard Companies",
       2
     ],
     [
-      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      "Asbury Automotive Management L.L.C",
       2
     ],
     [
-      "Covert Ford Lincoln",
-      2
+      "Crown Motors",
+      1
     ],
     [
       "Perkins Motors",
       1
     ],
     [
-      "MEI Inc",
+      "Blasius South",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Flexcar",
       1
     ],
     [
-      "greenway auto group 2",
+      "Graff Auto Campus",
       1
     ],
     [
-      "Zeigler Auto Group, Inc.",
+      "Teton solutions Group",
       1
     ],
     [
-      "Smartlot Solutions",
+      "World Car Auto Group",
       1
     ],
     [
-      "Bob Johnson Automotive Group",
+      "Keffer Inc.",
+      1
+    ],
+    [
+      "Ramsey Motor Company",
+      1
+    ],
+    [
+      "Car Central Inc.",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Mazda of Fargo & Kia of Fargo",
+      1
+    ],
+    [
+      "MAG CHRYSLER DODGE JEEP RAM",
+      1
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      1
+    ],
+    [
+      "Auto Gallery Automotive Group",
+      1
+    ],
+    [
+      "Springfield Luxury Automall",
+      1
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      1
+    ],
+    [
+      "Marthaler Honda of Ashland",
+      1
+    ],
+    [
+      "Wood Motor Company",
       1
     ]
   ]
