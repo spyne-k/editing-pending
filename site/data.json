@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T15:44:32.239Z",
+  "fetchedAt": "2026-11-14T20:07:02.901Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,12 +16,24 @@
   ],
   "rows": [
     [
-      "Charlie Clark Hyundai",
-      4
+      null,
+      7
     ],
     [
-      null,
-      4
+      "Charlie Clark Hyundai",
+      3
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
     ],
     [
       "Runde Chevrolet, Inc.",
