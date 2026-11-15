@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T17:32:38.433Z",
+  "fetchedAt": "2026-11-15T22:01:29.236Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,7 +17,7 @@
   "rows": [
     [
       null,
-      9
+      11
     ],
     [
       "Greenway Automotive Group",
@@ -25,6 +25,10 @@
     ],
     [
       "Bud Clary Chevrolet, INC",
+      2
+    ],
+    [
+      "Mark Williams Auto Group",
       2
     ],
     [
@@ -36,7 +40,7 @@
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Pritchard Companies",
       1
     ],
     [
