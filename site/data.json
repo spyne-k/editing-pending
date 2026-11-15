@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T03:13:20.262Z",
+  "fetchedAt": "2026-11-15T10:56:11.457Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,15 +17,23 @@
   "rows": [
     [
       null,
+      12
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       5
     ],
     [
-      "Northtown Automotive",
-      4
+      "Greenway Automotive Group",
+      3
     ],
     [
-      "North Park Lincoln",
-      1
+      "Jenkins Auto Group",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
     ],
     [
       "Runde Chevrolet, Inc.",
