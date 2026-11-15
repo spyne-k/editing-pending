@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T10:56:11.457Z",
+  "fetchedAt": "2026-11-15T17:32:38.433Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,23 +17,27 @@
   "rows": [
     [
       null,
-      12
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      5
+      9
     ],
     [
       "Greenway Automotive Group",
       3
     ],
     [
-      "Jenkins Auto Group",
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Simmons-Rockwell Automotive Dealerships",
       2
+    ],
+    [
+      "DealerVision.com",
+      1
+    ],
+    [
+      "Gettel Automotive Group",
+      1
     ],
     [
       "Runde Chevrolet, Inc.",
