@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T23:51:45.062Z",
+  "fetchedAt": "2026-11-15T03:13:20.262Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,14 @@
   "rows": [
     [
       null,
-      6
+      5
     ],
     [
       "Northtown Automotive",
       4
     ],
     [
-      "Charlie Clark Hyundai",
-      1
-    ],
-    [
-      "Southern Ford of Thomaston",
+      "North Park Lincoln",
       1
     ],
     [
