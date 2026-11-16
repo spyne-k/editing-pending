@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T22:01:29.236Z",
+  "fetchedAt": "2026-11-16T01:50:09.643Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,14 +17,14 @@
   "rows": [
     [
       null,
-      11
+      15
     ],
     [
-      "Greenway Automotive Group",
-      3
+      "IM Marketplace GmBH",
+      6
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "LuxuryMotorCars",
       2
     ],
     [
@@ -36,7 +36,11 @@
       2
     ],
     [
-      "DealerVision.com",
+      "Major World",
+      1
+    ],
+    [
+      "McCurley Dealerships",
       1
     ],
     [
