@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T18:53:56.582Z",
+  "fetchedAt": "2026-11-17T02:12:25.803Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,86 @@
   "rows": [
     [
       null,
-      21
+      59
     ],
     [
-      "Gettel Automotive Group",
+      "IM Marketplace GmBH",
+      13
+    ],
+    [
+      "AX Auto INC",
       8
     ],
     [
-      "Kayser Chevrolet",
+      "Flexcar",
+      4
+    ],
+    [
+      "Gettel Automotive Group",
+      4
+    ],
+    [
+      "Springfield Luxury Automall",
+      4
+    ],
+    [
+      "Marthaler Honda of Ashland",
+      4
+    ],
+    [
+      "Covert Auto Group",
       3
     ],
     [
-      "Bush Trucks Leasing",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      3
+    ],
+    [
+      "Midwest Auto Group",
       2
     ],
     [
-      "Ideal Cars",
+      "Hammond Cars",
+      2
+    ],
+    [
+      "Think Reliable Auto",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Car Central",
       1
     ],
     [
-      "Rohrich Automotive Group",
+      "James Motor Company",
       1
     ],
     [
-      "Ryan Buick GMC Cadillac",
+      "Janssen Auto Group",
       1
     ],
     [
-      "Laramie Peak Motors LLC",
+      "Faircy Automotive",
       1
     ],
     [
-      "Rim Revolution LLC",
+      "Great Lakes Auto Group",
       1
     ],
     [
-      "Superior Auto, INC",
+      "Bergstrom Automotive",
       1
     ],
     [
-      "Modern Classic Motors INC",
+      "Bob Johnson Automotive Group",
       1
     ],
     [
-      "Boardman Subaru and Imports",
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
