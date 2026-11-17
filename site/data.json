@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T10:43:36.140Z",
+  "fetchedAt": "2026-11-17T19:25:26.835Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,11 +16,95 @@
   ],
   "rows": [
     [
-      "James Motor Company",
+      null,
+      46
+    ],
+    [
+      "LUXURY IMPORTS",
+      5
+    ],
+    [
+      "Bill Cole AutoMall Bluefield",
+      5
+    ],
+    [
+      "Teton solutions Group",
+      4
+    ],
+    [
+      "Alliance Cars Limited",
+      4
+    ],
+    [
+      "ZT Automotive",
+      3
+    ],
+    [
+      "Ideal Cars",
+      3
+    ],
+    [
+      "Speedway Car Sales",
+      3
+    ],
+    [
+      "Northtown Automotive",
+      3
+    ],
+    [
+      "Superior Auto, INC",
+      2
+    ],
+    [
+      "K&f Auto Sales And Service",
+      2
+    ],
+    [
+      "Impex Auto Sales",
       1
     ],
     [
-      null,
+      "Home Auto Group",
+      1
+    ],
+    [
+      "Car Central Inc.",
+      1
+    ],
+    [
+      "COTTAGEVILLE MOTORS",
+      1
+    ],
+    [
+      "AX Auto INC",
+      1
+    ],
+    [
+      "Island Auto Sales",
+      1
+    ],
+    [
+      "Lexus of Lehigh Valley",
+      1
+    ],
+    [
+      "Parks Chevrolet Richmond",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Volvo Cars Fort Washington",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ],
     [
