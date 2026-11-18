@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T19:25:26.835Z",
+  "fetchedAt": "2026-11-18T01:44:37.147Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,78 +17,126 @@
   "rows": [
     [
       null,
-      46
+      90
     ],
     [
-      "LUXURY IMPORTS",
+      "Bob Johnson Automotive Group",
+      11
+    ],
+    [
+      "Gettel Automotive Group",
+      8
+    ],
+    [
+      "Midwest Auto Group",
       5
     ],
     [
-      "Bill Cole AutoMall Bluefield",
-      5
-    ],
-    [
-      "Teton solutions Group",
+      "Preston Motor Automotive Group",
       4
     ],
     [
-      "Alliance Cars Limited",
+      "Russ Darrow Group, Inc.",
       4
-    ],
-    [
-      "ZT Automotive",
-      3
-    ],
-    [
-      "Ideal Cars",
-      3
-    ],
-    [
-      "Speedway Car Sales",
-      3
-    ],
-    [
-      "Northtown Automotive",
-      3
-    ],
-    [
-      "Superior Auto, INC",
-      2
-    ],
-    [
-      "K&f Auto Sales And Service",
-      2
-    ],
-    [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Home Auto Group",
-      1
-    ],
-    [
-      "Car Central Inc.",
-      1
-    ],
-    [
-      "COTTAGEVILLE MOTORS",
-      1
-    ],
-    [
-      "AX Auto INC",
-      1
     ],
     [
       "Island Auto Sales",
+      4
+    ],
+    [
+      "Worldwide Motors LTD dba Paragon Acura",
+      4
+    ],
+    [
+      "Seth Wadley Ford of Pauls Valley",
+      4
+    ],
+    [
+      "World Car Auto Group",
+      3
+    ],
+    [
+      "Median Media LLC",
+      3
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Moses Auto Group",
+      2
+    ],
+    [
+      "Aplus Auo Group",
+      2
+    ],
+    [
+      "Covert Ford Lincoln",
+      2
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      2
+    ],
+    [
+      "International Auto Sales",
+      2
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      2
+    ],
+    [
+      "Simmons-Rockwell Automotive Dealerships",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Lewiston Auto",
       1
     ],
     [
-      "Lexus of Lehigh Valley",
+      "Kayser Chevrolet",
       1
     ],
     [
-      "Parks Chevrolet Richmond",
+      "Charlie Clark Hyundai",
+      1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Giant Auto Warehouse",
+      1
+    ],
+    [
+      "Euro Motorcars",
+      1
+    ],
+    [
+      "Great Lakes Auto Group",
+      1
+    ],
+    [
+      "Faircy Automotive",
+      1
+    ],
+    [
+      "Toyota Of Wallingford",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
       1
     ],
     [
@@ -96,15 +144,43 @@
       1
     ],
     [
+      "LUXURY IMPORTS",
+      1
+    ],
+    [
+      "Raleigh Imports",
+      1
+    ],
+    [
+      "Yoder Family of Companies",
+      1
+    ],
+    [
+      "Terry Auto Group",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
       "Van Horn Automotive Group",
       1
     ],
     [
-      "Volvo Cars Fort Washington",
+      "Bill Cole AutoMall Bluefield",
       1
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "Paragon Motors of Woodside Inc dba Paragon Honda",
+      1
+    ],
+    [
+      "Frontier Auto Sales and Service",
+      1
+    ],
+    [
+      "DealerVision.com",
       1
     ],
     [
