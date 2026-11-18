@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-18T09:12:33.389Z",
+  "fetchedAt": "2026-11-18T18:03:53.424Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,30 +17,98 @@
   "rows": [
     [
       null,
-      12
+      51
     ],
     [
-      "Park Cities Chrysler Dodge Jeep Ram Fiat & Bishop ",
+      "DealerVision.com",
+      7
+    ],
+    [
+      "Teton solutions Group",
       5
     ],
     [
-      "Auto X-Change Inc",
+      "Graff Auto Campus",
+      5
+    ],
+    [
+      "Bergstrom Automotive",
+      4
+    ],
+    [
+      "Apex Automotive Group",
       3
     ],
     [
-      "autokuva_nobg",
+      "Rim Revolution LLC",
+      3
+    ],
+    [
+      "Preston Motor Automotive Group",
+      3
+    ],
+    [
+      "Flexcar",
+      2
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      2
+    ],
+    [
+      "Southbank Dodge Chrysler (1982) Ltd",
+      2
+    ],
+    [
+      "Greenway Automotive Group",
+      2
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      2
+    ],
+    [
+      "Bob King",
       1
     ],
     [
-      "Rawian Oy",
+      "Jenkins Auto Group",
       1
     ],
     [
-      "McCurley Dealerships",
+      "Gettel Automotive Group",
       1
     ],
     [
-      "IM Marketplace GmBH",
+      "Rohrich Automotive Group",
+      1
+    ],
+    [
+      "Ferris Chevrolet, Inc",
+      1
+    ],
+    [
+      "Northtown Automotive",
+      1
+    ],
+    [
+      "Auto Park Ford Bremen",
+      1
+    ],
+    [
+      "LES PRESTATIONS DE L'AUTO",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Van Horn Automotive Group",
+      1
+    ],
+    [
+      "Boardman Subaru and Imports",
       1
     ],
     [
