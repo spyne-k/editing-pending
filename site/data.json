@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-18T18:03:53.424Z",
+  "fetchedAt": "2026-11-19T00:15:06.603Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,50 +17,82 @@
   "rows": [
     [
       null,
-      51
+      129
     ],
     [
-      "DealerVision.com",
+      "Georgia Auto World",
+      21
+    ],
+    [
+      "Icon Motors Group",
+      16
+    ],
+    [
+      "SI Vallett Auto Sales",
+      8
+    ],
+    [
+      "Gettel Automotive Group",
       7
     ],
     [
-      "Teton solutions Group",
+      "Greenway Automotive Group",
+      6
+    ],
+    [
+      "ZT Automotive",
+      6
+    ],
+    [
+      "Midwest Auto Group",
+      6
+    ],
+    [
+      "Great Lakes Auto Group",
+      6
+    ],
+    [
+      "MEI Inc",
       5
+    ],
+    [
+      "DealerVision.com",
+      5
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      4
     ],
     [
       "Graff Auto Campus",
-      5
+      4
     ],
     [
-      "Bergstrom Automotive",
+      "Median Media LLC",
       4
+    ],
+    [
+      "LUXURY IMPORTS",
+      3
     ],
     [
       "Apex Automotive Group",
       3
     ],
     [
-      "Rim Revolution LLC",
-      3
-    ],
-    [
-      "Preston Motor Automotive Group",
-      3
-    ],
-    [
-      "Flexcar",
+      "Hawthorne Auto Square",
       2
     ],
     [
-      "Russ Darrow Group, Inc.",
+      "Auto Park Ford Bremen",
       2
     ],
     [
-      "Southbank Dodge Chrysler (1982) Ltd",
+      "Northside Auto Sales",
       2
     ],
     [
-      "Greenway Automotive Group",
+      "Covert Auto Group",
       2
     ],
     [
@@ -68,15 +100,39 @@
       2
     ],
     [
-      "Bob King",
-      1
+      "Van Horn Automotive Group",
+      2
     ],
     [
       "Jenkins Auto Group",
       1
     ],
     [
-      "Gettel Automotive Group",
+      "Hershey Motors",
+      1
+    ],
+    [
+      "Freedom Chevrolet",
+      1
+    ],
+    [
+      "Midway Dodge",
+      1
+    ],
+    [
+      "Boardman Subaru and Imports",
+      1
+    ],
+    [
+      "Alliance Automotive of Westchester LLC dba White P",
+      1
+    ],
+    [
+      "H&K Chevrolet Family Auto",
+      1
+    ],
+    [
+      "Rim Revolution LLC",
       1
     ],
     [
@@ -84,31 +140,19 @@
       1
     ],
     [
-      "Ferris Chevrolet, Inc",
+      "Mazda of Fargo & Kia of Fargo",
       1
     ],
     [
-      "Northtown Automotive",
+      "Autoshop Services & Second Car Center LLC",
       1
     ],
     [
-      "Auto Park Ford Bremen",
+      "Pritchard Companies",
       1
     ],
     [
-      "LES PRESTATIONS DE L'AUTO",
-      1
-    ],
-    [
-      "Wood Motor Company",
-      1
-    ],
-    [
-      "Van Horn Automotive Group",
-      1
-    ],
-    [
-      "Boardman Subaru and Imports",
+      "Springfield Luxury Automall",
       1
     ],
     [
