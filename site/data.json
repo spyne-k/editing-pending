@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T16:44:57.855Z",
+  "fetchedAt": "2026-11-19T23:15:07.428Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,34 +17,66 @@
   "rows": [
     [
       null,
-      92
-    ],
-    [
-      "Joshua Trownsell",
-      30
+      154
     ],
     [
       "Great Lakes Auto Group",
+      23
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      13
+    ],
+    [
+      "Kian Motors INC",
       11
     ],
     [
-      "Gettel Automotive Group",
-      9
+      "Teton solutions Group",
+      10
+    ],
+    [
+      "Redmond Chevrolet",
+      8
+    ],
+    [
+      "Russ Darrow Group, Inc.",
+      8
+    ],
+    [
+      "Fred Anderson Honda",
+      8
     ],
     [
       "DealerVision.com",
       7
     ],
     [
-      "Fred Anderson Honda",
+      "Forrester Lincoln",
       7
+    ],
+    [
+      "Dave Syverson Auto Center",
+      6
+    ],
+    [
+      "Graff Auto Campus",
+      5
+    ],
+    [
+      "Hawthorne Auto Square",
+      4
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
-      "AX Auto INC",
+      "Apex Automotive Group",
+      3
+    ],
+    [
+      "Rohrich Automotive Group",
       3
     ],
     [
@@ -52,47 +84,35 @@
       3
     ],
     [
-      "Asbury Automotive Management L.L.C",
-      3
-    ],
-    [
-      "Redmond Chevrolet",
+      "Flexcar",
       2
     ],
     [
-      "Flexcar",
-      1
+      "World Car Auto Group",
+      2
     ],
     [
-      "Taylor BMW",
-      1
+      "Ryan Buick GMC Cadillac",
+      2
     ],
     [
-      "Waite Toyota",
-      1
+      "Joshua Trownsell",
+      2
+    ],
+    [
+      "West Mitsubishi",
+      2
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      2
     ],
     [
       "Silsbee Ford",
       1
     ],
     [
-      "ZT Automotive",
-      1
-    ],
-    [
-      "Royalty Autohaus ",
-      1
-    ],
-    [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "S&L Motors, Pulaski WI",
-      1
-    ],
-    [
-      "Bud Clary Chevrolet, INC",
+      "Your Choice Auto LLC",
       1
     ],
     [
@@ -100,7 +120,35 @@
       1
     ],
     [
-      "Bravo Automotive Group, LLC",
+      "Dean Carter Chevrolet",
+      1
+    ],
+    [
+      "Moffitt's Ford",
+      1
+    ],
+    [
+      "Speedway Car Sales",
+      1
+    ],
+    [
+      "Median Media LLC",
+      1
+    ],
+    [
+      "Icon Motors Group",
+      1
+    ],
+    [
+      "Olson Chevrolet",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Pritchard Companies",
       1
     ],
     [
@@ -108,7 +156,31 @@
       1
     ],
     [
-      "Boardman Subaru and Imports",
+      "Simmons-Rockwell Automotive Dealerships",
+      1
+    ],
+    [
+      "Diffee Ford Lincoln",
+      1
+    ],
+    [
+      "Moses Auto Group",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Waite Toyota",
+      1
+    ],
+    [
+      "AutoGiant USA",
       1
     ],
     [
