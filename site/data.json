@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T07:31:30.152Z",
+  "fetchedAt": "2026-11-19T16:44:57.855Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,174 +17,98 @@
   "rows": [
     [
       null,
-      129
+      92
     ],
     [
-      "RC Hill Powersports Orlando",
-      16
+      "Joshua Trownsell",
+      30
+    ],
+    [
+      "Great Lakes Auto Group",
+      11
     ],
     [
       "Gettel Automotive Group",
-      14
+      9
     ],
     [
-      "Mazda of Fargo & Kia of Fargo",
-      14
-    ],
-    [
-      "Van Horn Automotive Group",
+      "DealerVision.com",
       7
     ],
     [
-      "Auto Gallery Automotive Group",
+      "Fred Anderson Honda",
       7
-    ],
-    [
-      "ZT Automotive",
-      6
-    ],
-    [
-      "Graff Auto Campus",
-      4
     ],
     [
       "Greenway Automotive Group",
       4
     ],
     [
-      "Russ Darrow Group, Inc.",
-      4
-    ],
-    [
-      "Flexcar",
-      4
-    ],
-    [
-      "Apex Automotive Group",
+      "AX Auto INC",
       3
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      3
-    ],
-    [
-      "Home Auto Group",
-      3
-    ],
-    [
-      "Bergstrom Automotive",
-      3
-    ],
-    [
-      "Impex Auto Sales",
-      3
-    ],
-    [
-      "Dave Syverson Auto Center",
-      2
-    ],
-    [
-      "Alliance Automotive of Westchester LLC dba White P",
-      2
-    ],
-    [
-      "Dimmitt Automotive Group",
-      2
     ],
     [
       "Auto Park Ford Bremen",
-      2
-    ],
-    [
-      "Northside Auto Sales",
-      2
-    ],
-    [
-      "Boardman Subaru and Imports",
-      2
-    ],
-    [
-      "Performance Automotive Network",
-      2
-    ],
-    [
-      "Auto Exchange Group",
-      1
-    ],
-    [
-      "Fred Anderson Honda",
-      1
-    ],
-    [
-      "Davidson Auto Group",
-      1
-    ],
-    [
-      "Smartlot Solutions",
-      1
-    ],
-    [
-      "Rim Revolution LLC",
-      1
-    ],
-    [
-      "Rick Weaver Chevrolet",
-      1
-    ],
-    [
-      "Quantrell Auto Group",
-      1
-    ],
-    [
-      "Rohrich Automotive Group",
-      1
-    ],
-    [
-      "Jenkins Auto Group",
-      1
-    ],
-    [
-      "Twin Pine Ford",
-      1
-    ],
-    [
-      "Redmond Chevrolet",
-      1
-    ],
-    [
-      "Flood Auto Group",
-      1
-    ],
-    [
-      "Dean Carter Chevrolet",
-      1
-    ],
-    [
-      "Dobbs Equity Partners, LLC",
-      1
-    ],
-    [
-      "Ohio Specialty Services, LTD.",
-      1
-    ],
-    [
-      "Hammond Cars",
-      1
-    ],
-    [
-      "Covert Auto Group",
-      1
-    ],
-    [
-      "Bob Johnson Automotive Group",
-      1
-    ],
-    [
-      "Simmons-Rockwell Automotive Dealerships",
-      1
+      3
     ],
     [
       "Asbury Automotive Management L.L.C",
+      3
+    ],
+    [
+      "Redmond Chevrolet",
+      2
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
+      "Taylor BMW",
+      1
+    ],
+    [
+      "Waite Toyota",
+      1
+    ],
+    [
+      "Silsbee Ford",
+      1
+    ],
+    [
+      "ZT Automotive",
+      1
+    ],
+    [
+      "Royalty Autohaus ",
+      1
+    ],
+    [
+      "Graff Auto Campus",
+      1
+    ],
+    [
+      "S&L Motors, Pulaski WI",
+      1
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      1
+    ],
+    [
+      "Freedom Chevrolet",
+      1
+    ],
+    [
+      "Bravo Automotive Group, LLC",
+      1
+    ],
+    [
+      "Mark Williams Auto Group",
+      1
+    ],
+    [
+      "Boardman Subaru and Imports",
       1
     ],
     [
