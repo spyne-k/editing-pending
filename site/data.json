@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20T12:42:18.464Z",
+  "fetchedAt": "2026-11-20T20:44:09.267Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,6 +17,10 @@
   "rows": [
     [
       null,
+      74
+    ],
+    [
+      "Russ Darrow Group, Inc.",
       9
     ],
     [
@@ -24,7 +28,119 @@
       8
     ],
     [
+      "ZT Automotive",
+      7
+    ],
+    [
+      "Davidson Auto Group",
+      4
+    ],
+    [
       "Greenway Automotive Group",
+      4
+    ],
+    [
+      "AX Auto INC",
+      3
+    ],
+    [
+      "Silsbee Ford",
+      3
+    ],
+    [
+      "West Mitsubishi",
+      3
+    ],
+    [
+      "Jenkins Auto Group",
+      3
+    ],
+    [
+      "Portsmouth Ford Lincoln",
+      3
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      3
+    ],
+    [
+      "Post Oak Toyota",
+      2
+    ],
+    [
+      "LUXURY IMPORTS",
+      2
+    ],
+    [
+      "Giant Auto Warehouse",
+      2
+    ],
+    [
+      "Fred Anderson Honda",
+      2
+    ],
+    [
+      "Autos of Forney",
+      1
+    ],
+    [
+      "Bob King",
+      1
+    ],
+    [
+      "Community Motors",
+      1
+    ],
+    [
+      "AutoGiant USA",
+      1
+    ],
+    [
+      "Blasius Kia",
+      1
+    ],
+    [
+      "Ideal Cars",
+      1
+    ],
+    [
+      "Toronto Honda",
+      1
+    ],
+    [
+      "Georgia Auto World",
+      1
+    ],
+    [
+      "Royalty Autohaus ",
+      1
+    ],
+    [
+      "North Jersey Automotive",
+      1
+    ],
+    [
+      "Icon Motors Group",
+      1
+    ],
+    [
+      "Lambert Buick GMC Inc",
+      1
+    ],
+    [
+      "House Chevrolet Co.",
+      1
+    ],
+    [
+      "Superior Auto, INC",
+      1
+    ],
+    [
+      "Bergstrom Automotive",
+      1
+    ],
+    [
+      "Courtesy Automotive Group",
       1
     ],
     [
