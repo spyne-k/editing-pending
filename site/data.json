@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20T04:00:12.208Z",
+  "fetchedAt": "2026-11-20T12:42:18.464Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,11 +17,7 @@
   "rows": [
     [
       null,
-      53
-    ],
-    [
-      "Briarwood Ford",
-      32
+      9
     ],
     [
       "Redmond Chevrolet",
@@ -29,22 +25,6 @@
     ],
     [
       "Greenway Automotive Group",
-      4
-    ],
-    [
-      "Auto Park Ford Bremen",
-      3
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
-      3
-    ],
-    [
-      "IM Marketplace GmBH",
-      2
-    ],
-    [
-      "Waite Toyota",
       1
     ],
     [
