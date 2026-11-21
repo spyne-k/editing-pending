@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T16:26:22.681Z",
+  "fetchedAt": "2026-11-21T21:46:53.205Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,36 +16,12 @@
   ],
   "rows": [
     [
-      null,
-      14
-    ],
-    [
-      "Euro Motorcars",
-      7
-    ],
-    [
-      "Gettel Automotive Group",
+      "Greenway Automotive Group",
       2
     ],
     [
-      "Hatimi Auto LLC",
-      1
-    ],
-    [
-      "Blasius South",
-      1
-    ],
-    [
-      "World Car Auto Group",
-      1
-    ],
-    [
-      "Auto Exchange Group",
-      1
-    ],
-    [
-      "Seth Wadley Ford of Pauls Valley",
-      1
+      null,
+      2
     ],
     [
       "Runde Chevrolet, Inc.",
