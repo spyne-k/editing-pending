@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T21:46:53.205Z",
+  "fetchedAt": "2026-11-22T01:40:14.620Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -16,15 +16,11 @@
   ],
   "rows": [
     [
-      "Greenway Automotive Group",
-      2
+      "Runde Chevrolet, Inc.",
+      0
     ],
     [
       null,
-      2
-    ],
-    [
-      "Runde Chevrolet, Inc.",
       0
     ]
   ]
