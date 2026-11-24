@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T06:23:50.320Z",
+  "fetchedAt": "2026-11-24T18:00:35.274Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,22 @@
   "rows": [
     [
       null,
-      58
-    ],
-    [
-      "Jenkins Auto Group",
-      12
+      87
     ],
     [
       "Gettel Automotive Group",
+      9
+    ],
+    [
+      "Flexcar",
+      7
+    ],
+    [
+      "KASS Bladel-Reusel BV",
       6
     ],
     [
-      "Northtown Automotive",
+      "Speedway Car Sales",
       5
     ],
     [
@@ -36,7 +40,15 @@
       5
     ],
     [
-      "LUXURY IMPORTS",
+      "Home Auto Group",
+      3
+    ],
+    [
+      "Bud Clary Chevrolet, INC",
+      3
+    ],
+    [
+      "Northtown Automotive",
       3
     ],
     [
@@ -44,39 +56,43 @@
       3
     ],
     [
-      "IM Marketplace GmBH",
+      "Impex Auto Sales",
       3
-    ],
-    [
-      "TNS Autosports",
-      2
     ],
     [
       "AutoRuptive LLC",
       2
     ],
     [
-      "Greenway Automotive Group",
+      "Jenkins Auto Group",
       2
     ],
     [
-      "Asbury Automotive Management L.L.C",
+      "House Chevrolet Co.",
       2
     ],
     [
-      "Moffitt's Ford",
+      "Apex Automotive Group",
+      2
+    ],
+    [
+      "ZT Automotive",
+      2
+    ],
+    [
+      "TNS Autosports",
+      2
+    ],
+    [
+      "Amato Hyundai Of Glendale",
+      2
+    ],
+    [
+      "World Car Auto Group",
       1
     ],
     [
-      "Impex Auto Sales",
-      1
-    ],
-    [
-      "Redmond Chevrolet",
-      1
-    ],
-    [
-      "West Mitsubishi",
+      "DealerVision.com",
       1
     ],
     [
@@ -84,19 +100,47 @@
       1
     ],
     [
+      "Northstar Kia",
+      1
+    ],
+    [
       "James Motor Company",
       1
     ],
     [
-      "World Car Auto Group",
+      "Bob King",
       1
     ],
     [
-      "Speedway Car Sales",
+      "Moore Motor Sales",
       1
     ],
     [
-      "Janssen Auto Group",
+      "Rawian Oy",
+      1
+    ],
+    [
+      "Volvo of Princeton Inc",
+      1
+    ],
+    [
+      "Starling Chevrolet",
+      1
+    ],
+    [
+      "Redmond Chevrolet",
+      1
+    ],
+    [
+      "Twin Rivers Auto Group",
+      1
+    ],
+    [
+      "Wood Motor Company",
+      1
+    ],
+    [
+      "Moffitt's Ford",
       1
     ],
     [
@@ -104,16 +148,52 @@
       1
     ],
     [
+      "Rim Revolution LLC",
+      1
+    ],
+    [
+      "Great Lakes Auto Group",
+      1
+    ],
+    [
+      "Nyle Maxwell CDJR Taylor",
+      1
+    ],
+    [
+      "MP auto Sales LLC DBA Carizona",
+      1
+    ],
+    [
+      "Approval Genie (6929290 Canada Corp.)",
+      1
+    ],
+    [
       "Yoder Family of Companies",
       1
     ],
     [
-      "Bud Clary Chevrolet, INC",
+      "Whitewater Motors Incorporated",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
       1
     ],
     [
       "Van Horn Automotive Group",
       1
+    ],
+    [
+      "West Mitsubishi",
+      1
+    ],
+    [
+      "Butler Lexus of South Atlanta",
+      1
+    ],
+    [
+      "Grand Motorcars",
+      0
     ]
   ]
 }
