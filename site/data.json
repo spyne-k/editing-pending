@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T02:12:15.100Z",
+  "fetchedAt": "2026-11-25T11:17:14.524Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,35 +17,15 @@
   "rows": [
     [
       null,
-      36
+      16
     ],
     [
-      "IM Marketplace GmBH",
-      10
-    ],
-    [
-      "TNS Autosports",
+      "Yemm Auto",
       2
     ],
     [
       "James Motor Company",
       2
-    ],
-    [
-      "Janssen Auto Group",
-      2
-    ],
-    [
-      "MAG CHRYSLER DODGE JEEP RAM",
-      2
-    ],
-    [
-      "Dave Syverson Auto Center",
-      2
-    ],
-    [
-      "Pixel Cars",
-      1
     ],
     [
       "Budweiser Motors",
@@ -56,7 +36,7 @@
       1
     ],
     [
-      "DealerVision.com",
+      "Jenkins Auto Group",
       1
     ],
     [
@@ -64,15 +44,11 @@
       1
     ],
     [
-      "Sithari Cars Limited",
+      "Gwatney Buick GMC",
       1
     ],
     [
-      "Gettel Automotive Group",
-      1
-    ],
-    [
-      "Teton solutions Group",
+      "Your Choice Auto LLC",
       1
     ],
     [
@@ -80,7 +56,7 @@
       1
     ],
     [
-      "Mark Williams Auto Group",
+      "Jim Schmidt Automotive",
       1
     ],
     [
@@ -88,23 +64,15 @@
       1
     ],
     [
+      "Mark Williams Auto Group",
+      1
+    ],
+    [
       "Noblesville Imports",
       1
     ],
     [
-      "Turpin Dodge Chrysler Jeep Ram",
-      1
-    ],
-    [
-      "Northtown Automotive",
-      1
-    ],
-    [
       "Yoder Family of Companies",
-      1
-    ],
-    [
-      "Boardman Subaru and Imports",
       1
     ]
   ]
