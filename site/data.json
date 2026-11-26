@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T03:00:12.768Z",
+  "fetchedAt": "2026-11-26T12:10:29.475Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,18 +17,18 @@
   "rows": [
     [
       null,
-      31
+      29
     ],
     [
-      "Bud Clary Chevrolet, INC",
-      8
+      "Alpha One Automotive",
+      5
     ],
     [
       "Wood Motor Company",
       4
     ],
     [
-      "MyCar: Trucktown",
+      "Tauke Motors Incorporated",
       3
     ],
     [
@@ -36,12 +36,16 @@
       2
     ],
     [
-      "SI Vallett Auto Sales",
+      "Dave Syverson Auto Center",
       2
     ],
     [
-      "Bergstrom Automotive",
-      2
+      "Apex Automotive Group",
+      1
+    ],
+    [
+      "Jenkins Auto Group",
+      1
     ],
     [
       "World Car Auto Group",
@@ -56,11 +60,19 @@
       1
     ],
     [
+      "Northtown Automotive",
+      1
+    ],
+    [
       "Fred Anderson Honda",
       1
     ],
     [
-      "IM Marketplace GmBH",
+      "Jim Schmidt Automotive",
+      1
+    ],
+    [
+      "The Used Car Guys GMBH",
       1
     ],
     [
@@ -77,10 +89,6 @@
     ],
     [
       "Greenway Automotive Group",
-      1
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
