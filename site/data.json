@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T20:30:18.603Z",
+  "fetchedAt": "2026-11-26T03:00:12.768Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,54 +17,42 @@
   "rows": [
     [
       null,
-      282
+      31
     ],
     [
-      "KDK Auto Brokers",
-      255
+      "Bud Clary Chevrolet, INC",
+      8
     ],
     [
-      "Hawthorne Auto Square",
+      "Wood Motor Company",
       4
     ],
     [
-      "Flexcar",
+      "MyCar: Trucktown",
       3
     ],
     [
-      "Bob King",
-      3
-    ],
-    [
-      "ZT Automotive",
-      3
-    ],
-    [
-      "Olson Chevrolet",
+      "Impex Auto Sales",
       2
     ],
     [
-      "Jenkins Auto Group",
+      "SI Vallett Auto Sales",
       2
     ],
     [
-      "Davidson Auto Group",
+      "Bergstrom Automotive",
       2
     ],
     [
-      "Carzwala",
+      "World Car Auto Group",
       1
     ],
     [
-      "West Mitsubishi",
+      "White Bear Lincoln",
       1
     ],
     [
-      "Yemm Auto",
-      1
-    ],
-    [
-      "Auto Park Ford Bremen",
+      "Tom Peacock Cadillac",
       1
     ],
     [
@@ -72,15 +60,27 @@
       1
     ],
     [
-      "Rim Revolution LLC",
+      "IM Marketplace GmBH",
       1
     ],
     [
-      "Car Hop Auto Sales & Finance",
+      "Performance Auto Group",
       1
     ],
     [
-      "Worldwide Motors LTD dba Paragon Acura",
+      "Capital City Ford Lincoln Toyota",
+      1
+    ],
+    [
+      "Courtesy Automotive Group",
+      1
+    ],
+    [
+      "Greenway Automotive Group",
+      1
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
       1
     ]
   ]
