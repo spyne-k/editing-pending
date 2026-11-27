@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T13:08:59.693Z",
+  "fetchedAt": "2026-11-27T21:56:13.650Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -14,5 +14,90 @@
       "baseType": "type/BigInteger"
     }
   ],
-  "rows": []
+  "rows": [
+    [
+      null,
+      58
+    ],
+    [
+      "DealerVision.com",
+      11
+    ],
+    [
+      "Asbury Automotive Management L.L.C",
+      6
+    ],
+    [
+      "Rohrich Automotive Group",
+      5
+    ],
+    [
+      "Auto Exchange Group",
+      4
+    ],
+    [
+      "Wonderstream LDA",
+      3
+    ],
+    [
+      "AX Auto INC",
+      3
+    ],
+    [
+      "Ryan Buick GMC Cadillac",
+      3
+    ],
+    [
+      "Speedway Car Sales",
+      3
+    ],
+    [
+      "4M Autoplex",
+      2
+    ],
+    [
+      "Impex Auto Sales",
+      2
+    ],
+    [
+      "Joshua Trownsell",
+      2
+    ],
+    [
+      "Loeppky Auto Sales",
+      2
+    ],
+    [
+      "Gettel Automotive Group",
+      2
+    ],
+    [
+      "World Car Auto Group",
+      2
+    ],
+    [
+      "Portsmouth Ford Lincoln",
+      2
+    ],
+    [
+      "Elite Auto Marketing Solutions",
+      2
+    ],
+    [
+      "Flexcar",
+      1
+    ],
+    [
+      "Alpha One Automotive",
+      1
+    ],
+    [
+      "Graff Auto Campus",
+      1
+    ],
+    [
+      "Fred Anderson Honda",
+      1
+    ]
+  ]
 }
