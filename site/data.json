@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T21:56:13.650Z",
+  "fetchedAt": "2026-11-28T03:42:00.677Z",
   "metabaseUrl": "https://metabase.spyne.ai",
   "questionId": "6501",
   "columns": [
@@ -17,86 +17,34 @@
   "rows": [
     [
       null,
-      58
+      19
     ],
     [
       "DealerVision.com",
-      11
-    ],
-    [
-      "Asbury Automotive Management L.L.C",
       6
     ],
     [
-      "Rohrich Automotive Group",
-      5
+      "Northwest Indiana Auto Finance",
+      6
     ],
     [
-      "Auto Exchange Group",
-      4
-    ],
-    [
-      "Wonderstream LDA",
-      3
-    ],
-    [
-      "AX Auto INC",
-      3
-    ],
-    [
-      "Ryan Buick GMC Cadillac",
-      3
-    ],
-    [
-      "Speedway Car Sales",
-      3
-    ],
-    [
-      "4M Autoplex",
+      "Bud Clary Chevrolet, INC",
       2
     ],
     [
-      "Impex Auto Sales",
-      2
-    ],
-    [
-      "Joshua Trownsell",
-      2
-    ],
-    [
-      "Loeppky Auto Sales",
+      "IM Marketplace GmBH",
       2
     ],
     [
       "Gettel Automotive Group",
-      2
-    ],
-    [
-      "World Car Auto Group",
-      2
-    ],
-    [
-      "Portsmouth Ford Lincoln",
-      2
-    ],
-    [
-      "Elite Auto Marketing Solutions",
-      2
-    ],
-    [
-      "Flexcar",
       1
     ],
     [
-      "Alpha One Automotive",
+      "Soave Automotive Group",
       1
     ],
     [
-      "Graff Auto Campus",
-      1
-    ],
-    [
-      "Fred Anderson Honda",
+      "Ryan Buick GMC Cadillac",
       1
     ]
   ]
